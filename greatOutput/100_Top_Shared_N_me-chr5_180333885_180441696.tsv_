@@ -1,0 +1,67 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Molecular Function	GO:0005515	protein binding	1	6.181781e-1	1.000000e+0	1.000000e+0	1.617657e+0	6.181781e-1	1	6.181781e-1	1.000000e+0	1	6.900633e-1	1.000000e+0	1.000000e+0	1.127985e+0	8.865362e-1	1	7997	5.000000e-1	1.250469e-4	unnamed	BTNL8
+GO Molecular Function	GO:0005488	binding	2	8.171102e-1	1.000000e+0	1.000000e+0	1.223825e+0	8.171102e-1	1	8.171102e-1	1.000000e+0	2	8.942547e-1	1.000000e+0	1.000000e+0	7.409644e-1	1.349593e+0	1	12174	5.000000e-1	8.214227e-5	unnamed	BTNL8
+GO Cellular Component	GO:0016021	integral to membrane	1	4.578656e-1	1.000000e+0	1.000000e+0	2.184047e+0	4.578656e-1	1	4.578656e-1	1.000000e+0	1	8.502701e-2	1.000000e+0	1.000000e+0	3.429196e+0	5.832271e-1	2	5261	1.000000e+0	3.801559e-4	unnamed	BTNL3,BTNL8
+GO Cellular Component	GO:0031224	intrinsic to membrane	2	4.694206e-1	1.000000e+0	1.000000e+0	2.130286e+0	4.694206e-1	1	4.694206e-1	1.000000e+0	2	8.871915e-2	1.000000e+0	1.000000e+0	3.357090e+0	5.957541e-1	2	5374	1.000000e+0	3.721623e-4	unnamed	BTNL3,BTNL8
+GO Cellular Component	GO:0044425	membrane part	3	5.293034e-1	1.000000e+0	1.000000e+0	1.889276e+0	5.293034e-1	1	5.293034e-1	1.000000e+0	3	1.178243e-1	1.000000e+0	1.000000e+0	2.913128e+0	6.865473e-1	2	6193	1.000000e+0	3.229453e-4	unnamed	BTNL3,BTNL8
+GO Cellular Component	GO:0016020	membrane	4	6.308744e-1	1.000000e+0	1.000000e+0	1.585102e+0	6.308744e-1	1	6.308744e-1	1.000000e+0	4	1.895088e-1	1.000000e+0	1.000000e+0	2.297046e+0	8.706834e-1	2	7854	1.000000e+0	2.546473e-4	unnamed	BTNL3,BTNL8
+MSigDB Perturbation	CAMPS_COLON_CANCER_COPY_NUMBER_DN	Genes from chromosomal copy number losses in a panel of 51 primary colon carcinoma samples.	1	6.064047e-3	1.000000e+0	1.000000e+0	1.649064e+2	6.064047e-3	1	6.064047e-3	1.000000e+0	2	9.621709e-3	1.000000e+0	1.000000e+0	1.036839e+2	9.644698e-3	1	87	5.000000e-1	1.149425e-2	unnamed	BTNL8
+MSigDB Perturbation	DITTMER_PTHLH_TARGETS_DN	Genes down-regulated in MDA-MB-231 cells (breast cancer) after knockdown of PTHLH [GeneID=5744] by RNAi.	2	6.996538e-3	1.000000e+0	1.000000e+0	1.429278e+2	6.996538e-3	1	6.996538e-3	1.000000e+0	1	7.966112e-3	1.000000e+0	1.000000e+0	1.252847e+2	7.981819e-3	1	72	5.000000e-1	1.388889e-2	unnamed	BTNL3
+MSigDB Perturbation	VECCHI_GASTRIC_CANCER_ADVANCED_VS_EARLY_DN	Down-regulated genes distinguishing between two subtypes of gastric cancer: advanced (AGC) and early (EGC).	3	1.091955e-2	1.000000e+0	1.000000e+0	9.157885e+1	1.091955e-2	1	1.091955e-2	1.000000e+0	3	1.413995e-2	1.000000e+0	1.000000e+0	7.047266e+1	1.418990e-2	1	128	5.000000e-1	7.812500e-3	unnamed	BTNL8
+MSigDB Perturbation	SHEN_SMARCA2_TARGETS_DN	Genes whose expression negatively correlated with that of SMARCA2 [GeneID=6595] in prostate cancer samples.	4	3.136499e-2	1.000000e+0	1.000000e+0	3.188269e+1	3.136499e-2	1	3.136499e-2	1.000000e+0	5	3.614091e-2	1.000000e+0	1.000000e+0	2.741793e+1	3.647248e-2	1	329	5.000000e-1	3.039514e-3	unnamed	BTNL3
+MSigDB Perturbation	DEURIG_T_CELL_PROLYMPHOCYTIC_LEUKEMIA_UP	Genes up-regulated in T-PLL cells (T-cell prolymphocytic leukemia) bearing the inv(14)/t(14:14) chromosomal aberration.	5	3.413809e-2	1.000000e+0	1.000000e+0	2.929280e+1	3.413809e-2	1	3.413809e-2	1.000000e+0	6	4.103249e-2	1.000000e+0	1.000000e+0	2.411898e+1	4.146112e-2	1	374	5.000000e-1	2.673797e-3	unnamed	BTNL3
+MSigDB Perturbation	MOREAUX_MULTIPLE_MYELOMA_BY_TACI_UP	Up-regulated genes distinguishing in multiple myeloma (MM) samples with higher expression of TACI [GeneID=23495].	6	3.520499e-2	1.000000e+0	1.000000e+0	2.840506e+1	3.520499e-2	1	3.520499e-2	1.000000e+0	7	4.352782e-2	1.000000e+0	1.000000e+0	2.272166e+1	4.401086e-2	1	397	5.000000e-1	2.518892e-3	unnamed	BTNL3
+MSigDB Perturbation	SABATES_COLORECTAL_ADENOMA_DN	Genes down-regulated in colorectal adenoma compared to normal mucosa samples.	7	4.363912e-2	1.000000e+0	1.000000e+0	2.291522e+1	4.363912e-2	1	4.363912e-2	1.000000e+0	4	2.959946e-2	1.000000e+0	1.000000e+0	3.353346e+1	2.982096e-2	1	269	5.000000e-1	3.717472e-3	unnamed	BTNL8
+MSigDB Perturbation	ZWANG_TRANSIENTLY_UP_BY_2ND_EGF_PULSE_ONLY	Genes transiently induced only by the second pulse of EGF [GeneID =1950] in 184A1 cells (mammary epithelium).	8	1.379154e-1	1.000000e+0	1.000000e+0	7.250823e+0	1.379154e-1	1	1.379154e-1	1.000000e+0	8	1.522491e-1	1.000000e+0	1.000000e+0	6.308042e+0	1.585278e-1	1	1430	5.000000e-1	6.993007e-4	unnamed	BTNL3
+MSigDB Perturbation	BLALOCK_ALZHEIMERS_DISEASE_UP	Genes up-regulated in brain from patients with Alzheimer's disease.	9	1.561268e-1	1.000000e+0	1.000000e+0	6.405052e+0	1.561268e-1	1	1.561268e-1	1.000000e+0	9	1.768717e-1	1.000000e+0	1.000000e+0	5.391811e+0	1.854664e-1	1	1673	5.000000e-1	5.977286e-4	unnamed	BTNL3
+InterPro	IPR006574	SPRY-associated	1	2.360047e-3	1.000000e+0	1.000000e+0	4.237203e+2	2.360047e-3	1	2.360047e-3	1.000000e+0	1	7.226703e-6	6.809000e-2	6.809000e-2	3.681837e+2	5.432071e-3	2	49	1.000000e+0	4.081633e-2	unnamed	BTNL3,BTNL8
+InterPro	IPR018355	SPla/RYanodine receptor subgroup	2	3.271026e-3	1.000000e+0	1.000000e+0	3.057145e+2	3.271026e-3	1	3.271026e-3	1.000000e+0	2	9.463539e-6	8.916546e-2	4.458273e-2	3.221607e+2	6.208082e-3	2	56	1.000000e+0	3.571429e-2	unnamed	BTNL3,BTNL8
+InterPro	IPR003879	Butyrophylin-like	3	3.633035e-3	1.000000e+0	1.000000e+0	2.752520e+2	3.633035e-3	1	3.633035e-3	1.000000e+0	3	1.358694e-5	1.280161e-1	4.267205e-2	2.692687e+2	7.427526e-3	2	67	1.000000e+0	2.985075e-2	unnamed	BTNL3,BTNL8
+InterPro	IPR003877	SPla/RYanodine receptor SPRY	4	5.462593e-3	1.000000e+0	1.000000e+0	1.830633e+2	5.462593e-3	1	5.462593e-3	1.000000e+0	4	2.406443e-5	2.267351e-1	5.668376e-2	2.027079e+2	9.866415e-3	2	89	1.000000e+0	2.247191e-2	unnamed	BTNL3,BTNL8
+InterPro	IPR001870	B30.2/SPRY domain	5	5.473969e-3	1.000000e+0	1.000000e+0	1.826828e+2	5.473969e-3	1	5.473969e-3	1.000000e+0	5	2.516441e-5	2.370991e-1	4.741981e-2	1.982527e+2	1.008813e-2	2	91	1.000000e+0	2.197802e-2	unnamed	BTNL3,BTNL8
+InterPro	IPR013106	Immunoglobulin V-set domain	6	1.215624e-2	1.000000e+0	1.000000e+0	8.226229e+1	1.215624e-2	1	1.215624e-2	1.000000e+0	6	8.415790e-5	7.929357e-1	1.321560e-1	1.086807e+2	1.840253e-2	2	166	1.000000e+0	1.204819e-2	unnamed	BTNL3,BTNL8
+InterPro	IPR008985	Concanavalin A-like lectin/glucanases superfamily	7	3.019054e-2	1.000000e+0	1.000000e+0	3.312296e+1	3.019054e-2	1	3.019054e-2	1.000000e+0	7	1.426905e-4	1.000000e+0	1.920614e-1	8.352315e+1	2.394546e-2	2	216	1.000000e+0	9.259259e-3	unnamed	BTNL3,BTNL8
+InterPro	IPR003599	Immunoglobulin subtype	8	3.285877e-2	1.000000e+0	1.000000e+0	3.043327e+1	3.285877e-2	1	3.285877e-2	1.000000e+0	8	3.156152e-4	1.000000e+0	3.717158e-1	5.620249e+1	3.558561e-2	2	321	1.000000e+0	6.230530e-3	unnamed	BTNL3,BTNL8
+InterPro	IPR007110	Immunoglobulin-like domain	9	5.020399e-2	1.000000e+0	1.000000e+0	1.991873e+1	5.020399e-2	1	5.020399e-2	1.000000e+0	9	5.667984e-4	1.000000e+0	5.933749e-1	4.195581e+1	4.766920e-2	2	430	1.000000e+0	4.651163e-3	unnamed	BTNL3,BTNL8
+InterPro	IPR013783	Immunoglobulin-like fold	10	7.916806e-2	1.000000e+0	1.000000e+0	1.263136e+1	7.916806e-2	1	7.916806e-2	1.000000e+0	10	1.328294e-3	1.000000e+0	1.000000e+0	2.741793e+1	7.294496e-2	2	658	1.000000e+0	3.039514e-3	unnamed	BTNL3,BTNL8
+HGNC Gene Families	VSET	VSET	1	2.326511e-3	1.000000e+0	1.000000e+0	4.298281e+2	2.326511e-3	1	2.326511e-3	1.000000e+0	1	6.360236e-6	3.040193e-3	3.040193e-3	3.921957e+2	5.099496e-3	2	46	1.000000e+0	4.347826e-2	unnamed	BTNL3,BTNL8
+Ensembl Genes	15915	BTNL8	1	4.108796e-5	7.412679e-1	7.412679e-1	2.433803e+4	4.108796e-5	1	4.108796e-5	1.000000e+0	1	1.108586e-4	1.000000e+0	1.000000e+0	9.020500e+3	1.108586e-4	1	1	5.000000e-1	1.000000e+0	unnamed	BTNL8
+Ensembl Genes	15916	BTNL3	2	4.722248e-5	8.519408e-1	4.259704e-1	2.117636e+4	4.722248e-5	1	4.722248e-5	1.000000e+0	1	1.108586e-4	1.000000e+0	1.000000e+0	9.020500e+3	1.108586e-4	1	1	5.000000e-1	1.000000e+0	unnamed	BTNL3
+MSigDB Immunologic Signatures	GSE1432_CTRL_VS_IFNG_1H_MICROGLIA_UP	Genes up-regulated in comparison of control microglia cells versus those 1 h after stimulation with IFNG [GeneID=3458].	1	1.340431e-2	1.000000e+0	1.000000e+0	7.460289e+1	1.340431e-2	1	1.340431e-2	1.000000e+0	10	2.106249e-2	1.000000e+0	1.000000e+0	4.722775e+1	2.117399e-2	1	191	5.000000e-1	5.235602e-3	unnamed	BTNL8
+MSigDB Immunologic Signatures	GSE22886_NAIVE_CD4_TCELL_VS_MEMORY_TCELL_UP	Genes up-regulated in comparison of naive CD4 [GeneID=920] T cells versus unstimulated memory CD4 [GeneID=920] CD8 T cells.	2	1.455138e-2	1.000000e+0	1.000000e+0	6.872200e+1	1.455138e-2	1	1.455138e-2	1.000000e+0	4	1.996530e-2	1.000000e+0	1.000000e+0	4.983702e+1	2.006541e-2	1	181	5.000000e-1	5.524862e-3	unnamed	BTNL3
+MSigDB Immunologic Signatures	GSE9006_HEALTHY_VS_TYPE_1_DIABETES_PBMC_1MONTH_POST_DX_DN	Genes down-regulated in comparison of peripheral blood mononuclear cells (PBMC) from healthy donors versus PBMCs from patients with type 1 diabetes at 1 month after the diagnosis.	3	1.476434e-2	1.000000e+0	1.000000e+0	6.773077e+1	1.476434e-2	1	1.476434e-2	1.000000e+0	4	1.996530e-2	1.000000e+0	1.000000e+0	4.983702e+1	2.006541e-2	1	181	5.000000e-1	5.524862e-3	unnamed	BTNL3
+MSigDB Immunologic Signatures	GSE13485_DAY3_VS_DAY21_YF17D_VACCINE_PBMC_DN	Genes down-regulated in comparison of unstimulated peripheral blood mononuclear cells (PBMC) 3 days after stimulation with YF17D vaccine versus PBMC 21 days after the stimulation.	4	1.547313e-2	1.000000e+0	1.000000e+0	6.462817e+1	1.547313e-2	1	1.547313e-2	1.000000e+0	1	1.677999e-2	1.000000e+0	1.000000e+0	5.934539e+1	1.685051e-2	1	152	5.000000e-1	6.578947e-3	unnamed	BTNL8
+MSigDB Immunologic Signatures	GSE15659_NAIVE_VS_PTPRC_NEG_CD4_TCELL_UP	Genes up-regulated in comparison of naive CD4 [GeneID=920] T cells versus PTPRC+ [GeneID=5788] CD4 [GeneID=920] T cells.	5	1.681273e-2	1.000000e+0	1.000000e+0	5.947875e+1	1.681273e-2	1	1.681273e-2	1.000000e+0	2	1.831837e-2	1.000000e+0	1.000000e+0	5.434036e+1	1.840253e-2	1	166	5.000000e-1	6.024096e-3	unnamed	BTNL8
+MSigDB Immunologic Signatures	GSE3982_EOSINOPHIL_VS_MAC_UP	Genes up-regulated in comparison of eosinophils versus macrophages.	6	1.885392e-2	1.000000e+0	1.000000e+0	5.303937e+1	1.885392e-2	1	1.885392e-2	1.000000e+0	7	2.018479e-2	1.000000e+0	1.000000e+0	4.929235e+1	2.028712e-2	1	183	5.000000e-1	5.464481e-3	unnamed	BTNL3
+MSigDB Immunologic Signatures	GSE2706_R848_VS_LPS_8H_STIM_DC_DN	Genes down-regulated in comparison of dendritic cells (DC) stimulated with R848 at 8 h versus DCs stimulated with LPS (TLR4 agonist) for 8 h.	7	1.979924e-2	1.000000e+0	1.000000e+0	5.050698e+1	1.979924e-2	1	1.979924e-2	1.000000e+0	3	1.908711e-2	1.000000e+0	1.000000e+0	5.214162e+1	1.917854e-2	1	173	5.000000e-1	5.780347e-3	unnamed	BTNL8
+MSigDB Immunologic Signatures	GSE20151_CTRL_VS_FUSOBACT_NUCLEATUM_NEUTROPHIL_UP	Genes up-regulated in comparison of contols neutrophils versus those infected with a bacterium (F. nucleatum).	8	2.109403e-2	1.000000e+0	1.000000e+0	4.740678e+1	2.109403e-2	1	2.109403e-2	1.000000e+0	6	2.007505e-2	1.000000e+0	1.000000e+0	4.956319e+1	2.017627e-2	1	182	5.000000e-1	5.494505e-3	unnamed	BTNL8
+MSigDB Immunologic Signatures	GSE22886_IGM_MEMORY_BCELL_VS_BLOOD_PLASMA_CELL_UP	Genes up-regulated in comparison of memory IgM B cells versus blood plasma cells.	9	2.114305e-2	1.000000e+0	1.000000e+0	4.729687e+1	2.114305e-2	1	2.114305e-2	1.000000e+0	8	2.084310e-2	1.000000e+0	1.000000e+0	4.772751e+1	2.095228e-2	1	189	5.000000e-1	5.291005e-3	unnamed	BTNL8
+MSigDB Immunologic Signatures	GSE3982_EOSINOPHIL_VS_BASOPHIL_UP	Genes up-regulated in comparison of eosinophils versus basophils.	10	2.133028e-2	1.000000e+0	1.000000e+0	4.688170e+1	2.133028e-2	1	2.133028e-2	1.000000e+0	9	2.095280e-2	1.000000e+0	1.000000e+0	4.747632e+1	2.106313e-2	1	190	5.000000e-1	5.263158e-3	unnamed	BTNL3
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

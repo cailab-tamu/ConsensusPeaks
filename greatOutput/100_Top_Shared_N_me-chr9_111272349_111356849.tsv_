@@ -1,0 +1,62 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Molecular Function	GO:0005200	structural constituent of cytoskeleton	1	8.217642e-3	1.000000e+0	1.000000e+0	1.216894e+2	8.217642e-3	1	8.217642e-3	1.000000e+0	1	5.210354e-3	1.000000e+0	1.000000e+0	1.919255e+2	5.210354e-3	1	94	1.000000e+0	1.063830e-2	unnamed	ACTL7B
+GO Molecular Function	GO:0005198	structural molecule activity	2	4.640896e-2	1.000000e+0	1.000000e+0	2.154756e+1	4.640896e-2	1	4.640896e-2	1.000000e+0	2	3.519761e-2	1.000000e+0	1.000000e+0	2.841102e+1	3.519761e-2	1	635	1.000000e+0	1.574803e-3	unnamed	ACTL7B
+GO Cellular Component	GO:0015629	actin cytoskeleton	1	3.742279e-2	1.000000e+0	1.000000e+0	2.672168e+1	3.742279e-2	1	3.742279e-2	1.000000e+0	1	2.217172e-2	1.000000e+0	1.000000e+0	4.510250e+1	2.217172e-2	1	400	1.000000e+0	2.500000e-3	unnamed	ACTL7B
+GO Cellular Component	GO:0005856	cytoskeleton	2	1.730861e-1	1.000000e+0	1.000000e+0	5.777472e+0	1.730861e-1	1	1.730861e-1	1.000000e+0	2	1.042625e-1	1.000000e+0	1.000000e+0	9.591175e+0	1.042625e-1	1	1881	1.000000e+0	5.316321e-4	unnamed	ACTL7B
+GO Cellular Component	GO:0043232	intracellular non-membrane-bounded organelle	3	2.709879e-1	1.000000e+0	1.000000e+0	3.690202e+0	2.709879e-1	1	2.709879e-1	1.000000e+0	3	1.844133e-1	1.000000e+0	1.000000e+0	5.422603e+0	1.844133e-1	1	3327	1.000000e+0	3.005711e-4	unnamed	ACTL7B
+GO Cellular Component	GO:0005737	cytoplasm	4	6.734732e-1	1.000000e+0	1.000000e+0	1.484840e+0	6.734732e-1	1	6.734732e-1	1.000000e+0	4	5.240840e-1	1.000000e+0	1.000000e+0	1.908091e+0	5.240840e-1	1	9455	1.000000e+0	1.057641e-4	unnamed	ACTL7B
+GO Cellular Component	GO:0043229	intracellular organelle	5	7.399473e-1	1.000000e+0	1.000000e+0	1.351448e+0	7.399473e-1	1	7.399473e-1	1.000000e+0	5	6.092789e-1	1.000000e+0	1.000000e+0	1.641285e+0	6.092789e-1	1	10992	1.000000e+0	9.097525e-5	unnamed	ACTL7B
+GO Cellular Component	GO:0043226	organelle	6	7.415866e-1	1.000000e+0	1.000000e+0	1.348460e+0	7.415866e-1	1	7.415866e-1	1.000000e+0	6	6.110526e-1	1.000000e+0	1.000000e+0	1.636520e+0	6.110526e-1	1	11024	1.000000e+0	9.071118e-5	unnamed	ACTL7B
+GO Cellular Component	GO:0044424	intracellular part	7	8.017695e-1	1.000000e+0	1.000000e+0	1.247241e+0	8.017695e-1	1	8.017695e-1	1.000000e+0	7	6.971897e-1	1.000000e+0	1.000000e+0	1.434330e+0	6.971897e-1	1	12578	1.000000e+0	7.950390e-5	unnamed	ACTL7B
+GO Cellular Component	GO:0005622	intracellular	8	8.064789e-1	1.000000e+0	1.000000e+0	1.239958e+0	8.064789e-1	1	8.064789e-1	1.000000e+0	8	7.066127e-1	1.000000e+0	1.000000e+0	1.415202e+0	7.066127e-1	1	12748	1.000000e+0	7.844368e-5	unnamed	ACTL7B
+GO Cellular Component	GO:0044464	cell part	9	8.908971e-1	1.000000e+0	1.000000e+0	1.122464e+0	8.908971e-1	1	8.908971e-1	1.000000e+0	9	8.202982e-1	1.000000e+0	1.000000e+0	1.219069e+0	8.202982e-1	1	14799	1.000000e+0	6.757213e-5	unnamed	ACTL7B
+GO Cellular Component	GO:0005623	cell	10	8.910977e-1	1.000000e+0	1.000000e+0	1.122211e+0	8.910977e-1	1	8.910977e-1	1.000000e+0	10	8.203536e-1	1.000000e+0	1.000000e+0	1.218986e+0	8.203536e-1	1	14800	1.000000e+0	6.756757e-5	unnamed	ACTL7B
+MSigDB Cancer Neighborhood	GNF2_CCNA1	Neighborhood of CCNA1	1	6.165310e-3	1.000000e+0	1.000000e+0	1.621978e+2	6.165310e-3	1	6.165310e-3	1.000000e+0	1	3.436617e-3	1.000000e+0	1.000000e+0	2.909839e+2	3.436617e-3	1	62	1.000000e+0	1.612903e-2	unnamed	ACTL7B
+MSigDB Cancer Neighborhood	GNF2_MLF1	Neighborhood of MLF1	2	8.652087e-3	1.000000e+0	1.000000e+0	1.155790e+2	8.652087e-3	1	8.652087e-3	1.000000e+0	2	4.489773e-3	1.000000e+0	9.585665e-1	2.227284e+2	4.489773e-3	1	81	1.000000e+0	1.234568e-2	unnamed	ACTL7B
+MSigDB Perturbation	WEBER_METHYLATED_ICP_IN_SPERM_UP	Methylated germline-specific genes with intermediate-CpG-density promoters (ICP) in sperm.	1	8.600373e-4	1.000000e+0	1.000000e+0	1.162740e+3	8.600373e-4	1	8.600373e-4	1.000000e+0	1	4.434344e-4	1.000000e+0	1.000000e+0	2.255125e+3	4.434344e-4	1	8	1.000000e+0	1.250000e-1	unnamed	ACTL7B
+MSigDB Perturbation	WEBER_METHYLATED_ICP_IN_FIBROBLAST	Germline-specific genes with intermediate-CpG-density promoters (ICP) that are methylated in primary fibroblasts.	2	2.426347e-3	1.000000e+0	1.000000e+0	4.121421e+2	2.426347e-3	1	2.426347e-3	1.000000e+0	2	1.274874e-3	1.000000e+0	1.000000e+0	7.843913e+2	1.274874e-3	1	23	1.000000e+0	4.347826e-2	unnamed	ACTL7B
+MSigDB Perturbation	MEISSNER_BRAIN_HCP_WITH_H3_UNMETHYLATED	Genes with high-CpG-density promoters (HCP) that have no histone H3 methylation marks in brain.	3	2.612781e-3	1.000000e+0	1.000000e+0	3.827339e+2	2.612781e-3	1	2.612781e-3	1.000000e+0	3	1.829167e-3	1.000000e+0	1.000000e+0	5.466970e+2	1.829167e-3	1	33	1.000000e+0	3.030303e-2	unnamed	ACTL7B
+MSigDB Perturbation	ICHIBA_GRAFT_VERSUS_HOST_DISEASE_D7_DN	Hepatic graft versus host disease (GVHD), day 7: down-regulated in allogeneic vs syngeneic bone marrow transplant.	4	4.759968e-3	1.000000e+0	1.000000e+0	2.100854e+2	4.759968e-3	1	4.759968e-3	1.000000e+0	4	2.272601e-3	1.000000e+0	1.000000e+0	4.400244e+2	2.272601e-3	1	41	1.000000e+0	2.439024e-2	unnamed	ACTL7B
+MSigDB Perturbation	MIKKELSEN_MEF_HCP_WITH_H3_UNMETHYLATED	Genes with high-CpG-density promoters (HCP) with unmethylated histone H3 in MEF cells (embryonic fibroblast).	5	2.453239e-2	1.000000e+0	1.000000e+0	4.076244e+1	2.453239e-2	1	2.453239e-2	1.000000e+0	5	1.175101e-2	1.000000e+0	1.000000e+0	8.509906e+1	1.175101e-2	1	212	1.000000e+0	4.716981e-3	unnamed	ACTL7B
+MSigDB Perturbation	MEISSNER_NPC_HCP_WITH_H3_UNMETHYLATED	Genes with high-CpG-density promoters (HCP) that have no histone H3 methylation marks in neural precursor cells (NPC).	6	4.950690e-2	1.000000e+0	1.000000e+0	2.019921e+1	4.950690e-2	1	4.950690e-2	1.000000e+0	6	2.799180e-2	1.000000e+0	1.000000e+0	3.572475e+1	2.799180e-2	1	505	1.000000e+0	1.980198e-3	unnamed	ACTL7B
+MSigDB Perturbation	MARTENS_TRETINOIN_RESPONSE_UP	Genes up-regulated in NB4 cells (acute promyelocytic leukemia, APL) in response to tretinoin [PubChem=444795]; based on Chip-seq data.	7	5.385029e-2	1.000000e+0	1.000000e+0	1.857000e+1	5.385029e-2	1	5.385029e-2	1.000000e+0	8	4.329028e-2	1.000000e+0	1.000000e+0	2.309987e+1	4.329028e-2	1	781	1.000000e+0	1.280410e-3	unnamed	ACTL7B
+MSigDB Perturbation	GRAESSMANN_APOPTOSIS_BY_SERUM_DEPRIVATION_UP	Genes up-regulated in ME-A cells (breast cancer) undergoing apoptosis upon serum starvation (5% to 0% FCS) for 22 hr.	8	5.536438e-2	1.000000e+0	1.000000e+0	1.806215e+1	5.536438e-2	1	5.536438e-2	1.000000e+0	7	2.987639e-2	1.000000e+0	1.000000e+0	3.347124e+1	2.987639e-2	1	539	1.000000e+0	1.855288e-3	unnamed	ACTL7B
+MSigDB Perturbation	DODD_NASOPHARYNGEAL_CARCINOMA_UP	Genes up-regulated in nasopharyngeal carcinoma (NPC) compared to the normal tissue.	9	1.332338e-1	1.000000e+0	1.000000e+0	7.505605e+0	1.332338e-1	1	1.332338e-1	1.000000e+0	9	8.214622e-2	1.000000e+0	1.000000e+0	1.217341e+1	8.214622e-2	1	1482	1.000000e+0	6.747638e-4	unnamed	ACTL7B
+MSigDB Predicted Promoter Motifs	YGACNNYACAR_UNKNOWN	Motif YGACNNYACAR (no known TF)	1	1.162905e-2	1.000000e+0	1.000000e+0	8.599152e+1	1.162905e-2	1	1.162905e-2	1.000000e+0	1	4.933208e-3	1.000000e+0	1.000000e+0	2.027079e+2	4.933208e-3	1	89	1.000000e+0	1.123596e-2	unnamed	ACTL7B
+InterPro	IPR027680	Actin-like protein 7B	1	3.512329e-4	1.000000e+0	1.000000e+0	2.847114e+3	3.512329e-4	1	3.512329e-4	1.000000e+0	1	5.542930e-5	5.222549e-1	5.222549e-1	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	ACTL7B
+InterPro	IPR004000	Actin-related protein	2	3.784817e-3	1.000000e+0	1.000000e+0	2.642136e+2	3.784817e-3	1	3.784817e-3	1.000000e+0	2	1.496591e-3	1.000000e+0	1.000000e+0	6.681852e+2	1.496591e-3	1	27	1.000000e+0	3.703704e-2	unnamed	ACTL7B
+Ensembl Genes	19036	ACTL7B	1	3.512329e-4	1.000000e+0	1.000000e+0	2.847114e+3	3.512329e-4	1	3.512329e-4	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	ACTL7B
+MSigDB Immunologic Signatures	GSE6269_HEALTHY_VS_STREP_PNEUMO_INF_PBMC_DN	Genes down-regulated in comparison of peripheral blood mononuclear cells (PBMC) from healthy donors versus PBMC from patients with acute S. pneumoniae infection.	1	1.296815e-2	1.000000e+0	1.000000e+0	7.711201e+1	1.296815e-2	1	1.296815e-2	1.000000e+0	1	9.422981e-3	1.000000e+0	1.000000e+0	1.061235e+2	9.422981e-3	1	170	1.000000e+0	5.882353e-3	unnamed	ACTL7B
+MSigDB Immunologic Signatures	GSE17721_PAM3CSK4_VS_CPG_8H_BMDM_UP	Genes up-regulated in comparison of dendritic cells (DC) stimulated with Pam3Csk4 (TLR1/2 agonist) at 8 h versus DC cells stimulated with CpG DNA (TLR9 agonist) at 8 h.	2	1.740629e-2	1.000000e+0	1.000000e+0	5.745049e+1	1.740629e-2	1	1.740629e-2	1.000000e+0	3	1.064243e-2	1.000000e+0	1.000000e+0	9.396354e+1	1.064243e-2	1	192	1.000000e+0	5.208333e-3	unnamed	ACTL7B
+MSigDB Immunologic Signatures	GSE17721_CPG_VS_GARDIQUIMOD_2H_BMDM_UP	Genes up-regulated in comparison of dendritic cells (DC) stimulated with CpG DNA (TLR9 agonist) at 2 h versus DC cells stimulated with Gardiquimod (TLR7 agonist) at 2 h.	3	1.799960e-2	1.000000e+0	1.000000e+0	5.555679e+1	1.799960e-2	1	1.799960e-2	1.000000e+0	4	1.086414e-2	1.000000e+0	1.000000e+0	9.204592e+1	1.086414e-2	1	196	1.000000e+0	5.102041e-3	unnamed	ACTL7B
+MSigDB Immunologic Signatures	GSE13484_UNSTIM_VS_12H_YF17D_VACCINE_STIM_PBMC_DN	Genes down-regulated in comparison of unstimulated peripheral blood mononuclear cells (PBMC) cultured for 0 h versus PBMC cultured for 12 h with YF17D vaccine.	4	1.926059e-2	1.000000e+0	1.000000e+0	5.191950e+1	1.926059e-2	1	1.926059e-2	1.000000e+0	6	1.125215e-2	1.000000e+0	1.000000e+0	8.887192e+1	1.125215e-2	1	203	1.000000e+0	4.926108e-3	unnamed	ACTL7B
+MSigDB Immunologic Signatures	GSE17721_LPS_VS_GARDIQUIMOD_1H_BMDM_UP	Genes up-regulated in comparison of dendritic cells (DC) stimulated with LPS (TLR4 agonist) at 1 h versus DC cells stimulated with Gardiquimod (TLR7 agonist) at 1 h.	5	2.058736e-2	1.000000e+0	1.000000e+0	4.857348e+1	2.058736e-2	1	2.058736e-2	1.000000e+0	5	1.091957e-2	1.000000e+0	1.000000e+0	9.157868e+1	1.091957e-2	1	197	1.000000e+0	5.076142e-3	unnamed	ACTL7B
+MSigDB Immunologic Signatures	GSE27786_NKCELL_VS_NEUTROPHIL_DN	Genes down-regulated in comparison of NK cells versus neutrophils.	6	2.214477e-2	1.000000e+0	1.000000e+0	4.515740e+1	2.214477e-2	1	2.214477e-2	1.000000e+0	2	1.042071e-2	1.000000e+0	1.000000e+0	9.596277e+1	1.042071e-2	1	188	1.000000e+0	5.319149e-3	unnamed	ACTL7B
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

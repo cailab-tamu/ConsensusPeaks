@@ -1,0 +1,46 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Cellular Component	GO:0016021	integral to membrane	1	4.578656e-1	1.000000e+0	1.000000e+0	2.184047e+0	4.578656e-1	1	4.578656e-1	1.000000e+0	1	2.916135e-1	1.000000e+0	1.000000e+0	3.429196e+0	2.916135e-1	1	5261	1.000000e+0	1.900779e-4	unnamed	DNAJC25
+GO Cellular Component	GO:0031224	intrinsic to membrane	2	4.694206e-1	1.000000e+0	1.000000e+0	2.130286e+0	4.694206e-1	1	4.694206e-1	1.000000e+0	2	2.978771e-1	1.000000e+0	1.000000e+0	3.357090e+0	2.978771e-1	1	5374	1.000000e+0	1.860811e-4	unnamed	DNAJC25
+GO Cellular Component	GO:0044425	membrane part	3	5.293034e-1	1.000000e+0	1.000000e+0	1.889276e+0	5.293034e-1	1	5.293034e-1	1.000000e+0	3	3.432737e-1	1.000000e+0	1.000000e+0	2.913128e+0	3.432737e-1	1	6193	1.000000e+0	1.614726e-4	unnamed	DNAJC25
+GO Cellular Component	GO:0016020	membrane	4	6.308744e-1	1.000000e+0	1.000000e+0	1.585102e+0	6.308744e-1	1	6.308744e-1	1.000000e+0	4	4.353417e-1	1.000000e+0	1.000000e+0	2.297046e+0	4.353417e-1	1	7854	1.000000e+0	1.273237e-4	unnamed	DNAJC25
+MSigDB Perturbation	KOINUMA_TARGETS_OF_SMAD2_OR_SMAD3	Genes with promoters occupied by SMAD2 or SMAD3 [GeneID=4087, 4088] in HaCaT cells (keratinocyte) according to a ChIP-chip analysis.	1	8.589428e-2	1.000000e+0	1.000000e+0	1.164222e+1	8.589428e-2	1	8.589428e-2	1.000000e+0	1	4.484230e-2	1.000000e+0	1.000000e+0	2.230037e+1	4.484230e-2	1	809	1.000000e+0	1.236094e-3	unnamed	DNAJC25
+MSigDB miRNA Motifs	ACCATTT,MIR-522	Targets of MicroRNA ACCATTT,MIR-522	1	2.329097e-2	1.000000e+0	1.000000e+0	4.293510e+1	2.329097e-2	1	2.329097e-2	1.000000e+0	1	8.591541e-3	1.000000e+0	1.000000e+0	1.163935e+2	8.591541e-3	1	155	1.000000e+0	6.451613e-3	unnamed	DNAJC25
+MSigDB miRNA Motifs	ACTTTAT,MIR-142-5P	Targets of MicroRNA ACTTTAT,MIR-142-5P	2	4.512895e-2	1.000000e+0	1.000000e+0	2.215872e+1	4.512895e-2	1	4.512895e-2	1.000000e+0	2	1.540935e-2	1.000000e+0	1.000000e+0	6.489568e+1	1.540935e-2	1	278	1.000000e+0	3.597122e-3	unnamed	DNAJC25
+MSigDB miRNA Motifs	GTGCCTT,MIR-506	Targets of MicroRNA GTGCCTT,MIR-506	3	8.853209e-2	1.000000e+0	1.000000e+0	1.129534e+1	8.853209e-2	1	8.853209e-2	1.000000e+0	3	3.868965e-2	1.000000e+0	1.000000e+0	2.584670e+1	3.868965e-2	1	698	1.000000e+0	1.432665e-3	unnamed	DNAJC25
+InterPro	IPR001623	DnaJ domain	1	3.804720e-3	1.000000e+0	1.000000e+0	2.628314e+2	3.804720e-3	1	3.804720e-3	1.000000e+0	1	2.549748e-3	1.000000e+0	1.000000e+0	3.921957e+2	2.549748e-3	1	46	1.000000e+0	2.173913e-2	unnamed	DNAJC25
+TreeFam	TF313563	DNAJC25	1	1.799116e-5	1.461962e-1	1.461962e-1	5.558284e+4	1.799116e-5	1	1.799116e-5	1.000000e+0	1	5.542930e-5	4.504185e-1	4.504185e-1	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	DNAJC25
+HGNC Gene Families	DNAJ	DNAJ	1	2.917923e-3	1.000000e+0	1.000000e+0	3.427095e+2	2.917923e-3	1	2.917923e-3	1.000000e+0	1	2.272601e-3	1.000000e+0	1.000000e+0	4.400244e+2	2.272601e-3	1	41	1.000000e+0	2.439024e-2	unnamed	DNAJC25
+Ensembl Genes	19058	DNAJC25	1	1.799116e-5	3.245785e-1	3.245785e-1	5.558284e+4	1.799116e-5	1	1.799116e-5	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	DNAJC25
+MSigDB Immunologic Signatures	GSE29614_CTRL_VS_TIV_FLU_VACCINE_PBMC_2007_DN	Genes down-regulated in comparison of peripheral blood mononuclear cells (PBMC) from TIV influenza vaccinee pre-vaccination versus those at day 3 post-vaccination.	1	1.703620e-2	1.000000e+0	1.000000e+0	5.869853e+1	1.703620e-2	1	1.703620e-2	1.000000e+0	2	9.367552e-3	1.000000e+0	1.000000e+0	1.067515e+2	9.367552e-3	1	169	1.000000e+0	5.917160e-3	unnamed	DNAJC25
+MSigDB Immunologic Signatures	GSE29614_CTRL_VS_DAY3_TIV_FLU_VACCINE_PBMC_DN	Genes down-regulated in comparison of peripheral blood mononuclear cells (PBMC) from TIV influenza vaccinee pre-vaccination versus those from day 3 post-vaccination.	2	1.713130e-2	1.000000e+0	1.000000e+0	5.837269e+1	1.713130e-2	1	1.713130e-2	1.000000e+0	1	8.425254e-3	1.000000e+0	1.000000e+0	1.186908e+2	8.425254e-3	1	152	1.000000e+0	6.578947e-3	unnamed	DNAJC25
+MSigDB Immunologic Signatures	GSE17974_1H_VS_72H_UNTREATED_IN_VITRO_CD4_TCELL_UP	Genes up-regulated in comparison of untreated CD4 [GeneID=920] T cells at 1 h versus the untreated cells at 72 h.	3	1.727166e-2	1.000000e+0	1.000000e+0	5.789832e+1	1.727166e-2	1	1.727166e-2	1.000000e+0	4	1.003270e-2	1.000000e+0	1.000000e+0	9.967403e+1	1.003270e-2	1	181	1.000000e+0	5.524862e-3	unnamed	DNAJC25
+MSigDB Immunologic Signatures	GSE17974_0.5H_VS_72H_UNTREATED_IN_VITRO_CD4_TCELL_UP	Genes up-regulated in comparison of untreated CD4 [GeneID=920] T cells at 0.5 h versus the untreated cells at 72 h.	4	1.838000e-2	1.000000e+0	1.000000e+0	5.440696e+1	1.838000e-2	1	1.838000e-2	1.000000e+0	3	9.478410e-3	1.000000e+0	1.000000e+0	1.055029e+2	9.478410e-3	1	171	1.000000e+0	5.847953e-3	unnamed	DNAJC25
+MSigDB Immunologic Signatures	GSE17974_2H_VS_72H_UNTREATED_IN_VITRO_CD4_TCELL_UP	Genes up-regulated in comparison of untreated CD4 [GeneID=920] T cells at 2 h versus the untreated cells at 72 h.	5	1.857271e-2	1.000000e+0	1.000000e+0	5.384244e+1	1.857271e-2	1	1.857271e-2	1.000000e+0	5	1.008813e-2	1.000000e+0	1.000000e+0	9.912637e+1	1.008813e-2	1	182	1.000000e+0	5.494505e-3	unnamed	DNAJC25
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

@@ -1,0 +1,61 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Molecular Function	GO:0004867	serine-type endopeptidase inhibitor activity	1	6.221915e-3	1.000000e+0	1.000000e+0	1.607222e+2	6.221915e-3	1	6.221915e-3	1.000000e+0	1	2.686047e-5	9.906141e-2	9.906141e-2	1.919255e+2	1.042071e-2	2	94	1.000000e+0	2.127660e-2	unnamed	SPINK14,SPINK6
+GO Molecular Function	GO:0004866	endopeptidase inhibitor activity	2	1.160979e-2	1.000000e+0	1.000000e+0	8.613419e+1	1.160979e-2	1	1.160979e-2	1.000000e+0	2	7.914960e-5	2.919037e-1	1.459519e-1	1.120559e+2	1.784823e-2	2	161	1.000000e+0	1.242236e-2	unnamed	SPINK14,SPINK6
+GO Molecular Function	GO:0061135	endopeptidase regulator activity	3	1.196702e-2	1.000000e+0	1.000000e+0	8.356297e+1	1.196702e-2	1	1.196702e-2	1.000000e+0	3	8.415790e-5	3.103743e-1	1.034581e-1	1.086807e+2	1.840253e-2	2	166	1.000000e+0	1.204819e-2	unnamed	SPINK14,SPINK6
+GO Molecular Function	GO:0030414	peptidase inhibitor activity	4	1.229453e-2	1.000000e+0	1.000000e+0	8.133700e+1	1.229453e-2	1	1.229453e-2	1.000000e+0	4	8.517800e-5	3.141365e-1	7.853412e-2	1.080299e+2	1.851339e-2	2	167	1.000000e+0	1.197605e-2	unnamed	SPINK14,SPINK6
+GO Molecular Function	GO:0061134	peptidase regulator activity	5	1.496911e-2	1.000000e+0	1.000000e+0	6.680423e+1	1.496911e-2	1	1.496911e-2	1.000000e+0	5	1.235176e-4	4.555329e-1	9.110658e-2	8.975622e+1	2.228258e-2	2	201	1.000000e+0	9.950249e-3	unnamed	SPINK14,SPINK6
+GO Molecular Function	GO:0004857	enzyme inhibitor activity	6	2.703958e-2	1.000000e+0	1.000000e+0	3.698282e+1	2.703958e-2	1	2.703958e-2	1.000000e+0	6	3.195665e-4	1.000000e+0	1.964269e-1	5.585449e+1	3.580733e-2	2	323	1.000000e+0	6.191950e-3	unnamed	SPINK14,SPINK6
+GO Molecular Function	GO:0030234	enzyme regulator activity	7	9.724145e-2	1.000000e+0	1.000000e+0	1.028368e+1	9.724145e-2	1	9.724145e-2	1.000000e+0	7	3.002314e-3	1.000000e+0	1.000000e+0	1.824166e+1	1.096392e-1	2	989	1.000000e+0	2.022245e-3	unnamed	SPINK14,SPINK6
+GO Biological Process	GO:0010466	negative regulation of peptidase activity	1	1.661319e-2	1.000000e+0	1.000000e+0	6.019315e+1	1.661319e-2	1	1.661319e-2	1.000000e+0	1	1.310209e-4	1.000000e+0	1.000000e+0	8.715459e+1	2.294773e-2	2	207	1.000000e+0	9.661836e-3	unnamed	SPINK14,SPINK6
+GO Biological Process	GO:0051346	negative regulation of hydrolase activity	2	2.865817e-2	1.000000e+0	1.000000e+0	3.489407e+1	2.865817e-2	1	2.865817e-2	1.000000e+0	2	3.136487e-4	1.000000e+0	1.000000e+0	5.637812e+1	3.547475e-2	2	320	1.000000e+0	6.250000e-3	unnamed	SPINK14,SPINK6
+GO Biological Process	GO:0052547	regulation of peptidase activity	3	2.932475e-2	1.000000e+0	1.000000e+0	3.410088e+1	2.932475e-2	1	2.932475e-2	1.000000e+0	3	3.625396e-4	1.000000e+0	1.000000e+0	5.244477e+1	3.813536e-2	2	344	1.000000e+0	5.813953e-3	unnamed	SPINK14,SPINK6
+GO Biological Process	GO:0043086	negative regulation of catalytic activity	4	5.840041e-2	1.000000e+0	1.000000e+0	1.712317e+1	5.840041e-2	1	5.840041e-2	1.000000e+0	4	1.244800e-3	1.000000e+0	1.000000e+0	2.832182e+1	7.061693e-2	2	637	1.000000e+0	3.139717e-3	unnamed	SPINK14,SPINK6
+GO Biological Process	GO:0044092	negative regulation of molecular function	5	7.795078e-2	1.000000e+0	1.000000e+0	1.282861e+1	7.795078e-2	1	7.795078e-2	1.000000e+0	5	1.949280e-3	1.000000e+0	1.000000e+0	2.263614e+1	8.835430e-2	2	797	1.000000e+0	2.509410e-3	unnamed	SPINK14,SPINK6
+GO Biological Process	GO:0051336	regulation of hydrolase activity	6	1.030572e-1	1.000000e+0	1.000000e+0	9.703349e+0	1.030572e-1	1	1.030572e-1	1.000000e+0	6	3.044986e-3	1.000000e+0	1.000000e+0	1.811345e+1	1.104152e-1	2	996	1.000000e+0	2.008032e-3	unnamed	SPINK14,SPINK6
+GO Biological Process	GO:0050790	regulation of catalytic activity	7	1.756788e-1	1.000000e+0	1.000000e+0	5.692208e+0	1.756788e-1	1	1.756788e-1	1.000000e+0	7	9.243819e-3	1.000000e+0	1.000000e+0	1.039827e+1	1.923397e-1	2	1735	1.000000e+0	1.152738e-3	unnamed	SPINK14,SPINK6
+GO Biological Process	GO:0065009	regulation of molecular function	8	2.156945e-1	1.000000e+0	1.000000e+0	4.636187e+0	2.156945e-1	1	2.156945e-1	1.000000e+0	8	1.360820e-2	1.000000e+0	1.000000e+0	8.570546e+0	2.333574e-1	2	2105	1.000000e+0	9.501188e-4	unnamed	SPINK14,SPINK6
+GO Biological Process	GO:0019222	regulation of metabolic process	9	4.728179e-1	1.000000e+0	1.000000e+0	2.114979e+0	4.728179e-1	1	4.728179e-1	1.000000e+0	9	9.333456e-2	1.000000e+0	1.000000e+0	3.273041e+0	6.110526e-1	2	5512	1.000000e+0	3.628447e-4	unnamed	SPINK14,SPINK6
+GO Biological Process	GO:0050789	regulation of biological process	10	6.921477e-1	1.000000e+0	1.000000e+0	1.444778e+0	6.921477e-1	1	6.921477e-1	1.000000e+0	10	2.673785e-1	1.000000e+0	1.000000e+0	1.933862e+0	1.034200e+0	2	9329	1.000000e+0	2.143853e-4	unnamed	SPINK14,SPINK6
+GO Biological Process	GO:0065007	biological regulation	11	7.151977e-1	1.000000e+0	1.000000e+0	1.398215e+0	7.151977e-1	1	7.151977e-1	1.000000e+0	11	2.982605e-1	1.000000e+0	1.000000e+0	1.831016e+0	1.092290e+0	2	9853	1.000000e+0	2.029839e-4	unnamed	SPINK14,SPINK6
+GO Cellular Component	GO:0005576	extracellular region	1	1.896595e-1	1.000000e+0	1.000000e+0	5.272606e+0	1.896595e-1	1	1.896595e-1	1.000000e+0	1	1.474312e-2	1.000000e+0	1.000000e+0	8.234140e+0	2.428912e-1	2	2191	1.000000e+0	9.128252e-4	unnamed	SPINK14,SPINK6
+MSigDB Perturbation	RICKMAN_HEAD_AND_NECK_CANCER_C	Cluster c: genes identifying an intrinsic group in head and neck squamous cell carcinoma (HNSCC).	1	1.131305e-2	1.000000e+0	1.000000e+0	8.839348e+1	1.131305e-2	1	1.131305e-2	1.000000e+0	1	1.314903e-2	1.000000e+0	1.000000e+0	7.580252e+1	1.319217e-2	1	119	5.000000e-1	8.403361e-3	unnamed	SPINK6
+MSigDB Perturbation	ZWANG_CLASS_1_TRANSIENTLY_INDUCED_BY_EGF	Class I of genes transiently induced by EGF [GeneID =1950] in 184A1 cells (mammary epithelium).	2	6.194948e-2	1.000000e+0	1.000000e+0	1.614218e+1	6.194948e-2	1	6.194948e-2	1.000000e+0	2	5.272149e-2	1.000000e+0	1.000000e+0	1.871473e+1	5.343385e-2	1	482	5.000000e-1	2.074689e-3	unnamed	SPINK14
+MSigDB Perturbation	RAO_BOUND_BY_SALL4_ISOFORM_B	Loci bound exclusively by SALL4 [GeneID=57167] isoform b in ES cells (embryonic stem).	3	6.216749e-2	1.000000e+0	1.000000e+0	1.608558e+1	6.216749e-2	1	6.216749e-2	1.000000e+0	3	5.670958e-2	1.000000e+0	1.000000e+0	1.738054e+1	5.753561e-2	1	519	5.000000e-1	1.926782e-3	unnamed	SPINK6
+MSigDB Perturbation	ACEVEDO_METHYLATED_IN_LIVER_CANCER_DN	Genes whose DNA is hyper-methylated in hepatocellular carcinoma (HCC) compared to normal liver.	4	1.007221e-1	1.000000e+0	1.000000e+0	9.928311e+0	1.007221e-1	1	1.007221e-1	1.000000e+0	4	8.460275e-2	1.000000e+0	1.000000e+0	1.156474e+1	8.646971e-2	1	780	5.000000e-1	1.282051e-3	unnamed	SPINK14
+MSigDB Perturbation	NUYTTEN_EZH2_TARGETS_UP	Genes up-regulated in PC3 cells (prostate cancer) after knockdown of EZH2 [GeneID=2146] by RNAi.	5	1.213858e-1	1.000000e+0	1.000000e+0	8.238198e+0	1.213858e-1	1	1.213858e-1	1.000000e+0	5	1.078938e-1	1.000000e+0	1.000000e+0	9.011489e+0	1.109695e-1	1	1001	5.000000e-1	9.990010e-4	unnamed	SPINK6
+MSigDB Predicted Promoter Motifs	RACCACAR_V$AML_Q6	Motif RACCACAR matches RUNX1: runt-related transcription factor 1 (acute myeloid leukemia 1; aml1 oncogene)	1	2.866166e-2	1.000000e+0	1.000000e+0	3.488982e+1	2.866166e-2	1	2.866166e-2	1.000000e+0	2	2.774202e-2	1.000000e+0	1.000000e+0	3.579563e+1	2.793637e-2	1	252	5.000000e-1	3.968254e-3	unnamed	SPINK6
+MSigDB Predicted Promoter Motifs	V$NKX25_02	Motif CWTAATTG matches NKX2-5: NK2 transcription factor related, locus 5 (Drosophila)	2	4.557185e-2	1.000000e+0	1.000000e+0	2.194337e+1	4.557185e-2	1	4.557185e-2	1.000000e+0	1	2.741405e-2	1.000000e+0	1.000000e+0	3.622691e+1	2.760379e-2	1	249	5.000000e-1	4.016064e-3	unnamed	SPINK6
+MSigDB Predicted Promoter Motifs	V$AFP1_Q6	Motif ATTAAYTRCAC matches ZHX2: zinc fingers and homeoboxes 2	3	4.821853e-2	1.000000e+0	1.000000e+0	2.073892e+1	4.821853e-2	1	4.821853e-2	1.000000e+0	3	2.785133e-2	1.000000e+0	1.000000e+0	3.565415e+1	2.804723e-2	1	253	5.000000e-1	3.952569e-3	unnamed	SPINK6
+MSigDB Predicted Promoter Motifs	TGANTCA_V$AP1_C	Motif TGANTCA matches JUN: jun oncogene	4	1.213675e-1	1.000000e+0	1.000000e+0	8.239440e+0	1.213675e-1	1	1.213675e-1	1.000000e+0	4	1.155213e-1	1.000000e+0	1.000000e+0	8.398976e+0	1.190621e-1	1	1074	5.000000e-1	9.310987e-4	unnamed	SPINK6
+InterPro	IPR002350	Kazal domain	1	7.059905e-3	1.000000e+0	1.000000e+0	1.416450e+2	7.059905e-3	1	7.059905e-3	1.000000e+0	1	7.835073e-6	7.382206e-2	7.382206e-2	3.537451e+2	5.653789e-3	2	51	1.000000e+0	3.921569e-2	unnamed	SPINK14,SPINK6
+HGNC Gene Families	SPINK	SPINK	1	3.422319e-4	1.635868e-1	1.635868e-1	2.921995e+3	3.422319e-4	1	3.422319e-4	1.000000e+0	1	2.765320e-7	1.321823e-4	1.321823e-4	1.804100e+3	1.108586e-3	2	10	1.000000e+0	2.000000e-1	unnamed	SPINK14,SPINK6
+Ensembl Genes	15684	SPINK6	1	3.230888e-5	5.828845e-1	5.828845e-1	3.095124e+4	3.230888e-5	1	3.230888e-5	1.000000e+0	1	1.108586e-4	1.000000e+0	1.000000e+0	9.020500e+3	1.108586e-4	1	1	5.000000e-1	1.000000e+0	unnamed	SPINK6
+Ensembl Genes	15683	SPINK14	2	4.643579e-5	8.377481e-1	4.188740e-1	2.153511e+4	4.643579e-5	1	4.643579e-5	1.000000e+0	1	1.108586e-4	1.000000e+0	1.000000e+0	9.020500e+3	1.108586e-4	1	1	5.000000e-1	1.000000e+0	unnamed	SPINK14
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

@@ -1,0 +1,45 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Molecular Function	GO:0042803	protein homodimerization activity	1	6.175957e-2	1.000000e+0	1.000000e+0	1.619182e+1	6.175957e-2	1	6.175957e-2	1.000000e+0	1	3.198271e-2	1.000000e+0	1.000000e+0	3.126690e+1	3.198271e-2	1	577	1.000000e+0	1.733102e-3	unnamed	IZUMO3
+GO Molecular Function	GO:0042802	identical protein binding	2	9.800114e-2	1.000000e+0	1.000000e+0	1.020396e+1	9.800114e-2	1	9.800114e-2	1.000000e+0	2	5.360013e-2	1.000000e+0	1.000000e+0	1.865667e+1	5.360013e-2	1	967	1.000000e+0	1.034126e-3	unnamed	IZUMO3
+GO Molecular Function	GO:0046983	protein dimerization activity	3	1.038803e-1	1.000000e+0	1.000000e+0	9.626466e+0	1.038803e-1	1	1.038803e-1	1.000000e+0	3	5.470872e-2	1.000000e+0	1.000000e+0	1.827862e+1	5.470872e-2	1	987	1.000000e+0	1.013171e-3	unnamed	IZUMO3
+GO Molecular Function	GO:0005515	protein binding	4	6.181781e-1	1.000000e+0	1.000000e+0	1.617657e+0	6.181781e-1	1	6.181781e-1	1.000000e+0	4	4.432681e-1	1.000000e+0	1.000000e+0	2.255971e+0	4.432681e-1	1	7997	1.000000e+0	1.250469e-4	unnamed	IZUMO3
+GO Molecular Function	GO:0005488	binding	5	8.171102e-1	1.000000e+0	1.000000e+0	1.223825e+0	8.171102e-1	1	8.171102e-1	1.000000e+0	5	6.747963e-1	1.000000e+0	1.000000e+0	1.481929e+0	6.747963e-1	1	12174	1.000000e+0	8.214227e-5	unnamed	IZUMO3
+GO Cellular Component	GO:0005886	plasma membrane	1	4.126577e-1	1.000000e+0	1.000000e+0	2.423316e+0	4.126577e-1	1	4.126577e-1	1.000000e+0	1	2.426695e-1	1.000000e+0	1.000000e+0	4.120831e+0	2.426695e-1	1	4378	1.000000e+0	2.284148e-4	unnamed	IZUMO3
+GO Cellular Component	GO:0071944	cell periphery	2	4.194602e-1	1.000000e+0	1.000000e+0	2.384017e+0	4.194602e-1	1	4.194602e-1	1.000000e+0	2	2.481570e-1	1.000000e+0	1.000000e+0	4.029707e+0	2.481570e-1	1	4477	1.000000e+0	2.233639e-4	unnamed	IZUMO3
+GO Cellular Component	GO:0016021	integral to membrane	3	4.578656e-1	1.000000e+0	1.000000e+0	2.184047e+0	4.578656e-1	1	4.578656e-1	1.000000e+0	3	2.916135e-1	1.000000e+0	1.000000e+0	3.429196e+0	2.916135e-1	1	5261	1.000000e+0	1.900779e-4	unnamed	IZUMO3
+GO Cellular Component	GO:0031224	intrinsic to membrane	4	4.694206e-1	1.000000e+0	1.000000e+0	2.130286e+0	4.694206e-1	1	4.694206e-1	1.000000e+0	4	2.978771e-1	1.000000e+0	1.000000e+0	3.357090e+0	2.978771e-1	1	5374	1.000000e+0	1.860811e-4	unnamed	IZUMO3
+GO Cellular Component	GO:0044425	membrane part	5	5.293034e-1	1.000000e+0	1.000000e+0	1.889276e+0	5.293034e-1	1	5.293034e-1	1.000000e+0	5	3.432737e-1	1.000000e+0	1.000000e+0	2.913128e+0	3.432737e-1	1	6193	1.000000e+0	1.614726e-4	unnamed	IZUMO3
+GO Cellular Component	GO:0016020	membrane	6	6.308744e-1	1.000000e+0	1.000000e+0	1.585102e+0	6.308744e-1	1	6.308744e-1	1.000000e+0	6	4.353417e-1	1.000000e+0	1.000000e+0	2.297046e+0	4.353417e-1	1	7854	1.000000e+0	1.273237e-4	unnamed	IZUMO3
+GO Cellular Component	GO:0044464	cell part	7	8.908971e-1	1.000000e+0	1.000000e+0	1.122464e+0	8.908971e-1	1	8.908971e-1	1.000000e+0	7	8.202982e-1	1.000000e+0	1.000000e+0	1.219069e+0	8.202982e-1	1	14799	1.000000e+0	6.757213e-5	unnamed	IZUMO3
+GO Cellular Component	GO:0005623	cell	8	8.910977e-1	1.000000e+0	1.000000e+0	1.122211e+0	8.910977e-1	1	8.910977e-1	1.000000e+0	8	8.203536e-1	1.000000e+0	1.000000e+0	1.218986e+0	8.203536e-1	1	14800	1.000000e+0	6.756757e-5	unnamed	IZUMO3
+MSigDB Perturbation	BRUINS_UVC_RESPONSE_VIA_TP53_GROUP_D	Category D genes: p53-independent genes whose expression in the absence of S389 phosphorylation is similar to loss of TP53 [GeneID=7157] in MEF (embryonic fibroblast) cells in response to UV-C irradiation.	1	2.937750e-2	1.000000e+0	1.000000e+0	3.403966e+1	2.937750e-2	1	2.937750e-2	1.000000e+0	1	1.452248e-2	1.000000e+0	1.000000e+0	6.885878e+1	1.452248e-2	1	262	1.000000e+0	3.816794e-3	unnamed	IZUMO3
+TreeFam	TF339468	IZUMO3	1	5.993033e-4	1.000000e+0	1.000000e+0	1.668604e+3	5.993033e-4	1	5.993033e-4	1.000000e+0	1	5.542930e-5	4.504185e-1	4.504185e-1	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	IZUMO3
+Ensembl Genes	18691	IZUMO3	1	5.993033e-4	1.000000e+0	1.000000e+0	1.668604e+3	5.993033e-4	1	5.993033e-4	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	IZUMO3
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

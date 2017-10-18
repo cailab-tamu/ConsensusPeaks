@@ -1,0 +1,61 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Cellular Component	GO:0005576	extracellular region	1	1.896595e-1	1.000000e+0	1.000000e+0	5.272606e+0	1.896595e-1	1	1.896595e-1	1.000000e+0	1	1.214456e-1	1.000000e+0	1.000000e+0	8.234140e+0	1.214456e-1	1	2191	1.000000e+0	4.564126e-4	unnamed	C1orf56
+Mouse Phenotype	MP:0009647	decreased fertilization frequency	1	6.122902e-4	1.000000e+0	1.000000e+0	1.633213e+3	6.122902e-4	1	6.122902e-4	1.000000e+0	1	7.760102e-4	1.000000e+0	1.000000e+0	1.288643e+3	7.760102e-4	1	14	1.000000e+0	7.142857e-2	unnamed	C1orf56
+Mouse Phenotype	MP:0005410	abnormal fertilization	2	8.438447e-3	1.000000e+0	1.000000e+0	1.185052e+2	8.438447e-3	1	8.438447e-3	1.000000e+0	2	5.154925e-3	1.000000e+0	1.000000e+0	1.939892e+2	5.154925e-3	1	93	1.000000e+0	1.075269e-2	unnamed	C1orf56
+Mouse Phenotype	MP:0001919	abnormal reproductive system physiology	3	1.530473e-1	1.000000e+0	1.000000e+0	6.533929e+0	1.530473e-1	1	1.530473e-1	1.000000e+0	3	7.782274e-2	1.000000e+0	1.000000e+0	1.284972e+1	7.782274e-2	1	1404	1.000000e+0	7.122507e-4	unnamed	C1orf56
+Mouse Phenotype	MP:0005389	reproductive system phenotype	4	1.774158e-1	1.000000e+0	1.000000e+0	5.636476e+0	1.774158e-1	1	1.774158e-1	1.000000e+0	4	8.979547e-2	1.000000e+0	1.000000e+0	1.113642e+1	8.979547e-2	1	1620	1.000000e+0	6.172840e-4	unnamed	C1orf56
+Mouse Phenotype	MP:0002169	no abnormal phenotype detected	5	1.886467e-1	1.000000e+0	1.000000e+0	5.300913e+0	1.886467e-1	1	1.886467e-1	1.000000e+0	5	9.434067e-2	1.000000e+0	1.000000e+0	1.059988e+1	9.434067e-2	1	1702	1.000000e+0	5.875441e-4	unnamed	C1orf56
+Mouse Phenotype	MP:0002873	normal phenotype	6	1.888473e-1	1.000000e+0	1.000000e+0	5.295284e+0	1.888473e-1	1	1.888473e-1	1.000000e+0	6	9.461781e-2	1.000000e+0	1.000000e+0	1.056883e+1	9.461781e-2	1	1707	1.000000e+0	5.858231e-4	unnamed	C1orf56
+Mouse Phenotype	MP:0000001	mammalian phenotype	7	6.422596e-1	1.000000e+0	1.000000e+0	1.557003e+0	6.422596e-1	1	6.422596e-1	1.000000e+0	7	4.170501e-1	1.000000e+0	1.000000e+0	2.397794e+0	4.170501e-1	1	7524	1.000000e+0	1.329080e-4	unnamed	C1orf56
+MSigDB Perturbation	DAIRKEE_TERT_TARGETS_DN	Genes down-regulated in non-spontaneously immortalizing (NSI) primary breast cancer tumor cultures upon expression of TERT [GeneID=7015] off a retroviral vector.	1	1.711695e-2	1.000000e+0	1.000000e+0	5.842164e+1	1.711695e-2	1	1.711695e-2	1.000000e+0	1	6.263511e-3	1.000000e+0	1.000000e+0	1.596549e+2	6.263511e-3	1	113	1.000000e+0	8.849558e-3	unnamed	C1orf56
+MSigDB Perturbation	RICKMAN_METASTASIS_UP	Genes up-regulated in metastatic vs non-metastatic HNSCC (head and neck squamous cell carcinoma) samples.	2	2.892237e-2	1.000000e+0	1.000000e+0	3.457531e+1	2.892237e-2	1	2.892237e-2	1.000000e+0	3	1.801452e-2	1.000000e+0	1.000000e+0	5.551077e+1	1.801452e-2	1	325	1.000000e+0	3.076923e-3	unnamed	C1orf56
+MSigDB Perturbation	KIM_WT1_TARGETS_UP	Genes up-regulated in UB27 cells (osteosarcoma) at any time point after inducing the expression of a mutant form of WT1 [GeneID=7490].	3	3.039094e-2	1.000000e+0	1.000000e+0	3.290455e+1	3.039094e-2	1	3.039094e-2	1.000000e+0	2	1.169558e-2	1.000000e+0	1.000000e+0	8.550237e+1	1.169558e-2	1	211	1.000000e+0	4.739336e-3	unnamed	C1orf56
+MSigDB Perturbation	MIKKELSEN_ES_ICP_WITH_H3K4ME3	Genes with intermediate-CpG-density (ICP) promoters bearing histone H3 K4 trimethylation mark (H3K4me3) in embryonic stem cells (ES).	4	5.226929e-2	1.000000e+0	1.000000e+0	1.913169e+1	5.226929e-2	1	5.226929e-2	1.000000e+0	4	3.730392e-2	1.000000e+0	1.000000e+0	2.680684e+1	3.730392e-2	1	673	1.000000e+0	1.485884e-3	unnamed	C1orf56
+MSigDB Perturbation	NUYTTEN_EZH2_TARGETS_DN	Genes down-regulated in PC3 cells (prostate cancer) after knockdown of EZH2 [GeneID=2146] by RNAi.	5	8.521044e-2	1.000000e+0	1.000000e+0	1.173565e+1	8.521044e-2	1	8.521044e-2	1.000000e+0	5	5.432071e-2	1.000000e+0	1.000000e+0	1.840918e+1	5.432071e-2	1	980	1.000000e+0	1.020408e-3	unnamed	C1orf56
+TreeFam	TF338845	C1orf56	1	5.307986e-6	4.313269e-2	4.313269e-2	1.883954e+5	5.307986e-6	1	5.307986e-6	1.000000e+0	1	5.542930e-5	4.504185e-1	4.504185e-1	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	C1orf56
+Ensembl Genes	1183	C1orf56	1	5.307986e-6	9.576138e-2	9.576138e-2	1.883954e+5	5.307986e-6	1	5.307986e-6	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	C1orf56
+MSigDB Oncogenic Signatures	MTOR_UP.N4.V1_DN	Genes up-regulated in CEM-C1 cells (T-CLL) by everolimus [PubChem = 6442177], an mTOR pathway inhibitor.	1	1.738168e-2	1.000000e+0	1.000000e+0	5.753184e+1	1.738168e-2	1	1.738168e-2	1.000000e+0	1	1.019899e-2	1.000000e+0	1.000000e+0	9.804891e+1	1.019899e-2	1	184	1.000000e+0	5.434783e-3	unnamed	C1orf56
+MSigDB Immunologic Signatures	GSE2706_R848_VS_R848_AND_LPS_2H_STIM_DC_UP	Genes up-regulated in comparison of dendritic cells (DC) stimulated with R848 at 2 h versus DCs stimulated with LPS (TLR4 agonist) and R848 for 2 h.	1	1.145759e-2	1.000000e+0	1.000000e+0	8.727843e+1	1.145759e-2	1	1.145759e-2	1.000000e+0	2	8.813259e-3	1.000000e+0	1.000000e+0	1.134654e+2	8.813259e-3	1	159	1.000000e+0	6.289308e-3	unnamed	C1orf56
+MSigDB Immunologic Signatures	GSE2706_LPS_VS_R848_AND_LPS_2H_STIM_DC_UP	Genes up-regulated in comparison of dendritic cells (DC) stimulated with LPS (TLR4 agonist) at 2 h versus DCs stimulated with LPS (TLR4 agonist) and R848 for 2 h.	2	1.314772e-2	1.000000e+0	1.000000e+0	7.605881e+1	1.314772e-2	1	1.314772e-2	1.000000e+0	1	8.591541e-3	1.000000e+0	1.000000e+0	1.163935e+2	8.591541e-3	1	155	1.000000e+0	6.451613e-3	unnamed	C1orf56
+MSigDB Immunologic Signatures	GSE17974_0H_VS_1H_IN_VITRO_ACT_CD4_TCELL_DN	Genes down-regulated in comparison of untreated CD4 [GeneID=920] T cells at 0 h versus the untreated cells at 1 h.	3	1.328738e-2	1.000000e+0	1.000000e+0	7.525936e+1	1.328738e-2	1	1.328738e-2	1.000000e+0	5	1.003270e-2	1.000000e+0	1.000000e+0	9.967403e+1	1.003270e-2	1	181	1.000000e+0	5.524862e-3	unnamed	C1orf56
+MSigDB Immunologic Signatures	GSE17974_CTRL_VS_ACT_IL4_AND_ANTI_IL12_1H_CD4_TCELL_DN	Genes down-regulated in comparison of untreated CD4 [GeneID=920] T cells at 0 h versus the cells treated with IL4 [GeneID=3565] and anti-IL12 at 1 h.	4	1.520420e-2	1.000000e+0	1.000000e+0	6.577130e+1	1.520420e-2	1	1.520420e-2	1.000000e+0	4	9.866415e-3	1.000000e+0	1.000000e+0	1.013539e+2	9.866415e-3	1	178	1.000000e+0	5.617978e-3	unnamed	C1orf56
+MSigDB Immunologic Signatures	GSE15324_NAIVE_VS_ACTIVATED_CD8_TCELL_UP	Genes up-regulated in comparison of naive CD8 T cells versus activated CD8 T cells.	5	1.541120e-2	1.000000e+0	1.000000e+0	6.488787e+1	1.541120e-2	1	1.541120e-2	1.000000e+0	7	1.008813e-2	1.000000e+0	1.000000e+0	9.912637e+1	1.008813e-2	1	182	1.000000e+0	5.494505e-3	unnamed	C1orf56
+MSigDB Immunologic Signatures	GSE17974_0H_VS_2H_IN_VITRO_ACT_CD4_TCELL_DN	Genes down-regulated in comparison of untreated CD4 [GeneID=920] T cells at 0 h versus the untreated cells at 2 h.	6	1.544532e-2	1.000000e+0	1.000000e+0	6.474453e+1	1.544532e-2	1	1.544532e-2	1.000000e+0	7	1.008813e-2	1.000000e+0	1.000000e+0	9.912637e+1	1.008813e-2	1	182	1.000000e+0	5.494505e-3	unnamed	C1orf56
+MSigDB Immunologic Signatures	GSE32423_CTRL_VS_IL4_MEMORY_CD8_TCELL_DN	Genes down-regulated in comparison of memory CD8 T cells versus those  treated with IL4 [GeneID=3565].	7	1.723003e-2	1.000000e+0	1.000000e+0	5.803820e+1	1.723003e-2	1	1.723003e-2	1.000000e+0	14	1.058700e-2	1.000000e+0	1.000000e+0	9.445550e+1	1.058700e-2	1	191	1.000000e+0	5.235602e-3	unnamed	C1orf56
+MSigDB Immunologic Signatures	GSE17974_1H_VS_72H_UNTREATED_IN_VITRO_CD4_TCELL_UP	Genes up-regulated in comparison of untreated CD4 [GeneID=920] T cells at 1 h versus the untreated cells at 72 h.	8	1.727166e-2	1.000000e+0	1.000000e+0	5.789832e+1	1.727166e-2	1	1.727166e-2	1.000000e+0	5	1.003270e-2	1.000000e+0	1.000000e+0	9.967403e+1	1.003270e-2	1	181	1.000000e+0	5.524862e-3	unnamed	C1orf56
+MSigDB Immunologic Signatures	GSE12366_GC_VS_MEMORY_BCELL_DN	Genes down-regulated in comparison of germinal center B cells versus memory B cells.	9	1.778949e-2	1.000000e+0	1.000000e+0	5.621297e+1	1.778949e-2	1	1.778949e-2	1.000000e+0	13	1.036528e-2	1.000000e+0	1.000000e+0	9.647594e+1	1.036528e-2	1	187	1.000000e+0	5.347594e-3	unnamed	C1orf56
+MSigDB Immunologic Signatures	GSE27786_NKCELL_VS_NKTCELL_DN	Genes down-regulated in comparison of NK cells versus NKT cells.	10	1.870951e-2	1.000000e+0	1.000000e+0	5.344875e+1	1.870951e-2	1	1.870951e-2	1.000000e+0	11	1.019899e-2	1.000000e+0	1.000000e+0	9.804891e+1	1.019899e-2	1	184	1.000000e+0	5.434783e-3	unnamed	C1orf56
+MSigDB Immunologic Signatures	GSE37416_0H_VS_24H_F_TULARENSIS_LVS_NEUTROPHIL_UP	Genes up-regulated in comparison of control polymorphonuclear leukocytes (PMN) at 0 h versus PMN treated with F. tularensis vaccine at 24 h.	11	1.928457e-2	1.000000e+0	1.000000e+0	5.185493e+1	1.928457e-2	1	1.928457e-2	1.000000e+0	16	1.069785e-2	1.000000e+0	1.000000e+0	9.347668e+1	1.069785e-2	1	193	1.000000e+0	5.181347e-3	unnamed	C1orf56
+MSigDB Immunologic Signatures	GSE3982_CENT_MEMORY_CD4_TCELL_VS_TH1_UP	Genes up-regulated in comparison of central memory CD4 [GeneID=920] T cells versus Th1 cells.	12	1.963116e-2	1.000000e+0	1.000000e+0	5.093943e+1	1.963116e-2	1	1.963116e-2	1.000000e+0	9	1.014356e-2	1.000000e+0	1.000000e+0	9.858470e+1	1.014356e-2	1	183	1.000000e+0	5.464481e-3	unnamed	C1orf56
+MSigDB Immunologic Signatures	GSE7460_CTRL_VS_FOXP3_OVEREXPR_TCONV_UP	Genes up-regulated in comparison of Ctrlrv versus Foxp3rv (see Fig. 1 in the paper for details).	13	2.047381e-2	1.000000e+0	1.000000e+0	4.884288e+1	2.047381e-2	1	2.047381e-2	1.000000e+0	9	1.014356e-2	1.000000e+0	1.000000e+0	9.858470e+1	1.014356e-2	1	183	1.000000e+0	5.464481e-3	unnamed	C1orf56
+MSigDB Immunologic Signatures	GSE17974_CTRL_VS_ACT_IL4_AND_ANTI_IL12_48H_CD4_TCELL_UP	Genes up-regulated in comparison of untreated CD4 [GeneID=920] T cells at 0 h versus the cells treated with IL4 [GeneID=3565] and anti-IL12 at 48 h.	14	2.343908e-2	1.000000e+0	1.000000e+0	4.266379e+1	2.343908e-2	1	2.343908e-2	1.000000e+0	3	9.422981e-3	1.000000e+0	1.000000e+0	1.061235e+2	9.422981e-3	1	170	1.000000e+0	5.882353e-3	unnamed	C1orf56
+MSigDB Immunologic Signatures	GSE13411_NAIVE_VS_IGM_MEMORY_BCELL_UP	Genes up-regulated in comparison of naive B cells versus IgM-memory B cells.	15	2.352786e-2	1.000000e+0	1.000000e+0	4.250280e+1	2.352786e-2	1	2.352786e-2	1.000000e+0	12	1.025442e-2	1.000000e+0	1.000000e+0	9.751892e+1	1.025442e-2	1	185	1.000000e+0	5.405405e-3	unnamed	C1orf56
+MSigDB Immunologic Signatures	GSE22886_IL2_VS_IL15_STIM_NKCELL_UP	Genes up-regulated in comparison of NK cells stimulated with IL2 [GeneID=3558] at 16 h versus NK cells stimulated with IL15 [GeneID=3600] at 16 h.	16	2.415384e-2	1.000000e+0	1.000000e+0	4.140129e+1	2.415384e-2	1	2.415384e-2	1.000000e+0	15	1.064243e-2	1.000000e+0	1.000000e+0	9.396354e+1	1.064243e-2	1	192	1.000000e+0	5.208333e-3	unnamed	C1orf56
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

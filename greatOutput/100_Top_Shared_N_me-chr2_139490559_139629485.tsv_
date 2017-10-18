@@ -1,0 +1,66 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Biological Process	GO:0007218	neuropeptide signaling pathway	1	1.558110e-2	1.000000e+0	1.000000e+0	6.418033e+1	1.558110e-2	1	1.558110e-2	1.000000e+0	1	5.542930e-3	1.000000e+0	1.000000e+0	1.804100e+2	5.542930e-3	1	100	1.000000e+0	1.000000e-2	unnamed	NXPH2
+GO Biological Process	GO:0007186	G-protein coupled receptor signaling pathway	2	8.771827e-2	1.000000e+0	1.000000e+0	1.140013e+1	8.771827e-2	1	8.771827e-2	1.000000e+0	2	5.969736e-2	1.000000e+0	1.000000e+0	1.675116e+1	5.969736e-2	1	1077	1.000000e+0	9.285051e-4	unnamed	NXPH2
+GO Biological Process	GO:0007166	cell surface receptor signaling pathway	3	2.539087e-1	1.000000e+0	1.000000e+0	3.938424e+0	2.539087e-1	1	2.539087e-1	1.000000e+0	3	1.481625e-1	1.000000e+0	1.000000e+0	6.749345e+0	1.481625e-1	1	2673	1.000000e+0	3.741115e-4	unnamed	NXPH2
+GO Biological Process	GO:0007165	signal transduction	4	3.912589e-1	1.000000e+0	1.000000e+0	2.555852e+0	3.912589e-1	1	3.912589e-1	1.000000e+0	4	2.385123e-1	1.000000e+0	1.000000e+0	4.192656e+0	2.385123e-1	1	4303	1.000000e+0	2.323960e-4	unnamed	NXPH2
+GO Biological Process	GO:0044700	single organism signaling	5	4.371810e-1	1.000000e+0	1.000000e+0	2.287382e+0	4.371810e-1	1	4.371810e-1	1.000000e+0	5	2.635663e-1	1.000000e+0	1.000000e+0	3.794111e+0	2.635663e-1	1	4755	1.000000e+0	2.103049e-4	unnamed	NXPH2
+GO Biological Process	GO:0007154	cell communication	6	4.446638e-1	1.000000e+0	1.000000e+0	2.248890e+0	4.446638e-1	1	4.446638e-1	1.000000e+0	6	2.703841e-1	1.000000e+0	1.000000e+0	3.698442e+0	2.703841e-1	1	4878	1.000000e+0	2.050021e-4	unnamed	NXPH2
+GO Biological Process	GO:0051716	cellular response to stimulus	7	4.562761e-1	1.000000e+0	1.000000e+0	2.191655e+0	4.562761e-1	1	4.562761e-1	1.000000e+0	7	2.957153e-1	1.000000e+0	1.000000e+0	3.381631e+0	2.957153e-1	1	5335	1.000000e+0	1.874414e-4	unnamed	NXPH2
+GO Biological Process	GO:0050896	response to stimulus	8	5.533212e-1	1.000000e+0	1.000000e+0	1.807268e+0	5.533212e-1	1	5.533212e-1	1.000000e+0	8	3.817416e-1	1.000000e+0	1.000000e+0	2.619573e+0	3.817416e-1	1	6887	1.000000e+0	1.452011e-4	unnamed	NXPH2
+GO Biological Process	GO:0050794	regulation of cellular process	9	6.759845e-1	1.000000e+0	1.000000e+0	1.479324e+0	6.759845e-1	1	6.759845e-1	1.000000e+0	9	4.907710e-1	1.000000e+0	1.000000e+0	2.037610e+0	4.907710e-1	1	8854	1.000000e+0	1.129433e-4	unnamed	NXPH2
+GO Biological Process	GO:0050789	regulation of biological process	10	6.921477e-1	1.000000e+0	1.000000e+0	1.444778e+0	6.921477e-1	1	6.921477e-1	1.000000e+0	10	5.170999e-1	1.000000e+0	1.000000e+0	1.933862e+0	5.170999e-1	1	9329	1.000000e+0	1.071926e-4	unnamed	NXPH2
+GO Biological Process	GO:0065007	biological regulation	11	7.151977e-1	1.000000e+0	1.000000e+0	1.398215e+0	7.151977e-1	1	7.151977e-1	1.000000e+0	11	5.461449e-1	1.000000e+0	1.000000e+0	1.831016e+0	5.461449e-1	1	9853	1.000000e+0	1.014919e-4	unnamed	NXPH2
+GO Biological Process	GO:0044763	single-organism cellular process	12	7.497126e-1	1.000000e+0	1.000000e+0	1.333844e+0	7.497126e-1	1	7.497126e-1	1.000000e+0	12	5.605011e-1	1.000000e+0	1.000000e+0	1.784118e+0	5.605011e-1	1	10112	1.000000e+0	9.889241e-5	unnamed	NXPH2
+GO Biological Process	GO:0044699	single-organism process	13	7.935590e-1	1.000000e+0	1.000000e+0	1.260146e+0	7.935590e-1	1	7.935590e-1	1.000000e+0	13	6.164847e-1	1.000000e+0	1.000000e+0	1.622100e+0	6.164847e-1	1	11122	1.000000e+0	8.991189e-5	unnamed	NXPH2
+GO Biological Process	GO:0009987	cellular process	14	8.656787e-1	1.000000e+0	1.000000e+0	1.155163e+0	8.656787e-1	1	8.656787e-1	1.000000e+0	14	7.487944e-1	1.000000e+0	1.000000e+0	1.335480e+0	7.487944e-1	1	13509	1.000000e+0	7.402472e-5	unnamed	NXPH2
+GO Cellular Component	GO:0005576	extracellular region	1	1.896595e-1	1.000000e+0	1.000000e+0	5.272606e+0	1.896595e-1	1	1.896595e-1	1.000000e+0	1	1.214456e-1	1.000000e+0	1.000000e+0	8.234140e+0	1.214456e-1	1	2191	1.000000e+0	4.564126e-4	unnamed	NXPH2
+MSigDB Cancer Neighborhood	MORF_ATF2	Neighborhood of ATF2	1	4.769984e-2	1.000000e+0	1.000000e+0	2.096443e+1	4.769984e-2	1	4.769984e-2	1.000000e+0	1	1.823624e-2	1.000000e+0	1.000000e+0	5.483587e+1	1.823624e-2	1	329	1.000000e+0	3.039514e-3	unnamed	NXPH2
+MSigDB Perturbation	ROVERSI_GLIOMA_COPY_NUMBER_DN	Genes in the most frequently homozygous deleted loci in a panel of glioma cell lines.	1	7.714293e-3	1.000000e+0	1.000000e+0	1.296295e+2	7.714293e-3	1	7.714293e-3	1.000000e+0	1	2.771465e-3	1.000000e+0	1.000000e+0	3.608200e+2	2.771465e-3	1	50	1.000000e+0	2.000000e-2	unnamed	NXPH2
+MSigDB Perturbation	GARCIA_TARGETS_OF_FLI1_AND_DAX1_DN	Genes down-regulated in the A673 cells (Ewing sarcoma) after double knockdown of both FLI1 and DAX1 [GeneID=2313;190] by RNAi.	2	1.327602e-2	1.000000e+0	1.000000e+0	7.532380e+1	1.327602e-2	1	1.327602e-2	1.000000e+0	3	9.644698e-3	1.000000e+0	1.000000e+0	1.036839e+2	9.644698e-3	1	174	1.000000e+0	5.747126e-3	unnamed	NXPH2
+MSigDB Perturbation	GERY_CEBP_TARGETS	Genes changed in NIH 3T3 cells (embryonic fibroblast) by expression of one or more of C/EBP proteins: CEBPA, CEBPB, CEBPG,  and CEBPD [GeneID=1050;1051;1054;1052].	3	1.444823e-2	1.000000e+0	1.000000e+0	6.921263e+1	1.444823e-2	1	1.444823e-2	1.000000e+0	2	7.760102e-3	1.000000e+0	1.000000e+0	1.288643e+2	7.760102e-3	1	140	1.000000e+0	7.142857e-3	unnamed	NXPH2
+MSigDB Perturbation	MIKKELSEN_MEF_HCP_WITH_H3_UNMETHYLATED	Genes with high-CpG-density promoters (HCP) with unmethylated histone H3 in MEF cells (embryonic fibroblast).	4	2.453239e-2	1.000000e+0	1.000000e+0	4.076244e+1	2.453239e-2	1	2.453239e-2	1.000000e+0	4	1.175101e-2	1.000000e+0	1.000000e+0	8.509906e+1	1.175101e-2	1	212	1.000000e+0	4.716981e-3	unnamed	NXPH2
+MSigDB Perturbation	KOYAMA_SEMA3B_TARGETS_UP	Genes up-regulated in NCI-H1299 cells (large cell neuroendocrine carcinoma) stably expressing SEMA3B [GeneID=7869].	5	3.026472e-2	1.000000e+0	1.000000e+0	3.304177e+1	3.026472e-2	1	3.026472e-2	1.000000e+0	6	1.479962e-2	1.000000e+0	1.000000e+0	6.756929e+1	1.479962e-2	1	267	1.000000e+0	3.745318e-3	unnamed	NXPH2
+MSigDB Perturbation	SENESE_HDAC1_TARGETS_DN	Genes down-regulated in U2OS cells (osteosarcoma) upon knockdown of HDAC1 [GeneID=3065] by RNAi.	6	3.098176e-2	1.000000e+0	1.000000e+0	3.227706e+1	3.098176e-2	1	3.098176e-2	1.000000e+0	5	1.324760e-2	1.000000e+0	1.000000e+0	7.548536e+1	1.324760e-2	1	239	1.000000e+0	4.184100e-3	unnamed	NXPH2
+MSigDB Perturbation	MIKKELSEN_NPC_HCP_WITH_H3K27ME3	Genes with high-CpG-density promoters (HCP) bearing histone H3 trimethylation mark at K27 (H3K27me3) in neural progenitor cells (NPC).	7	4.542935e-2	1.000000e+0	1.000000e+0	2.201220e+1	4.542935e-2	1	4.542935e-2	1.000000e+0	7	1.834710e-2	1.000000e+0	1.000000e+0	5.450453e+1	1.834710e-2	1	331	1.000000e+0	3.021148e-3	unnamed	NXPH2
+MSigDB Perturbation	MIKKELSEN_MCV6_HCP_WITH_H3K27ME3	Genes with high-CpG-density promoters (HCP) bearing the tri-methylation mark at H3K27 (H3K27me3) in MCV6 cells (embryonic fibroblasts trapped in a differentiated state).	8	5.241497e-2	1.000000e+0	1.000000e+0	1.907852e+1	5.241497e-2	1	5.241497e-2	1.000000e+0	8	2.316945e-2	1.000000e+0	1.000000e+0	4.316029e+1	2.316945e-2	1	418	1.000000e+0	2.392344e-3	unnamed	NXPH2
+MSigDB Perturbation	PUJANA_ATM_PCC_NETWORK	Genes constituting the ATM-PCC network of transcripts whose expression positively correlated (Pearson correlation coefficient, PCC &gt;= 0.4) with that of ATM [GeneID=472] across a compendium of normal tissues.	9	1.248339e-1	1.000000e+0	1.000000e+0	8.010648e+0	1.248339e-1	1	1.248339e-1	1.000000e+0	9	7.848789e-2	1.000000e+0	1.000000e+0	1.274082e+1	7.848789e-2	1	1416	1.000000e+0	7.062147e-4	unnamed	NXPH2
+MSigDB Perturbation	PUJANA_BRCA1_PCC_NETWORK	Genes constituting the BRCA1-PCC network of transcripts whose expression positively correlated (Pearson correlation coefficient, PCC &gt;= 0.4) with that of BRCA1 [GeneID=672] across a compendium of normal tissues.	10	1.292550e-1	1.000000e+0	1.000000e+0	7.736644e+0	1.292550e-1	1	1.292550e-1	1.000000e+0	10	9.068233e-2	1.000000e+0	1.000000e+0	1.102751e+1	9.068233e-2	1	1636	1.000000e+0	6.112469e-4	unnamed	NXPH2
+InterPro	IPR010450	Neurexophilin	1	9.505726e-4	1.000000e+0	1.000000e+0	1.051998e+3	9.505726e-4	1	9.505726e-4	1.000000e+0	1	2.217172e-4	1.000000e+0	1.000000e+0	4.510250e+3	2.217172e-4	1	4	1.000000e+0	2.500000e-1	unnamed	NXPH2
+InterPro	IPR026845	Neurexophilin/NXPE	2	1.363879e-3	1.000000e+0	1.000000e+0	7.332027e+2	1.363879e-3	1	1.363879e-3	1.000000e+0	2	4.434344e-4	1.000000e+0	1.000000e+0	2.255125e+3	4.434344e-4	1	8	1.000000e+0	1.250000e-1	unnamed	NXPH2
+TreeFam	TF333047	NXPH1, NXPH2, NXPH3, NXPH4	1	9.505726e-4	1.000000e+0	1.000000e+0	1.051998e+3	9.505726e-4	1	9.505726e-4	1.000000e+0	1	2.217172e-4	1.000000e+0	1.000000e+0	4.510250e+3	2.217172e-4	1	4	1.000000e+0	2.500000e-1	unnamed	NXPH2
+Ensembl Genes	11395	NXPH2	1	4.464845e-4	1.000000e+0	1.000000e+0	2.239720e+3	4.464845e-4	1	4.464845e-4	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	NXPH2
+MSigDB Oncogenic Signatures	CAHOY_NEURONAL	Genes up-regulated in neurons.	1	1.964379e-2	1.000000e+0	1.000000e+0	5.090668e+1	1.964379e-2	1	1.964379e-2	1.000000e+0	1	5.376642e-3	1.000000e+0	1.000000e+0	1.859897e+2	5.376642e-3	1	97	1.000000e+0	1.030928e-2	unnamed	NXPH2
+MSigDB Immunologic Signatures	GSE14308_TH2_VS_INDUCED_TREG_DN	Genes down-regulated in comparison of Th2 cells versus induced regulatory T cell (Treg).	1	1.523982e-2	1.000000e+0	1.000000e+0	6.561755e+1	1.523982e-2	1	1.523982e-2	1.000000e+0	2	1.019899e-2	1.000000e+0	1.000000e+0	9.804891e+1	1.019899e-2	1	184	1.000000e+0	5.434783e-3	unnamed	NXPH2
+MSigDB Immunologic Signatures	GSE27786_CD8_TCELL_VS_NKCELL_UP	Genes up-regulated in comparison of CD8 T cells versus NK cells.	2	1.683751e-2	1.000000e+0	1.000000e+0	5.939121e+1	1.683751e-2	1	1.683751e-2	1.000000e+0	4	1.053157e-2	1.000000e+0	1.000000e+0	9.495263e+1	1.053157e-2	1	190	1.000000e+0	5.263158e-3	unnamed	NXPH2
+MSigDB Immunologic Signatures	GSE9988_LPS_VS_LOW_LPS_MONOCYTE_UP	Genes up-regulated in comparison of monocytes treated with 5000 ng/ml LPS (TLR4 agonist) versus those treated with 1 ng/ml LPS (TLR4 agonist).	3	1.754179e-2	1.000000e+0	1.000000e+0	5.700673e+1	1.754179e-2	1	1.754179e-2	1.000000e+0	1	8.203536e-3	1.000000e+0	1.000000e+0	1.218986e+2	8.203536e-3	1	148	1.000000e+0	6.756757e-3	unnamed	NXPH2
+MSigDB Immunologic Signatures	GSE3337_CTRL_VS_16H_IFNG_IN_CD8POS_DC_UP	Genes up-regulated in comparison of untreated CD8+ dendritic cells (DC) at 16 h versus those treated with IFNG [GeneID=31658] at 16 h.	4	1.891010e-2	1.000000e+0	1.000000e+0	5.288179e+1	1.891010e-2	1	1.891010e-2	1.000000e+0	6	1.103043e-2	1.000000e+0	1.000000e+0	9.065829e+1	1.103043e-2	1	199	1.000000e+0	5.025126e-3	unnamed	NXPH2
+MSigDB Immunologic Signatures	GSE1448_ANTI_VALPHA2_VS_VBETA5_DP_THYMOCYTE_UP	Genes up-regulated in comparison of CD4 [GeneID=920] CD8 thymocytes stimulated with anti-Valpha2 antibodies versus CD4 [GeneID=920] CD8 thymocytes stimulated with anti-beta5 antibodies.	5	1.907159e-2	1.000000e+0	1.000000e+0	5.243402e+1	1.907159e-2	1	1.907159e-2	1.000000e+0	5	1.080871e-2	1.000000e+0	1.000000e+0	9.251795e+1	1.080871e-2	1	195	1.000000e+0	5.128205e-3	unnamed	NXPH2
+MSigDB Immunologic Signatures	GSE13306_TREG_RA_VS_TCONV_RA_UP	Genes up-regulated in regulatory T cell (Treg) treated with retinoic acid (tretinoin) [PubChem=444795] versus conventional T cells.	6	1.966243e-2	1.000000e+0	1.000000e+0	5.085840e+1	1.966243e-2	1	1.966243e-2	1.000000e+0	3	1.036528e-2	1.000000e+0	1.000000e+0	9.647594e+1	1.036528e-2	1	187	1.000000e+0	5.347594e-3	unnamed	NXPH2
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

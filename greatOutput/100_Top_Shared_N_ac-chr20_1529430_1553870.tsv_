@@ -1,0 +1,48 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Cellular Component	GO:0005576	extracellular region	1	1.896595e-1	1.000000e+0	1.000000e+0	5.272606e+0	1.896595e-1	1	1.896595e-1	1.000000e+0	1	1.214456e-1	1.000000e+0	1.000000e+0	8.234140e+0	1.214456e-1	1	2191	1.000000e+0	4.564126e-4	unnamed	SIRPD
+MGI Expression: Detected	8464	TS23_adrenal gland medulla	1	1.008052e-2	1.000000e+0	1.000000e+0	9.920126e+1	1.008052e-2	1	1.008052e-2	1.000000e+0	1	4.822349e-3	1.000000e+0	1.000000e+0	2.073678e+2	4.822349e-3	1	87	1.000000e+0	1.149425e-2	unnamed	SIRPD
+MGI Expression: Detected	7760	TS23_adrenal gland	2	4.451279e-2	1.000000e+0	1.000000e+0	2.246545e+1	4.451279e-2	1	4.451279e-2	1.000000e+0	2	1.962197e-2	1.000000e+0	1.000000e+0	5.096328e+1	1.962197e-2	1	354	1.000000e+0	2.824859e-3	unnamed	SIRPD
+MGI Expression: Detected	7565	TS23_gland	3	1.482368e-1	1.000000e+0	1.000000e+0	6.745964e+0	1.482368e-1	1	1.482368e-1	1.000000e+0	3	8.048334e-2	1.000000e+0	1.000000e+0	1.242493e+1	8.048334e-2	1	1452	1.000000e+0	6.887052e-4	unnamed	SIRPD
+MGI Expression: Detected	7445	TS23_organ system	4	6.921258e-1	1.000000e+0	1.000000e+0	1.444824e+0	6.921258e-1	1	6.921258e-1	1.000000e+0	4	4.466493e-1	1.000000e+0	1.000000e+0	2.238893e+0	4.466493e-1	1	8058	1.000000e+0	1.241003e-4	unnamed	SIRPD
+MGI Expression: Detected	6925	TS23_embryo	5	7.220129e-1	1.000000e+0	1.000000e+0	1.385017e+0	7.220129e-1	1	7.220129e-1	1.000000e+0	5	4.840086e-1	1.000000e+0	1.000000e+0	2.066079e+0	4.840086e-1	1	8732	1.000000e+0	1.145213e-4	unnamed	SIRPD
+MGI Expression: Detected	6924	Theiler_stage_23	6	7.220179e-1	1.000000e+0	1.000000e+0	1.385007e+0	7.220179e-1	1	7.220179e-1	1.000000e+0	6	4.841749e-1	1.000000e+0	1.000000e+0	2.065369e+0	4.841749e-1	1	8735	1.000000e+0	1.144820e-4	unnamed	SIRPD
+MSigDB Perturbation	ZWANG_TRANSIENTLY_UP_BY_2ND_EGF_PULSE_ONLY	Genes transiently induced only by the second pulse of EGF [GeneID =1950] in 184A1 cells (mammary epithelium).	1	1.379154e-1	1.000000e+0	1.000000e+0	7.250823e+0	1.379154e-1	1	1.379154e-1	1.000000e+0	1	7.926390e-2	1.000000e+0	1.000000e+0	1.261608e+1	7.926390e-2	1	1430	1.000000e+0	6.993007e-4	unnamed	SIRPD
+InterPro	IPR013106	Immunoglobulin V-set domain	1	1.215624e-2	1.000000e+0	1.000000e+0	8.226229e+1	1.215624e-2	1	1.215624e-2	1.000000e+0	1	9.201264e-3	1.000000e+0	1.000000e+0	1.086807e+2	9.201264e-3	1	166	1.000000e+0	6.024096e-3	unnamed	SIRPD
+InterPro	IPR003599	Immunoglobulin subtype	2	3.285877e-2	1.000000e+0	1.000000e+0	3.043327e+1	3.285877e-2	1	3.285877e-2	1.000000e+0	2	1.779281e-2	1.000000e+0	1.000000e+0	5.620249e+1	1.779281e-2	1	321	1.000000e+0	3.115265e-3	unnamed	SIRPD
+InterPro	IPR007110	Immunoglobulin-like domain	3	5.020399e-2	1.000000e+0	1.000000e+0	1.991873e+1	5.020399e-2	1	5.020399e-2	1.000000e+0	3	2.383460e-2	1.000000e+0	1.000000e+0	4.195581e+1	2.383460e-2	1	430	1.000000e+0	2.325581e-3	unnamed	SIRPD
+InterPro	IPR013783	Immunoglobulin-like fold	4	7.916806e-2	1.000000e+0	1.000000e+0	1.263136e+1	7.916806e-2	1	7.916806e-2	1.000000e+0	4	3.647248e-2	1.000000e+0	1.000000e+0	2.741793e+1	3.647248e-2	1	658	1.000000e+0	1.519757e-3	unnamed	SIRPD
+Ensembl Genes	11978	SIRPD	1	4.285146e-5	7.730832e-1	7.730832e-1	2.333643e+4	4.285146e-5	1	4.285146e-5	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	SIRPD
+MSigDB Immunologic Signatures	GSE17974_IL4_AND_ANTI_IL12_VS_UNTREATED_0.5H_ACT_CD4_TCELL_UP	Genes up-regulated in comparison of CD4 [GeneID=920] T cells treated with IL4 [GeneID=3565] and anti-IL12 at 0.5 h versus the untreated cells at 0.5 h.	1	1.302746e-2	1.000000e+0	1.000000e+0	7.676096e+1	1.302746e-2	1	1.302746e-2	1.000000e+0	3	9.977274e-3	1.000000e+0	1.000000e+0	1.002278e+2	9.977274e-3	1	180	1.000000e+0	5.555556e-3	unnamed	SIRPD
+MSigDB Immunologic Signatures	GSE34205_HEALTHY_VS_FLU_INF_INFANT_PBMC_DN	Genes down-regulated in comparison of peripheral blood mononuclear cells (PBMC) from healthy donors versus PBMCs from infanct with acute influenza infection.	2	1.311139e-2	1.000000e+0	1.000000e+0	7.626956e+1	1.311139e-2	1	1.311139e-2	1.000000e+0	6	1.080871e-2	1.000000e+0	1.000000e+0	9.251795e+1	1.080871e-2	1	195	1.000000e+0	5.128205e-3	unnamed	SIRPD
+MSigDB Immunologic Signatures	GSE7400_CTRL_VS_CSF3_IN_VIVO_TREATED_PBMC_DN	Genes down-regulated in comparison of untreated peripheral blood mononuclear cells (PBMC) versus PBMCs treated with CSF3 [GeneID=1440].	3	1.412300e-2	1.000000e+0	1.000000e+0	7.080647e+1	1.412300e-2	1	1.412300e-2	1.000000e+0	5	1.036528e-2	1.000000e+0	1.000000e+0	9.647594e+1	1.036528e-2	1	187	1.000000e+0	5.347594e-3	unnamed	SIRPD
+MSigDB Immunologic Signatures	GSE11864_UNTREATED_VS_CSF1_IFNG_IN_MAC_UP	Genes up-regulated in comparison of untreated macrophages versus those cultured with M-CSF [GeneID=1435] and IFNG [GeneID=3458].	4	1.475450e-2	1.000000e+0	1.000000e+0	6.777594e+1	1.475450e-2	1	1.475450e-2	1.000000e+0	2	9.866415e-3	1.000000e+0	1.000000e+0	1.013539e+2	9.866415e-3	1	178	1.000000e+0	5.617978e-3	unnamed	SIRPD
+MSigDB Immunologic Signatures	GSE37416_0H_VS_48H_F_TULARENSIS_LVS_NEUTROPHIL_UP	Genes up-regulated in comparison of control polymorphonuclear leukocytes (PMN) at 0 h versus PMN treated with F. tularensis vaccine at 48 h.	5	1.849675e-2	1.000000e+0	1.000000e+0	5.406354e+1	1.849675e-2	1	1.849675e-2	1.000000e+0	4	1.025442e-2	1.000000e+0	1.000000e+0	9.751892e+1	1.025442e-2	1	185	1.000000e+0	5.405405e-3	unnamed	SIRPD
+MSigDB Immunologic Signatures	GSE18791_UNSTIM_VS_NEWCATSLE_VIRUS_DC_1H_UP	Genes up-regulated in comparison of control conventional dendritic cells (cDC) at 1 h versus cDCs infected with Newcastle disease virus (NDV) at 1 h.	6	1.875224e-2	1.000000e+0	1.000000e+0	5.332695e+1	1.875224e-2	1	1.875224e-2	1.000000e+0	1	8.092678e-3	1.000000e+0	1.000000e+0	1.235685e+2	8.092678e-3	1	146	1.000000e+0	6.849315e-3	unnamed	SIRPD
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

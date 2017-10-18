@@ -1,0 +1,42 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Cellular Component	GO:0005576	extracellular region	1	1.896595e-1	1.000000e+0	1.000000e+0	5.272606e+0	1.896595e-1	1	1.896595e-1	1.000000e+0	1	1.474312e-2	1.000000e+0	1.000000e+0	8.234140e+0	2.428912e-1	2	2191	1.000000e+0	9.128252e-4	unnamed	PLGLB1,PLGLB2
+MSigDB Perturbation	ZIRN_TRETINOIN_RESPONSE_UP	Genes up-regulated in MS427 cells (Wilms tumor with normal WT1 [GeneID=7490]) after treatment with 10 microM tretinoin (ATRA) [PubChem=444795] for 24 h.	1	3.514514e-3	1.000000e+0	1.000000e+0	2.845344e+2	3.514514e-3	1	3.514514e-3	1.000000e+0	1	1.167579e-6	3.927736e-3	3.927736e-3	9.020500e+2	2.217172e-3	2	20	1.000000e+0	1.000000e-1	unnamed	PLGLB1,PLGLB2
+MSigDB Perturbation	PYEON_HPV_POSITIVE_TUMORS_UP	Up-regulated genes in cervical carcinoma and head and neck tumors positive for human papilloma virus (HPV) compared to those negative for HPV.	2	8.758845e-3	1.000000e+0	1.000000e+0	1.141703e+2	8.758845e-3	1	8.758845e-3	1.000000e+0	2	1.991030e-5	6.697825e-2	3.348912e-2	2.227284e+2	8.979547e-3	2	81	1.000000e+0	2.469136e-2	unnamed	PLGLB1,PLGLB2
+MSigDB Perturbation	HSIAO_LIVER_SPECIFIC_GENES	Liver selective genes	3	1.933690e-2	1.000000e+0	1.000000e+0	5.171459e+1	1.933690e-2	1	1.933690e-2	1.000000e+0	3	1.821793e-4	6.128512e-1	2.042837e-1	7.393852e+1	2.704950e-2	2	244	1.000000e+0	8.196721e-3	unnamed	PLGLB1,PLGLB2
+MSigDB Perturbation	HOSHIDA_LIVER_CANCER_SUBCLASS_S3	Genes from 'subtype S3' signature of hepatocellular carcinoma (HCC): hepatocyte differentiation.	4	2.431376e-2	1.000000e+0	1.000000e+0	4.112898e+1	2.431376e-2	1	2.431376e-2	1.000000e+0	4	2.231613e-4	7.507146e-1	1.876787e-1	6.681852e+1	2.993182e-2	2	270	1.000000e+0	7.407407e-3	unnamed	PLGLB1,PLGLB2
+MSigDB Perturbation	WANG_LMO4_TARGETS_UP	Genes up-regulated in MCF7 cells (breast cancer) engineered to conditionally express LMO4 [GeneID=8543] by a Tet Off system.	5	3.656950e-2	1.000000e+0	1.000000e+0	2.734519e+1	3.656950e-2	1	3.656950e-2	1.000000e+0	5	3.667736e-4	1.000000e+0	2.467653e-1	5.214162e+1	3.835708e-2	2	346	1.000000e+0	5.780347e-3	unnamed	PLGLB1,PLGLB2
+InterPro	IPR016351	Plasminogen-related	1	3.245791e-4	1.000000e+0	1.000000e+0	3.080914e+3	3.245791e-4	1	3.245791e-4	1.000000e+0	1	6.145155e-9	5.789965e-5	5.789965e-5	9.020500e+3	2.217172e-4	2	2	1.000000e+0	1.000000e+0	unnamed	PLGLB1,PLGLB2
+InterPro	IPR003014	PAN-1 domain	2	1.098674e-3	1.000000e+0	1.000000e+0	9.101884e+2	1.098674e-3	1	1.098674e-3	1.000000e+0	2	1.290483e-7	1.215893e-3	6.079465e-4	2.577286e+3	7.760102e-4	2	7	1.000000e+0	2.857143e-1	unnamed	PLGLB1,PLGLB2
+TreeFam	TF344093	PLGLB1, PLGLB2	1	3.245791e-4	1.000000e+0	1.000000e+0	3.080914e+3	3.245791e-4	1	3.245791e-4	1.000000e+0	1	6.145155e-9	4.993553e-5	4.993553e-5	9.020500e+3	2.217172e-4	2	2	1.000000e+0	1.000000e+0	unnamed	PLGLB1,PLGLB2
+Ensembl Genes	11146	PLGLB2	1	2.867514e-4	1.000000e+0	1.000000e+0	3.487341e+3	2.867514e-4	1	2.867514e-4	1.000000e+0	1	1.108586e-4	1.000000e+0	1.000000e+0	9.020500e+3	1.108586e-4	1	1	5.000000e-1	1.000000e+0	unnamed	PLGLB2
+Ensembl Genes	11145	PLGLB1	2	2.959681e-4	1.000000e+0	1.000000e+0	3.378743e+3	2.959681e-4	1	2.959681e-4	1.000000e+0	1	1.108586e-4	1.000000e+0	1.000000e+0	9.020500e+3	1.108586e-4	1	1	5.000000e-1	1.000000e+0	unnamed	PLGLB1
+MSigDB Immunologic Signatures	GSE2706_UNSTIM_VS_2H_LPS_DC_UP	Genes up-regulated in comparison of unstimulated dendritic cells (DC) at 0 h versus DCs stimulated with LPS (TLR4 agonist) for 2 h.	1	9.706835e-3	1.000000e+0	1.000000e+0	1.030202e+2	9.706835e-3	1	9.706835e-3	1.000000e+0	1	8.113448e-5	1.549669e-1	1.549669e-1	1.106810e+2	1.806995e-2	2	163	1.000000e+0	1.226994e-2	unnamed	PLGLB1,PLGLB2
+MSigDB Immunologic Signatures	GSE2706_UNSTIM_VS_2H_R848_DC_UP	Genes up-regulated in comparison of unstimulated dendritic cells (DC) at 0 h versus DCs stimulated with R848 for 2 h.	2	1.477285e-2	1.000000e+0	1.000000e+0	6.769174e+1	1.477285e-2	1	1.477285e-2	1.000000e+0	2	8.620424e-5	1.646501e-1	8.232505e-2	1.073869e+2	1.862424e-2	2	168	1.000000e+0	1.190476e-2	unnamed	PLGLB1,PLGLB2
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

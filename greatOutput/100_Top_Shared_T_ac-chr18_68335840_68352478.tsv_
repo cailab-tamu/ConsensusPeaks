@@ -1,0 +1,35 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Cellular Component	GO:0016021	integral to membrane	1	4.578656e-1	1.000000e+0	1.000000e+0	2.184047e+0	4.578656e-1	1	4.578656e-1	1.000000e+0	1	2.916135e-1	1.000000e+0	1.000000e+0	3.429196e+0	2.916135e-1	1	5261	1.000000e+0	1.900779e-4	unnamed	GTSCR1
+GO Cellular Component	GO:0031224	intrinsic to membrane	2	4.694206e-1	1.000000e+0	1.000000e+0	2.130286e+0	4.694206e-1	1	4.694206e-1	1.000000e+0	2	2.978771e-1	1.000000e+0	1.000000e+0	3.357090e+0	2.978771e-1	1	5374	1.000000e+0	1.860811e-4	unnamed	GTSCR1
+GO Cellular Component	GO:0044425	membrane part	3	5.293034e-1	1.000000e+0	1.000000e+0	1.889276e+0	5.293034e-1	1	5.293034e-1	1.000000e+0	3	3.432737e-1	1.000000e+0	1.000000e+0	2.913128e+0	3.432737e-1	1	6193	1.000000e+0	1.614726e-4	unnamed	GTSCR1
+GO Cellular Component	GO:0016020	membrane	4	6.308744e-1	1.000000e+0	1.000000e+0	1.585102e+0	6.308744e-1	1	6.308744e-1	1.000000e+0	4	4.353417e-1	1.000000e+0	1.000000e+0	2.297046e+0	4.353417e-1	1	7854	1.000000e+0	1.273237e-4	unnamed	GTSCR1
+TreeFam	TF341508	GTSCR1	1	4.755952e-4	1.000000e+0	1.000000e+0	2.102628e+3	4.755952e-4	1	4.755952e-4	1.000000e+0	1	5.542930e-5	4.504185e-1	4.504185e-1	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	GTSCR1
+Ensembl Genes	9149	GTSCR1	1	4.755952e-4	1.000000e+0	1.000000e+0	2.102628e+3	4.755952e-4	1	4.755952e-4	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	GTSCR1
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

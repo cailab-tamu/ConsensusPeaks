@@ -1,0 +1,60 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Molecular Function	GO:0008168	methyltransferase activity	1	1.710242e-2	1.000000e+0	1.000000e+0	5.847126e+1	1.710242e-2	1	1.710242e-2	1.000000e+0	1	1.130758e-2	1.000000e+0	1.000000e+0	8.843627e+1	1.130758e-2	1	204	1.000000e+0	4.901961e-3	unnamed	METTL15
+GO Molecular Function	GO:0016741	transferase activity, transferring one-carbon groups	2	1.739575e-2	1.000000e+0	1.000000e+0	5.748529e+1	1.739575e-2	1	1.739575e-2	1.000000e+0	2	1.164015e-2	1.000000e+0	1.000000e+0	8.590952e+1	1.164015e-2	1	210	1.000000e+0	4.761905e-3	unnamed	METTL15
+GO Molecular Function	GO:0016740	transferase activity	3	1.774445e-1	1.000000e+0	1.000000e+0	5.635566e+0	1.774445e-1	1	1.774445e-1	1.000000e+0	3	1.024333e-1	1.000000e+0	1.000000e+0	9.762446e+0	1.024333e-1	1	1848	1.000000e+0	5.411255e-4	unnamed	METTL15
+GO Molecular Function	GO:0003824	catalytic activity	4	4.361959e-1	1.000000e+0	1.000000e+0	2.292548e+0	4.361959e-1	1	4.361959e-1	1.000000e+0	4	3.045286e-1	1.000000e+0	1.000000e+0	3.283764e+0	3.045286e-1	1	5494	1.000000e+0	1.820167e-4	unnamed	METTL15
+GO Biological Process	GO:0032259	methylation	1	2.161420e-2	1.000000e+0	1.000000e+0	4.626587e+1	2.161420e-2	1	2.161420e-2	1.000000e+0	1	1.402361e-2	1.000000e+0	1.000000e+0	7.130830e+1	1.402361e-2	1	253	1.000000e+0	3.952569e-3	unnamed	METTL15
+GO Biological Process	GO:0008152	metabolic process	2	6.507895e-1	1.000000e+0	1.000000e+0	1.536595e+0	6.507895e-1	1	6.507895e-1	1.000000e+0	2	5.097278e-1	1.000000e+0	1.000000e+0	1.961831e+0	5.097278e-1	1	9196	1.000000e+0	1.087429e-4	unnamed	METTL15
+MSigDB Perturbation	WANG_CLIM2_TARGETS_DN	Genes down-regulated in MCF7 cells (breast cancer) engineered to conditionally express a dominant negative form of CLIM2 [GeneID=8861] by a Tet Off system.	1	1.737370e-2	1.000000e+0	1.000000e+0	5.755826e+1	1.737370e-2	1	1.737370e-2	1.000000e+0	1	9.866415e-3	1.000000e+0	1.000000e+0	1.013539e+2	9.866415e-3	1	178	1.000000e+0	5.617978e-3	unnamed	METTL15
+MSigDB Perturbation	TOYOTA_TARGETS_OF_MIR34B_AND_MIR34C	Genes down-regulated in HCT116 cells (colon cancer) upon expression of MIR34B or MIR34C [GeneID=407041;407042] microRNAs.	2	3.724676e-2	1.000000e+0	1.000000e+0	2.684797e+1	3.724676e-2	1	3.724676e-2	1.000000e+0	4	2.433346e-2	1.000000e+0	1.000000e+0	4.109567e+1	2.433346e-2	1	439	1.000000e+0	2.277904e-3	unnamed	METTL15
+MSigDB Perturbation	MONNIER_POSTRADIATION_TUMOR_ESCAPE_DN	The postradiation tumor escape signature: genes down-regulated in tumors from irradiated stroma vs those from non-irradiated stroma.	3	3.802413e-2	1.000000e+0	1.000000e+0	2.629909e+1	3.802413e-2	1	3.802413e-2	1.000000e+0	2	1.967740e-2	1.000000e+0	1.000000e+0	5.081972e+1	1.967740e-2	1	355	1.000000e+0	2.816901e-3	unnamed	METTL15
+MSigDB Perturbation	MIKKELSEN_NPC_ICP_WITH_H3K4ME3	Genes with low-CpG-density promoters (LCP) bearing histone H3 trimethylation mark at K4 (H3K4me3) in neural progenitor cells (NPC).	4	5.066138e-2	1.000000e+0	1.000000e+0	1.973890e+1	5.066138e-2	1	5.066138e-2	1.000000e+0	3	2.333574e-2	1.000000e+0	1.000000e+0	4.285273e+1	2.333574e-2	1	421	1.000000e+0	2.375297e-3	unnamed	METTL15
+MSigDB Perturbation	MIKKELSEN_ES_ICP_WITH_H3K4ME3	Genes with intermediate-CpG-density (ICP) promoters bearing histone H3 K4 trimethylation mark (H3K4me3) in embryonic stem cells (ES).	5	5.226929e-2	1.000000e+0	1.000000e+0	1.913169e+1	5.226929e-2	1	5.226929e-2	1.000000e+0	5	3.730392e-2	1.000000e+0	1.000000e+0	2.680684e+1	3.730392e-2	1	673	1.000000e+0	1.485884e-3	unnamed	METTL15
+MSigDB Perturbation	NUYTTEN_EZH2_TARGETS_DN	Genes down-regulated in PC3 cells (prostate cancer) after knockdown of EZH2 [GeneID=2146] by RNAi.	6	8.521044e-2	1.000000e+0	1.000000e+0	1.173565e+1	8.521044e-2	1	8.521044e-2	1.000000e+0	6	5.432071e-2	1.000000e+0	1.000000e+0	1.840918e+1	5.432071e-2	1	980	1.000000e+0	1.020408e-3	unnamed	METTL15
+MSigDB miRNA Motifs	CCCAGAG,MIR-326	Targets of MicroRNA CCCAGAG,MIR-326	1	2.014728e-2	1.000000e+0	1.000000e+0	4.963449e+1	2.014728e-2	1	2.014728e-2	1.000000e+0	1	8.037248e-3	1.000000e+0	1.000000e+0	1.244207e+2	8.037248e-3	1	145	1.000000e+0	6.896552e-3	unnamed	METTL15
+InterPro	IPR002903	Ribosomal RNA small subunit methyltransferase H	1	3.512329e-4	1.000000e+0	1.000000e+0	2.847114e+3	3.512329e-4	1	3.512329e-4	1.000000e+0	1	5.542930e-5	5.222549e-1	5.222549e-1	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	METTL15
+InterPro	IPR023397	S-adenosyl-L-methionine-dependent methyltransferase, MraW, recognition domain	1	3.512329e-4	1.000000e+0	1.000000e+0	2.847114e+3	3.512329e-4	1	3.512329e-4	1.000000e+0	1	5.542930e-5	5.222549e-1	5.222549e-1	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	METTL15
+TreeFam	TF106425	methyltransferase 5 domain containing 1	1	3.512329e-4	1.000000e+0	1.000000e+0	2.847114e+3	3.512329e-4	1	3.512329e-4	1.000000e+0	1	5.542930e-5	4.504185e-1	4.504185e-1	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	METTL15
+Ensembl Genes	3173	METTL15	1	3.512329e-4	1.000000e+0	1.000000e+0	2.847114e+3	3.512329e-4	1	3.512329e-4	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	METTL15
+MSigDB Immunologic Signatures	GSE17974_0H_VS_48H_IN_VITRO_ACT_CD4_TCELL_DN	Genes down-regulated in comparison of untreated CD4 [GeneID=920] T cells at 0 h versus the untreated cells at 48 h.	1	1.433084e-2	1.000000e+0	1.000000e+0	6.977957e+1	1.433084e-2	1	1.433084e-2	1.000000e+0	2	1.014356e-2	1.000000e+0	1.000000e+0	9.858470e+1	1.014356e-2	1	183	1.000000e+0	5.464481e-3	unnamed	METTL15
+MSigDB Immunologic Signatures	GSE27786_CD4_TCELL_VS_NEUTROPHIL_UP	Genes up-regulated in comparison of CD4 [GeneID=920] T cells versus neutrophils.	2	1.557495e-2	1.000000e+0	1.000000e+0	6.420566e+1	1.557495e-2	1	1.557495e-2	1.000000e+0	4	1.047614e-2	1.000000e+0	1.000000e+0	9.545503e+1	1.047614e-2	1	189	1.000000e+0	5.291005e-3	unnamed	METTL15
+MSigDB Immunologic Signatures	GSE14308_NAIVE_CD4_TCELL_VS_NATURAL_TREG_DN	Genes down-regulated in comparison of naive CD4 [GeneID=920] T cells versus natural regulatory T cell (Treg).	3	1.571758e-2	1.000000e+0	1.000000e+0	6.362302e+1	1.571758e-2	1	1.571758e-2	1.000000e+0	6	1.058700e-2	1.000000e+0	1.000000e+0	9.445550e+1	1.058700e-2	1	191	1.000000e+0	5.235602e-3	unnamed	METTL15
+MSigDB Immunologic Signatures	GSE27786_NKTCELL_VS_NEUTROPHIL_UP	Genes up-regulated in comparison of NKT cells versus neutrophils.	4	1.614881e-2	1.000000e+0	1.000000e+0	6.192406e+1	1.614881e-2	1	1.614881e-2	1.000000e+0	4	1.047614e-2	1.000000e+0	1.000000e+0	9.545503e+1	1.047614e-2	1	189	1.000000e+0	5.291005e-3	unnamed	METTL15
+MSigDB Immunologic Signatures	GSE27786_LIN_NEG_VS_CD4_TCELL_UP	Genes up-regulated in comparison of lineage negative versus CD4 [GeneID=920] T cells.	5	1.632330e-2	1.000000e+0	1.000000e+0	6.126213e+1	1.632330e-2	1	1.632330e-2	1.000000e+0	11	1.075328e-2	1.000000e+0	1.000000e+0	9.299485e+1	1.075328e-2	1	194	1.000000e+0	5.154639e-3	unnamed	METTL15
+MSigDB Immunologic Signatures	GSE26928_NAIVE_VS_CENT_MEMORY_CD4_TCELL_UP	Genes up-regulated in comparison of naive CD4 [GeneID=920] T cells versus CD4 [GeneID=920] central memory T cells.	6	1.637635e-2	1.000000e+0	1.000000e+0	6.106368e+1	1.637635e-2	1	1.637635e-2	1.000000e+0	1	9.422981e-3	1.000000e+0	1.000000e+0	1.061235e+2	9.422981e-3	1	170	1.000000e+0	5.882353e-3	unnamed	METTL15
+MSigDB Immunologic Signatures	GSE14308_TH2_VS_NAIVE_CD4_TCELL_UP	Genes up-regulated in comparison of Th2 cells versus naive CD4 [GeneID=620] T cells.	7	1.666280e-2	1.000000e+0	1.000000e+0	6.001392e+1	1.666280e-2	1	1.666280e-2	1.000000e+0	14	1.080871e-2	1.000000e+0	1.000000e+0	9.251795e+1	1.080871e-2	1	195	1.000000e+0	5.128205e-3	unnamed	METTL15
+MSigDB Immunologic Signatures	GSE27786_LIN_NEG_VS_MONO_MAC_UP	Genes up-regulated in comparison of lineage negative versus monocyte macrophages.	8	1.705984e-2	1.000000e+0	1.000000e+0	5.861718e+1	1.705984e-2	1	1.705984e-2	1.000000e+0	10	1.069785e-2	1.000000e+0	1.000000e+0	9.347668e+1	1.069785e-2	1	193	1.000000e+0	5.181347e-3	unnamed	METTL15
+MSigDB Immunologic Signatures	GSE27786_CD8_TCELL_VS_NEUTROPHIL_UP	Genes up-regulated in comparison of CD8 T cells versus neutrophils.	9	1.784784e-2	1.000000e+0	1.000000e+0	5.602919e+1	1.784784e-2	1	1.784784e-2	1.000000e+0	11	1.075328e-2	1.000000e+0	1.000000e+0	9.299485e+1	1.075328e-2	1	194	1.000000e+0	5.154639e-3	unnamed	METTL15
+MSigDB Immunologic Signatures	GSE27786_LIN_NEG_VS_CD8_TCELL_UP	Genes up-regulated in comparison of lineage negative versus CD8 T cells.	10	1.822355e-2	1.000000e+0	1.000000e+0	5.487404e+1	1.822355e-2	1	1.822355e-2	1.000000e+0	11	1.075328e-2	1.000000e+0	1.000000e+0	9.299485e+1	1.075328e-2	1	194	1.000000e+0	5.154639e-3	unnamed	METTL15
+MSigDB Immunologic Signatures	GSE15324_ELF4_KO_VS_WT_ACTIVATED_CD8_TCELL_UP	Genes up-regulated in comparison of activated CD8 T cells from ELF4 [GeneID=2000] defficient mice versus those from wild type animals.	11	1.895582e-2	1.000000e+0	1.000000e+0	5.275425e+1	1.895582e-2	1	1.895582e-2	1.000000e+0	6	1.058700e-2	1.000000e+0	1.000000e+0	9.445550e+1	1.058700e-2	1	191	1.000000e+0	5.235602e-3	unnamed	METTL15
+MSigDB Immunologic Signatures	GSE26928_NAIVE_VS_EFF_MEMORY_CD4_TCELL_UP	Genes up-regulated in comparison of naive CD4 [GeneID=920] T cells versus CD4 [GeneID=920] effector memory T cells.	12	1.906354e-2	1.000000e+0	1.000000e+0	5.245616e+1	1.906354e-2	1	1.906354e-2	1.000000e+0	3	1.019899e-2	1.000000e+0	1.000000e+0	9.804891e+1	1.019899e-2	1	184	1.000000e+0	5.434783e-3	unnamed	METTL15
+MSigDB Immunologic Signatures	GSE9037_WT_VS_IRAK4_KO_LPS_1H_STIM_BMDM_UP	Genes up-regulated in comparison of untreated wild type macrophages at 1 h versus those from IRAK4 [GeneID=51135] deficient mice treated with LPS (TLR4 agonist) at 1 h.	13	2.007240e-2	1.000000e+0	1.000000e+0	4.981964e+1	2.007240e-2	1	2.007240e-2	1.000000e+0	6	1.058700e-2	1.000000e+0	1.000000e+0	9.445550e+1	1.058700e-2	1	191	1.000000e+0	5.235602e-3	unnamed	METTL15
+MSigDB Immunologic Signatures	GSE7460_CTRL_VS_TGFB_TREATED_ACT_FOXP3_HET_TCONV_DN	Genes down-regulated in comparsion of WTActCD4 versus WTActCD4TGF (see Fig. 1 in the paper for details).	14	2.072143e-2	1.000000e+0	1.000000e+0	4.825921e+1	2.072143e-2	1	2.072143e-2	1.000000e+0	6	1.058700e-2	1.000000e+0	1.000000e+0	9.445550e+1	1.058700e-2	1	191	1.000000e+0	5.235602e-3	unnamed	METTL15
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

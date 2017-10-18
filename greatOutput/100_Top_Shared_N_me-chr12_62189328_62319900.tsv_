@@ -1,0 +1,67 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Cellular Component	GO:0005737	cytoplasm	1	6.734732e-1	1.000000e+0	1.000000e+0	1.484840e+0	6.734732e-1	1	6.734732e-1	1.000000e+0	1	5.240840e-1	1.000000e+0	1.000000e+0	1.908091e+0	5.240840e-1	1	9455	1.000000e+0	1.057641e-4	unnamed	FAM19A2
+GO Cellular Component	GO:0044424	intracellular part	2	8.017695e-1	1.000000e+0	1.000000e+0	1.247241e+0	8.017695e-1	1	8.017695e-1	1.000000e+0	2	6.971897e-1	1.000000e+0	1.000000e+0	1.434330e+0	6.971897e-1	1	12578	1.000000e+0	7.950390e-5	unnamed	FAM19A2
+GO Cellular Component	GO:0005622	intracellular	3	8.064789e-1	1.000000e+0	1.000000e+0	1.239958e+0	8.064789e-1	1	8.064789e-1	1.000000e+0	3	7.066127e-1	1.000000e+0	1.000000e+0	1.415202e+0	7.066127e-1	1	12748	1.000000e+0	7.844368e-5	unnamed	FAM19A2
+GO Cellular Component	GO:0044464	cell part	4	8.908971e-1	1.000000e+0	1.000000e+0	1.122464e+0	8.908971e-1	1	8.908971e-1	1.000000e+0	4	8.202982e-1	1.000000e+0	1.000000e+0	1.219069e+0	8.202982e-1	1	14799	1.000000e+0	6.757213e-5	unnamed	FAM19A2
+GO Cellular Component	GO:0005623	cell	5	8.910977e-1	1.000000e+0	1.000000e+0	1.122211e+0	8.910977e-1	1	8.910977e-1	1.000000e+0	5	8.203536e-1	1.000000e+0	1.000000e+0	1.218986e+0	8.203536e-1	1	14800	1.000000e+0	6.756757e-5	unnamed	FAM19A2
+MGI Expression: Detected	7902	TS24_brain	1	1.531351e-1	1.000000e+0	1.000000e+0	6.530182e+0	1.531351e-1	1	1.531351e-1	1.000000e+0	1	5.481958e-2	1.000000e+0	1.000000e+0	1.824166e+1	5.481958e-2	1	989	1.000000e+0	1.011122e-3	unnamed	FAM19A2
+MGI Expression: Detected	7609	TS24_central nervous system	2	1.772412e-1	1.000000e+0	1.000000e+0	5.642029e+0	1.772412e-1	1	1.772412e-1	1.000000e+0	2	6.668145e-2	1.000000e+0	1.000000e+0	1.499667e+1	6.668145e-2	1	1203	1.000000e+0	8.312552e-4	unnamed	FAM19A2
+MGI Expression: Detected	7502	TS24_nervous system	3	1.818348e-1	1.000000e+0	1.000000e+0	5.499496e+0	1.818348e-1	1	1.818348e-1	1.000000e+0	3	6.945291e-2	1.000000e+0	1.000000e+0	1.439824e+1	6.945291e-2	1	1253	1.000000e+0	7.980846e-4	unnamed	FAM19A2
+MGI Expression: Detected	7446	TS24_organ system	4	2.979509e-1	1.000000e+0	1.000000e+0	3.356258e+0	2.979509e-1	1	2.979509e-1	1.000000e+0	4	1.412893e-1	1.000000e+0	1.000000e+0	7.077678e+0	1.412893e-1	1	2549	1.000000e+0	3.923107e-4	unnamed	FAM19A2
+MGI Expression: Detected	6928	TS24_embryo	5	3.290828e-1	1.000000e+0	1.000000e+0	3.038749e+0	3.290828e-1	1	3.290828e-1	1.000000e+0	5	1.609113e-1	1.000000e+0	1.000000e+0	6.214606e+0	1.609113e-1	1	2903	1.000000e+0	3.444712e-4	unnamed	FAM19A2
+MGI Expression: Detected	6927	Theiler_stage_24	6	3.296590e-1	1.000000e+0	1.000000e+0	3.033437e+0	3.296590e-1	1	3.296590e-1	1.000000e+0	6	1.611884e-1	1.000000e+0	1.000000e+0	6.203920e+0	1.611884e-1	1	2908	1.000000e+0	3.438790e-4	unnamed	FAM19A2
+MGI Expression: Detected	6365	TS22_brain	7	3.486991e-1	1.000000e+0	1.000000e+0	2.867802e+0	3.486991e-1	1	3.486991e-1	1.000000e+0	7	1.615764e-1	1.000000e+0	1.000000e+0	6.189022e+0	1.615764e-1	1	2915	1.000000e+0	3.430532e-4	unnamed	FAM19A2
+MGI Expression: Detected	6351	TS22_central nervous system	8	3.611614e-1	1.000000e+0	1.000000e+0	2.768845e+0	3.611614e-1	1	3.611614e-1	1.000000e+0	8	1.699462e-1	1.000000e+0	1.000000e+0	5.884214e+0	1.699462e-1	1	3066	1.000000e+0	3.261579e-4	unnamed	FAM19A2
+MGI Expression: Detected	6350	TS22_nervous system	9	3.685477e-1	1.000000e+0	1.000000e+0	2.713353e+0	3.685477e-1	1	3.685477e-1	1.000000e+0	9	1.757663e-1	1.000000e+0	1.000000e+0	5.689372e+0	1.757663e-1	1	3171	1.000000e+0	3.153579e-4	unnamed	FAM19A2
+MGI Expression: Detected	5784	TS22_organ system	10	4.769468e-1	1.000000e+0	1.000000e+0	2.096670e+0	4.769468e-1	1	4.769468e-1	1.000000e+0	10	2.553074e-1	1.000000e+0	1.000000e+0	3.916848e+0	2.553074e-1	1	4606	1.000000e+0	2.171081e-4	unnamed	FAM19A2
+MGI Expression: Detected	5741	TS22_embryo	11	5.012384e-1	1.000000e+0	1.000000e+0	1.995059e+0	5.012384e-1	1	5.012384e-1	1.000000e+0	11	2.755390e-1	1.000000e+0	1.000000e+0	3.629250e+0	2.755390e-1	1	4971	1.000000e+0	2.011668e-4	unnamed	FAM19A2
+MGI Expression: Detected	5740	Theiler_stage_22	12	5.025708e-1	1.000000e+0	1.000000e+0	1.989769e+0	5.025708e-1	1	5.025708e-1	1.000000e+0	12	2.768694e-1	1.000000e+0	1.000000e+0	3.611812e+0	2.768694e-1	1	4995	1.000000e+0	2.002002e-4	unnamed	FAM19A2
+MSigDB Perturbation	MAYBURD_RESPONSE_TO_L663536_UP	Genes up-regulated in H720 cells (lung cancer) after treatment with L663536 (MK886) [PubChem=105049], an inhibitor of leukotriene biosynthesis.	1	3.100509e-3	1.000000e+0	1.000000e+0	3.225276e+2	3.100509e-3	1	3.100509e-3	1.000000e+0	1	1.496591e-3	1.000000e+0	1.000000e+0	6.681852e+2	1.496591e-3	1	27	1.000000e+0	3.703704e-2	unnamed	FAM19A2
+MSigDB Perturbation	HARRIS_BRAIN_CANCER_PROGENITORS	Genes from the brain cancer stem (cancer stem cell, CSC) signature.	2	6.466345e-3	1.000000e+0	1.000000e+0	1.546469e+2	6.466345e-3	1	6.466345e-3	1.000000e+0	2	2.383460e-3	1.000000e+0	1.000000e+0	4.195581e+2	2.383460e-3	1	43	1.000000e+0	2.325581e-2	unnamed	FAM19A2
+MSigDB Perturbation	DOUGLAS_BMI1_TARGETS_DN	Genes down-regulated in A4573 cells (Ewing's sarcoma, ESFT) after knockdown of BMI1 [GeneID=648] by RNAi.	3	3.048740e-2	1.000000e+0	1.000000e+0	3.280044e+1	3.048740e-2	1	3.048740e-2	1.000000e+0	3	1.696137e-2	1.000000e+0	1.000000e+0	5.895752e+1	1.696137e-2	1	306	1.000000e+0	3.267974e-3	unnamed	FAM19A2
+MSigDB Perturbation	CREIGHTON_ENDOCRINE_THERAPY_RESISTANCE_2	The 'group 2 set' of genes associated with acquired endocrine therapy resistance in breast tumors expressing ESR1 and ERBB2 [GeneID=2099;2064].	4	3.120906e-2	1.000000e+0	1.000000e+0	3.204197e+1	3.120906e-2	1	3.120906e-2	1.000000e+0	4	2.006541e-2	1.000000e+0	1.000000e+0	4.983702e+1	2.006541e-2	1	362	1.000000e+0	2.762431e-3	unnamed	FAM19A2
+MSigDB Perturbation	ZWANG_CLASS_1_TRANSIENTLY_INDUCED_BY_EGF	Class I of genes transiently induced by EGF [GeneID =1950] in 184A1 cells (mammary epithelium).	5	6.194948e-2	1.000000e+0	1.000000e+0	1.614218e+1	6.194948e-2	1	6.194948e-2	1.000000e+0	5	2.671692e-2	1.000000e+0	1.000000e+0	3.742946e+1	2.671692e-2	1	482	1.000000e+0	2.074689e-3	unnamed	FAM19A2
+MSigDB Perturbation	GOBERT_OLIGODENDROCYTE_DIFFERENTIATION_DN	Genes down-regulated during differentiation of Oli-Neu cells (oligodendroglial precursor) in response to PD174265 [PubChemID=4709].	6	1.243698e-1	1.000000e+0	1.000000e+0	8.040539e+0	1.243698e-1	1	1.243698e-1	1.000000e+0	6	5.742475e-2	1.000000e+0	1.000000e+0	1.741409e+1	5.742475e-2	1	1036	1.000000e+0	9.652510e-4	unnamed	FAM19A2
+MSigDB Perturbation	MEISSNER_BRAIN_HCP_WITH_H3K4ME3_AND_H3K27ME3	Genes with high-CpG-density promoters (HCP) bearing histone H3 dimethylation at K4 (H3K4me2) and trimethylation at K27 (H3K27me3) in brain.	7	1.581088e-1	1.000000e+0	1.000000e+0	6.324759e+0	1.581088e-1	1	1.581088e-1	1.000000e+0	7	5.759104e-2	1.000000e+0	1.000000e+0	1.736381e+1	5.759104e-2	1	1039	1.000000e+0	9.624639e-4	unnamed	FAM19A2
+MSigDB Predicted Promoter Motifs	GGAMTNNNNNTCCY_UNKNOWN	Motif GGAMTNNNNNTCCY (no known TF)	1	9.571554e-3	1.000000e+0	1.000000e+0	1.044762e+2	9.571554e-3	1	9.571554e-3	1.000000e+0	1	6.152652e-3	1.000000e+0	1.000000e+0	1.625315e+2	6.152652e-3	1	111	1.000000e+0	9.009009e-3	unnamed	FAM19A2
+MSigDB Predicted Promoter Motifs	V$E12_Q6	Motif RRCAGGTGNCV matches TCF3: transcription factor 3 (E2A immunoglobulin enhancer binding factors E12/E47)	2	3.028492e-2	1.000000e+0	1.000000e+0	3.301973e+1	3.028492e-2	1	3.028492e-2	1.000000e+0	3	1.385732e-2	1.000000e+0	1.000000e+0	7.216400e+1	1.385732e-2	1	250	1.000000e+0	4.000000e-3	unnamed	FAM19A2
+MSigDB Predicted Promoter Motifs	V$DBP_Q6	Motif AGCAHAC matches DBP: D site of albumin promoter (albumin D-box) binding protein	3	4.069588e-2	1.000000e+0	1.000000e+0	2.457251e+1	4.069588e-2	1	4.069588e-2	1.000000e+0	2	1.352475e-2	1.000000e+0	1.000000e+0	7.393852e+1	1.352475e-2	1	244	1.000000e+0	4.098361e-3	unnamed	FAM19A2
+MSigDB Predicted Promoter Motifs	CAGGTG_V$E12_Q6	Motif CAGGTG matches TCF3: transcription factor 3 (E2A immunoglobulin enhancer binding factors E12/E47)	4	2.657598e-1	1.000000e+0	1.000000e+0	3.762796e+0	2.657598e-1	1	2.657598e-1	1.000000e+0	5	1.314229e-1	1.000000e+0	1.000000e+0	7.609026e+0	1.314229e-1	1	2371	1.000000e+0	4.217630e-4	unnamed	FAM19A2
+MSigDB Predicted Promoter Motifs	AACTTT_UNKNOWN	Motif AACTTT (no known TF)	5	2.964325e-1	1.000000e+0	1.000000e+0	3.373449e+0	2.964325e-1	1	2.964325e-1	1.000000e+0	4	1.009922e-1	1.000000e+0	1.000000e+0	9.901756e+0	1.009922e-1	1	1822	1.000000e+0	5.488474e-4	unnamed	FAM19A2
+InterPro	IPR020350	Chemokine-like protein, FAM19A2	1	1.626470e-3	1.000000e+0	1.000000e+0	6.148284e+2	1.626470e-3	1	1.626470e-3	1.000000e+0	1	2.771465e-4	1.000000e+0	1.000000e+0	3.608200e+3	2.771465e-4	1	5	1.000000e+0	2.000000e-1	unnamed	FAM19A2
+TreeFam	TF331749	FAM19A1, FAM19A2, FAM19A3, FAM19A4, FAM19A5	1	1.626470e-3	1.000000e+0	1.000000e+0	6.148284e+2	1.626470e-3	1	1.626470e-3	1.000000e+0	1	2.771465e-4	1.000000e+0	1.000000e+0	3.608200e+3	2.771465e-4	1	5	1.000000e+0	2.000000e-1	unnamed	FAM19A2
+Ensembl Genes	4777	FAM19A2	1	3.713332e-4	1.000000e+0	1.000000e+0	2.692999e+3	3.713332e-4	1	3.713332e-4	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	FAM19A2
+MSigDB Immunologic Signatures	GSE17974_IL4_AND_ANTI_IL12_VS_UNTREATED_0.5H_ACT_CD4_TCELL_DN	Genes down-regulated in comparison of CD4 [GeneID=920] T cells treated with IL4 [GeneID=3565] and anti-IL12 at 0.5 h versus the untreated cells at 0.5 h.	1	1.490294e-2	1.000000e+0	1.000000e+0	6.710084e+1	1.490294e-2	1	1.490294e-2	1.000000e+0	1	7.870961e-3	1.000000e+0	1.000000e+0	1.270493e+2	7.870961e-3	1	142	1.000000e+0	7.042254e-3	unnamed	FAM19A2
+MSigDB Immunologic Signatures	GSE6566_STRONG_VS_WEAK_DC_STIMULATED_CD4_TCELL_DN	Genes down-regulated in CD4 [GeneID=920] cells stimulated with strong dendritic cells (DC) versus CD4 [GeneID=920] T cells stimulated with weak DCs.	2	1.624043e-2	1.000000e+0	1.000000e+0	6.157474e+1	1.624043e-2	1	1.624043e-2	1.000000e+0	2	8.757829e-3	1.000000e+0	1.000000e+0	1.141835e+2	8.757829e-3	1	158	1.000000e+0	6.329114e-3	unnamed	FAM19A2
+MSigDB Immunologic Signatures	GSE11864_CSF1_PAM3CYS_VS_CSF1_IFNG_PAM3CYS_IN_MAC_DN	Genes down-regulated in comparison of macrophages cultured with M-CSF [GeneID=1435] and Pam3Cyc versus macrophages cultured with M-CSF [GeneID=1435], IFNG [GeneID=3458] and Pam3Cyc.	3	1.905156e-2	1.000000e+0	1.000000e+0	5.248914e+1	1.905156e-2	1	1.905156e-2	1.000000e+0	4	1.003270e-2	1.000000e+0	1.000000e+0	9.967403e+1	1.003270e-2	1	181	1.000000e+0	5.524862e-3	unnamed	FAM19A2
+MSigDB Immunologic Signatures	GSE26928_NAIVE_VS_EFF_MEMORY_CD4_TCELL_DN	Genes down-regulated in comparison of naive CD4 [GeneID=920] T cells versus CD4 [GeneID=920] effector memory T cells.	4	1.920016e-2	1.000000e+0	1.000000e+0	5.208290e+1	1.920016e-2	1	1.920016e-2	1.000000e+0	3	9.866415e-3	1.000000e+0	1.000000e+0	1.013539e+2	9.866415e-3	1	178	1.000000e+0	5.617978e-3	unnamed	FAM19A2
+MSigDB Immunologic Signatures	GSE7460_WT_VS_FOXP3_HET_ACT_WITH_TGFB_TCONV_UP	Genes up-regulated in comparison of ActCD4TGF versus WTActCD4TGF (see Fig. 1 in the paper for details).	5	2.543665e-2	1.000000e+0	1.000000e+0	3.931335e+1	2.543665e-2	1	2.543665e-2	1.000000e+0	6	1.058700e-2	1.000000e+0	1.000000e+0	9.445550e+1	1.058700e-2	1	191	1.000000e+0	5.235602e-3	unnamed	FAM19A2
+MSigDB Immunologic Signatures	GSE36392_EOSINOPHIL_VS_MAC_IL25_TREATED_LUNG_UP	Genes up-regulated in comparison of eosinophils treated with IL25 [GeneID=64806] versus macrophages treated with IL25 [GeneID=64806].	6	2.552236e-2	1.000000e+0	1.000000e+0	3.918134e+1	2.552236e-2	1	2.552236e-2	1.000000e+0	5	1.036528e-2	1.000000e+0	1.000000e+0	9.647594e+1	1.036528e-2	1	187	1.000000e+0	5.347594e-3	unnamed	FAM19A2
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

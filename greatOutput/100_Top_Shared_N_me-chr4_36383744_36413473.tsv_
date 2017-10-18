@@ -1,0 +1,47 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Biological Process	GO:0007165	signal transduction	1	3.912589e-1	1.000000e+0	1.000000e+0	2.555852e+0	3.912589e-1	1	3.912589e-1	1.000000e+0	1	2.385123e-1	1.000000e+0	1.000000e+0	4.192656e+0	2.385123e-1	1	4303	1.000000e+0	2.323960e-4	unnamed	DTHD1
+GO Biological Process	GO:0044700	single organism signaling	2	4.371810e-1	1.000000e+0	1.000000e+0	2.287382e+0	4.371810e-1	1	4.371810e-1	1.000000e+0	2	2.635663e-1	1.000000e+0	1.000000e+0	3.794111e+0	2.635663e-1	1	4755	1.000000e+0	2.103049e-4	unnamed	DTHD1
+GO Biological Process	GO:0007154	cell communication	3	4.446638e-1	1.000000e+0	1.000000e+0	2.248890e+0	4.446638e-1	1	4.446638e-1	1.000000e+0	3	2.703841e-1	1.000000e+0	1.000000e+0	3.698442e+0	2.703841e-1	1	4878	1.000000e+0	2.050021e-4	unnamed	DTHD1
+GO Biological Process	GO:0051716	cellular response to stimulus	4	4.562761e-1	1.000000e+0	1.000000e+0	2.191655e+0	4.562761e-1	1	4.562761e-1	1.000000e+0	4	2.957153e-1	1.000000e+0	1.000000e+0	3.381631e+0	2.957153e-1	1	5335	1.000000e+0	1.874414e-4	unnamed	DTHD1
+GO Biological Process	GO:0050896	response to stimulus	5	5.533212e-1	1.000000e+0	1.000000e+0	1.807268e+0	5.533212e-1	1	5.533212e-1	1.000000e+0	5	3.817416e-1	1.000000e+0	1.000000e+0	2.619573e+0	3.817416e-1	1	6887	1.000000e+0	1.452011e-4	unnamed	DTHD1
+GO Biological Process	GO:0050794	regulation of cellular process	6	6.759845e-1	1.000000e+0	1.000000e+0	1.479324e+0	6.759845e-1	1	6.759845e-1	1.000000e+0	6	4.907710e-1	1.000000e+0	1.000000e+0	2.037610e+0	4.907710e-1	1	8854	1.000000e+0	1.129433e-4	unnamed	DTHD1
+GO Biological Process	GO:0050789	regulation of biological process	7	6.921477e-1	1.000000e+0	1.000000e+0	1.444778e+0	6.921477e-1	1	6.921477e-1	1.000000e+0	7	5.170999e-1	1.000000e+0	1.000000e+0	1.933862e+0	5.170999e-1	1	9329	1.000000e+0	1.071926e-4	unnamed	DTHD1
+GO Biological Process	GO:0065007	biological regulation	8	7.151977e-1	1.000000e+0	1.000000e+0	1.398215e+0	7.151977e-1	1	7.151977e-1	1.000000e+0	8	5.461449e-1	1.000000e+0	1.000000e+0	1.831016e+0	5.461449e-1	1	9853	1.000000e+0	1.014919e-4	unnamed	DTHD1
+GO Biological Process	GO:0044763	single-organism cellular process	9	7.497126e-1	1.000000e+0	1.000000e+0	1.333844e+0	7.497126e-1	1	7.497126e-1	1.000000e+0	9	5.605011e-1	1.000000e+0	1.000000e+0	1.784118e+0	5.605011e-1	1	10112	1.000000e+0	9.889241e-5	unnamed	DTHD1
+GO Biological Process	GO:0044699	single-organism process	10	7.935590e-1	1.000000e+0	1.000000e+0	1.260146e+0	7.935590e-1	1	7.935590e-1	1.000000e+0	10	6.164847e-1	1.000000e+0	1.000000e+0	1.622100e+0	6.164847e-1	1	11122	1.000000e+0	8.991189e-5	unnamed	DTHD1
+GO Biological Process	GO:0009987	cellular process	11	8.656787e-1	1.000000e+0	1.000000e+0	1.155163e+0	8.656787e-1	1	8.656787e-1	1.000000e+0	11	7.487944e-1	1.000000e+0	1.000000e+0	1.335480e+0	7.487944e-1	1	13509	1.000000e+0	7.402472e-5	unnamed	DTHD1
+MSigDB Perturbation	ACEVEDO_METHYLATED_IN_LIVER_CANCER_DN	Genes whose DNA is hyper-methylated in hepatocellular carcinoma (HCC) compared to normal liver.	1	1.007221e-1	1.000000e+0	1.000000e+0	9.928311e+0	1.007221e-1	1	1.007221e-1	1.000000e+0	1	4.323485e-2	1.000000e+0	1.000000e+0	2.312949e+1	4.323485e-2	1	780	1.000000e+0	1.282051e-3	unnamed	DTHD1
+InterPro	IPR000488	Death domain	1	4.651648e-3	1.000000e+0	1.000000e+0	2.149776e+2	4.651648e-3	1	4.651648e-3	1.000000e+0	1	1.995455e-3	1.000000e+0	1.000000e+0	5.011389e+2	1.995455e-3	1	36	1.000000e+0	2.777778e-2	unnamed	DTHD1
+InterPro	IPR011029	Death-like domain	2	8.170718e-3	1.000000e+0	1.000000e+0	1.223883e+2	8.170718e-3	1	8.170718e-3	1.000000e+0	2	5.265783e-3	1.000000e+0	1.000000e+0	1.899053e+2	5.265783e-3	1	95	1.000000e+0	1.052632e-2	unnamed	DTHD1
+TreeFam	TF351910	DTHD1	1	3.615469e-4	1.000000e+0	1.000000e+0	2.765893e+3	3.615469e-4	1	3.615469e-4	1.000000e+0	1	5.542930e-5	4.504185e-1	4.504185e-1	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	DTHD1
+Ensembl Genes	14441	DTHD1	1	3.615469e-4	1.000000e+0	1.000000e+0	2.765893e+3	3.615469e-4	1	3.615469e-4	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	DTHD1
+MSigDB Immunologic Signatures	GSE17974_IL4_AND_ANTI_IL12_VS_UNTREATED_0.5H_ACT_CD4_TCELL_UP	Genes up-regulated in comparison of CD4 [GeneID=920] T cells treated with IL4 [GeneID=3565] and anti-IL12 at 0.5 h versus the untreated cells at 0.5 h.	1	1.302746e-2	1.000000e+0	1.000000e+0	7.676096e+1	1.302746e-2	1	1.302746e-2	1.000000e+0	2	9.977274e-3	1.000000e+0	1.000000e+0	1.002278e+2	9.977274e-3	1	180	1.000000e+0	5.555556e-3	unnamed	DTHD1
+MSigDB Immunologic Signatures	GSE17974_0H_VS_0.5H_IN_VITRO_ACT_CD4_TCELL_UP	Genes up-regulated in comparison of untreated CD4 [GeneID=920] T cells at 0 h versus the untreated cells at 0.5 h.	2	1.465843e-2	1.000000e+0	1.000000e+0	6.822012e+1	1.465843e-2	1	1.465843e-2	1.000000e+0	1	9.755557e-3	1.000000e+0	1.000000e+0	1.025057e+2	9.755557e-3	1	176	1.000000e+0	5.681818e-3	unnamed	DTHD1
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

@@ -1,0 +1,69 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Cellular Component	GO:0033116	endoplasmic reticulum-Golgi intermediate compartment membrane	1	1.907583e-3	1.000000e+0	1.000000e+0	5.242237e+2	1.907583e-3	1	1.907583e-3	1.000000e+0	1	1.441162e-3	1.000000e+0	1.000000e+0	6.938846e+2	1.441162e-3	1	26	1.000000e+0	3.846154e-2	unnamed	LMAN1L
+GO Cellular Component	GO:0005793	endoplasmic reticulum-Golgi intermediate compartment	2	5.412399e-3	1.000000e+0	1.000000e+0	1.847610e+2	5.412399e-3	1	5.412399e-3	1.000000e+0	2	3.547475e-3	1.000000e+0	1.000000e+0	2.818906e+2	3.547475e-3	1	64	1.000000e+0	1.562500e-2	unnamed	LMAN1L
+GO Cellular Component	GO:0031090	organelle membrane	3	2.131131e-1	1.000000e+0	1.000000e+0	4.692344e+0	2.131131e-1	1	2.131131e-1	1.000000e+0	3	1.426750e-1	1.000000e+0	1.000000e+0	7.008936e+0	1.426750e-1	1	2574	1.000000e+0	3.885004e-4	unnamed	LMAN1L
+GO Cellular Component	GO:0016021	integral to membrane	4	4.578656e-1	1.000000e+0	1.000000e+0	2.184047e+0	4.578656e-1	1	4.578656e-1	1.000000e+0	4	2.916135e-1	1.000000e+0	1.000000e+0	3.429196e+0	2.916135e-1	1	5261	1.000000e+0	1.900779e-4	unnamed	LMAN1L
+GO Cellular Component	GO:0031224	intrinsic to membrane	5	4.694206e-1	1.000000e+0	1.000000e+0	2.130286e+0	4.694206e-1	1	4.694206e-1	1.000000e+0	5	2.978771e-1	1.000000e+0	1.000000e+0	3.357090e+0	2.978771e-1	1	5374	1.000000e+0	1.860811e-4	unnamed	LMAN1L
+GO Cellular Component	GO:0044422	organelle part	6	4.814989e-1	1.000000e+0	1.000000e+0	2.076848e+0	4.814989e-1	1	4.814989e-1	1.000000e+0	7	3.657225e-1	1.000000e+0	1.000000e+0	2.734313e+0	3.657225e-1	1	6598	1.000000e+0	1.515611e-4	unnamed	LMAN1L
+GO Cellular Component	GO:0044444	cytoplasmic part	7	5.199381e-1	1.000000e+0	1.000000e+0	1.923306e+0	5.199381e-1	1	5.199381e-1	1.000000e+0	8	3.898343e-1	1.000000e+0	1.000000e+0	2.565193e+0	3.898343e-1	1	7033	1.000000e+0	1.421868e-4	unnamed	LMAN1L
+GO Cellular Component	GO:0044425	membrane part	8	5.293034e-1	1.000000e+0	1.000000e+0	1.889276e+0	5.293034e-1	1	5.293034e-1	1.000000e+0	6	3.432737e-1	1.000000e+0	1.000000e+0	2.913128e+0	3.432737e-1	1	6193	1.000000e+0	1.614726e-4	unnamed	LMAN1L
+GO Cellular Component	GO:0016020	membrane	9	6.308744e-1	1.000000e+0	1.000000e+0	1.585102e+0	6.308744e-1	1	6.308744e-1	1.000000e+0	9	4.353417e-1	1.000000e+0	1.000000e+0	2.297046e+0	4.353417e-1	1	7854	1.000000e+0	1.273237e-4	unnamed	LMAN1L
+GO Cellular Component	GO:0005737	cytoplasm	10	6.734732e-1	1.000000e+0	1.000000e+0	1.484840e+0	6.734732e-1	1	6.734732e-1	1.000000e+0	10	5.240840e-1	1.000000e+0	1.000000e+0	1.908091e+0	5.240840e-1	1	9455	1.000000e+0	1.057641e-4	unnamed	LMAN1L
+GO Cellular Component	GO:0043231	intracellular membrane-bounded organelle	11	6.973299e-1	1.000000e+0	1.000000e+0	1.434041e+0	6.973299e-1	1	6.973299e-1	1.000000e+0	11	5.549582e-1	1.000000e+0	1.000000e+0	1.801938e+0	5.549582e-1	1	10012	1.000000e+0	9.988014e-5	unnamed	LMAN1L
+GO Cellular Component	GO:0043227	membrane-bounded organelle	12	6.992039e-1	1.000000e+0	1.000000e+0	1.430198e+0	6.992039e-1	1	6.992039e-1	1.000000e+0	12	5.568427e-1	1.000000e+0	1.000000e+0	1.795839e+0	5.568427e-1	1	10046	1.000000e+0	9.954211e-5	unnamed	LMAN1L
+GO Cellular Component	GO:0043229	intracellular organelle	13	7.399473e-1	1.000000e+0	1.000000e+0	1.351448e+0	7.399473e-1	1	7.399473e-1	1.000000e+0	13	6.092789e-1	1.000000e+0	1.000000e+0	1.641285e+0	6.092789e-1	1	10992	1.000000e+0	9.097525e-5	unnamed	LMAN1L
+GO Cellular Component	GO:0043226	organelle	14	7.415866e-1	1.000000e+0	1.000000e+0	1.348460e+0	7.415866e-1	1	7.415866e-1	1.000000e+0	14	6.110526e-1	1.000000e+0	1.000000e+0	1.636520e+0	6.110526e-1	1	11024	1.000000e+0	9.071118e-5	unnamed	LMAN1L
+GO Cellular Component	GO:0044424	intracellular part	15	8.017695e-1	1.000000e+0	1.000000e+0	1.247241e+0	8.017695e-1	1	8.017695e-1	1.000000e+0	15	6.971897e-1	1.000000e+0	1.000000e+0	1.434330e+0	6.971897e-1	1	12578	1.000000e+0	7.950390e-5	unnamed	LMAN1L
+GO Cellular Component	GO:0005622	intracellular	16	8.064789e-1	1.000000e+0	1.000000e+0	1.239958e+0	8.064789e-1	1	8.064789e-1	1.000000e+0	16	7.066127e-1	1.000000e+0	1.000000e+0	1.415202e+0	7.066127e-1	1	12748	1.000000e+0	7.844368e-5	unnamed	LMAN1L
+GO Cellular Component	GO:0044464	cell part	17	8.908971e-1	1.000000e+0	1.000000e+0	1.122464e+0	8.908971e-1	1	8.908971e-1	1.000000e+0	17	8.202982e-1	1.000000e+0	1.000000e+0	1.219069e+0	8.202982e-1	1	14799	1.000000e+0	6.757213e-5	unnamed	LMAN1L
+GO Cellular Component	GO:0005623	cell	18	8.910977e-1	1.000000e+0	1.000000e+0	1.122211e+0	8.910977e-1	1	8.910977e-1	1.000000e+0	18	8.203536e-1	1.000000e+0	1.000000e+0	1.218986e+0	8.203536e-1	1	14800	1.000000e+0	6.756757e-5	unnamed	LMAN1L
+MSigDB Perturbation	LIU_PROSTATE_CANCER_DN	Genes down-regulated in prostate cancer samples.	1	5.894800e-2	1.000000e+0	1.000000e+0	1.696410e+1	5.894800e-2	1	5.894800e-2	1.000000e+0	1	2.510947e-2	1.000000e+0	1.000000e+0	3.982561e+1	2.510947e-2	1	453	1.000000e+0	2.207506e-3	unnamed	LMAN1L
+MSigDB Perturbation	ZWANG_CLASS_1_TRANSIENTLY_INDUCED_BY_EGF	Class I of genes transiently induced by EGF [GeneID =1950] in 184A1 cells (mammary epithelium).	2	6.194948e-2	1.000000e+0	1.000000e+0	1.614218e+1	6.194948e-2	1	6.194948e-2	1.000000e+0	2	2.671692e-2	1.000000e+0	1.000000e+0	3.742946e+1	2.671692e-2	1	482	1.000000e+0	2.074689e-3	unnamed	LMAN1L
+InterPro	IPR005052	Legume-like lectin	1	1.968847e-4	1.000000e+0	1.000000e+0	5.079114e+3	1.968847e-4	1	1.968847e-4	1.000000e+0	1	2.217172e-4	1.000000e+0	1.000000e+0	4.510250e+3	2.217172e-4	1	4	1.000000e+0	2.500000e-1	unnamed	LMAN1L
+InterPro	IPR013320	Concanavalin A-like lectin/glucanase, subgroup	2	1.933092e-2	1.000000e+0	1.000000e+0	5.173058e+1	1.933092e-2	1	1.933092e-2	1.000000e+0	2	5.709218e-3	1.000000e+0	1.000000e+0	1.751553e+2	5.709218e-3	1	103	1.000000e+0	9.708738e-3	unnamed	LMAN1L
+InterPro	IPR008985	Concanavalin A-like lectin/glucanases superfamily	3	3.019054e-2	1.000000e+0	1.000000e+0	3.312296e+1	3.019054e-2	1	3.019054e-2	1.000000e+0	3	1.197273e-2	1.000000e+0	1.000000e+0	8.352315e+1	1.197273e-2	1	216	1.000000e+0	4.629630e-3	unnamed	LMAN1L
+TreeFam	TF313311	LMAN1, LMAN1L, LMAN2, LMAN2L	1	1.968847e-4	1.000000e+0	1.000000e+0	5.079114e+3	1.968847e-4	1	1.968847e-4	1.000000e+0	1	2.217172e-4	1.000000e+0	1.000000e+0	4.510250e+3	2.217172e-4	1	4	1.000000e+0	2.500000e-1	unnamed	LMAN1L
+Ensembl Genes	6611	LMAN1L	1	1.345170e-5	2.426821e-1	2.426821e-1	7.434007e+4	1.345170e-5	1	1.345170e-5	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	LMAN1L
+MSigDB Oncogenic Signatures	KRAS.KIDNEY_UP.V1_DN	Genes down-regulated in epithelial kidney cancer cell lines over-expressing an oncogenic form of KRAS [Gene ID=3845] gene.	1	1.165107e-2	1.000000e+0	1.000000e+0	8.582901e+1	1.165107e-2	1	1.165107e-2	1.000000e+0	1	7.372097e-3	1.000000e+0	1.000000e+0	1.356466e+2	7.372097e-3	1	133	1.000000e+0	7.518797e-3	unnamed	LMAN1L
+MSigDB Immunologic Signatures	GSE17721_PAM3CSK4_VS_GADIQUIMOD_0.5H_BMDM_DN	Genes down-regulated in comparison of dendritic cells (DC) stimulated with Pam3Csk4 (TLR1/2 agonist) at 0.5 h versus DC cells stimulated with Gardiquimod (TLR7 agonist) at 0.5 h.	1	1.652344e-2	1.000000e+0	1.000000e+0	6.052007e+1	1.652344e-2	1	1.652344e-2	1.000000e+0	11	1.086414e-2	1.000000e+0	1.000000e+0	9.204592e+1	1.086414e-2	1	196	1.000000e+0	5.102041e-3	unnamed	LMAN1L
+MSigDB Immunologic Signatures	GSE9006_1MONTH_VS_4MONTH_POST_TYPE_1_DIABETES_DX_PBMC_DN	Genes down-regulated in comparison of peripheral blood mononuclear cells (PBMC) from patients with type 1 diabetes at 1 month after the diagnosis versus those at 4 months later.	2	1.719727e-2	1.000000e+0	1.000000e+0	5.814877e+1	1.719727e-2	1	1.719727e-2	1.000000e+0	3	1.030985e-2	1.000000e+0	1.000000e+0	9.699462e+1	1.030985e-2	1	186	1.000000e+0	5.376344e-3	unnamed	LMAN1L
+MSigDB Immunologic Signatures	GSE11924_TFH_VS_TH2_CD4_TCELL_DN	Genes down-regulated in comparison of T follicular helper (Tfh) cells versus Th2 cells.	3	1.816565e-2	1.000000e+0	1.000000e+0	5.504897e+1	1.816565e-2	1	1.816565e-2	1.000000e+0	5	1.036528e-2	1.000000e+0	1.000000e+0	9.647594e+1	1.036528e-2	1	187	1.000000e+0	5.347594e-3	unnamed	LMAN1L
+MSigDB Immunologic Signatures	GSE20366_CD103_POS_VS_NEG_TREG_KLRG1NEG_UP	Genes up-regulated in comparison of TregCD103-Klrg1- versus TregCD103+Klrg1- (see Table 1S in the paper for details).	4	1.836806e-2	1.000000e+0	1.000000e+0	5.444234e+1	1.836806e-2	1	1.836806e-2	1.000000e+0	3	1.030985e-2	1.000000e+0	1.000000e+0	9.699462e+1	1.030985e-2	1	186	1.000000e+0	5.376344e-3	unnamed	LMAN1L
+MSigDB Immunologic Signatures	GSE17721_PAM3CSK4_VS_GADIQUIMOD_12H_BMDM_DN	Genes down-regulated in comparison of dendritic cells (DC) stimulated with Pam3Csk4 (TLR1/2 agonist) at 12 h versus DC cells stimulated with Gardiquimod (TLR7 agonist) at 12 h.	5	1.854824e-2	1.000000e+0	1.000000e+0	5.391347e+1	1.854824e-2	1	1.854824e-2	1.000000e+0	9	1.075328e-2	1.000000e+0	1.000000e+0	9.299485e+1	1.075328e-2	1	194	1.000000e+0	5.154639e-3	unnamed	LMAN1L
+MSigDB Immunologic Signatures	GSE10325_MYELOID_VS_LUPUS_MYELOID_UP	Genes up-regulated in comparison of healthy myeloid cells versus systemic lupus erythematosus myeloid cells.	6	1.871074e-2	1.000000e+0	1.000000e+0	5.344524e+1	1.871074e-2	1	1.871074e-2	1.000000e+0	5	1.036528e-2	1.000000e+0	1.000000e+0	9.647594e+1	1.036528e-2	1	187	1.000000e+0	5.347594e-3	unnamed	LMAN1L
+MSigDB Immunologic Signatures	GSE17721_POLYIC_VS_PAM3CSK4_0.5H_BMDM_DN	Genes down-regulated in comparison of dendritic cells (DC) stimulated with poly(I:C) (TLR3 agonist) at 0.5 h versus DC cells stimulated with Pam3Csk4 (TLR1/2 agonist) at 0.5 h.	7	1.912404e-2	1.000000e+0	1.000000e+0	5.229020e+1	1.912404e-2	1	1.912404e-2	1.000000e+0	11	1.086414e-2	1.000000e+0	1.000000e+0	9.204592e+1	1.086414e-2	1	196	1.000000e+0	5.102041e-3	unnamed	LMAN1L
+MSigDB Immunologic Signatures	GSE2706_UNSTIM_VS_8H_LPS_DC_DN	Genes down-regulated in comparison of unstimulated dendritic cells (DC) at 0 h versus DCs stimulated with LPS (TLR4 agonist) for 8 h.	8	2.051930e-2	1.000000e+0	1.000000e+0	4.873461e+1	2.051930e-2	1	2.051930e-2	1.000000e+0	2	1.025442e-2	1.000000e+0	1.000000e+0	9.751892e+1	1.025442e-2	1	185	1.000000e+0	5.405405e-3	unnamed	LMAN1L
+MSigDB Immunologic Signatures	GSE17721_LPS_VS_GARDIQUIMOD_1H_BMDM_UP	Genes up-regulated in comparison of dendritic cells (DC) stimulated with LPS (TLR4 agonist) at 1 h versus DC cells stimulated with Gardiquimod (TLR7 agonist) at 1 h.	9	2.058736e-2	1.000000e+0	1.000000e+0	4.857348e+1	2.058736e-2	1	2.058736e-2	1.000000e+0	14	1.091957e-2	1.000000e+0	1.000000e+0	9.157868e+1	1.091957e-2	1	197	1.000000e+0	5.076142e-3	unnamed	LMAN1L
+MSigDB Immunologic Signatures	GSE17721_CTRL_VS_LPS_6H_BMDM_DN	Genes down-regulated in comparison of control dendritic cells (DC) at 6 h versus those stimulated with LPS (TLR4 agonist) at 6 h.	10	2.124962e-2	1.000000e+0	1.000000e+0	4.705967e+1	2.124962e-2	1	2.124962e-2	1.000000e+0	11	1.086414e-2	1.000000e+0	1.000000e+0	9.204592e+1	1.086414e-2	1	196	1.000000e+0	5.102041e-3	unnamed	LMAN1L
+MSigDB Immunologic Signatures	GSE8515_CTRL_VS_IL6_4H_STIM_MAC_DN	Genes down-regulated in comparison of untreated macrophages versus those treated with IL6 [GeneID=3569].	11	2.134732e-2	1.000000e+0	1.000000e+0	4.684430e+1	2.134732e-2	1	2.134732e-2	1.000000e+0	1	1.014356e-2	1.000000e+0	1.000000e+0	9.858470e+1	1.014356e-2	1	183	1.000000e+0	5.464481e-3	unnamed	LMAN1L
+MSigDB Immunologic Signatures	GSE17721_CTRL_VS_GARDIQUIMOD_4H_BMDM_DN	Genes down-regulated in comparison of control dendritic cells (DC) at 4 h versus those stimulated with Gardiquimod (TLR7 agonist) at 4 h.	12	2.140253e-2	1.000000e+0	1.000000e+0	4.672345e+1	2.140253e-2	1	2.140253e-2	1.000000e+0	10	1.080871e-2	1.000000e+0	1.000000e+0	9.251795e+1	1.080871e-2	1	195	1.000000e+0	5.128205e-3	unnamed	LMAN1L
+MSigDB Immunologic Signatures	GSE17721_CTRL_VS_CPG_4H_BMDM_DN	Genes down-regulated in comparison of control dendritic cells (DC) at 4 h versus those stimulated with CpG DNA (TLR9 agonist) at 4 h.	13	2.146572e-2	1.000000e+0	1.000000e+0	4.658591e+1	2.146572e-2	1	2.146572e-2	1.000000e+0	8	1.069785e-2	1.000000e+0	1.000000e+0	9.347668e+1	1.069785e-2	1	193	1.000000e+0	5.181347e-3	unnamed	LMAN1L
+MSigDB Immunologic Signatures	GSE30083_SP3_VS_SP4_THYMOCYTE_UP	Genes up-regulated in comparison of SP3 thymocytes versus SP4 thymocytes.	14	2.227127e-2	1.000000e+0	1.000000e+0	4.490091e+1	2.227127e-2	1	2.227127e-2	1.000000e+0	7	1.053157e-2	1.000000e+0	1.000000e+0	9.495263e+1	1.053157e-2	1	190	1.000000e+0	5.263158e-3	unnamed	LMAN1L
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

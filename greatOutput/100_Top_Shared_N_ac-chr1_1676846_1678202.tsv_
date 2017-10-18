@@ -1,0 +1,63 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Cellular Component	GO:0016021	integral to membrane	1	4.578656e-1	1.000000e+0	1.000000e+0	2.184047e+0	4.578656e-1	1	4.578656e-1	1.000000e+0	1	2.916135e-1	1.000000e+0	1.000000e+0	3.429196e+0	2.916135e-1	1	5261	1.000000e+0	1.900779e-4	unnamed	SLC35E2
+GO Cellular Component	GO:0031224	intrinsic to membrane	2	4.694206e-1	1.000000e+0	1.000000e+0	2.130286e+0	4.694206e-1	1	4.694206e-1	1.000000e+0	2	2.978771e-1	1.000000e+0	1.000000e+0	3.357090e+0	2.978771e-1	1	5374	1.000000e+0	1.860811e-4	unnamed	SLC35E2
+GO Cellular Component	GO:0044425	membrane part	3	5.293034e-1	1.000000e+0	1.000000e+0	1.889276e+0	5.293034e-1	1	5.293034e-1	1.000000e+0	3	3.432737e-1	1.000000e+0	1.000000e+0	2.913128e+0	3.432737e-1	1	6193	1.000000e+0	1.614726e-4	unnamed	SLC35E2
+GO Cellular Component	GO:0016020	membrane	4	6.308744e-1	1.000000e+0	1.000000e+0	1.585102e+0	6.308744e-1	1	6.308744e-1	1.000000e+0	4	4.353417e-1	1.000000e+0	1.000000e+0	2.297046e+0	4.353417e-1	1	7854	1.000000e+0	1.273237e-4	unnamed	SLC35E2
+MSigDB Cancer Neighborhood	MORF_CDC16	Neighborhood of CDC16	1	5.710785e-3	1.000000e+0	1.000000e+0	1.751073e+2	5.710785e-3	1	5.710785e-3	1.000000e+0	2	3.880051e-3	1.000000e+0	8.283909e-1	2.577286e+2	3.880051e-3	1	70	1.000000e+0	1.428571e-2	unnamed	SLC35E2
+MSigDB Cancer Neighborhood	GCM_SUFU	Neighborhood of SUFU	2	6.445680e-3	1.000000e+0	1.000000e+0	1.551427e+2	6.445680e-3	1	6.445680e-3	1.000000e+0	3	4.157197e-3	1.000000e+0	5.917077e-1	2.405467e+2	4.157197e-3	1	75	1.000000e+0	1.333333e-2	unnamed	SLC35E2
+MSigDB Cancer Neighborhood	GCM_GSTA4	Neighborhood of GSTA4	3	7.298179e-3	1.000000e+0	1.000000e+0	1.370205e+2	7.298179e-3	1	7.298179e-3	1.000000e+0	1	3.602904e-3	1.000000e+0	1.000000e+0	2.775538e+2	3.602904e-3	1	65	1.000000e+0	1.538462e-2	unnamed	SLC35E2
+MSigDB Cancer Neighborhood	GCM_MLL	Neighborhood of MLL	4	1.123304e-2	1.000000e+0	1.000000e+0	8.902311e+1	1.123304e-2	1	1.123304e-2	1.000000e+0	6	9.034976e-3	1.000000e+0	6.429891e-1	1.106810e+2	9.034976e-3	1	163	1.000000e+0	6.134969e-3	unnamed	SLC35E2
+MSigDB Cancer Neighborhood	GCM_GSPT1	Neighborhood of GSPT1	5	1.166145e-2	1.000000e+0	9.958878e-1	8.575266e+1	1.166145e-2	1	1.166145e-2	1.000000e+0	5	8.868688e-3	1.000000e+0	7.573860e-1	1.127562e+2	8.868688e-3	1	160	1.000000e+0	6.250000e-3	unnamed	SLC35E2
+MSigDB Cancer Neighborhood	MORF_PPP1CC	Neighborhood of PPP1CC	6	1.291401e-2	1.000000e+0	9.190470e-1	7.743529e+1	1.291401e-2	1	1.291401e-2	1.000000e+0	7	9.090405e-3	1.000000e+0	5.545147e-1	1.100061e+2	9.090405e-3	1	164	1.000000e+0	6.097561e-3	unnamed	SLC35E2
+MSigDB Cancer Neighborhood	GCM_UBE2N	Neighborhood of UBE2N	7	1.339533e-2	1.000000e+0	8.171151e-1	7.465288e+1	1.339533e-2	1	1.339533e-2	1.000000e+0	4	8.092678e-3	1.000000e+0	8.638934e-1	1.235685e+2	8.092678e-3	1	146	1.000000e+0	6.849315e-3	unnamed	SLC35E2
+MSigDB Cancer Neighborhood	MORF_XRCC5	Neighborhood of XRCC5	8	1.540870e-2	1.000000e+0	8.224394e-1	6.489838e+1	1.540870e-2	1	1.540870e-2	1.000000e+0	9	1.319217e-2	1.000000e+0	6.258952e-1	7.580252e+1	1.319217e-2	1	238	1.000000e+0	4.201681e-3	unnamed	SLC35E2
+MSigDB Cancer Neighborhood	GCM_RAN	Neighborhood of RAN	9	1.802220e-2	1.000000e+0	8.550533e-1	5.548711e+1	1.802220e-2	1	1.802220e-2	1.000000e+0	8	1.064243e-2	1.000000e+0	5.680397e-1	9.396354e+1	1.064243e-2	1	192	1.000000e+0	5.208333e-3	unnamed	SLC35E2
+MSigDB Cancer Neighborhood	GCM_NF2	Neighborhood of NF2	10	1.820962e-2	1.000000e+0	7.775508e-1	5.491602e+1	1.820962e-2	1	1.820962e-2	1.000000e+0	10	1.568649e-2	1.000000e+0	6.698131e-1	6.374912e+1	1.568649e-2	1	283	1.000000e+0	3.533569e-3	unnamed	SLC35E2
+MSigDB Cancer Neighborhood	MORF_GNB1	Neighborhood of GNB1	11	2.039438e-2	1.000000e+0	7.916728e-1	4.903311e+1	2.039438e-2	1	2.039438e-2	1.000000e+0	11	1.696137e-2	1.000000e+0	6.584095e-1	5.895752e+1	1.696137e-2	1	306	1.000000e+0	3.267974e-3	unnamed	SLC35E2
+MSigDB Perturbation	WALLACE_PROSTATE_CANCER_RACE_DN	Genes down-regulated in prostate cancer samples from African-American patients compared to those from the European-American patients.	1	8.533489e-3	1.000000e+0	1.000000e+0	1.171854e+2	8.533489e-3	1	8.533489e-3	1.000000e+0	1	4.378915e-3	1.000000e+0	1.000000e+0	2.283671e+2	4.378915e-3	1	79	1.000000e+0	1.265823e-2	unnamed	SLC35E2
+MSigDB Perturbation	PENG_RAPAMYCIN_RESPONSE_UP	Genes up-regulated in BJUB cells (B-lymphoma) in response to  rapamycin [PubChem=6610346] treatment.	2	1.460801e-2	1.000000e+0	1.000000e+0	6.845558e+1	1.460801e-2	1	1.460801e-2	1.000000e+0	3	1.136301e-2	1.000000e+0	1.000000e+0	8.800488e+1	1.136301e-2	1	205	1.000000e+0	4.878049e-3	unnamed	SLC35E2
+MSigDB Perturbation	CHANG_CORE_SERUM_RESPONSE_DN	Down-regulated genes in the canonical gene expression signature of the fibroblast core serum response (CSR) defined by the Stanford group.	3	2.087909e-2	1.000000e+0	1.000000e+0	4.789481e+1	2.087909e-2	1	2.087909e-2	1.000000e+0	2	1.125215e-2	1.000000e+0	1.000000e+0	8.887192e+1	1.125215e-2	1	203	1.000000e+0	4.926108e-3	unnamed	SLC35E2
+MSigDB Perturbation	FEVR_CTNNB1_TARGETS_UP	Genes up-regulated in intestinal crypt cells upon deletion of CTNNB1 [GeneID=1499].	4	5.094385e-2	1.000000e+0	1.000000e+0	1.962946e+1	5.094385e-2	1	5.094385e-2	1.000000e+0	4	3.697134e-2	1.000000e+0	1.000000e+0	2.704798e+1	3.697134e-2	1	667	1.000000e+0	1.499250e-3	unnamed	SLC35E2
+InterPro	IPR000620	Drug/metabolite transporter	1	9.955597e-4	1.000000e+0	1.000000e+0	1.004460e+3	9.955597e-4	1	9.955597e-4	1.000000e+0	1	7.205809e-4	1.000000e+0	1.000000e+0	1.387769e+3	7.205809e-4	1	13	1.000000e+0	7.692308e-2	unnamed	SLC35E2
+TreeFam	TF331257	SLC35E2, SLC35E2B	1	3.808483e-5	3.094773e-1	3.094773e-1	2.625717e+4	3.808483e-5	1	3.808483e-5	1.000000e+0	1	1.108586e-4	9.008370e-1	9.008370e-1	9.020500e+3	1.108586e-4	1	2	1.000000e+0	5.000000e-1	unnamed	SLC35E2
+HGNC Gene Families	SLC	SLC	1	3.126915e-2	1.000000e+0	1.000000e+0	3.198041e+1	3.126915e-2	1	3.126915e-2	1.000000e+0	1	2.056427e-2	1.000000e+0	1.000000e+0	4.862803e+1	2.056427e-2	1	371	1.000000e+0	2.695418e-3	unnamed	SLC35E2
+Ensembl Genes	52	SLC35E2	1	1.682633e-5	3.035638e-1	3.035638e-1	5.943067e+4	1.682633e-5	1	1.682633e-5	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	SLC35E2
+MSigDB Oncogenic Signatures	CAMP_UP.V1_DN	Genes down-regulated in primary thyrocyte cultures in response to cAMP signaling pathway activation by thyrotropin (TSH).	1	2.584038e-2	1.000000e+0	1.000000e+0	3.869912e+1	2.584038e-2	1	2.584038e-2	1.000000e+0	1	1.103043e-2	1.000000e+0	1.000000e+0	9.065829e+1	1.103043e-2	1	199	1.000000e+0	5.025126e-3	unnamed	SLC35E2
+MSigDB Immunologic Signatures	GSE29618_PRE_VS_DAY7_POST_TIV_FLU_VACCINE_PDC_UP	Genes up-regulated in comparison of plasmacytoid dendritic cells (pDC) from TIV influenza vaccinee pre-vaccination versus those at day 7 post-vaccination.	1	1.427335e-2	1.000000e+0	1.000000e+0	7.006063e+1	1.427335e-2	1	1.427335e-2	1.000000e+0	8	1.058700e-2	1.000000e+0	1.000000e+0	9.445550e+1	1.058700e-2	1	191	1.000000e+0	5.235602e-3	unnamed	SLC35E2
+MSigDB Immunologic Signatures	GSE17974_IL4_AND_ANTI_IL12_VS_UNTREATED_4H_ACT_CD4_TCELL_UP	Genes up-regulated in comparison of CD4 [GeneID=920] T cells treated with IL4 [GeneID=3565] and anti-IL12 at 4 h versus the untreated cells at 4 h.	2	1.509689e-2	1.000000e+0	1.000000e+0	6.623881e+1	1.509689e-2	1	1.509689e-2	1.000000e+0	5	1.042071e-2	1.000000e+0	1.000000e+0	9.596277e+1	1.042071e-2	1	188	1.000000e+0	5.319149e-3	unnamed	SLC35E2
+MSigDB Immunologic Signatures	GSE15659_CD45RA_NEG_CD4_TCELL_VS_ACTIVATED_TREG_DN	Genes down-regulated in comparison of PTPRC- [GeneID=5788] CD4 [GeneID=920] T cells versus activated regulatory T cell (Treg).	3	1.524023e-2	1.000000e+0	1.000000e+0	6.561581e+1	1.524023e-2	1	1.524023e-2	1.000000e+0	3	1.019899e-2	1.000000e+0	1.000000e+0	9.804891e+1	1.019899e-2	1	184	1.000000e+0	5.434783e-3	unnamed	SLC35E2
+MSigDB Immunologic Signatures	GSE24634_TREG_VS_TCONV_POST_DAY5_IL4_CONVERSION_DN	Genes down-regulated in comparison of CD25+ T cells treated with IL4 [GeneID=3565] versus CD25- T cells treated with IL4 [GeneID=3565] at day 5.	4	1.626618e-2	1.000000e+0	1.000000e+0	6.147724e+1	1.626618e-2	1	1.626618e-2	1.000000e+0	7	1.047614e-2	1.000000e+0	1.000000e+0	9.545503e+1	1.047614e-2	1	189	1.000000e+0	5.291005e-3	unnamed	SLC35E2
+MSigDB Immunologic Signatures	GSE15659_CD45RA_NEG_CD4_TCELL_VS_RESTING_TREG_DN	Genes down-regulated in comparison of PTPRC- [GeneID=5788] CD4 [GeneID=920] T cells versus PTPRC+ [GeneID=5788] resting regulatory T cell (Treg).	5	1.631081e-2	1.000000e+0	1.000000e+0	6.130903e+1	1.631081e-2	1	1.631081e-2	1.000000e+0	2	1.008813e-2	1.000000e+0	1.000000e+0	9.912637e+1	1.008813e-2	1	182	1.000000e+0	5.494505e-3	unnamed	SLC35E2
+MSigDB Immunologic Signatures	GSE15659_CD45RA_NEG_CD4_TCELL_VS_NONSUPPRESSIVE_TCELL_DN	Genes down-regulated in comparison of PTPRC- [GeneID=5788] CD4 [GeneID=920] T cells versus non-suppressive T cells.	6	1.659577e-2	1.000000e+0	1.000000e+0	6.025632e+1	1.659577e-2	1	1.659577e-2	1.000000e+0	9	1.064243e-2	1.000000e+0	1.000000e+0	9.396354e+1	1.064243e-2	1	192	1.000000e+0	5.208333e-3	unnamed	SLC35E2
+MSigDB Immunologic Signatures	GSE13411_NAIVE_VS_IGM_MEMORY_BCELL_DN	Genes down-regulated in comparison of naive B cells versus IgM-memory B cells.	7	1.823413e-2	1.000000e+0	1.000000e+0	5.484221e+1	1.823413e-2	1	1.823413e-2	1.000000e+0	10	1.130758e-2	1.000000e+0	1.000000e+0	8.843627e+1	1.130758e-2	1	204	1.000000e+0	4.901961e-3	unnamed	SLC35E2
+MSigDB Immunologic Signatures	GSE29618_LAIV_VS_TIV_FLU_VACCINE_DAY7_PDC_UP	Genes up-regulated in comparison of plasmacytoid dendritic cells from LAIV influenza vaccinee at day 7 post-vaccination vesus those from TIV influenza vaccinee at day 7.	8	1.872221e-2	1.000000e+0	1.000000e+0	5.341248e+1	1.872221e-2	1	1.872221e-2	1.000000e+0	5	1.042071e-2	1.000000e+0	1.000000e+0	9.596277e+1	1.042071e-2	1	188	1.000000e+0	5.319149e-3	unnamed	SLC35E2
+MSigDB Immunologic Signatures	GSE22886_NAIVE_BCELL_VS_DC_UP	Genes up-regulated in comparison of naive B cells versus unstimulated dendritic cells (DC).	9	2.049581e-2	1.000000e+0	1.000000e+0	4.879047e+1	2.049581e-2	1	2.049581e-2	1.000000e+0	1	9.866415e-3	1.000000e+0	1.000000e+0	1.013539e+2	9.866415e-3	1	178	1.000000e+0	5.617978e-3	unnamed	SLC35E2
+MSigDB Immunologic Signatures	GSE22886_NAIVE_VS_IGG_IGA_MEMORY_BCELL_UP	Genes up-regulated in comparison of naive B cells versus memory IgG IgA B cells.	10	2.180350e-2	1.000000e+0	1.000000e+0	4.586421e+1	2.180350e-2	1	2.180350e-2	1.000000e+0	4	1.025442e-2	1.000000e+0	1.000000e+0	9.751892e+1	1.025442e-2	1	185	1.000000e+0	5.405405e-3	unnamed	SLC35E2
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

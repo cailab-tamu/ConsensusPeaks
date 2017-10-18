@@ -1,0 +1,47 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Molecular Function	GO:0003723	RNA binding	1	7.115189e-2	1.000000e+0	1.000000e+0	1.405444e+1	7.115189e-2	1	7.115189e-2	1.000000e+0	1	5.027438e-2	1.000000e+0	1.000000e+0	1.989085e+1	5.027438e-2	1	907	1.000000e+0	1.102536e-3	unnamed	TDRD10
+GO Molecular Function	GO:0000166	nucleotide binding	2	2.080686e-1	1.000000e+0	1.000000e+0	4.806107e+0	2.080686e-1	1	2.080686e-1	1.000000e+0	2	1.283188e-1	1.000000e+0	1.000000e+0	7.793089e+0	1.283188e-1	1	2315	1.000000e+0	4.319654e-4	unnamed	TDRD10
+GO Molecular Function	GO:1901265	nucleoside phosphate binding	3	2.081652e-1	1.000000e+0	1.000000e+0	4.803877e+0	2.081652e-1	1	2.081652e-1	1.000000e+0	3	1.283743e-1	1.000000e+0	1.000000e+0	7.789724e+0	1.283743e-1	1	2316	1.000000e+0	4.317789e-4	unnamed	TDRD10
+GO Molecular Function	GO:0036094	small molecule binding	4	2.286651e-1	1.000000e+0	1.000000e+0	4.373209e+0	2.286651e-1	1	2.286651e-1	1.000000e+0	4	1.422870e-1	1.000000e+0	1.000000e+0	7.028048e+0	1.422870e-1	1	2567	1.000000e+0	3.895598e-4	unnamed	TDRD10
+GO Molecular Function	GO:0003676	nucleic acid binding	5	2.841930e-1	1.000000e+0	1.000000e+0	3.518736e+0	2.841930e-1	1	2.841930e-1	1.000000e+0	5	1.882933e-1	1.000000e+0	1.000000e+0	5.310863e+0	1.882933e-1	1	3397	1.000000e+0	2.943774e-4	unnamed	TDRD10
+GO Molecular Function	GO:1901363	heterocyclic compound binding	6	4.273925e-1	1.000000e+0	1.000000e+0	2.339769e+0	4.273925e-1	1	4.273925e-1	1.000000e+0	6	2.937753e-1	1.000000e+0	1.000000e+0	3.403962e+0	2.937753e-1	1	5300	1.000000e+0	1.886792e-4	unnamed	TDRD10
+GO Molecular Function	GO:0097159	organic cyclic compound binding	7	4.323803e-1	1.000000e+0	1.000000e+0	2.312779e+0	4.323803e-1	1	4.323803e-1	1.000000e+0	7	2.978216e-1	1.000000e+0	1.000000e+0	3.357714e+0	2.978216e-1	1	5373	1.000000e+0	1.861158e-4	unnamed	TDRD10
+GO Molecular Function	GO:0005488	binding	8	8.171102e-1	1.000000e+0	1.000000e+0	1.223825e+0	8.171102e-1	1	8.171102e-1	1.000000e+0	8	6.747963e-1	1.000000e+0	1.000000e+0	1.481929e+0	6.747963e-1	1	12174	1.000000e+0	8.214227e-5	unnamed	TDRD10
+MSigDB Perturbation	PEREZ_TP53_TARGETS	Genes up-regulated in the HMEC cells (primary mammary epithelium) upon expression of TP53 [GeneID=7157] off adenoviral vector.	1	1.077316e-1	1.000000e+0	1.000000e+0	9.282326e+0	1.077316e-1	1	1.077316e-1	1.000000e+0	1	5.903220e-2	1.000000e+0	1.000000e+0	1.693991e+1	5.903220e-2	1	1065	1.000000e+0	9.389671e-4	unnamed	TDRD10
+MSigDB Predicted Promoter Motifs	V$LEF1_Q2	Motif TCAAAG matches LEF1: lymphoid enhancer-binding factor 1&lt;br&gt; TCF1: transcription factor 1, hepatic; LF-B1, hepatic nuclear factor (HNF1), albumin proximal factor	1	2.343570e-2	1.000000e+0	1.000000e+0	4.266994e+1	2.343570e-2	1	2.343570e-2	1.000000e+0	1	1.169558e-2	1.000000e+0	1.000000e+0	8.550237e+1	1.169558e-2	1	211	1.000000e+0	4.739336e-3	unnamed	TDRD10
+MSigDB Predicted Promoter Motifs	CTTTGA_V$LEF1_Q2	Motif CTTTGA matches LEF1: lymphoid enhancer-binding factor 1	2	1.653166e-1	1.000000e+0	1.000000e+0	6.049001e+0	1.653166e-1	1	1.653166e-1	1.000000e+0	2	6.446428e-2	1.000000e+0	1.000000e+0	1.551247e+1	6.446428e-2	1	1163	1.000000e+0	8.598452e-4	unnamed	TDRD10
+InterPro	IPR002999	Tudor domain	1	3.684269e-3	1.000000e+0	1.000000e+0	2.714242e+2	3.684269e-3	1	3.684269e-3	1.000000e+0	1	1.662879e-3	1.000000e+0	1.000000e+0	6.013667e+2	1.662879e-3	1	30	1.000000e+0	3.333333e-2	unnamed	TDRD10
+InterPro	IPR000504	RNA recognition motif domain	2	2.177689e-2	1.000000e+0	1.000000e+0	4.592023e+1	2.177689e-2	1	2.177689e-2	1.000000e+0	2	1.247159e-2	1.000000e+0	1.000000e+0	8.018222e+1	1.247159e-2	1	225	1.000000e+0	4.444444e-3	unnamed	TDRD10
+InterPro	IPR012677	Nucleotide-binding, alpha-beta plait	3	2.358738e-2	1.000000e+0	1.000000e+0	4.239554e+1	2.358738e-2	1	2.358738e-2	1.000000e+0	3	1.391275e-2	1.000000e+0	1.000000e+0	7.187649e+1	1.391275e-2	1	251	1.000000e+0	3.984064e-3	unnamed	TDRD10
+TreeFam	TF343710	TDRD1, TDRD10	1	1.190533e-4	9.674271e-1	9.674271e-1	8.399601e+3	1.190533e-4	1	1.190533e-4	1.000000e+0	1	1.108586e-4	9.008370e-1	9.008370e-1	9.020500e+3	1.108586e-4	1	2	1.000000e+0	5.000000e-1	unnamed	TDRD10
+Ensembl Genes	1302	TDRD10	1	5.292643e-5	9.548457e-1	9.548457e-1	1.889415e+4	5.292643e-5	1	5.292643e-5	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	TDRD10
+MSigDB Oncogenic Signatures	MYC_UP.V1_UP	Genes up-regulated in primary epithelial breast cancer cell culture over-expressing MYC [Gene ID=4609] gene.	1	1.182324e-2	1.000000e+0	1.000000e+0	8.457919e+1	1.182324e-2	1	1.182324e-2	1.000000e+0	1	9.201264e-3	1.000000e+0	1.000000e+0	1.086807e+2	9.201264e-3	1	166	1.000000e+0	6.024096e-3	unnamed	TDRD10
+MSigDB Immunologic Signatures	GSE15659_TREG_VS_TCONV_DN	Genes down-regulated in comparison of regulatory T cell (Treg) versus conventional T cells.	1	2.202567e-2	1.000000e+0	1.000000e+0	4.540156e+1	2.202567e-2	1	2.202567e-2	1.000000e+0	1	8.646971e-3	1.000000e+0	1.000000e+0	1.156474e+2	8.646971e-3	1	156	1.000000e+0	6.410256e-3	unnamed	TDRD10
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

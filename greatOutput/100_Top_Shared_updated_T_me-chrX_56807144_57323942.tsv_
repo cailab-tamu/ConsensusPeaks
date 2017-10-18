@@ -1,0 +1,68 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Biological Process	GO:0007276	gamete generation	1	5.686474e-2	1.000000e+0	1.000000e+0	1.758559e+1	5.686474e-2	1	5.686474e-2	1.000000e+0	1	8.452661e-4	1.000000e+0	1.000000e+0	3.436381e+1	5.820076e-2	2	525	1.000000e+0	3.809524e-3	unnamed	SPIN2B,SPIN3
+GO Biological Process	GO:0019953	sexual reproduction	2	6.533147e-2	1.000000e+0	1.000000e+0	1.530656e+1	6.533147e-2	1	6.533147e-2	1.000000e+0	2	1.156463e-3	1.000000e+0	1.000000e+0	2.938274e+1	6.806718e-2	2	614	1.000000e+0	3.257329e-3	unnamed	SPIN2B,SPIN3
+GO Biological Process	GO:0048609	multicellular organismal reproductive process	3	7.483828e-2	1.000000e+0	1.000000e+0	1.336215e+1	7.483828e-2	1	7.483828e-2	1.000000e+0	3	1.377221e-3	1.000000e+0	1.000000e+0	2.692687e+1	7.427526e-2	2	670	1.000000e+0	2.985075e-3	unnamed	SPIN2B,SPIN3
+GO Biological Process	GO:0032504	multicellular organism reproduction	4	7.740256e-2	1.000000e+0	1.000000e+0	1.291947e+1	7.740256e-2	1	7.740256e-2	1.000000e+0	4	1.460734e-3	1.000000e+0	1.000000e+0	2.614638e+1	7.649243e-2	2	690	1.000000e+0	2.898551e-3	unnamed	SPIN2B,SPIN3
+GO Biological Process	GO:0044702	single organism reproductive process	5	7.805445e-2	1.000000e+0	1.000000e+0	1.281157e+1	7.805445e-2	1	7.805445e-2	1.000000e+0	5	1.586194e-3	1.000000e+0	1.000000e+0	2.509179e+1	7.970733e-2	2	719	1.000000e+0	2.781641e-3	unnamed	SPIN2B,SPIN3
+GO Biological Process	GO:0006915	apoptotic process	6	9.852721e-2	1.000000e+0	1.000000e+0	1.014948e+1	9.852721e-2	1	9.852721e-2	1.000000e+0	9	1.119728e-1	1.000000e+0	1.000000e+0	8.673558e+0	1.152929e-1	1	1040	5.000000e-1	9.615385e-4	unnamed	SPIN2B
+GO Biological Process	GO:0012501	programmed cell death	7	1.001273e-1	1.000000e+0	1.000000e+0	9.987290e+0	1.001273e-1	1	1.001273e-1	1.000000e+0	10	1.134348e-1	1.000000e+0	1.000000e+0	8.558349e+0	1.168450e-1	1	1054	5.000000e-1	9.487666e-4	unnamed	SPIN2B
+GO Biological Process	GO:0007049	cell cycle	8	1.078728e-1	1.000000e+0	1.000000e+0	9.270177e+0	1.078728e-1	1	1.078728e-1	1.000000e+0	11	1.322278e-1	1.000000e+0	1.000000e+0	7.304049e+0	1.369104e-1	1	1235	5.000000e-1	8.097166e-4	unnamed	SPIN2B
+GO Biological Process	GO:0022414	reproductive process	9	1.132946e-1	1.000000e+0	1.000000e+0	8.826548e+0	1.132946e-1	1	1.132946e-1	1.000000e+0	6	3.026661e-3	1.000000e+0	1.000000e+0	1.816818e+1	1.100826e-1	2	993	1.000000e+0	2.014099e-3	unnamed	SPIN2B,SPIN3
+GO Biological Process	GO:0008219	cell death	10	1.161348e-1	1.000000e+0	1.000000e+0	8.610686e+0	1.161348e-1	1	1.161348e-1	1.000000e+0	12	1.323311e-1	1.000000e+0	1.000000e+0	7.298139e+0	1.370212e-1	1	1236	5.000000e-1	8.090615e-4	unnamed	SPIN2B
+GO Biological Process	GO:0016265	death	11	1.165949e-1	1.000000e+0	1.000000e+0	8.576703e+0	1.165949e-1	1	1.165949e-1	1.000000e+0	13	1.326408e-1	1.000000e+0	1.000000e+0	7.280468e+0	1.373538e-1	1	1239	5.000000e-1	8.071025e-4	unnamed	SPIN2B
+GO Biological Process	GO:0000003	reproduction	12	1.207341e-1	1.000000e+0	1.000000e+0	8.282661e+0	1.207341e-1	1	1.207341e-1	1.000000e+0	7	3.667293e-3	1.000000e+0	1.000000e+0	1.650595e+1	1.211684e-1	2	1093	1.000000e+0	1.829826e-3	unnamed	SPIN2B,SPIN3
+GO Biological Process	GO:0032501	multicellular organismal process	13	5.539872e-1	1.000000e+0	1.000000e+0	1.805096e+0	5.539872e-1	1	5.539872e-1	1.000000e+0	8	1.064675e-1	1.000000e+0	1.000000e+0	3.064549e+0	6.526246e-1	2	5887	1.000000e+0	3.397316e-4	unnamed	SPIN2B,SPIN3
+GO Biological Process	GO:0044763	single-organism cellular process	14	7.497126e-1	1.000000e+0	1.000000e+0	1.333844e+0	7.497126e-1	1	7.497126e-1	1.000000e+0	15	8.068544e-1	1.000000e+0	1.000000e+0	8.920589e-1	1.121002e+0	1	10112	5.000000e-1	9.889241e-5	unnamed	SPIN2B
+GO Biological Process	GO:0044699	single-organism process	15	7.935590e-1	1.000000e+0	1.000000e+0	1.260146e+0	7.935590e-1	1	7.935590e-1	1.000000e+0	14	3.800402e-1	1.000000e+0	1.000000e+0	1.622100e+0	1.232969e+0	2	11122	1.000000e+0	1.798238e-4	unnamed	SPIN2B,SPIN3
+GO Biological Process	GO:0009987	cellular process	16	8.656787e-1	1.000000e+0	1.000000e+0	1.155163e+0	8.656787e-1	1	8.656787e-1	1.000000e+0	16	9.369062e-1	1.000000e+0	1.000000e+0	6.677400e-1	1.497589e+0	1	13509	5.000000e-1	7.402472e-5	unnamed	SPIN2B
+GO Cellular Component	GO:0005634	nucleus	1	4.766312e-1	1.000000e+0	1.000000e+0	2.098058e+0	4.766312e-1	1	4.766312e-1	1.000000e+0	1	5.600157e-1	1.000000e+0	1.000000e+0	1.485100e+0	6.733551e-1	1	6074	5.000000e-1	1.646362e-4	unnamed	SPIN2B
+GO Cellular Component	GO:0043231	intracellular membrane-bounded organelle	2	6.973299e-1	1.000000e+0	1.000000e+0	1.434041e+0	6.973299e-1	1	6.973299e-1	1.000000e+0	2	8.019514e-1	1.000000e+0	1.000000e+0	9.009688e-1	1.109916e+0	1	10012	5.000000e-1	9.988014e-5	unnamed	SPIN2B
+GO Cellular Component	GO:0043227	membrane-bounded organelle	3	6.992039e-1	1.000000e+0	1.000000e+0	1.430198e+0	6.992039e-1	1	6.992039e-1	1.000000e+0	3	8.036253e-1	1.000000e+0	1.000000e+0	8.979196e-1	1.113685e+0	1	10046	5.000000e-1	9.954211e-5	unnamed	SPIN2B
+GO Cellular Component	GO:0043229	intracellular organelle	4	7.399473e-1	1.000000e+0	1.000000e+0	1.351448e+0	7.399473e-1	1	7.399473e-1	1.000000e+0	4	8.473502e-1	1.000000e+0	1.000000e+0	8.206423e-1	1.218558e+0	1	10992	5.000000e-1	9.097525e-5	unnamed	SPIN2B
+GO Cellular Component	GO:0043226	organelle	5	7.415866e-1	1.000000e+0	1.000000e+0	1.348460e+0	7.415866e-1	1	7.415866e-1	1.000000e+0	5	8.487331e-1	1.000000e+0	1.000000e+0	8.182602e-1	1.222105e+0	1	11024	5.000000e-1	9.071118e-5	unnamed	SPIN2B
+GO Cellular Component	GO:0044424	intracellular part	6	8.017695e-1	1.000000e+0	1.000000e+0	1.247241e+0	8.017695e-1	1	8.017695e-1	1.000000e+0	6	9.083176e-1	1.000000e+0	1.000000e+0	7.171649e-1	1.394379e+0	1	12578	5.000000e-1	7.950390e-5	unnamed	SPIN2B
+GO Cellular Component	GO:0005622	intracellular	7	8.064789e-1	1.000000e+0	1.000000e+0	1.239958e+0	8.064789e-1	1	8.064789e-1	1.000000e+0	7	9.139354e-1	1.000000e+0	1.000000e+0	7.076012e-1	1.413225e+0	1	12748	5.000000e-1	7.844368e-5	unnamed	SPIN2B
+GO Cellular Component	GO:0044464	cell part	8	8.908971e-1	1.000000e+0	1.000000e+0	1.122464e+0	8.908971e-1	1	8.908971e-1	1.000000e+0	8	9.677154e-1	1.000000e+0	1.000000e+0	6.095344e-1	1.640596e+0	1	14799	5.000000e-1	6.757213e-5	unnamed	SPIN2B
+GO Cellular Component	GO:0005623	cell	9	8.910977e-1	1.000000e+0	1.000000e+0	1.122211e+0	8.910977e-1	1	8.910977e-1	1.000000e+0	9	9.677354e-1	1.000000e+0	1.000000e+0	6.094932e-1	1.640707e+0	1	14800	5.000000e-1	6.756757e-5	unnamed	SPIN2B
+MSigDB Perturbation	ZHAN_MULTIPLE_MYELOMA_MS_DN	Top 50 down-regulated genes in cluster MS of multiple myeloma samples with characteristic expression spike of WHSC1 [GeneID=7468].	1	3.930399e-3	1.000000e+0	1.000000e+0	2.544271e+2	3.930399e-3	1	3.930399e-3	1.000000e+0	1	4.650770e-3	1.000000e+0	1.000000e+0	2.147738e+2	4.656061e-3	1	42	5.000000e-1	2.380952e-2	unnamed	SPIN3
+MSigDB Perturbation	WATANABE_COLON_CANCER_MSI_VS_MSS_DN	Down-regulated genes discriminating between MSI (microsatellite instability) and MSS (microsatellite stability) colon cancers.	2	9.493217e-3	1.000000e+0	1.000000e+0	1.053384e+2	9.493217e-3	1	9.493217e-3	1.000000e+0	3	8.297342e-3	1.000000e+0	1.000000e+0	1.202733e+2	8.314395e-3	1	75	5.000000e-1	1.333333e-2	unnamed	SPIN3
+MSigDB Perturbation	WHITFIELD_CELL_CYCLE_G1_S	Genes periodically expressed in synchronized HeLa cells (cervical carcinoma), with peak during the G1/S phase of cell cycle.	3	1.093297e-2	1.000000e+0	1.000000e+0	9.146648e+1	1.093297e-2	1	1.093297e-2	1.000000e+0	5	1.402987e-2	1.000000e+0	1.000000e+0	7.102756e+1	1.407904e-2	1	127	5.000000e-1	7.874016e-3	unnamed	SPIN3
+MSigDB Perturbation	DAIRKEE_TERT_TARGETS_DN	Genes down-regulated in non-spontaneously immortalizing (NSI) primary breast cancer tumor cultures upon expression of TERT [GeneID=7015] off a retroviral vector.	4	1.711695e-2	1.000000e+0	1.000000e+0	5.842164e+1	1.711695e-2	1	1.711695e-2	1.000000e+0	4	1.248814e-2	1.000000e+0	1.000000e+0	7.982743e+1	1.252702e-2	1	113	5.000000e-1	8.849558e-3	unnamed	SPIN3
+MSigDB Perturbation	ZWANG_DOWN_BY_2ND_EGF_PULSE	Genes down-regulated by second pulse of EGF [GeneID =1950] in 184A1 cells (mammary epithelium).	5	1.813998e-2	1.000000e+0	1.000000e+0	5.512686e+1	1.813998e-2	1	1.813998e-2	1.000000e+0	7	2.686732e-2	1.000000e+0	1.000000e+0	3.696926e+1	2.704950e-2	1	244	5.000000e-1	4.098361e-3	unnamed	SPIN3
+MSigDB Perturbation	TURASHVILI_BREAST_DUCTAL_CARCINOMA_VS_DUCTAL_NORMAL_DN	Genes down-regulated in ductal carcinoma vs normal ductal breast cells.	6	2.220709e-2	1.000000e+0	1.000000e+0	4.503065e+1	2.220709e-2	1	2.220709e-2	1.000000e+0	6	1.963603e-2	1.000000e+0	1.000000e+0	5.067697e+1	1.973283e-2	1	178	5.000000e-1	5.617978e-3	unnamed	SPIN3
+MSigDB Perturbation	PEDRIOLI_MIR31_TARGETS_DN	Genes down-regulated in primary LEC cells (lymphatic endothelum) upon overexpression of MIR31 [GeneID=407035].	7	4.478233e-2	1.000000e+0	1.000000e+0	2.233023e+1	4.478233e-2	1	4.478233e-2	1.000000e+0	8	4.276871e-2	1.000000e+0	1.000000e+0	2.312949e+1	4.323485e-2	1	390	5.000000e-1	2.564103e-3	unnamed	SPIN3
+MSigDB Perturbation	FORTSCHEGGER_PHF8_TARGETS_DN	Genes down-regulated in HeLa cells (cervical carcinoma) upon knockdown of PHF8 [GeneID=23133] by RNAi.	8	7.444945e-2	1.000000e+0	1.000000e+0	1.343193e+1	7.444945e-2	1	7.444945e-2	1.000000e+0	9	8.109914e-2	1.000000e+0	1.000000e+0	1.207564e+1	8.281137e-2	1	747	5.000000e-1	1.338688e-3	unnamed	SPIN2B
+MSigDB Perturbation	ZWANG_TRANSIENTLY_UP_BY_2ND_EGF_PULSE_ONLY	Genes transiently induced only by the second pulse of EGF [GeneID =1950] in 184A1 cells (mammary epithelium).	9	1.379154e-1	1.000000e+0	1.000000e+0	7.250823e+0	1.379154e-1	1	1.379154e-1	1.000000e+0	2	6.278720e-3	1.000000e+0	1.000000e+0	1.261608e+1	1.585278e-1	2	1430	1.000000e+0	1.398601e-3	unnamed	SPIN2B,SPIN3
+InterPro	IPR003671	Spindlin/spermiogenesis-specific protein	1	1.053793e-3	1.000000e+0	1.000000e+0	9.489532e+2	1.053793e-3	1	1.053793e-3	1.000000e+0	1	6.145155e-8	5.789965e-4	5.789965e-4	3.608200e+3	5.542930e-4	2	5	1.000000e+0	4.000000e-1	unnamed	SPIN2B,SPIN3
+Ensembl Genes	19747	SPIN2B	1	4.734165e-5	8.540907e-1	8.540907e-1	2.112305e+4	4.734165e-5	1	4.734165e-5	1.000000e+0	1	1.108586e-4	1.000000e+0	1.000000e+0	9.020500e+3	1.108586e-4	1	1	5.000000e-1	1.000000e+0	unnamed	SPIN2B
+Ensembl Genes	19746	SPIN3	2	1.942979e-4	1.000000e+0	1.000000e+0	5.146737e+3	1.942979e-4	1	1.942979e-4	1.000000e+0	1	1.108586e-4	1.000000e+0	1.000000e+0	9.020500e+3	1.108586e-4	1	1	5.000000e-1	1.000000e+0	unnamed	SPIN3
+MSigDB Immunologic Signatures	GSE11057_NAIVE_CD4_VS_PBMC_CD4_TCELL_UP	Genes up-regulated in comparison of naive T cells versus peripheral blood mononuclear cells (PBMC).	1	1.328898e-2	1.000000e+0	1.000000e+0	7.525033e+1	1.328898e-2	1	1.328898e-2	1.000000e+0	1	1.952626e-2	1.000000e+0	1.000000e+0	5.096328e+1	1.962197e-2	1	177	5.000000e-1	5.649718e-3	unnamed	SPIN3
+MSigDB Immunologic Signatures	GSE11057_CD4_CENT_MEM_VS_PBMC_UP	Genes up-regulated in comparison of central memory T cells versus peripheral blood mononuclear cells (PBMC).	2	1.739136e-2	1.000000e+0	1.000000e+0	5.749982e+1	1.739136e-2	1	1.739136e-2	1.000000e+0	2	2.029452e-2	1.000000e+0	1.000000e+0	4.902446e+1	2.039798e-2	1	184	5.000000e-1	5.434783e-3	unnamed	SPIN3
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

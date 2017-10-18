@@ -1,0 +1,55 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Cellular Component	GO:0016021	integral to membrane	1	4.578656e-1	1.000000e+0	1.000000e+0	2.184047e+0	4.578656e-1	1	4.578656e-1	1.000000e+0	1	2.916135e-1	1.000000e+0	1.000000e+0	3.429196e+0	2.916135e-1	1	5261	1.000000e+0	1.900779e-4	unnamed	TMEM260
+GO Cellular Component	GO:0031224	intrinsic to membrane	2	4.694206e-1	1.000000e+0	1.000000e+0	2.130286e+0	4.694206e-1	1	4.694206e-1	1.000000e+0	2	2.978771e-1	1.000000e+0	1.000000e+0	3.357090e+0	2.978771e-1	1	5374	1.000000e+0	1.860811e-4	unnamed	TMEM260
+GO Cellular Component	GO:0044425	membrane part	3	5.293034e-1	1.000000e+0	1.000000e+0	1.889276e+0	5.293034e-1	1	5.293034e-1	1.000000e+0	3	3.432737e-1	1.000000e+0	1.000000e+0	2.913128e+0	3.432737e-1	1	6193	1.000000e+0	1.614726e-4	unnamed	TMEM260
+GO Cellular Component	GO:0016020	membrane	4	6.308744e-1	1.000000e+0	1.000000e+0	1.585102e+0	6.308744e-1	1	6.308744e-1	1.000000e+0	4	4.353417e-1	1.000000e+0	1.000000e+0	2.297046e+0	4.353417e-1	1	7854	1.000000e+0	1.273237e-4	unnamed	TMEM260
+MSigDB Perturbation	BOYAULT_LIVER_CANCER_SUBCLASS_G12_UP	Up-regulated genes in hepatocellular carcinoma (HCC) subclass G12, defined by unsupervised clustering	1	4.157826e-3	1.000000e+0	1.000000e+0	2.405103e+2	4.157826e-3	1	4.157826e-3	1.000000e+0	1	2.050884e-3	1.000000e+0	1.000000e+0	4.875946e+2	2.050884e-3	1	37	1.000000e+0	2.702703e-2	unnamed	TMEM260
+MSigDB Perturbation	WANG_RESPONSE_TO_GSK3_INHIBITOR_SB216763_UP	Genes up-regulated in RS4;11 cells (MLL, mixed lineage leukemia) in response to SB216763 [PubChemID=176158], an inhibitor of GSK3B [GeneID=2932].	2	3.495757e-2	1.000000e+0	1.000000e+0	2.860610e+1	3.495757e-2	1	3.495757e-2	1.000000e+0	3	1.890139e-2	1.000000e+0	1.000000e+0	5.290616e+1	1.890139e-2	1	341	1.000000e+0	2.932551e-3	unnamed	TMEM260
+MSigDB Perturbation	DAVICIONI_MOLECULAR_ARMS_VS_ERMS_UP	Genes up-regulated in mARMS (molecular ARMS) compared to the mERMS (molecular ERMS) class of rhabdomyosarcoma tumors.	3	5.025543e-2	1.000000e+0	1.000000e+0	1.989835e+1	5.025543e-2	1	5.025543e-2	1.000000e+0	2	1.806995e-2	1.000000e+0	1.000000e+0	5.534049e+1	1.806995e-2	1	326	1.000000e+0	3.067485e-3	unnamed	TMEM260
+MSigDB Perturbation	NUYTTEN_EZH2_TARGETS_DN	Genes down-regulated in PC3 cells (prostate cancer) after knockdown of EZH2 [GeneID=2146] by RNAi.	4	8.521044e-2	1.000000e+0	1.000000e+0	1.173565e+1	8.521044e-2	1	8.521044e-2	1.000000e+0	4	5.432071e-2	1.000000e+0	1.000000e+0	1.840918e+1	5.432071e-2	1	980	1.000000e+0	1.020408e-3	unnamed	TMEM260
+MSigDB miRNA Motifs	CCTGTGA,MIR-513	Targets of MicroRNA CCTGTGA,MIR-513	1	1.662694e-2	1.000000e+0	1.000000e+0	6.014335e+1	1.662694e-2	1	1.662694e-2	1.000000e+0	1	6.651516e-3	1.000000e+0	1.000000e+0	1.503417e+2	6.651516e-3	1	120	1.000000e+0	8.333333e-3	unnamed	TMEM260
+MSigDB miRNA Motifs	ATGAAGG,MIR-205	Targets of MicroRNA ATGAAGG,MIR-205	2	2.314423e-2	1.000000e+0	1.000000e+0	4.320732e+1	2.314423e-2	1	2.314423e-2	1.000000e+0	2	8.314395e-3	1.000000e+0	9.187406e-1	1.202733e+2	8.314395e-3	1	150	1.000000e+0	6.666667e-3	unnamed	TMEM260
+MSigDB miRNA Motifs	ACCAAAG,MIR-9	Targets of MicroRNA ACCAAAG,MIR-9	3	7.022342e-2	1.000000e+0	1.000000e+0	1.424026e+1	7.022342e-2	1	7.022342e-2	1.000000e+0	3	2.760379e-2	1.000000e+0	1.000000e+0	3.622691e+1	2.760379e-2	1	498	1.000000e+0	2.008032e-3	unnamed	TMEM260
+InterPro	IPR021280	Protein of unknown function DUF2723	1	2.411782e-4	1.000000e+0	1.000000e+0	4.146312e+3	2.411782e-4	1	2.411782e-4	1.000000e+0	1	5.542930e-5	5.222549e-1	5.222549e-1	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	TMEM260
+TreeFam	TF329604	TMEM260	1	2.411782e-4	1.000000e+0	1.000000e+0	4.146312e+3	2.411782e-4	1	2.411782e-4	1.000000e+0	1	5.542930e-5	4.504185e-1	4.504185e-1	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	TMEM260
+Ensembl Genes	5838	TMEM260	1	2.411782e-4	1.000000e+0	1.000000e+0	4.146312e+3	2.411782e-4	1	2.411782e-4	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	TMEM260
+MSigDB Oncogenic Signatures	MTOR_UP.N4.V1_DN	Genes up-regulated in CEM-C1 cells (T-CLL) by everolimus [PubChem = 6442177], an mTOR pathway inhibitor.	1	1.738168e-2	1.000000e+0	1.000000e+0	5.753184e+1	1.738168e-2	1	1.738168e-2	1.000000e+0	1	1.019899e-2	1.000000e+0	1.000000e+0	9.804891e+1	1.019899e-2	1	184	1.000000e+0	5.434783e-3	unnamed	TMEM260
+MSigDB Immunologic Signatures	GSE22886_NAIVE_CD4_TCELL_VS_MEMORY_TCELL_UP	Genes up-regulated in comparison of naive CD4 [GeneID=920] T cells versus unstimulated memory CD4 [GeneID=920] CD8 T cells.	1	1.455138e-2	1.000000e+0	1.000000e+0	6.872200e+1	1.455138e-2	1	1.455138e-2	1.000000e+0	1	1.003270e-2	1.000000e+0	1.000000e+0	9.967403e+1	1.003270e-2	1	181	1.000000e+0	5.524862e-3	unnamed	TMEM260
+MSigDB Immunologic Signatures	GSE29617_CTRL_VS_DAY3_TIV_FLU_VACCINE_PBMC_2008_DN	Genes down-regulated in comparison of peripheral blood mononuclear cells (PBMC) from TIV influenza vaccinee pre-vaccination versus those at day 3 post-vaccination.	2	1.511937e-2	1.000000e+0	1.000000e+0	6.614031e+1	1.511937e-2	1	1.511937e-2	1.000000e+0	6	1.058700e-2	1.000000e+0	1.000000e+0	9.445550e+1	1.058700e-2	1	191	1.000000e+0	5.235602e-3	unnamed	TMEM260
+MSigDB Immunologic Signatures	GSE29617_CTRL_VS_TIV_FLU_VACCINE_PBMC_2008_DN	Genes down-regulated in comparison of peripheral blood mononuclear cells (PBMC) from TIV influenza vaccinee before vaccination versus that after the vaccination.	3	1.524043e-2	1.000000e+0	1.000000e+0	6.561496e+1	1.524043e-2	1	1.524043e-2	1.000000e+0	5	1.053157e-2	1.000000e+0	1.000000e+0	9.495263e+1	1.053157e-2	1	190	1.000000e+0	5.263158e-3	unnamed	TMEM260
+MSigDB Immunologic Signatures	GSE17721_CTRL_VS_PAM3CSK4_8H_BMDM_UP	Genes up-regulated in comparison of control dendritic cells (DC) at 8 h versus those stimulated with Pam3Csk4 (TLR1/2 agonist) at 8 h.	4	1.576242e-2	1.000000e+0	1.000000e+0	6.344202e+1	1.576242e-2	1	1.576242e-2	1.000000e+0	9	1.080871e-2	1.000000e+0	1.000000e+0	9.251795e+1	1.080871e-2	1	195	1.000000e+0	5.128205e-3	unnamed	TMEM260
+MSigDB Immunologic Signatures	GSE17721_PAM3CSK4_VS_GADIQUIMOD_0.5H_BMDM_DN	Genes down-regulated in comparison of dendritic cells (DC) stimulated with Pam3Csk4 (TLR1/2 agonist) at 0.5 h versus DC cells stimulated with Gardiquimod (TLR7 agonist) at 0.5 h.	5	1.652344e-2	1.000000e+0	1.000000e+0	6.052007e+1	1.652344e-2	1	1.652344e-2	1.000000e+0	11	1.086414e-2	1.000000e+0	1.000000e+0	9.204592e+1	1.086414e-2	1	196	1.000000e+0	5.102041e-3	unnamed	TMEM260
+MSigDB Immunologic Signatures	GSE29618_LAIV_VS_TIV_FLU_VACCINE_DAY7_BCELL_DN	Genes down-regulated in comparison of B cells from LAIV influenza vaccinee at day 7 post-vaccination versus those from TIV influenza vaccinee at day 7 post-vaccination.	6	1.709472e-2	1.000000e+0	1.000000e+0	5.849759e+1	1.709472e-2	1	1.709472e-2	1.000000e+0	7	1.064243e-2	1.000000e+0	1.000000e+0	9.396354e+1	1.064243e-2	1	192	1.000000e+0	5.208333e-3	unnamed	TMEM260
+MSigDB Immunologic Signatures	GSE14769_UNSTIM_VS_20MIN_LPS_BMDM_UP	Genes up-regulated in comparison of unstimulated macrophage cells versus macrophage cells stimulated with LPS (TLR4 agonist) for 20 min.	7	1.808243e-2	1.000000e+0	1.000000e+0	5.530231e+1	1.808243e-2	1	1.808243e-2	1.000000e+0	2	1.008813e-2	1.000000e+0	1.000000e+0	9.912637e+1	1.008813e-2	1	182	1.000000e+0	5.494505e-3	unnamed	TMEM260
+MSigDB Immunologic Signatures	GSE27786_BCELL_VS_CD8_TCELL_DN	Genes down-regulated in comparison of B cells versus CD8 T cells.	8	1.908736e-2	1.000000e+0	1.000000e+0	5.239068e+1	1.908736e-2	1	1.908736e-2	1.000000e+0	3	1.025442e-2	1.000000e+0	1.000000e+0	9.751892e+1	1.025442e-2	1	185	1.000000e+0	5.405405e-3	unnamed	TMEM260
+MSigDB Immunologic Signatures	GSE24634_NAIVE_CD4_TCELL_VS_DAY5_IL4_CONV_TREG_UP	Genes up-regulated in comparison of naive T cells at day 0 versus CD25+ regulatory T cell (Treg) treated with IL4 [GeneID=3565] at day 5.	9	1.922151e-2	1.000000e+0	1.000000e+0	5.202504e+1	1.922151e-2	1	1.922151e-2	1.000000e+0	4	1.036528e-2	1.000000e+0	1.000000e+0	9.647594e+1	1.036528e-2	1	187	1.000000e+0	5.347594e-3	unnamed	TMEM260
+MSigDB Immunologic Signatures	GSE12845_IGD_POS_BLOOD_VS_NAIVE_TONSIL_BCELL_DN	Genes down-regulated in comparison of IgD+ peripheral blood B cells versus IgD- naive tonsil B cells.	10	2.099420e-2	1.000000e+0	1.000000e+0	4.763220e+1	2.099420e-2	1	2.099420e-2	1.000000e+0	9	1.080871e-2	1.000000e+0	1.000000e+0	9.251795e+1	1.080871e-2	1	195	1.000000e+0	5.128205e-3	unnamed	TMEM260
+MSigDB Immunologic Signatures	GSE17721_CPG_VS_GARDIQUIMOD_1H_BMDM_UP	Genes up-regulated in comparison of dendritic cells (DC) stimulated with CpG DNA (TLR9 agonist) at 1 h versus DC cells stimulated with Gardiquimod (TLR7 agonist) at 1 h.	11	2.109515e-2	1.000000e+0	1.000000e+0	4.740427e+1	2.109515e-2	1	2.109515e-2	1.000000e+0	8	1.069785e-2	1.000000e+0	1.000000e+0	9.347668e+1	1.069785e-2	1	193	1.000000e+0	5.181347e-3	unnamed	TMEM260
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

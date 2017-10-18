@@ -1,0 +1,66 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Molecular Function	GO:0005515	protein binding	1	6.181781e-1	1.000000e+0	1.000000e+0	1.617657e+0	6.181781e-1	1	6.181781e-1	1.000000e+0	1	4.432681e-1	1.000000e+0	1.000000e+0	2.255971e+0	4.432681e-1	1	7997	1.000000e+0	1.250469e-4	unnamed	KRTAP4-12
+GO Molecular Function	GO:0005488	binding	2	8.171102e-1	1.000000e+0	1.000000e+0	1.223825e+0	8.171102e-1	1	8.171102e-1	1.000000e+0	2	6.747963e-1	1.000000e+0	1.000000e+0	1.481929e+0	6.747963e-1	1	12174	1.000000e+0	8.214227e-5	unnamed	KRTAP4-12
+GO Cellular Component	GO:0045095	keratin filament	1	1.104647e-3	1.000000e+0	1.000000e+0	9.052662e+2	1.104647e-3	1	1.104647e-3	1.000000e+0	1	5.376642e-3	1.000000e+0	1.000000e+0	1.859897e+2	5.376642e-3	1	97	1.000000e+0	1.030928e-2	unnamed	KRTAP4-12
+GO Cellular Component	GO:0005882	intermediate filament	2	6.621100e-3	1.000000e+0	1.000000e+0	1.510323e+2	6.621100e-3	1	6.621100e-3	1.000000e+0	2	1.080871e-2	1.000000e+0	1.000000e+0	9.251795e+1	1.080871e-2	1	195	1.000000e+0	5.128205e-3	unnamed	KRTAP4-12
+GO Cellular Component	GO:0045111	intermediate filament cytoskeleton	3	1.035764e-2	1.000000e+0	1.000000e+0	9.654706e+1	1.035764e-2	1	1.035764e-2	1.000000e+0	3	1.302589e-2	1.000000e+0	1.000000e+0	7.677021e+1	1.302589e-2	1	235	1.000000e+0	4.255319e-3	unnamed	KRTAP4-12
+GO Cellular Component	GO:0044430	cytoskeletal part	4	1.208518e-1	1.000000e+0	1.000000e+0	8.274597e+0	1.208518e-1	1	1.208518e-1	1.000000e+0	4	7.577185e-2	1.000000e+0	1.000000e+0	1.319751e+1	7.577185e-2	1	1367	1.000000e+0	7.315289e-4	unnamed	KRTAP4-12
+GO Cellular Component	GO:0005856	cytoskeleton	5	1.730861e-1	1.000000e+0	1.000000e+0	5.777472e+0	1.730861e-1	1	1.730861e-1	1.000000e+0	5	1.042625e-1	1.000000e+0	1.000000e+0	9.591175e+0	1.042625e-1	1	1881	1.000000e+0	5.316321e-4	unnamed	KRTAP4-12
+GO Cellular Component	GO:0043232	intracellular non-membrane-bounded organelle	6	2.709879e-1	1.000000e+0	1.000000e+0	3.690202e+0	2.709879e-1	1	2.709879e-1	1.000000e+0	6	1.844133e-1	1.000000e+0	1.000000e+0	5.422603e+0	1.844133e-1	1	3327	1.000000e+0	3.005711e-4	unnamed	KRTAP4-12
+GO Cellular Component	GO:0043234	protein complex	7	3.027166e-1	1.000000e+0	1.000000e+0	3.303419e+0	3.027166e-1	1	3.027166e-1	1.000000e+0	7	2.018735e-1	1.000000e+0	1.000000e+0	4.953597e+0	2.018735e-1	1	3642	1.000000e+0	2.745744e-4	unnamed	KRTAP4-12
+GO Cellular Component	GO:0032991	macromolecular complex	8	3.347910e-1	1.000000e+0	1.000000e+0	2.986938e+0	3.347910e-1	1	3.347910e-1	1.000000e+0	8	2.340225e-1	1.000000e+0	1.000000e+0	4.273093e+0	2.340225e-1	1	4222	1.000000e+0	2.368546e-4	unnamed	KRTAP4-12
+GO Cellular Component	GO:0044446	intracellular organelle part	9	4.732075e-1	1.000000e+0	1.000000e+0	2.113238e+0	4.732075e-1	1	4.732075e-1	1.000000e+0	9	3.595144e-1	1.000000e+0	1.000000e+0	2.781529e+0	3.595144e-1	1	6486	1.000000e+0	1.541782e-4	unnamed	KRTAP4-12
+GO Cellular Component	GO:0044422	organelle part	10	4.814989e-1	1.000000e+0	1.000000e+0	2.076848e+0	4.814989e-1	1	4.814989e-1	1.000000e+0	10	3.657225e-1	1.000000e+0	1.000000e+0	2.734313e+0	3.657225e-1	1	6598	1.000000e+0	1.515611e-4	unnamed	KRTAP4-12
+GO Cellular Component	GO:0043229	intracellular organelle	11	7.399473e-1	1.000000e+0	1.000000e+0	1.351448e+0	7.399473e-1	1	7.399473e-1	1.000000e+0	11	6.092789e-1	1.000000e+0	1.000000e+0	1.641285e+0	6.092789e-1	1	10992	1.000000e+0	9.097525e-5	unnamed	KRTAP4-12
+GO Cellular Component	GO:0043226	organelle	12	7.415866e-1	1.000000e+0	1.000000e+0	1.348460e+0	7.415866e-1	1	7.415866e-1	1.000000e+0	12	6.110526e-1	1.000000e+0	1.000000e+0	1.636520e+0	6.110526e-1	1	11024	1.000000e+0	9.071118e-5	unnamed	KRTAP4-12
+GO Cellular Component	GO:0044424	intracellular part	13	8.017695e-1	1.000000e+0	1.000000e+0	1.247241e+0	8.017695e-1	1	8.017695e-1	1.000000e+0	13	6.971897e-1	1.000000e+0	1.000000e+0	1.434330e+0	6.971897e-1	1	12578	1.000000e+0	7.950390e-5	unnamed	KRTAP4-12
+GO Cellular Component	GO:0005622	intracellular	14	8.064789e-1	1.000000e+0	1.000000e+0	1.239958e+0	8.064789e-1	1	8.064789e-1	1.000000e+0	14	7.066127e-1	1.000000e+0	1.000000e+0	1.415202e+0	7.066127e-1	1	12748	1.000000e+0	7.844368e-5	unnamed	KRTAP4-12
+GO Cellular Component	GO:0044464	cell part	15	8.908971e-1	1.000000e+0	1.000000e+0	1.122464e+0	8.908971e-1	1	8.908971e-1	1.000000e+0	15	8.202982e-1	1.000000e+0	1.000000e+0	1.219069e+0	8.202982e-1	1	14799	1.000000e+0	6.757213e-5	unnamed	KRTAP4-12
+GO Cellular Component	GO:0005623	cell	16	8.910977e-1	1.000000e+0	1.000000e+0	1.122211e+0	8.910977e-1	1	8.910977e-1	1.000000e+0	16	8.203536e-1	1.000000e+0	1.000000e+0	1.218986e+0	8.203536e-1	1	14800	1.000000e+0	6.756757e-5	unnamed	KRTAP4-12
+MSigDB Perturbation	KONDO_EZH2_TARGETS	Genes up-regulated in PC3 cells (prostate cancer) after EZH2 [GeneID=2146] knockdown by RNAi.	1	3.684967e-2	1.000000e+0	1.000000e+0	2.713728e+1	3.684967e-2	1	3.684967e-2	1.000000e+0	1	1.319217e-2	1.000000e+0	1.000000e+0	7.580252e+1	1.319217e-2	1	238	1.000000e+0	4.201681e-3	unnamed	KRTAP4-12
+MSigDB Perturbation	ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY	Genes transiently induced only by the first pulse of EGF [GeneID =1950] in 184A1 cells (mammary epithelium).	2	1.656740e-1	1.000000e+0	1.000000e+0	6.035952e+0	1.656740e-1	1	1.656740e-1	1.000000e+0	2	8.940746e-2	1.000000e+0	1.000000e+0	1.118475e+1	8.940746e-2	1	1613	1.000000e+0	6.199628e-4	unnamed	KRTAP4-12
+InterPro	IPR002494	High sulphur keratin-associated protein	1	3.812974e-4	1.000000e+0	1.000000e+0	2.622625e+3	3.812974e-4	1	3.812974e-4	1.000000e+0	1	3.104041e-3	1.000000e+0	1.000000e+0	3.221607e+2	3.104041e-3	1	56	1.000000e+0	1.785714e-2	unnamed	KRTAP4-12
+TreeFam	TF351356	KRTAP1-1, KRTAP1-3, KRTAP1-5, KRTAP10-1, KRTAP10-10, ...	1	1.632125e-4	1.000000e+0	1.000000e+0	6.126981e+3	1.632125e-4	1	1.632125e-4	1.000000e+0	1	1.829167e-3	1.000000e+0	1.000000e+0	5.466970e+2	1.829167e-3	1	33	1.000000e+0	3.030303e-2	unnamed	KRTAP4-12
+HGNC Gene Families	KRTAP	KRTAP	1	8.706211e-4	4.161569e-1	4.161569e-1	1.148605e+3	8.706211e-4	1	8.706211e-4	1.000000e+0	1	5.044066e-3	1.000000e+0	1.000000e+0	1.982527e+2	5.044066e-3	1	91	1.000000e+0	1.098901e-2	unnamed	KRTAP4-12
+Ensembl Genes	8294	KRTAP4-12	1	5.703603e-6	1.028987e-1	1.028987e-1	1.753278e+5	5.703603e-6	1	5.703603e-6	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	KRTAP4-12
+MSigDB Immunologic Signatures	GSE13485_CTRL_VS_DAY1_YF17D_VACCINE_PBMC_DN	Genes down-regulated in comparison of unstimulated peripheral blood mononuclear cells (PBMC) versus PBMC 1 day after stimulation with YF17D vaccine.	1	1.393045e-2	1.000000e+0	1.000000e+0	7.178521e+1	1.393045e-2	1	1.393045e-2	1.000000e+0	1	7.316668e-3	1.000000e+0	1.000000e+0	1.366742e+2	7.316668e-3	1	132	1.000000e+0	7.575758e-3	unnamed	KRTAP4-12
+MSigDB Immunologic Signatures	GSE26928_EFF_MEMORY_VS_CXCR5_POS_CD4_TCELL_UP	Genes up-regulated in comparison of CD4 [GeneID=920] effector memory T cells versus CD4 [GeneID=920] CXCR5+ [GeneID=643] T cells.	2	1.426556e-2	1.000000e+0	1.000000e+0	7.009892e+1	1.426556e-2	1	1.426556e-2	1.000000e+0	4	9.866415e-3	1.000000e+0	1.000000e+0	1.013539e+2	9.866415e-3	1	178	1.000000e+0	5.617978e-3	unnamed	KRTAP4-12
+MSigDB Immunologic Signatures	GSE17721_PAM3CSK4_VS_CPG_12H_BMDM_UP	Genes up-regulated in comparison of dendritic cells (DC) stimulated with Pam3Csk4 (TLR1/2 agonist) at 12 h versus DC cells stimulated with CpG DNA (TLR9 agonist) at 12 h.	3	1.504942e-2	1.000000e+0	1.000000e+0	6.644772e+1	1.504942e-2	1	1.504942e-2	1.000000e+0	10	1.097500e-2	1.000000e+0	1.000000e+0	9.111616e+1	1.097500e-2	1	198	1.000000e+0	5.050505e-3	unnamed	KRTAP4-12
+MSigDB Immunologic Signatures	GSE13485_DAY1_VS_DAY7_YF17D_VACCINE_PBMC_UP	Genes up-regulated in comparison of unstimulated peripheral blood mononuclear cells (PBMC) 1 day after stimulation with YF17D vaccine versus PBMC 7 days after the stimulation.	4	1.522550e-2	1.000000e+0	1.000000e+0	6.567930e+1	1.522550e-2	1	1.522550e-2	1.000000e+0	3	8.092678e-3	1.000000e+0	1.000000e+0	1.235685e+2	8.092678e-3	1	146	1.000000e+0	6.849315e-3	unnamed	KRTAP4-12
+MSigDB Immunologic Signatures	GSE17721_POLYIC_VS_GARDIQUIMOD_6H_BMDM_DN	Genes down-regulated in comparison of dendritic cells (DC) stimulated with poly(I:C) (TLR3 agonist) at 6 h versus DC cells stimulated with Gardiquimod (TLR7 agonist) at 6 h.	5	1.589375e-2	1.000000e+0	1.000000e+0	6.291780e+1	1.589375e-2	1	1.589375e-2	1.000000e+0	13	1.108586e-2	1.000000e+0	1.000000e+0	9.020500e+1	1.108586e-2	1	200	1.000000e+0	5.000000e-3	unnamed	KRTAP4-12
+MSigDB Immunologic Signatures	GSE17721_PAM3CSK4_VS_CPG_2H_BMDM_DN	Genes down-regulated in comparison of dendritic cells (DC) stimulated with Pam3Csk4 (TLR1/2 agonist) at 2 h versus DC cells stimulated with CpG DNA (TLR9 agonist) at 2 h.	6	1.627822e-2	1.000000e+0	1.000000e+0	6.143178e+1	1.627822e-2	1	1.627822e-2	1.000000e+0	10	1.097500e-2	1.000000e+0	1.000000e+0	9.111616e+1	1.097500e-2	1	198	1.000000e+0	5.050505e-3	unnamed	KRTAP4-12
+MSigDB Immunologic Signatures	GSE13485_DAY1_VS_DAY3_YF17D_VACCINE_PBMC_UP	Genes up-regulated in comparison of unstimulated peripheral blood mononuclear cells (PBMC) 1 day after stimulation with YF17D vaccine versus PBMC 3 days after the stimulation.	7	1.636814e-2	1.000000e+0	1.000000e+0	6.109429e+1	1.636814e-2	1	1.636814e-2	1.000000e+0	2	7.870961e-3	1.000000e+0	1.000000e+0	1.270493e+2	7.870961e-3	1	142	1.000000e+0	7.042254e-3	unnamed	KRTAP4-12
+MSigDB Immunologic Signatures	GSE31082_DP_VS_CD4_SP_THYMOCYTE_DN	Genes down-regulated in comparison of CD4+ [GeneID=920] CD8+ thymocytes versus CD4- [GeneID=920] CD8+ thymocytes.	8	1.717700e-2	1.000000e+0	1.000000e+0	5.821738e+1	1.717700e-2	1	1.717700e-2	1.000000e+0	5	1.047614e-2	1.000000e+0	1.000000e+0	9.545503e+1	1.047614e-2	1	189	1.000000e+0	5.291005e-3	unnamed	KRTAP4-12
+MSigDB Immunologic Signatures	GSE17721_PAM3CSK4_VS_GADIQUIMOD_2H_BMDM_DN	Genes down-regulated in comparison of dendritic cells (DC) stimulated with Pam3Csk4 (TLR1/2 agonist) at 2 h versus DC cells stimulated with Gardiquimod (TLR7 agonist) at 2 h.	9	1.744759e-2	1.000000e+0	1.000000e+0	5.731451e+1	1.744759e-2	1	1.744759e-2	1.000000e+0	8	1.080871e-2	1.000000e+0	1.000000e+0	9.251795e+1	1.080871e-2	1	195	1.000000e+0	5.128205e-3	unnamed	KRTAP4-12
+MSigDB Immunologic Signatures	GSE14308_TH1_VS_NAIVE_CD4_TCELL_DN	Genes down-regulated in comparison of Th1 cells versus naive CD4 [GeneID=920] T cells.	10	1.861974e-2	1.000000e+0	1.000000e+0	5.370644e+1	1.861974e-2	1	1.861974e-2	1.000000e+0	6	1.058700e-2	1.000000e+0	1.000000e+0	9.445550e+1	1.058700e-2	1	191	1.000000e+0	5.235602e-3	unnamed	KRTAP4-12
+MSigDB Immunologic Signatures	GSE17721_POLYIC_VS_CPG_4H_BMDM_DN	Genes down-regulated in comparison of dendritic cells (DC) stimulated with poly(I:C) (TLR3 agonist) at 4 h versus DC cells stimulated with CpG DNA (TLR9 agonist) at 4 h.	11	1.930080e-2	1.000000e+0	1.000000e+0	5.181132e+1	1.930080e-2	1	1.930080e-2	1.000000e+0	9	1.091957e-2	1.000000e+0	1.000000e+0	9.157868e+1	1.091957e-2	1	197	1.000000e+0	5.076142e-3	unnamed	KRTAP4-12
+MSigDB Immunologic Signatures	GSE17721_CPG_VS_GARDIQUIMOD_12H_BMDM_DN	Genes down-regulated in comparison of dendritic cells (DC) stimulated with CpG DNA (TLR9 agonist) at 12 h versus DC cells stimulated with Gardiquimod (TLR7 agonist) at 12 h.	12	2.041558e-2	1.000000e+0	1.000000e+0	4.898221e+1	2.041558e-2	1	2.041558e-2	1.000000e+0	12	1.103043e-2	1.000000e+0	1.000000e+0	9.065829e+1	1.103043e-2	1	199	1.000000e+0	5.025126e-3	unnamed	KRTAP4-12
+MSigDB Immunologic Signatures	GSE7460_WT_VS_FOXP3_HET_ACT_WITH_TGFB_TCONV_UP	Genes up-regulated in comparison of ActCD4TGF versus WTActCD4TGF (see Fig. 1 in the paper for details).	13	2.543665e-2	1.000000e+0	1.000000e+0	3.931335e+1	2.543665e-2	1	2.543665e-2	1.000000e+0	6	1.058700e-2	1.000000e+0	1.000000e+0	9.445550e+1	1.058700e-2	1	191	1.000000e+0	5.235602e-3	unnamed	KRTAP4-12
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

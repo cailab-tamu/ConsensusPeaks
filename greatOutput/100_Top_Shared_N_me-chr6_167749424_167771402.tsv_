@@ -1,0 +1,73 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Molecular Function	GO:0016874	ligase activity	1	4.606981e-2	1.000000e+0	1.000000e+0	2.170619e+1	4.606981e-2	1	4.606981e-2	1.000000e+0	1	5.433930e-2	1.000000e+0	1.000000e+0	1.814990e+1	5.509672e-2	1	497	5.000000e-1	2.012072e-3	unnamed	TTLL2
+GO Molecular Function	GO:0003824	catalytic activity	2	4.361959e-1	1.000000e+0	1.000000e+0	2.292548e+0	4.361959e-1	1	4.361959e-1	1.000000e+0	2	5.163312e-1	1.000000e+0	1.000000e+0	1.641882e+0	6.090571e-1	1	5494	5.000000e-1	1.820167e-4	unnamed	TTLL2
+GO Biological Process	GO:0006464	cellular protein modification process	1	2.092214e-1	1.000000e+0	1.000000e+0	4.779626e+0	2.092214e-1	1	2.092214e-1	1.000000e+0	1	2.280507e-1	1.000000e+0	1.000000e+0	4.118950e+0	2.427803e-1	1	2190	5.000000e-1	4.566210e-4	unnamed	TTLL2
+GO Biological Process	GO:0043412	macromolecule modification	2	2.160048e-1	1.000000e+0	1.000000e+0	4.629527e+0	2.160048e-1	1	2.160048e-1	1.000000e+0	2	2.399849e-1	1.000000e+0	1.000000e+0	3.899914e+0	2.564159e-1	1	2313	5.000000e-1	4.323390e-4	unnamed	TTLL2
+GO Biological Process	GO:0044267	cellular protein metabolic process	3	2.533433e-1	1.000000e+0	1.000000e+0	3.947214e+0	2.533433e-1	1	2.533433e-1	1.000000e+0	3	2.989111e-1	1.000000e+0	1.000000e+0	3.073424e+0	3.253700e-1	1	2935	5.000000e-1	3.407155e-4	unnamed	TTLL2
+GO Biological Process	GO:0019538	protein metabolic process	4	2.975455e-1	1.000000e+0	1.000000e+0	3.360830e+0	2.975455e-1	1	2.975455e-1	1.000000e+0	4	3.508235e-1	1.000000e+0	1.000000e+0	2.573609e+0	3.885594e-1	1	3505	5.000000e-1	2.853067e-4	unnamed	TTLL2
+GO Biological Process	GO:0044260	cellular macromolecule metabolic process	5	4.901841e-1	1.000000e+0	1.000000e+0	2.040050e+0	4.901841e-1	1	4.901841e-1	1.000000e+0	5	5.672657e-1	1.000000e+0	1.000000e+0	1.461283e+0	6.843301e-1	1	6173	5.000000e-1	1.619958e-4	unnamed	TTLL2
+GO Biological Process	GO:0043170	macromolecule metabolic process	6	5.266956e-1	1.000000e+0	1.000000e+0	1.898630e+0	5.266956e-1	1	5.266956e-1	1.000000e+0	6	6.104699e-1	1.000000e+0	1.000000e+0	1.330261e+0	7.517322e-1	1	6781	5.000000e-1	1.474709e-4	unnamed	TTLL2
+GO Biological Process	GO:0044237	cellular metabolic process	7	6.001923e-1	1.000000e+0	1.000000e+0	1.666133e+0	6.001923e-1	1	6.001923e-1	1.000000e+0	7	7.045181e-1	1.000000e+0	1.000000e+0	1.095519e+0	9.128097e-1	1	8234	5.000000e-1	1.214477e-4	unnamed	TTLL2
+GO Biological Process	GO:0044238	primary metabolic process	8	6.053666e-1	1.000000e+0	1.000000e+0	1.651892e+0	6.053666e-1	1	6.053666e-1	1.000000e+0	8	7.093792e-1	1.000000e+0	1.000000e+0	1.084847e+0	9.217893e-1	1	8315	5.000000e-1	1.202646e-4	unnamed	TTLL2
+GO Biological Process	GO:0071704	organic substance metabolic process	9	6.199145e-1	1.000000e+0	1.000000e+0	1.613126e+0	6.199145e-1	1	6.199145e-1	1.000000e+0	9	7.239536e-1	1.000000e+0	1.000000e+0	1.053551e+0	9.491713e-1	1	8562	5.000000e-1	1.167951e-4	unnamed	TTLL2
+GO Biological Process	GO:0008152	metabolic process	10	6.507895e-1	1.000000e+0	1.000000e+0	1.536595e+0	6.507895e-1	1	6.507895e-1	1.000000e+0	10	7.596471e-1	1.000000e+0	1.000000e+0	9.809156e-1	1.019456e+0	1	9196	5.000000e-1	1.087429e-4	unnamed	TTLL2
+GO Biological Process	GO:0009987	cellular process	11	8.656787e-1	1.000000e+0	1.000000e+0	1.155163e+0	8.656787e-1	1	8.656787e-1	1.000000e+0	11	9.369062e-1	1.000000e+0	1.000000e+0	6.677400e-1	1.497589e+0	1	13509	5.000000e-1	7.402472e-5	unnamed	TTLL2
+GO Cellular Component	GO:0005829	cytosol	1	2.084988e-1	1.000000e+0	1.000000e+0	4.796191e+0	2.084988e-1	1	2.084988e-1	1.000000e+0	1	2.663307e-1	1.000000e+0	1.000000e+0	3.485510e+0	2.869021e-1	1	2588	5.000000e-1	3.863988e-4	unnamed	TCP10
+GO Cellular Component	GO:0044444	cytoplasmic part	2	5.199381e-1	1.000000e+0	1.000000e+0	1.923306e+0	5.199381e-1	1	5.199381e-1	1.000000e+0	2	6.277110e-1	1.000000e+0	1.000000e+0	1.282596e+0	7.796685e-1	1	7033	5.000000e-1	1.421868e-4	unnamed	TCP10
+GO Cellular Component	GO:0005737	cytoplasm	3	6.734732e-1	1.000000e+0	1.000000e+0	1.484840e+0	6.734732e-1	1	6.734732e-1	1.000000e+0	3	7.735178e-1	1.000000e+0	1.000000e+0	9.540455e-1	1.048168e+0	1	9455	5.000000e-1	1.057641e-4	unnamed	TCP10
+GO Cellular Component	GO:0044424	intracellular part	4	8.017695e-1	1.000000e+0	1.000000e+0	1.247241e+0	8.017695e-1	1	8.017695e-1	1.000000e+0	4	9.083176e-1	1.000000e+0	1.000000e+0	7.171649e-1	1.394379e+0	1	12578	5.000000e-1	7.950390e-5	unnamed	TCP10
+GO Cellular Component	GO:0005622	intracellular	5	8.064789e-1	1.000000e+0	1.000000e+0	1.239958e+0	8.064789e-1	1	8.064789e-1	1.000000e+0	5	9.139354e-1	1.000000e+0	1.000000e+0	7.076012e-1	1.413225e+0	1	12748	5.000000e-1	7.844368e-5	unnamed	TCP10
+GO Cellular Component	GO:0044464	cell part	6	8.908971e-1	1.000000e+0	1.000000e+0	1.122464e+0	8.908971e-1	1	8.908971e-1	1.000000e+0	6	9.677154e-1	1.000000e+0	1.000000e+0	6.095344e-1	1.640596e+0	1	14799	5.000000e-1	6.757213e-5	unnamed	TCP10
+GO Cellular Component	GO:0005623	cell	7	8.910977e-1	1.000000e+0	1.000000e+0	1.122211e+0	8.910977e-1	1	8.910977e-1	1.000000e+0	7	9.677354e-1	1.000000e+0	1.000000e+0	6.094932e-1	1.640707e+0	1	14800	5.000000e-1	6.756757e-5	unnamed	TCP10
+MSigDB Perturbation	MULLIGHAN_NPM1_MUTATED_SIGNATURE_1_UP	The 'NPM1-mutated signature 1': genes up-regulated in pediatric AML (acute myeloid leukemia) samples with mutated NPM1 [GeneID=4869] compared to all AML cases with the intact gene.	1	2.845336e-2	1.000000e+0	1.000000e+0	3.514524e+1	2.845336e-2	1	2.845336e-2	1.000000e+0	1	3.189148e-2	1.000000e+0	1.000000e+0	3.110517e+1	3.214899e-2	1	290	5.000000e-1	3.448276e-3	unnamed	TCP10
+MSigDB Perturbation	SHEN_SMARCA2_TARGETS_DN	Genes whose expression negatively correlated with that of SMARCA2 [GeneID=6595] in prostate cancer samples.	2	3.136499e-2	1.000000e+0	1.000000e+0	3.188269e+1	3.136499e-2	1	3.136499e-2	1.000000e+0	2	3.614091e-2	1.000000e+0	1.000000e+0	2.741793e+1	3.647248e-2	1	329	5.000000e-1	3.039514e-3	unnamed	TCP10
+MSigDB Perturbation	MULLIGHAN_NPM1_SIGNATURE_3_UP	The 'NPM1 signature 3': genes up-regulated in pediatric AML (acute myeloid leukemia) with mutated NPM1 [GeneID=4869] compared to the AML cases with intact NPM1 and MLL [GeneID=4297].	3	3.521189e-2	1.000000e+0	1.000000e+0	2.839949e+1	3.521189e-2	1	3.521189e-2	1.000000e+0	3	3.875130e-2	1.000000e+0	1.000000e+0	2.555382e+1	3.913309e-2	1	353	5.000000e-1	2.832861e-3	unnamed	TCP10
+MSigDB Perturbation	ZWANG_TRANSIENTLY_UP_BY_2ND_EGF_PULSE_ONLY	Genes transiently induced only by the second pulse of EGF [GeneID =1950] in 184A1 cells (mammary epithelium).	4	1.379154e-1	1.000000e+0	1.000000e+0	7.250823e+0	1.379154e-1	1	1.379154e-1	1.000000e+0	4	1.522491e-1	1.000000e+0	1.000000e+0	6.308042e+0	1.585278e-1	1	1430	5.000000e-1	6.993007e-4	unnamed	TCP10
+MSigDB Predicted Promoter Motifs	CTTTAAR_UNKNOWN	Motif CTTTAAR (no known TF)	1	1.299965e-1	1.000000e+0	1.000000e+0	7.692514e+0	1.299965e-1	1	1.299965e-1	1.000000e+0	1	9.960251e-2	1.000000e+0	1.000000e+0	9.783623e+0	1.022116e-1	1	922	5.000000e-1	1.084599e-3	unnamed	TCP10
+InterPro	IPR028330	Probable tubulin polyglutamylase TTLL2	1	3.185630e-5	3.001501e-1	3.001501e-1	3.139096e+4	3.185630e-5	1	3.185630e-5	1.000000e+0	1	1.108586e-4	1.000000e+0	1.000000e+0	9.020500e+3	1.108586e-4	1	1	5.000000e-1	1.000000e+0	unnamed	TTLL2
+InterPro	IPR026581	T-complex protein 10 family	2	2.805337e-4	1.000000e+0	1.000000e+0	3.564634e+3	2.805337e-4	1	2.805337e-4	1.000000e+0	2	3.325574e-4	1.000000e+0	1.000000e+0	3.006833e+3	3.325758e-4	1	3	5.000000e-1	3.333333e-1	unnamed	TCP10
+InterPro	IPR004344	Tubulin-tyrosine ligase/Tubulin polyglutamylase	3	1.048836e-3	1.000000e+0	1.000000e+0	9.534379e+2	1.048836e-3	1	1.048836e-3	1.000000e+0	3	1.662234e-3	1.000000e+0	1.000000e+0	6.013667e+2	1.662879e-3	1	15	5.000000e-1	6.666667e-2	unnamed	TTLL2
+HGNC Gene Families	TTLL	TTLL	1	1.010936e-3	4.832274e-1	4.832274e-1	9.891819e+2	1.010936e-3	1	1.010936e-3	1.000000e+0	1	1.440682e-3	6.886460e-1	6.886460e-1	6.938846e+2	1.441162e-3	1	13	5.000000e-1	7.692308e-2	unnamed	TTLL2
+Ensembl Genes	16958	TTLL2	1	3.185630e-5	5.747195e-1	5.747195e-1	3.139096e+4	3.185630e-5	1	3.185630e-5	1.000000e+0	1	1.108586e-4	1.000000e+0	1.000000e+0	9.020500e+3	1.108586e-4	1	1	5.000000e-1	1.000000e+0	unnamed	TTLL2
+Ensembl Genes	16959	TCP10	2	1.247544e-4	1.000000e+0	1.000000e+0	8.015747e+3	1.247544e-4	1	1.247544e-4	1.000000e+0	1	1.108586e-4	1.000000e+0	1.000000e+0	9.020500e+3	1.108586e-4	1	1	5.000000e-1	1.000000e+0	unnamed	TCP10
+MSigDB Oncogenic Signatures	KRAS.KIDNEY_UP.V1_DN	Genes down-regulated in epithelial kidney cancer cell lines over-expressing an oncogenic form of KRAS [Gene ID=3845] gene.	1	1.165107e-2	1.000000e+0	1.000000e+0	8.582901e+1	1.165107e-2	1	1.165107e-2	1.000000e+0	1	5.394217e-5	1.008719e-2	1.008719e-2	1.356466e+2	1.474419e-2	2	133	1.000000e+0	1.503759e-2	unnamed	TCP10,TTLL2
+MSigDB Oncogenic Signatures	ALK_DN.V1_UP	Genes up-regulated in DAOY cells (medulloblastoma) upon knockdown of ALK [Gene ID=238] gene by RNAi.	2	1.279799e-2	1.000000e+0	1.000000e+0	7.813724e+1	1.279799e-2	1	1.279799e-2	1.000000e+0	2	1.447015e-2	1.000000e+0	1.000000e+0	6.885878e+1	1.452248e-2	1	131	5.000000e-1	7.633588e-3	unnamed	TTLL2
+MSigDB Oncogenic Signatures	ALK_DN.V1_DN	Genes down-regulated in DAOY cells (medulloblastoma) upon knockdown of ALK [Gene ID=238] gene by RNAi.	3	1.362260e-2	1.000000e+0	8.491421e-1	7.340745e+1	1.362260e-2	1	1.362260e-2	1.000000e+0	3	1.491033e-2	1.000000e+0	9.294106e-1	6.681852e+1	1.496591e-2	1	135	5.000000e-1	7.407407e-3	unnamed	TCP10
+MSigDB Oncogenic Signatures	RAPA_EARLY_UP.V1_UP	Genes up-regulated in BJAB (lymphoma) cells by everolimus [PubChem = 6442177].	4	1.909440e-2	1.000000e+0	8.926632e-1	5.237137e+1	1.909440e-2	1	1.909440e-2	1.000000e+0	4	1.897731e-2	1.000000e+0	8.871892e-1	5.244477e+1	1.906768e-2	1	172	5.000000e-1	5.813953e-3	unnamed	TCP10
+MSigDB Immunologic Signatures	GSE15659_CD45RA_NEG_CD4_TCELL_VS_ACTIVATED_TREG_DN	Genes down-regulated in comparison of PTPRC- [GeneID=5788] CD4 [GeneID=920] T cells versus activated regulatory T cell (Treg).	1	1.524023e-2	1.000000e+0	1.000000e+0	6.561581e+1	1.524023e-2	1	1.524023e-2	1.000000e+0	4	2.029452e-2	1.000000e+0	1.000000e+0	4.902446e+1	2.039798e-2	1	184	5.000000e-1	5.434783e-3	unnamed	TCP10
+MSigDB Immunologic Signatures	GSE15659_NONSUPPRESSIVE_TCELL_VS_ACTIVATED_TREG_DN	Genes down-regulated in comparison of non-suppressive T cells versus activated regulatory T cell (Treg).	2	1.564080e-2	1.000000e+0	1.000000e+0	6.393536e+1	1.564080e-2	1	1.564080e-2	1.000000e+0	3	1.974579e-2	1.000000e+0	1.000000e+0	5.039385e+1	1.984369e-2	1	179	5.000000e-1	5.586592e-3	unnamed	TCP10
+MSigDB Immunologic Signatures	GSE15659_CD45RA_NEG_CD4_TCELL_VS_NONSUPPRESSIVE_TCELL_DN	Genes down-regulated in comparison of PTPRC- [GeneID=5788] CD4 [GeneID=920] T cells versus non-suppressive T cells.	3	1.659577e-2	1.000000e+0	1.000000e+0	6.025632e+1	1.659577e-2	1	1.659577e-2	1.000000e+0	8	2.117217e-2	1.000000e+0	1.000000e+0	4.698177e+1	2.128485e-2	1	192	5.000000e-1	5.208333e-3	unnamed	TCP10
+MSigDB Immunologic Signatures	GSE2706_R848_VS_LPS_2H_STIM_DC_DN	Genes down-regulated in comparison of dendritic cells (DC) stimulated with R848 at 2 h versus DCs stimulated with LPS (TLR4 agonist) for 2 h.	4	1.673982e-2	1.000000e+0	1.000000e+0	5.973780e+1	1.673982e-2	1	1.673982e-2	1.000000e+0	1	1.688991e-2	1.000000e+0	1.000000e+0	5.895752e+1	1.696137e-2	1	153	5.000000e-1	6.535948e-3	unnamed	TTLL2
+MSigDB Immunologic Signatures	GSE29614_CTRL_VS_TIV_FLU_VACCINE_PBMC_2007_DN	Genes down-regulated in comparison of peripheral blood mononuclear cells (PBMC) from TIV influenza vaccinee pre-vaccination versus those at day 3 post-vaccination.	5	1.703620e-2	1.000000e+0	1.000000e+0	5.869853e+1	1.703620e-2	1	1.703620e-2	1.000000e+0	2	1.864787e-2	1.000000e+0	1.000000e+0	5.337574e+1	1.873510e-2	1	169	5.000000e-1	5.917160e-3	unnamed	TCP10
+MSigDB Immunologic Signatures	GSE15659_NAIVE_CD4_TCELL_VS_ACTIVATED_TREG_DN	Genes down-regulated in comparison of naive CD4 [GeneID=920] T cells versus activated regulatory T cell (Treg).	6	1.808587e-2	1.000000e+0	1.000000e+0	5.529177e+1	1.808587e-2	1	1.808587e-2	1.000000e+0	7	2.073340e-2	1.000000e+0	1.000000e+0	4.798138e+1	2.084142e-2	1	188	5.000000e-1	5.319149e-3	unnamed	TCP10
+MSigDB Immunologic Signatures	GSE15659_NAIVE_CD4_TCELL_VS_NONSUPPRESSIVE_TCELL_DN	Genes down-regulated in comparison of naive CD4 [GeneID=920] T cells versus non-suppressive T cells.	7	1.848952e-2	1.000000e+0	1.000000e+0	5.408470e+1	1.848952e-2	1	1.848952e-2	1.000000e+0	5	2.062369e-2	1.000000e+0	1.000000e+0	4.823797e+1	2.073056e-2	1	187	5.000000e-1	5.347594e-3	unnamed	TCP10
+MSigDB Immunologic Signatures	GSE360_CTRL_VS_L_MAJOR_DC_DN	Genes down-regulated in untreated dendritic cells (DC) versus DCs exposed to parasite L. major.	8	1.950239e-2	1.000000e+0	1.000000e+0	5.127578e+1	1.950239e-2	1	1.950239e-2	1.000000e+0	9	2.183015e-2	1.000000e+0	1.000000e+0	4.555808e+1	2.195000e-2	1	198	5.000000e-1	5.050505e-3	unnamed	TCP10
+MSigDB Immunologic Signatures	GSE15659_NAIVE_VS_PTPRC_NEG_CD4_TCELL_DN	Genes down-regulated in comparison of naive CD4 [GeneID=920] T cells versus PTPRC+ [GeneID=5788] CD4 [GeneID=920] T cells.	9	1.974747e-2	1.000000e+0	1.000000e+0	5.063940e+1	1.974747e-2	1	1.974747e-2	1.000000e+0	5	2.062369e-2	1.000000e+0	1.000000e+0	4.823797e+1	2.073056e-2	1	187	5.000000e-1	5.347594e-3	unnamed	TCP10
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

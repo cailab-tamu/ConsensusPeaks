@@ -1,0 +1,46 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Molecular Function	GO:0005515	protein binding	1	6.181781e-1	1.000000e+0	1.000000e+0	1.617657e+0	6.181781e-1	1	6.181781e-1	1.000000e+0	1	4.432681e-1	1.000000e+0	1.000000e+0	2.255971e+0	4.432681e-1	1	7997	1.000000e+0	1.250469e-4	unnamed	TCTEX1D4
+GO Molecular Function	GO:0005488	binding	2	8.171102e-1	1.000000e+0	1.000000e+0	1.223825e+0	8.171102e-1	1	8.171102e-1	1.000000e+0	2	6.747963e-1	1.000000e+0	1.000000e+0	1.481929e+0	6.747963e-1	1	12174	1.000000e+0	8.214227e-5	unnamed	TCTEX1D4
+MSigDB Perturbation	BAKKER_FOXO3_TARGETS_DN	Genes down-regulated in I/11 erythroblast cells upon expression of an activated form of FOXO3 [GeneID=2309].	1	1.682645e-2	1.000000e+0	1.000000e+0	5.943023e+1	1.682645e-2	1	1.682645e-2	1.000000e+0	1	9.977274e-3	1.000000e+0	1.000000e+0	1.002278e+2	9.977274e-3	1	180	1.000000e+0	5.555556e-3	unnamed	TCTEX1D4
+MSigDB Perturbation	MIKKELSEN_ES_ICP_WITH_H3K4ME3	Genes with intermediate-CpG-density (ICP) promoters bearing histone H3 K4 trimethylation mark (H3K4me3) in embryonic stem cells (ES).	2	5.226929e-2	1.000000e+0	1.000000e+0	1.913169e+1	5.226929e-2	1	5.226929e-2	1.000000e+0	2	3.730392e-2	1.000000e+0	1.000000e+0	2.680684e+1	3.730392e-2	1	673	1.000000e+0	1.485884e-3	unnamed	TCTEX1D4
+MSigDB Perturbation	MARSON_BOUND_BY_FOXP3_STIMULATED	Genes with promoters bound by FOXP3 [GeneID=50943] in hybridoma cells stimulated by PMA [PubChem=4792] and ionomycin [PubChem=3733].	3	7.982095e-2	1.000000e+0	1.000000e+0	1.252804e+1	7.982095e-2	1	7.982095e-2	1.000000e+0	3	5.476415e-2	1.000000e+0	1.000000e+0	1.826012e+1	5.476415e-2	1	988	1.000000e+0	1.012146e-3	unnamed	TCTEX1D4
+MSigDB Perturbation	MARSON_BOUND_BY_FOXP3_UNSTIMULATED	Genes with promoters bound by FOXP3 [GeneID=50943] in unstimulated hybridoma cells.	4	9.379232e-2	1.000000e+0	1.000000e+0	1.066185e+1	9.379232e-2	1	9.379232e-2	1.000000e+0	4	6.623801e-2	1.000000e+0	1.000000e+0	1.509707e+1	6.623801e-2	1	1195	1.000000e+0	8.368201e-4	unnamed	TCTEX1D4
+MSigDB Perturbation	ZWANG_TRANSIENTLY_UP_BY_2ND_EGF_PULSE_ONLY	Genes transiently induced only by the second pulse of EGF [GeneID =1950] in 184A1 cells (mammary epithelium).	5	1.379154e-1	1.000000e+0	1.000000e+0	7.250823e+0	1.379154e-1	1	1.379154e-1	1.000000e+0	5	7.926390e-2	1.000000e+0	1.000000e+0	1.261608e+1	7.926390e-2	1	1430	1.000000e+0	6.993007e-4	unnamed	TCTEX1D4
+InterPro	IPR005334	Tctex-1	1	1.526228e-4	1.000000e+0	1.000000e+0	6.552103e+3	1.526228e-4	1	1.526228e-4	1.000000e+0	1	2.771465e-4	1.000000e+0	1.000000e+0	3.608200e+3	2.771465e-4	1	5	1.000000e+0	2.000000e-1	unnamed	TCTEX1D4
+Ensembl Genes	628	TCTEX1D4	1	1.427264e-5	2.574927e-1	2.574927e-1	7.006413e+4	1.427264e-5	1	1.427264e-5	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	TCTEX1D4
+MSigDB Immunologic Signatures	GSE20715_WT_VS_TLR4_KO_24H_OZONE_LUNG_DN	Genes down-regulated in comparison of lung tissue from wild type mice subjected to ozone for 24 h versus that from TLR4 [GeneID=7099] deficient mice subjected to ozone for 24 h.	1	1.541481e-2	1.000000e+0	1.000000e+0	6.487268e+1	1.541481e-2	1	1.541481e-2	1.000000e+0	8	1.097500e-2	1.000000e+0	1.000000e+0	9.111616e+1	1.097500e-2	1	198	1.000000e+0	5.050505e-3	unnamed	TCTEX1D4
+MSigDB Immunologic Signatures	GSE17721_POLYIC_VS_GARDIQUIMOD_12H_BMDM_UP	Genes up-regulated in comparison of dendritic cells (DC) stimulated with poly(I:C) (TLR3 agonist) at 12 h versus DC cells stimulated with Gardiquimod (TLR7 agonist) at 12 h.	2	1.654629e-2	1.000000e+0	1.000000e+0	6.043652e+1	1.654629e-2	1	1.654629e-2	1.000000e+0	3	1.069785e-2	1.000000e+0	1.000000e+0	9.347668e+1	1.069785e-2	1	193	1.000000e+0	5.181347e-3	unnamed	TCTEX1D4
+MSigDB Immunologic Signatures	GSE17721_CTRL_VS_PAM3CSK4_0.5H_BMDM_UP	Genes up-regulated in comparison of control dendritic cells (DC) at 0 h versus those stimulated with Pam3Csk4 (TLR1/2 agonist) at 0.5 h.	3	1.749822e-2	1.000000e+0	1.000000e+0	5.714868e+1	1.749822e-2	1	1.749822e-2	1.000000e+0	7	1.086414e-2	1.000000e+0	1.000000e+0	9.204592e+1	1.086414e-2	1	196	1.000000e+0	5.102041e-3	unnamed	TCTEX1D4
+MSigDB Immunologic Signatures	GSE17721_POLYIC_VS_PAM3CSK4_0.5H_BMDM_UP	Genes up-regulated in comparison of dendritic cells (DC) stimulated with poly(I:C) (TLR3 agonist) at 0.5 h versus DC cells stimulated with Pam3Csk4 (TLR1/2 agonist) at 0.5 h.	4	1.862210e-2	1.000000e+0	1.000000e+0	5.369962e+1	1.862210e-2	1	1.862210e-2	1.000000e+0	5	1.075328e-2	1.000000e+0	1.000000e+0	9.299485e+1	1.075328e-2	1	194	1.000000e+0	5.154639e-3	unnamed	TCTEX1D4
+MSigDB Immunologic Signatures	GSE20715_0H_VS_6H_OZONE_TLR4_KO_LUNG_DN	Genes down-regulated in comparison of lung tissue from wild type mice subjected to ozone for 0 h versus that from TLR4 [GeneID=7099] deficient mice subjected to ozone for 6 h.	5	1.992545e-2	1.000000e+0	1.000000e+0	5.018708e+1	1.992545e-2	1	1.992545e-2	1.000000e+0	1	1.064243e-2	1.000000e+0	1.000000e+0	9.396354e+1	1.064243e-2	1	192	1.000000e+0	5.208333e-3	unnamed	TCTEX1D4
+MSigDB Immunologic Signatures	GSE17721_LPS_VS_PAM3CSK4_0.5H_BMDM_UP	Genes up-regulated in comparison of dendritic cells (DC) stimulated with LPS (TLR4 agonist) at 0.5 h versus DC cells stimulated with Pam3Csk4 (TLR1/2 agonist) at 0.5 h.	6	2.022880e-2	1.000000e+0	1.000000e+0	4.943446e+1	2.022880e-2	1	2.022880e-2	1.000000e+0	1	1.064243e-2	1.000000e+0	1.000000e+0	9.396354e+1	1.064243e-2	1	192	1.000000e+0	5.208333e-3	unnamed	TCTEX1D4
+MSigDB Immunologic Signatures	GSE9037_CTRL_VS_LPS_1H_STIM_BMDM_DN	Genes down-regulated in comparison of untreated macrophages at 4 h versus those treated with LPS (TLR4 agonist) at 1 h.	7	2.026143e-2	1.000000e+0	1.000000e+0	4.935485e+1	2.026143e-2	1	2.026143e-2	1.000000e+0	3	1.069785e-2	1.000000e+0	1.000000e+0	9.347668e+1	1.069785e-2	1	193	1.000000e+0	5.181347e-3	unnamed	TCTEX1D4
+MSigDB Immunologic Signatures	GSE17721_12H_VS_24H_POLYIC_BMDM_UP	Genes up-regulated in comparison of dendritic cells (DC) stimulated with LPS (TLR4 agonist) at 12 h versus those stimulated at 24 h.	8	2.387296e-2	1.000000e+0	1.000000e+0	4.188839e+1	2.387296e-2	1	2.387296e-2	1.000000e+0	5	1.075328e-2	1.000000e+0	1.000000e+0	9.299485e+1	1.075328e-2	1	194	1.000000e+0	5.154639e-3	unnamed	TCTEX1D4
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

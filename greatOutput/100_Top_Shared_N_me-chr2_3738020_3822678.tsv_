@@ -1,0 +1,47 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Biological Process	GO:0035556	intracellular signal transduction	1	1.533855e-1	1.000000e+0	1.000000e+0	6.519521e+0	1.533855e-1	1	1.533855e-1	1.000000e+0	1	8.015077e-2	1.000000e+0	1.000000e+0	1.247649e+1	8.015077e-2	1	1446	1.000000e+0	6.915629e-4	unnamed	DCDC2C
+GO Biological Process	GO:0007165	signal transduction	2	3.912589e-1	1.000000e+0	1.000000e+0	2.555852e+0	3.912589e-1	1	3.912589e-1	1.000000e+0	2	2.385123e-1	1.000000e+0	1.000000e+0	4.192656e+0	2.385123e-1	1	4303	1.000000e+0	2.323960e-4	unnamed	DCDC2C
+GO Biological Process	GO:0044700	single organism signaling	3	4.371810e-1	1.000000e+0	1.000000e+0	2.287382e+0	4.371810e-1	1	4.371810e-1	1.000000e+0	3	2.635663e-1	1.000000e+0	1.000000e+0	3.794111e+0	2.635663e-1	1	4755	1.000000e+0	2.103049e-4	unnamed	DCDC2C
+GO Biological Process	GO:0007154	cell communication	4	4.446638e-1	1.000000e+0	1.000000e+0	2.248890e+0	4.446638e-1	1	4.446638e-1	1.000000e+0	4	2.703841e-1	1.000000e+0	1.000000e+0	3.698442e+0	2.703841e-1	1	4878	1.000000e+0	2.050021e-4	unnamed	DCDC2C
+GO Biological Process	GO:0051716	cellular response to stimulus	5	4.562761e-1	1.000000e+0	1.000000e+0	2.191655e+0	4.562761e-1	1	4.562761e-1	1.000000e+0	5	2.957153e-1	1.000000e+0	1.000000e+0	3.381631e+0	2.957153e-1	1	5335	1.000000e+0	1.874414e-4	unnamed	DCDC2C
+GO Biological Process	GO:0050896	response to stimulus	6	5.533212e-1	1.000000e+0	1.000000e+0	1.807268e+0	5.533212e-1	1	5.533212e-1	1.000000e+0	6	3.817416e-1	1.000000e+0	1.000000e+0	2.619573e+0	3.817416e-1	1	6887	1.000000e+0	1.452011e-4	unnamed	DCDC2C
+GO Biological Process	GO:0050794	regulation of cellular process	7	6.759845e-1	1.000000e+0	1.000000e+0	1.479324e+0	6.759845e-1	1	6.759845e-1	1.000000e+0	7	4.907710e-1	1.000000e+0	1.000000e+0	2.037610e+0	4.907710e-1	1	8854	1.000000e+0	1.129433e-4	unnamed	DCDC2C
+GO Biological Process	GO:0050789	regulation of biological process	8	6.921477e-1	1.000000e+0	1.000000e+0	1.444778e+0	6.921477e-1	1	6.921477e-1	1.000000e+0	8	5.170999e-1	1.000000e+0	1.000000e+0	1.933862e+0	5.170999e-1	1	9329	1.000000e+0	1.071926e-4	unnamed	DCDC2C
+GO Biological Process	GO:0065007	biological regulation	9	7.151977e-1	1.000000e+0	1.000000e+0	1.398215e+0	7.151977e-1	1	7.151977e-1	1.000000e+0	9	5.461449e-1	1.000000e+0	1.000000e+0	1.831016e+0	5.461449e-1	1	9853	1.000000e+0	1.014919e-4	unnamed	DCDC2C
+GO Biological Process	GO:0044763	single-organism cellular process	10	7.497126e-1	1.000000e+0	1.000000e+0	1.333844e+0	7.497126e-1	1	7.497126e-1	1.000000e+0	10	5.605011e-1	1.000000e+0	1.000000e+0	1.784118e+0	5.605011e-1	1	10112	1.000000e+0	9.889241e-5	unnamed	DCDC2C
+GO Biological Process	GO:0044699	single-organism process	11	7.935590e-1	1.000000e+0	1.000000e+0	1.260146e+0	7.935590e-1	1	7.935590e-1	1.000000e+0	11	6.164847e-1	1.000000e+0	1.000000e+0	1.622100e+0	6.164847e-1	1	11122	1.000000e+0	8.991189e-5	unnamed	DCDC2C
+GO Biological Process	GO:0009987	cellular process	12	8.656787e-1	1.000000e+0	1.000000e+0	1.155163e+0	8.656787e-1	1	8.656787e-1	1.000000e+0	12	7.487944e-1	1.000000e+0	1.000000e+0	1.335480e+0	7.487944e-1	1	13509	1.000000e+0	7.402472e-5	unnamed	DCDC2C
+MSigDB Perturbation	CHEN_METABOLIC_SYNDROM_NETWORK	Genes forming the macrophage-enriched metabolic network (MEMN) claimed to have a causal relationship with the metabolic syndrom traits.	1	1.026637e-1	1.000000e+0	1.000000e+0	9.740537e+0	1.026637e-1	1	1.026637e-1	1.000000e+0	1	6.463056e-2	1.000000e+0	1.000000e+0	1.547256e+1	6.463056e-2	1	1166	1.000000e+0	8.576329e-4	unnamed	DCDC2C
+InterPro	IPR003533	Doublecortin domain	1	1.881666e-3	1.000000e+0	1.000000e+0	5.314440e+2	1.881666e-3	1	1.881666e-3	1.000000e+0	1	4.988637e-4	1.000000e+0	1.000000e+0	2.004556e+3	4.988637e-4	1	9	1.000000e+0	1.111111e-1	unnamed	DCDC2C
+TreeFam	TF338406	DCDC2, DCDC2B, DCDC2C	1	3.849768e-4	1.000000e+0	1.000000e+0	2.597559e+3	3.849768e-4	1	3.849768e-4	1.000000e+0	1	1.662879e-4	1.000000e+0	1.000000e+0	6.013667e+3	1.662879e-4	1	3	1.000000e+0	3.333333e-1	unnamed	DCDC2C
+Ensembl Genes	10685	DCDC2C	1	3.650963e-4	1.000000e+0	1.000000e+0	2.739003e+3	3.650963e-4	1	3.650963e-4	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	DCDC2C
+MSigDB Immunologic Signatures	GSE13306_RA_VS_UNTREATED_MEM_CD4_TCELL_DN	Genes down-regulated in comparison of memory CD4 [GeneID=920] T cells treated with retinoic acid (tretinoin) [PubChem=444795] versus untreated memory CD4 [GeneID=920] T cells.	1	2.019026e-2	1.000000e+0	1.000000e+0	4.952882e+1	2.019026e-2	1	2.019026e-2	1.000000e+0	2	1.119672e-2	1.000000e+0	1.000000e+0	8.931188e+1	1.119672e-2	1	202	1.000000e+0	4.950495e-3	unnamed	DCDC2C
+MSigDB Immunologic Signatures	GSE39820_CTRL_VS_IL1B_IL6_CD4_TCELL_DN	Genes down-regulated in comparison of untreated CD4 [GeneID=920] T cells versus those treated with IL1B [GeneID=3553] and IL6 [GeneID=3569].	2	2.254917e-2	1.000000e+0	1.000000e+0	4.434753e+1	2.254917e-2	1	2.254917e-2	1.000000e+0	1	1.053157e-2	1.000000e+0	1.000000e+0	9.495263e+1	1.053157e-2	1	190	1.000000e+0	5.263158e-3	unnamed	DCDC2C
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

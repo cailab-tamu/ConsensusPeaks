@@ -1,0 +1,48 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Cellular Component	GO:0005615	extracellular space	1	8.028245e-2	1.000000e+0	1.000000e+0	1.245602e+1	8.028245e-2	1	8.028245e-2	1.000000e+0	1	4.877778e-2	1.000000e+0	1.000000e+0	2.050114e+1	4.877778e-2	1	880	1.000000e+0	1.136364e-3	unnamed	SCGB1D1
+GO Cellular Component	GO:0044421	extracellular region part	2	1.147157e-1	1.000000e+0	1.000000e+0	8.717204e+0	1.147157e-1	1	1.147157e-1	1.000000e+0	2	6.568372e-2	1.000000e+0	1.000000e+0	1.522447e+1	6.568372e-2	1	1185	1.000000e+0	8.438819e-4	unnamed	SCGB1D1
+GO Cellular Component	GO:0005576	extracellular region	3	1.896595e-1	1.000000e+0	1.000000e+0	5.272606e+0	1.896595e-1	1	1.896595e-1	1.000000e+0	3	1.214456e-1	1.000000e+0	1.000000e+0	8.234140e+0	1.214456e-1	1	2191	1.000000e+0	4.564126e-4	unnamed	SCGB1D1
+MSigDB Perturbation	LIEN_BREAST_CARCINOMA_METAPLASTIC_VS_DUCTAL_DN	Genes down-regulated between two breast carcinoma subtypes: metaplastic (MCB) and ductal (DCB).	1	9.757093e-3	1.000000e+0	1.000000e+0	1.024895e+2	9.757093e-3	1	9.757093e-3	1.000000e+0	1	5.875506e-3	1.000000e+0	1.000000e+0	1.701981e+2	5.875506e-3	1	106	1.000000e+0	9.433962e-3	unnamed	SCGB1D1
+MSigDB Perturbation	MULLIGHAN_NPM1_MUTATED_SIGNATURE_1_UP	The 'NPM1-mutated signature 1': genes up-regulated in pediatric AML (acute myeloid leukemia) samples with mutated NPM1 [GeneID=4869] compared to all AML cases with the intact gene.	2	2.845336e-2	1.000000e+0	1.000000e+0	3.514524e+1	2.845336e-2	1	2.845336e-2	1.000000e+0	2	1.607450e-2	1.000000e+0	1.000000e+0	6.221034e+1	1.607450e-2	1	290	1.000000e+0	3.448276e-3	unnamed	SCGB1D1
+MSigDB Perturbation	MULLIGHAN_NPM1_SIGNATURE_3_UP	The 'NPM1 signature 3': genes up-regulated in pediatric AML (acute myeloid leukemia) with mutated NPM1 [GeneID=4869] compared to the AML cases with intact NPM1 and MLL [GeneID=4297].	3	3.521189e-2	1.000000e+0	1.000000e+0	2.839949e+1	3.521189e-2	1	3.521189e-2	1.000000e+0	3	1.956654e-2	1.000000e+0	1.000000e+0	5.110765e+1	1.956654e-2	1	353	1.000000e+0	2.832861e-3	unnamed	SCGB1D1
+MSigDB Perturbation	ZHOU_INFLAMMATORY_RESPONSE_LPS_UP	Genes up-regulated in macrophages by P.gingivalis LPS (lipopolysaccharide).	4	4.318233e-2	1.000000e+0	1.000000e+0	2.315762e+1	4.318233e-2	1	4.318233e-2	1.000000e+0	4	2.095228e-2	1.000000e+0	1.000000e+0	4.772751e+1	2.095228e-2	1	378	1.000000e+0	2.645503e-3	unnamed	SCGB1D1
+MSigDB Perturbation	WEI_MYCN_TARGETS_WITH_E_BOX	Genes whose promoters contain E-box motifs and whose expression changed in MYCN-3 cells (neuroblastoma) upon induction of MYCN [GeneID=4613].	5	6.806111e-2	1.000000e+0	1.000000e+0	1.469268e+1	6.806111e-2	1	6.806111e-2	1.000000e+0	5	4.262513e-2	1.000000e+0	1.000000e+0	2.346034e+1	4.262513e-2	1	769	1.000000e+0	1.300390e-3	unnamed	SCGB1D1
+InterPro	IPR016126	Secretoglobin	1	3.431759e-4	1.000000e+0	1.000000e+0	2.913958e+3	3.431759e-4	1	3.431759e-4	1.000000e+0	1	5.542930e-4	1.000000e+0	1.000000e+0	1.804100e+3	5.542930e-4	1	10	1.000000e+0	1.000000e-1	unnamed	SCGB1D1
+TreeFam	TF338526	SCGB1D1, SCGB1D2, SCGB1D4, SCGB2B2	1	1.375355e-4	1.000000e+0	1.000000e+0	7.270852e+3	1.375355e-4	1	1.375355e-4	1.000000e+0	1	2.217172e-4	1.000000e+0	1.000000e+0	4.510250e+3	2.217172e-4	1	4	1.000000e+0	2.500000e-1	unnamed	SCGB1D1
+HGNC Gene Families	SCGB	SCGB	1	3.386207e-4	1.618607e-1	1.618607e-1	2.953157e+3	3.386207e-4	1	3.386207e-4	1.000000e+0	1	5.542930e-4	2.649521e-1	2.649521e-1	1.804100e+3	5.542930e-4	1	10	1.000000e+0	1.000000e-1	unnamed	SCGB1D1
+Ensembl Genes	3461	SCGB1D1	1	2.750276e-5	4.961773e-1	4.961773e-1	3.635999e+4	2.750276e-5	1	2.750276e-5	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	SCGB1D1
+MSigDB Oncogenic Signatures	ALK_DN.V1_UP	Genes up-regulated in DAOY cells (medulloblastoma) upon knockdown of ALK [Gene ID=238] gene by RNAi.	1	1.279799e-2	1.000000e+0	1.000000e+0	7.813724e+1	1.279799e-2	1	1.279799e-2	1.000000e+0	1	7.261238e-3	1.000000e+0	1.000000e+0	1.377176e+2	7.261238e-3	1	131	1.000000e+0	7.633588e-3	unnamed	SCGB1D1
+MSigDB Oncogenic Signatures	KRAS.600.LUNG.BREAST_UP.V1_UP	Genes up-regulated in epithelial lung and breast cancer cell lines over-expressing an oncogenic form of KRAS [Gene ID=3845] gene.	2	3.169326e-2	1.000000e+0	1.000000e+0	3.155245e+1	3.169326e-2	1	3.169326e-2	1.000000e+0	2	1.485505e-2	1.000000e+0	1.000000e+0	6.731716e+1	1.485505e-2	1	268	1.000000e+0	3.731343e-3	unnamed	SCGB1D1
+MSigDB Oncogenic Signatures	NFE2L2.V2	Genes up-regulated in MEF cells (embryonic fibroblasts) with knockout of NFE2L2 [Gene ID=4780] gene.	3	4.485003e-2	1.000000e+0	1.000000e+0	2.229653e+1	4.485003e-2	1	4.485003e-2	1.000000e+0	3	2.350202e-2	1.000000e+0	1.000000e+0	4.254953e+1	2.350202e-2	1	424	1.000000e+0	2.358491e-3	unnamed	SCGB1D1
+MSigDB Immunologic Signatures	GSE14000_TRANSLATED_RNA_VS_MRNA_16H_LPS_DC_UP	Genes up-regulated in comparison of polysome bound (translated) mRNA versus total mRNA 16 h after LPS (TLR4 agonist) stimulation.	1	1.652253e-2	1.000000e+0	1.000000e+0	6.052343e+1	1.652253e-2	1	1.652253e-2	1.000000e+0	1	8.868688e-3	1.000000e+0	1.000000e+0	1.127562e+2	8.868688e-3	1	160	1.000000e+0	6.250000e-3	unnamed	SCGB1D1
+MSigDB Immunologic Signatures	GSE29618_PRE_VS_DAY7_POST_LAIV_FLU_VACCINE_MDC_UP	Genes up-regulated in comparison of myeloid dendritic cells (mDC) from LAIV influenza vaccinee pre-vaccination versus those at day 7 post-vaccination.	2	2.126595e-2	1.000000e+0	1.000000e+0	4.702352e+1	2.126595e-2	1	2.126595e-2	1.000000e+0	3	9.977274e-3	1.000000e+0	1.000000e+0	1.002278e+2	9.977274e-3	1	180	1.000000e+0	5.555556e-3	unnamed	SCGB1D1
+MSigDB Immunologic Signatures	GSE1432_1H_VS_6H_IFNG_MICROGLIA_UP	Genes up-regulated in comparison of microglia cells 1 h after stimulation with IFNG [GeneID=3458] versus microglia cells 6 h after the stimulation.	3	2.141825e-2	1.000000e+0	1.000000e+0	4.668916e+1	2.141825e-2	1	2.141825e-2	1.000000e+0	4	1.069785e-2	1.000000e+0	1.000000e+0	9.347668e+1	1.069785e-2	1	193	1.000000e+0	5.181347e-3	unnamed	SCGB1D1
+MSigDB Immunologic Signatures	GSE13411_NAIVE_VS_MEMORY_BCELL_UP	Genes up-regulated in comparison of naive B cells versus memory B cells.	4	2.543573e-2	1.000000e+0	1.000000e+0	3.931478e+1	2.543573e-2	1	2.543573e-2	1.000000e+0	2	9.755557e-3	1.000000e+0	1.000000e+0	1.025057e+2	9.755557e-3	1	176	1.000000e+0	5.681818e-3	unnamed	SCGB1D1
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

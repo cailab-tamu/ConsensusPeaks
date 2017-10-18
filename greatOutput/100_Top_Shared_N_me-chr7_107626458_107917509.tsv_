@@ -1,0 +1,64 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Biological Process	GO:0007155	cell adhesion	1	1.119169e-1	1.000000e+0	1.000000e+0	8.935198e+0	1.119169e-1	1	1.119169e-1	1.000000e+0	1	4.489773e-2	1.000000e+0	1.000000e+0	2.227284e+1	4.489773e-2	1	810	1.000000e+0	1.234568e-3	unnamed	LAMB4
+GO Biological Process	GO:0022610	biological adhesion	2	1.120241e-1	1.000000e+0	1.000000e+0	8.926651e+0	1.120241e-1	1	1.120241e-1	1.000000e+0	2	4.506402e-2	1.000000e+0	1.000000e+0	2.219065e+1	4.506402e-2	1	813	1.000000e+0	1.230012e-3	unnamed	LAMB4
+GO Biological Process	GO:0044763	single-organism cellular process	3	7.497126e-1	1.000000e+0	1.000000e+0	1.333844e+0	7.497126e-1	1	7.497126e-1	1.000000e+0	3	5.605011e-1	1.000000e+0	1.000000e+0	1.784118e+0	5.605011e-1	1	10112	1.000000e+0	9.889241e-5	unnamed	LAMB4
+GO Biological Process	GO:0044699	single-organism process	4	7.935590e-1	1.000000e+0	1.000000e+0	1.260146e+0	7.935590e-1	1	7.935590e-1	1.000000e+0	4	6.164847e-1	1.000000e+0	1.000000e+0	1.622100e+0	6.164847e-1	1	11122	1.000000e+0	8.991189e-5	unnamed	LAMB4
+GO Biological Process	GO:0009987	cellular process	5	8.656787e-1	1.000000e+0	1.000000e+0	1.155163e+0	8.656787e-1	1	8.656787e-1	1.000000e+0	5	7.487944e-1	1.000000e+0	1.000000e+0	1.335480e+0	7.487944e-1	1	13509	1.000000e+0	7.402472e-5	unnamed	LAMB4
+GO Cellular Component	GO:0005604	basement membrane	1	1.256015e-2	1.000000e+0	1.000000e+0	7.961687e+1	1.256015e-2	1	1.256015e-2	1.000000e+0	1	5.154925e-3	1.000000e+0	1.000000e+0	1.939892e+2	5.154925e-3	1	93	1.000000e+0	1.075269e-2	unnamed	LAMB4
+GO Cellular Component	GO:0044420	extracellular matrix part	2	2.540400e-2	1.000000e+0	1.000000e+0	3.936388e+1	2.540400e-2	1	2.540400e-2	1.000000e+0	2	1.103043e-2	1.000000e+0	1.000000e+0	9.065829e+1	1.103043e-2	1	199	1.000000e+0	5.025126e-3	unnamed	LAMB4
+GO Cellular Component	GO:0005578	proteinaceous extracellular matrix	3	4.784087e-2	1.000000e+0	1.000000e+0	2.090263e+1	4.784087e-2	1	4.784087e-2	1.000000e+0	3	2.089685e-2	1.000000e+0	1.000000e+0	4.785411e+1	2.089685e-2	1	377	1.000000e+0	2.652520e-3	unnamed	LAMB4
+GO Cellular Component	GO:0031012	extracellular matrix	4	5.563481e-2	1.000000e+0	1.000000e+0	1.797436e+1	5.563481e-2	1	5.563481e-2	1.000000e+0	4	2.427803e-2	1.000000e+0	1.000000e+0	4.118950e+1	2.427803e-2	1	438	1.000000e+0	2.283105e-3	unnamed	LAMB4
+GO Cellular Component	GO:0044421	extracellular region part	5	1.147157e-1	1.000000e+0	1.000000e+0	8.717204e+0	1.147157e-1	1	1.147157e-1	1.000000e+0	5	6.568372e-2	1.000000e+0	1.000000e+0	1.522447e+1	6.568372e-2	1	1185	1.000000e+0	8.438819e-4	unnamed	LAMB4
+GO Cellular Component	GO:0005576	extracellular region	6	1.896595e-1	1.000000e+0	1.000000e+0	5.272606e+0	1.896595e-1	1	1.896595e-1	1.000000e+0	6	1.214456e-1	1.000000e+0	1.000000e+0	8.234140e+0	1.214456e-1	1	2191	1.000000e+0	4.564126e-4	unnamed	LAMB4
+PANTHER Pathway	P00034	Integrin signalling pathway	1	1.848753e-2	1.000000e+0	1.000000e+0	5.409052e+1	1.848753e-2	1	1.848753e-2	1.000000e+0	1	9.256693e-3	1.000000e+0	1.000000e+0	1.080299e+2	9.256693e-3	1	167	1.000000e+0	5.988024e-3	unnamed	LAMB4
+MSigDB Pathway	KEGG_SMALL_CELL_LUNG_CANCER	Small cell lung cancer	1	9.448206e-3	1.000000e+0	1.000000e+0	1.058402e+2	9.448206e-3	1	9.448206e-3	1.000000e+0	2	4.766920e-3	1.000000e+0	1.000000e+0	2.097791e+2	4.766920e-3	1	86	1.000000e+0	1.162791e-2	unnamed	LAMB4
+MSigDB Pathway	KEGG_ECM_RECEPTOR_INTERACTION	ECM-receptor interaction	2	1.015707e-2	1.000000e+0	1.000000e+0	9.845361e+1	1.015707e-2	1	1.015707e-2	1.000000e+0	1	4.711490e-3	1.000000e+0	1.000000e+0	2.122471e+2	4.711490e-3	1	85	1.000000e+0	1.176471e-2	unnamed	LAMB4
+MSigDB Pathway	KEGG_FOCAL_ADHESION	Focal adhesion	3	2.318813e-2	1.000000e+0	1.000000e+0	4.312552e+1	2.318813e-2	1	2.318813e-2	1.000000e+0	3	1.103043e-2	1.000000e+0	1.000000e+0	9.065829e+1	1.103043e-2	1	199	1.000000e+0	5.025126e-3	unnamed	LAMB4
+MSigDB Pathway	KEGG_PATHWAYS_IN_CANCER	Pathways in cancer	4	4.235254e-2	1.000000e+0	1.000000e+0	2.361133e+1	4.235254e-2	1	4.235254e-2	1.000000e+0	4	1.812538e-2	1.000000e+0	1.000000e+0	5.517125e+1	1.812538e-2	1	327	1.000000e+0	3.058104e-3	unnamed	LAMB4
+MSigDB Perturbation	ACEVEDO_LIVER_CANCER_WITH_H3K9ME3_UP	Genes whose promoters display higher histone H3 trimethylation mark at K9 (H3K9me3) in hepatocellular carcinoma (HCC) compared to normal liver.	1	2.197531e-2	1.000000e+0	1.000000e+0	4.550561e+1	2.197531e-2	1	2.197531e-2	1.000000e+0	1	6.706945e-3	1.000000e+0	1.000000e+0	1.490992e+2	6.706945e-3	1	121	1.000000e+0	8.264463e-3	unnamed	LAMB4
+MSigDB Perturbation	HOLLMANN_APOPTOSIS_VIA_CD40_DN	Genes down-regulated in DLBCL (diffuse large B-cell lymphoma) cell lines sensitive to stimulation of CD40 [GeneID=958] relative to the resistant ones.	2	2.285226e-2	1.000000e+0	1.000000e+0	4.375935e+1	2.285226e-2	1	2.285226e-2	1.000000e+0	3	1.407904e-2	1.000000e+0	1.000000e+0	7.102756e+1	1.407904e-2	1	254	1.000000e+0	3.937008e-3	unnamed	LAMB4
+MSigDB Perturbation	KONDO_PROSTATE_CANCER_WITH_H3K27ME3	Top 200 genes with high histone H3 trimethylation mark at K27 (H3K27me3) in PC3 cells (prostate cancer), by ChIP-chip assay on an 88K microarray (all promoters).	3	2.435971e-2	1.000000e+0	1.000000e+0	4.105140e+1	2.435971e-2	1	2.435971e-2	1.000000e+0	2	1.042071e-2	1.000000e+0	1.000000e+0	9.596277e+1	1.042071e-2	1	188	1.000000e+0	5.319149e-3	unnamed	LAMB4
+MSigDB Perturbation	NUYTTEN_NIPP1_TARGETS_UP	Genes up-regulated in PC3 cells (prostate cancer) after knockdown of NIPP1 [GeneID=5511] by RNAi.	4	8.459132e-2	1.000000e+0	1.000000e+0	1.182154e+1	8.459132e-2	1	8.459132e-2	1.000000e+0	4	4.090682e-2	1.000000e+0	1.000000e+0	2.444580e+1	4.090682e-2	1	738	1.000000e+0	1.355014e-3	unnamed	LAMB4
+MSigDB Perturbation	PEREZ_TP53_TARGETS	Genes up-regulated in the HMEC cells (primary mammary epithelium) upon expression of TP53 [GeneID=7157] off adenoviral vector.	5	1.077316e-1	1.000000e+0	1.000000e+0	9.282326e+0	1.077316e-1	1	1.077316e-1	1.000000e+0	5	5.903220e-2	1.000000e+0	1.000000e+0	1.693991e+1	5.903220e-2	1	1065	1.000000e+0	9.389671e-4	unnamed	LAMB4
+MSigDB Perturbation	PUJANA_ATM_PCC_NETWORK	Genes constituting the ATM-PCC network of transcripts whose expression positively correlated (Pearson correlation coefficient, PCC &gt;= 0.4) with that of ATM [GeneID=472] across a compendium of normal tissues.	6	1.248339e-1	1.000000e+0	1.000000e+0	8.010648e+0	1.248339e-1	1	1.248339e-1	1.000000e+0	6	7.848789e-2	1.000000e+0	1.000000e+0	1.274082e+1	7.848789e-2	1	1416	1.000000e+0	7.062147e-4	unnamed	LAMB4
+InterPro	IPR013015	Laminin IV	1	2.111560e-4	1.000000e+0	1.000000e+0	4.735835e+3	2.111560e-4	1	2.111560e-4	1.000000e+0	1	1.662879e-4	1.000000e+0	1.000000e+0	6.013667e+3	1.662879e-4	1	3	1.000000e+0	3.333333e-1	unnamed	LAMB4
+InterPro	IPR008211	Laminin, N-terminal	2	2.438934e-3	1.000000e+0	1.000000e+0	4.100151e+2	2.438934e-3	1	2.438934e-3	1.000000e+0	2	8.868688e-4	1.000000e+0	1.000000e+0	1.127562e+3	8.868688e-4	1	16	1.000000e+0	6.250000e-2	unnamed	LAMB4
+InterPro	IPR002049	EGF-like, laminin	3	4.302533e-3	1.000000e+0	1.000000e+0	2.324212e+2	4.302533e-3	1	4.302533e-3	1.000000e+0	3	2.106313e-3	1.000000e+0	1.000000e+0	4.747632e+2	2.106313e-3	1	38	1.000000e+0	2.631579e-2	unnamed	LAMB4
+InterPro	IPR013032	EGF-like, conserved site	4	2.878422e-2	1.000000e+0	1.000000e+0	3.474126e+1	2.878422e-2	1	2.878422e-2	1.000000e+0	4	1.091957e-2	1.000000e+0	1.000000e+0	9.157868e+1	1.091957e-2	1	197	1.000000e+0	5.076142e-3	unnamed	LAMB4
+TreeFam	TF312903	LAMB1, LAMB2, LAMB4	1	2.111560e-4	1.000000e+0	1.000000e+0	4.735835e+3	2.111560e-4	1	2.111560e-4	1.000000e+0	1	1.662879e-4	1.000000e+0	1.000000e+0	6.013667e+3	1.662879e-4	1	3	1.000000e+0	3.333333e-1	unnamed	LAMB4
+HGNC Gene Families	LAM	LAM	1	1.465989e-3	7.007427e-1	7.007427e-1	6.821334e+2	1.465989e-3	1	1.465989e-3	1.000000e+0	1	6.651516e-4	3.179425e-1	3.179425e-1	1.503417e+3	6.651516e-4	1	12	1.000000e+0	8.333333e-2	unnamed	LAMB4
+Ensembl Genes	17588	LAMB4	1	1.562640e-4	1.000000e+0	1.000000e+0	6.399425e+3	1.562640e-4	1	1.562640e-4	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	LAMB4
+MSigDB Immunologic Signatures	GSE9006_HEALTHY_VS_TYPE_1_DIABETES_PBMC_4MONTH_POST_DX_DN	Genes down-regulated in comparison of peripheral blood mononuclear cells (PBMC) from healthy donors versus PBMCs from patients with type 1 diabetes at 4  month after the diagnosis.	1	1.267531e-2	1.000000e+0	1.000000e+0	7.889356e+1	1.267531e-2	1	1.267531e-2	1.000000e+0	5	1.130758e-2	1.000000e+0	1.000000e+0	8.843627e+1	1.130758e-2	1	204	1.000000e+0	4.901961e-3	unnamed	LAMB4
+MSigDB Immunologic Signatures	GSE9006_HEALTHY_VS_TYPE_1_DIABETES_PBMC_1MONTH_POST_DX_DN	Genes down-regulated in comparison of peripheral blood mononuclear cells (PBMC) from healthy donors versus PBMCs from patients with type 1 diabetes at 1 month after the diagnosis.	2	1.476434e-2	1.000000e+0	1.000000e+0	6.773077e+1	1.476434e-2	1	1.476434e-2	1.000000e+0	2	1.003270e-2	1.000000e+0	1.000000e+0	9.967403e+1	1.003270e-2	1	181	1.000000e+0	5.524862e-3	unnamed	LAMB4
+MSigDB Immunologic Signatures	GSE17974_IL4_AND_ANTI_IL12_VS_UNTREATED_1H_ACT_CD4_TCELL_DN	Genes down-regulated in comparison of CD4 [GeneID=920] T cells treated with IL4 [GeneID=3565] and anti-IL12 at 1 h versus the untreated cells at 1 h.	3	1.532200e-2	1.000000e+0	1.000000e+0	6.526564e+1	1.532200e-2	1	1.532200e-2	1.000000e+0	1	8.425254e-3	1.000000e+0	1.000000e+0	1.186908e+2	8.425254e-3	1	152	1.000000e+0	6.578947e-3	unnamed	LAMB4
+MSigDB Immunologic Signatures	GSE9006_HEALTHY_VS_TYPE_1_DIABETES_PBMC_AT_DX_DN	Genes down-regulated in comparison of peripheral blood mononuclear cells (PBMC) from healthy donors versus PBMCs from patients with type 1 diabetes at the time of diagnosis.	4	1.686420e-2	1.000000e+0	1.000000e+0	5.929720e+1	1.686420e-2	1	1.686420e-2	1.000000e+0	3	1.025442e-2	1.000000e+0	1.000000e+0	9.751892e+1	1.025442e-2	1	185	1.000000e+0	5.405405e-3	unnamed	LAMB4
+MSigDB Immunologic Signatures	GSE3982_MAST_CELL_VS_BCELL_DN	Genes down-regulated in comparison of mast cells versus B cells.	5	1.939269e-2	1.000000e+0	1.000000e+0	5.156581e+1	1.939269e-2	1	1.939269e-2	1.000000e+0	3	1.025442e-2	1.000000e+0	1.000000e+0	9.751892e+1	1.025442e-2	1	185	1.000000e+0	5.405405e-3	unnamed	LAMB4
+MSigDB Immunologic Signatures	GSE29618_LAIV_VS_TIV_FLU_VACCINE_DAY7_MDC_UP	Genes up-regulated in comparison of myeloid dendritic cells from LAIV influenza vaccinee at day 7 post-vaccination vesus those from TIV influenza vaccinee at day 7.	6	2.170493e-2	1.000000e+0	1.000000e+0	4.607249e+1	2.170493e-2	1	2.170493e-2	1.000000e+0	5	1.130758e-2	1.000000e+0	1.000000e+0	8.843627e+1	1.130758e-2	1	204	1.000000e+0	4.901961e-3	unnamed	LAMB4
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

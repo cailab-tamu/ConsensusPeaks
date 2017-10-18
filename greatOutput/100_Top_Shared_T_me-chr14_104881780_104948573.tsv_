@@ -1,0 +1,52 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Cellular Component	GO:0005576	extracellular region	1	1.896595e-1	1.000000e+0	1.000000e+0	5.272606e+0	1.896595e-1	1	1.896595e-1	1.000000e+0	1	2.281481e-1	1.000000e+0	1.000000e+0	4.117070e+0	2.428912e-1	1	2191	5.000000e-1	4.564126e-4	unnamed	C14orf144
+GO Cellular Component	GO:0005886	plasma membrane	2	4.126577e-1	1.000000e+0	1.000000e+0	2.423316e+0	4.126577e-1	1	4.126577e-1	1.000000e+0	2	4.264607e-1	1.000000e+0	1.000000e+0	2.060416e+0	4.853390e-1	1	4378	5.000000e-1	2.284148e-4	unnamed	C14orf180
+GO Cellular Component	GO:0071944	cell periphery	3	4.194602e-1	1.000000e+0	1.000000e+0	2.384017e+0	4.194602e-1	1	4.194602e-1	1.000000e+0	3	4.347424e-1	1.000000e+0	1.000000e+0	2.014854e+0	4.963140e-1	1	4477	5.000000e-1	2.233639e-4	unnamed	C14orf180
+GO Cellular Component	GO:0016021	integral to membrane	4	4.578656e-1	1.000000e+0	1.000000e+0	2.184047e+0	4.578656e-1	1	4.578656e-1	1.000000e+0	4	4.982001e-1	1.000000e+0	1.000000e+0	1.714598e+0	5.832271e-1	1	5261	5.000000e-1	1.900779e-4	unnamed	C14orf180
+GO Cellular Component	GO:0031224	intrinsic to membrane	5	4.694206e-1	1.000000e+0	1.000000e+0	2.130286e+0	4.694206e-1	1	4.694206e-1	1.000000e+0	5	5.070350e-1	1.000000e+0	1.000000e+0	1.678545e+0	5.957541e-1	1	5374	5.000000e-1	1.860811e-4	unnamed	C14orf180
+GO Cellular Component	GO:0044425	membrane part	6	5.293034e-1	1.000000e+0	1.000000e+0	1.889276e+0	5.293034e-1	1	5.293034e-1	1.000000e+0	6	5.687230e-1	1.000000e+0	1.000000e+0	1.456564e+0	6.865473e-1	1	6193	5.000000e-1	1.614726e-4	unnamed	C14orf180
+GO Cellular Component	GO:0016020	membrane	7	6.308744e-1	1.000000e+0	1.000000e+0	1.585102e+0	6.308744e-1	1	6.308744e-1	1.000000e+0	7	6.811747e-1	1.000000e+0	1.000000e+0	1.148523e+0	8.706834e-1	1	7854	5.000000e-1	1.273237e-4	unnamed	C14orf180
+GO Cellular Component	GO:0044464	cell part	8	8.908971e-1	1.000000e+0	1.000000e+0	1.122464e+0	8.908971e-1	1	8.908971e-1	1.000000e+0	8	9.677154e-1	1.000000e+0	1.000000e+0	6.095344e-1	1.640596e+0	1	14799	5.000000e-1	6.757213e-5	unnamed	C14orf180
+GO Cellular Component	GO:0005623	cell	9	8.910977e-1	1.000000e+0	1.000000e+0	1.122211e+0	8.910977e-1	1	8.910977e-1	1.000000e+0	9	9.677354e-1	1.000000e+0	1.000000e+0	6.094932e-1	1.640707e+0	1	14800	5.000000e-1	6.756757e-5	unnamed	C14orf180
+MSigDB Perturbation	MARTENS_TRETINOIN_RESPONSE_UP	Genes up-regulated in NB4 cells (acute promyelocytic leukemia, APL) in response to tretinoin [PubChem=444795]; based on Chip-seq data.	1	5.385029e-2	1.000000e+0	1.000000e+0	1.857000e+1	5.385029e-2	1	5.385029e-2	1.000000e+0	2	8.470881e-2	1.000000e+0	1.000000e+0	1.154994e+1	8.658057e-2	1	781	5.000000e-1	1.280410e-3	unnamed	C14orf180
+MSigDB Perturbation	WAKABAYASHI_ADIPOGENESIS_PPARG_BOUND_8D	Genes with promoters bound by PPARG [GeneID=5468] at 8 day time point of adipocyte differentiation of 3T3-L1 cells (preadipocyte).	2	5.435434e-2	1.000000e+0	1.000000e+0	1.839779e+1	5.435434e-2	1	5.435434e-2	1.000000e+0	1	7.033440e-2	1.000000e+0	1.000000e+0	1.396362e+1	7.161466e-2	1	646	5.000000e-1	1.547988e-3	unnamed	C14orf180
+MSigDB miRNA Motifs	CTGAGCC,MIR-24	Targets of MicroRNA CTGAGCC,MIR-24	1	2.419205e-2	1.000000e+0	1.000000e+0	4.133589e+1	2.419205e-2	1	2.419205e-2	1.000000e+0	2	2.489780e-2	1.000000e+0	1.000000e+0	3.991372e+1	2.505404e-2	1	226	5.000000e-1	4.424779e-3	unnamed	C14orf180
+MSigDB miRNA Motifs	CACCAGC,MIR-138	Targets of MicroRNA CACCAGC,MIR-138	2	3.203648e-2	1.000000e+0	1.000000e+0	3.121441e+1	3.203648e-2	1	3.203648e-2	1.000000e+0	1	2.391230e-2	1.000000e+0	1.000000e+0	4.156912e+1	2.405632e-2	1	217	5.000000e-1	4.608295e-3	unnamed	C14orf180
+InterPro	IPR028114	Protein of unknown function DUF4658	1	1.256205e-4	1.000000e+0	1.000000e+0	7.960487e+3	1.256205e-4	1	1.256205e-4	1.000000e+0	1	1.108586e-4	1.000000e+0	1.000000e+0	9.020500e+3	1.108586e-4	1	1	5.000000e-1	1.000000e+0	unnamed	C14orf180
+TreeFam	TF336371	C14orf180	1	1.256205e-4	1.000000e+0	1.000000e+0	7.960487e+3	1.256205e-4	1	1.256205e-4	1.000000e+0	1	1.108586e-4	9.008370e-1	9.008370e-1	9.020500e+3	1.108586e-4	1	1	5.000000e-1	1.000000e+0	unnamed	C14orf180
+Ensembl Genes	6177	C14orf180	1	1.256205e-4	1.000000e+0	1.000000e+0	7.960487e+3	1.256205e-4	1	1.256205e-4	1.000000e+0	1	1.108586e-4	1.000000e+0	1.000000e+0	9.020500e+3	1.108586e-4	1	1	5.000000e-1	1.000000e+0	unnamed	C14orf180
+Ensembl Genes	6176	C14orf144	2	1.520126e-4	1.000000e+0	1.000000e+0	6.578404e+3	1.520126e-4	1	1.520126e-4	1.000000e+0	1	1.108586e-4	1.000000e+0	1.000000e+0	9.020500e+3	1.108586e-4	1	1	5.000000e-1	1.000000e+0	unnamed	C14orf144
+MSigDB Immunologic Signatures	GSE29614_DAY3_VS_DAY7_TIV_FLU_VACCINE_PBMC_UP	Genes up-regulated in comparison of peripheral blood mononuclear cells (PBMC) from TIV influenza vaccinee at day 3 post-vaccination versus those at day 7 post-vaccination.	1	1.440843e-2	1.000000e+0	1.000000e+0	6.940379e+1	1.440843e-2	1	1.440843e-2	1.000000e+0	2	1.623027e-2	1.000000e+0	1.000000e+0	6.136395e+1	1.629621e-2	1	147	5.000000e-1	6.802721e-3	unnamed	C14orf180
+MSigDB Immunologic Signatures	GSE37416_CTRL_VS_0H_F_TULARENSIS_LVS_NEUTROPHIL_DN	Genes down-regulated in comparison of control polymorphonuclear leukocytes (PMN) at 0 h versus PMN treated with F. tularensis vaccine at 0 h.	2	1.619898e-2	1.000000e+0	1.000000e+0	6.173228e+1	1.619898e-2	1	1.619898e-2	1.000000e+0	1	1.535041e-2	1.000000e+0	1.000000e+0	6.489568e+1	1.540935e-2	1	139	5.000000e-1	7.194245e-3	unnamed	C14orf180
+MSigDB Immunologic Signatures	GSE17721_PAM3CSK4_VS_GADIQUIMOD_4H_BMDM_UP	Genes up-regulated in comparison of dendritic cells (DC) stimulated with Pam3Csk4 (TLR1/2 agonist) at 4 h versus DC cells stimulated with Gardiquimod (TLR7 agonist) at 4 h.	3	1.689826e-2	1.000000e+0	1.000000e+0	5.917769e+1	1.689826e-2	1	1.689826e-2	1.000000e+0	6	2.204943e-2	1.000000e+0	1.000000e+0	4.510250e+1	2.217172e-2	1	200	5.000000e-1	5.000000e-3	unnamed	C14orf180
+MSigDB Immunologic Signatures	GSE17721_LPS_VS_PAM3CSK4_12H_BMDM_UP	Genes up-regulated in comparison of dendritic cells (DC) stimulated with LPS (TLR4 agonist) at 12 h versus DC cells stimulated with Pam3Csk4 (TLR1/2 agonist) at 12 h.	4	1.803246e-2	1.000000e+0	1.000000e+0	5.545556e+1	1.803246e-2	1	1.803246e-2	1.000000e+0	5	2.183015e-2	1.000000e+0	1.000000e+0	4.555808e+1	2.195000e-2	1	198	5.000000e-1	5.050505e-3	unnamed	C14orf180
+MSigDB Immunologic Signatures	GSE20715_0H_VS_6H_OZONE_LUNG_DN	Genes down-regulated in comparison of lung tissue from wild type mice subjected to ozone for 0 h versus that from wild type mice subjected to ozone for 6 h.	5	1.854444e-2	1.000000e+0	1.000000e+0	5.392452e+1	1.854444e-2	1	1.854444e-2	1.000000e+0	4	2.128185e-2	1.000000e+0	1.000000e+0	4.673834e+1	2.139571e-2	1	193	5.000000e-1	5.181347e-3	unnamed	C14orf180
+MSigDB Immunologic Signatures	GSE17721_0.5H_VS_4H_PAM3CSK4_BMDM_DN	Genes down-regulated in comparison of dendritic cells (DC) stimulated with Pam3Csk4 (TLR1/2 agonist) at 0.5 h versus those stimulated at 4 h.	6	2.173089e-2	1.000000e+0	1.000000e+0	4.601745e+1	2.173089e-2	1	2.173089e-2	1.000000e+0	3	2.117217e-2	1.000000e+0	1.000000e+0	4.698177e+1	2.128485e-2	1	192	5.000000e-1	5.208333e-3	unnamed	C14orf180
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

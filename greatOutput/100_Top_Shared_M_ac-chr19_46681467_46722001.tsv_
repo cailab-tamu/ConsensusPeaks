@@ -1,0 +1,43 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Molecular Function	GO:0005515	protein binding	1	6.181781e-1	1.000000e+0	1.000000e+0	1.617657e+0	6.181781e-1	1	6.181781e-1	1.000000e+0	1	6.900633e-1	1.000000e+0	1.000000e+0	1.127985e+0	8.865362e-1	1	7997	5.000000e-1	1.250469e-4	unnamed	IGFL1
+GO Molecular Function	GO:0005488	binding	2	8.171102e-1	1.000000e+0	1.000000e+0	1.223825e+0	8.171102e-1	1	8.171102e-1	1.000000e+0	2	8.942547e-1	1.000000e+0	1.000000e+0	7.409644e-1	1.349593e+0	1	12174	5.000000e-1	8.214227e-5	unnamed	IGFL1
+GO Cellular Component	GO:0005615	extracellular space	1	8.028245e-2	1.000000e+0	1.000000e+0	1.245602e+1	8.028245e-2	1	8.028245e-2	1.000000e+0	2	9.517887e-2	1.000000e+0	1.000000e+0	1.025057e+1	9.755557e-2	1	880	5.000000e-1	1.136364e-3	unnamed	IGFL1
+GO Cellular Component	GO:0044421	extracellular region part	2	1.147157e-1	1.000000e+0	1.000000e+0	8.717204e+0	1.147157e-1	1	1.147157e-1	1.000000e+0	3	1.270565e-1	1.000000e+0	1.000000e+0	7.612236e+0	1.313674e-1	1	1185	5.000000e-1	8.438819e-4	unnamed	IGFL1
+GO Cellular Component	GO:0005576	extracellular region	3	1.896595e-1	1.000000e+0	1.000000e+0	5.272606e+0	1.896595e-1	1	1.896595e-1	1.000000e+0	1	1.474312e-2	1.000000e+0	1.000000e+0	8.234140e+0	2.428912e-1	2	2191	1.000000e+0	9.128252e-4	unnamed	IGFL1,IGFL2
+MSigDB Perturbation	LIN_SILENCED_BY_TUMOR_MICROENVIRONMENT	Genes downregulated in MCF10A cells (breast cancer) co-cultured with cancer-associated fibroblasts (CAF).	1	1.096813e-2	1.000000e+0	1.000000e+0	9.117328e+1	1.096813e-2	1	1.096813e-2	1.000000e+0	2	1.149638e-2	1.000000e+0	1.000000e+0	8.673558e+1	1.152929e-2	1	104	5.000000e-1	9.615385e-3	unnamed	IGFL1
+MSigDB Perturbation	RICKMAN_HEAD_AND_NECK_CANCER_C	Cluster c: genes identifying an intrinsic group in head and neck squamous cell carcinoma (HNSCC).	2	1.131305e-2	1.000000e+0	1.000000e+0	8.839348e+1	1.131305e-2	1	1.131305e-2	1.000000e+0	3	1.314903e-2	1.000000e+0	1.000000e+0	7.580252e+1	1.319217e-2	1	119	5.000000e-1	8.403361e-3	unnamed	IGFL1
+MSigDB Perturbation	ZHANG_RESPONSE_TO_IKK_INHIBITOR_AND_TNF_UP	Genes up-regulated in BxPC3 cells (pancreatic cancer) after treatment with TNF [GeneID=7124] or IKI-1, an inhibitor of IkappaB kinase (IKK).	3	2.312620e-2	1.000000e+0	1.000000e+0	4.324101e+1	2.312620e-2	1	2.312620e-2	1.000000e+0	4	2.358369e-2	1.000000e+0	1.000000e+0	4.215187e+1	2.372374e-2	1	214	5.000000e-1	4.672897e-3	unnamed	IGFL1
+MSigDB Perturbation	NAKAMURA_TUMOR_ZONE_PERIPHERAL_VS_CENTRAL_UP	Up-regulated genes in peripheral zone of human pancreatic cancer growing in the pancreas of nude mice compared to that of the tumor from the central zone.	4	2.936179e-2	1.000000e+0	1.000000e+0	3.405787e+1	2.936179e-2	1	2.936179e-2	1.000000e+0	5	3.080038e-2	1.000000e+0	1.000000e+0	3.221607e+1	3.104041e-2	1	280	5.000000e-1	3.571429e-3	unnamed	IGFL1
+MSigDB Perturbation	RICKMAN_TUMOR_DIFFERENTIATED_WELL_VS_POORLY_DN	Down-regulated genes that vary between HNSCC (head and neck squamous cell carcinoma) groups formed on the basis of their level of pathological differentiation: well vs poorly differentiated tumors.	5	3.083527e-2	1.000000e+0	1.000000e+0	3.243039e+1	3.083527e-2	1	3.083527e-2	1.000000e+0	1	4.127148e-4	1.000000e+0	1.000000e+0	4.915804e+1	4.068511e-2	2	367	1.000000e+0	5.449591e-3	unnamed	IGFL1,IGFL2
+TreeFam	TF343427	IGFL1, IGFL2, IGFL3, IGFL4	1	9.225683e-5	7.496790e-1	7.496790e-1	1.083931e+4	9.225683e-5	1	9.225683e-5	1.000000e+0	1	3.687093e-8	2.996132e-4	2.996132e-4	4.510250e+3	4.434344e-4	2	4	1.000000e+0	5.000000e-1	unnamed	IGFL1,IGFL2
+Ensembl Genes	10219	IGFL2	1	3.322803e-5	5.994669e-1	5.994669e-1	3.009507e+4	3.322803e-5	1	3.322803e-5	1.000000e+0	1	1.108586e-4	1.000000e+0	1.000000e+0	9.020500e+3	1.108586e-4	1	1	5.000000e-1	1.000000e+0	unnamed	IGFL2
+Ensembl Genes	10220	IGFL1	2	5.006869e-5	9.032892e-1	4.516446e-1	1.997256e+4	5.006869e-5	1	5.006869e-5	1.000000e+0	1	1.108586e-4	1.000000e+0	1.000000e+0	9.020500e+3	1.108586e-4	1	1	5.000000e-1	1.000000e+0	unnamed	IGFL1
+MSigDB Immunologic Signatures	GSE26928_CENTR_MEMORY_VS_CXCR5_POS_CD4_TCELL_UP	Genes up-regulated in comparison of CD4 [GeneID=920] central memory T cells versus CD4 [GeneID=920] CXCR5+ [GeneID=643] T cells.	1	1.495256e-2	1.000000e+0	1.000000e+0	6.687819e+1	1.495256e-2	1	1.495256e-2	1.000000e+0	1	1.853804e-2	1.000000e+0	1.000000e+0	5.369345e+1	1.862424e-2	1	168	5.000000e-1	5.952381e-3	unnamed	IGFL1
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

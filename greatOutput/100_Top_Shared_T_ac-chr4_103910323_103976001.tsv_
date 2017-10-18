@@ -1,0 +1,78 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Molecular Function	GO:0015299	solute:hydrogen antiporter activity	1	1.600979e-3	1.000000e+0	1.000000e+0	6.246177e+2	1.600979e-3	1	1.600979e-3	1.000000e+0	1	9.422981e-4	1.000000e+0	1.000000e+0	1.061235e+3	9.422981e-4	1	17	1.000000e+0	5.882353e-2	unnamed	SLC9B1
+GO Molecular Function	GO:0015298	solute:cation antiporter activity	2	2.935360e-3	1.000000e+0	1.000000e+0	3.406737e+2	2.935360e-3	1	2.935360e-3	1.000000e+0	2	1.385732e-3	1.000000e+0	1.000000e+0	7.216400e+2	1.385732e-3	1	25	1.000000e+0	4.000000e-2	unnamed	SLC9B1
+GO Molecular Function	GO:0015297	antiporter activity	3	6.772546e-3	1.000000e+0	1.000000e+0	1.476550e+2	6.772546e-3	1	6.772546e-3	1.000000e+0	3	3.436617e-3	1.000000e+0	1.000000e+0	2.909839e+2	3.436617e-3	1	62	1.000000e+0	1.612903e-2	unnamed	SLC9B1
+GO Molecular Function	GO:0015078	hydrogen ion transmembrane transporter activity	4	7.805226e-3	1.000000e+0	1.000000e+0	1.281193e+2	7.805226e-3	1	7.805226e-3	1.000000e+0	4	5.542930e-3	1.000000e+0	1.000000e+0	1.804100e+2	5.542930e-3	1	100	1.000000e+0	1.000000e-2	unnamed	SLC9B1
+GO Molecular Function	GO:0015291	secondary active transmembrane transporter activity	5	1.793644e-2	1.000000e+0	1.000000e+0	5.575242e+1	1.793644e-2	1	1.793644e-2	1.000000e+0	5	1.047614e-2	1.000000e+0	1.000000e+0	9.545503e+1	1.047614e-2	1	189	1.000000e+0	5.291005e-3	unnamed	SLC9B1
+GO Molecular Function	GO:0022804	active transmembrane transporter activity	6	2.793943e-2	1.000000e+0	1.000000e+0	3.579171e+1	2.793943e-2	1	2.793943e-2	1.000000e+0	6	1.679508e-2	1.000000e+0	1.000000e+0	5.954125e+1	1.679508e-2	1	303	1.000000e+0	3.300330e-3	unnamed	SLC9B1
+GO Molecular Function	GO:0015077	monovalent inorganic cation transmembrane transporter activity	7	3.573375e-2	1.000000e+0	1.000000e+0	2.798475e+1	3.573375e-2	1	3.573375e-2	1.000000e+0	7	1.829167e-2	1.000000e+0	1.000000e+0	5.466970e+1	1.829167e-2	1	330	1.000000e+0	3.030303e-3	unnamed	SLC9B1
+GO Molecular Function	GO:0022890	inorganic cation transmembrane transporter activity	8	5.424017e-2	1.000000e+0	1.000000e+0	1.843652e+1	5.424017e-2	1	5.424017e-2	1.000000e+0	8	2.649521e-2	1.000000e+0	1.000000e+0	3.774268e+1	2.649521e-2	1	478	1.000000e+0	2.092050e-3	unnamed	SLC9B1
+GO Molecular Function	GO:0008324	cation transmembrane transporter activity	9	6.410546e-2	1.000000e+0	1.000000e+0	1.559929e+1	6.410546e-2	1	6.410546e-2	1.000000e+0	9	3.270329e-2	1.000000e+0	1.000000e+0	3.057797e+1	3.270329e-2	1	590	1.000000e+0	1.694915e-3	unnamed	SLC9B1
+GO Molecular Function	GO:0015075	ion transmembrane transporter activity	10	8.122600e-2	1.000000e+0	1.000000e+0	1.231133e+1	8.122600e-2	1	8.122600e-2	1.000000e+0	10	4.240341e-2	1.000000e+0	1.000000e+0	2.358301e+1	4.240341e-2	1	765	1.000000e+0	1.307190e-3	unnamed	SLC9B1
+GO Molecular Function	GO:0022891	substrate-specific transmembrane transporter activity	11	8.482288e-2	1.000000e+0	1.000000e+0	1.178927e+1	8.482288e-2	1	8.482288e-2	1.000000e+0	11	4.567374e-2	1.000000e+0	1.000000e+0	2.189442e+1	4.567374e-2	1	824	1.000000e+0	1.213592e-3	unnamed	SLC9B1
+GO Molecular Function	GO:0022857	transmembrane transporter activity	12	9.170810e-2	1.000000e+0	1.000000e+0	1.090416e+1	9.170810e-2	1	9.170810e-2	1.000000e+0	12	5.027438e-2	1.000000e+0	1.000000e+0	1.989085e+1	5.027438e-2	1	907	1.000000e+0	1.102536e-3	unnamed	SLC9B1
+GO Molecular Function	GO:0022892	substrate-specific transporter activity	13	9.245642e-2	1.000000e+0	1.000000e+0	1.081591e+1	9.245642e-2	1	9.245642e-2	1.000000e+0	13	5.293498e-2	1.000000e+0	1.000000e+0	1.889110e+1	5.293498e-2	1	955	1.000000e+0	1.047120e-3	unnamed	SLC9B1
+GO Molecular Function	GO:0005215	transporter activity	14	1.089898e-1	1.000000e+0	1.000000e+0	9.175171e+0	1.089898e-1	1	1.089898e-1	1.000000e+0	14	6.562829e-2	1.000000e+0	1.000000e+0	1.523733e+1	6.562829e-2	1	1184	1.000000e+0	8.445946e-4	unnamed	SLC9B1
+GO Biological Process	GO:0034220	ion transmembrane transport	1	5.009827e-2	1.000000e+0	1.000000e+0	1.996077e+1	5.009827e-2	1	5.009827e-2	1.000000e+0	1	2.555291e-2	1.000000e+0	1.000000e+0	3.913449e+1	2.555291e-2	1	461	1.000000e+0	2.169197e-3	unnamed	SLC9B1
+GO Biological Process	GO:0006812	cation transport	2	7.387615e-2	1.000000e+0	1.000000e+0	1.353617e+1	7.387615e-2	1	7.387615e-2	1.000000e+0	2	3.807993e-2	1.000000e+0	1.000000e+0	2.626055e+1	3.807993e-2	1	687	1.000000e+0	1.455604e-3	unnamed	SLC9B1
+GO Biological Process	GO:0055085	transmembrane transport	3	8.563981e-2	1.000000e+0	1.000000e+0	1.167681e+1	8.563981e-2	1	8.563981e-2	1.000000e+0	3	4.922122e-2	1.000000e+0	1.000000e+0	2.031644e+1	4.922122e-2	1	888	1.000000e+0	1.126126e-3	unnamed	SLC9B1
+GO Biological Process	GO:0006811	ion transport	4	1.070764e-1	1.000000e+0	1.000000e+0	9.339125e+0	1.070764e-1	1	1.070764e-1	1.000000e+0	4	5.980821e-2	1.000000e+0	1.000000e+0	1.672011e+1	5.980821e-2	1	1079	1.000000e+0	9.267841e-4	unnamed	SLC9B1
+GO Biological Process	GO:0044765	single-organism transport	5	2.288177e-1	1.000000e+0	1.000000e+0	4.370291e+0	2.288177e-1	1	2.288177e-1	1.000000e+0	5	1.444488e-1	1.000000e+0	1.000000e+0	6.922870e+0	1.444488e-1	1	2606	1.000000e+0	3.837299e-4	unnamed	SLC9B1
+GO Biological Process	GO:0006810	transport	6	2.770578e-1	1.000000e+0	1.000000e+0	3.609355e+0	2.770578e-1	1	2.770578e-1	1.000000e+0	6	1.809212e-1	1.000000e+0	1.000000e+0	5.527267e+0	1.809212e-1	1	3264	1.000000e+0	3.063725e-4	unnamed	SLC9B1
+GO Biological Process	GO:0051234	establishment of localization	7	2.827781e-1	1.000000e+0	1.000000e+0	3.536342e+0	2.827781e-1	1	2.827781e-1	1.000000e+0	7	1.836927e-1	1.000000e+0	1.000000e+0	5.443874e+0	1.836927e-1	1	3314	1.000000e+0	3.017502e-4	unnamed	SLC9B1
+GO Biological Process	GO:0051179	localization	8	3.597525e-1	1.000000e+0	1.000000e+0	2.779689e+0	3.597525e-1	1	3.597525e-1	1.000000e+0	8	2.234909e-1	1.000000e+0	1.000000e+0	4.474454e+0	2.234909e-1	1	4032	1.000000e+0	2.480159e-4	unnamed	SLC9B1
+GO Biological Process	GO:0044763	single-organism cellular process	9	7.497126e-1	1.000000e+0	1.000000e+0	1.333844e+0	7.497126e-1	1	7.497126e-1	1.000000e+0	9	5.605011e-1	1.000000e+0	1.000000e+0	1.784118e+0	5.605011e-1	1	10112	1.000000e+0	9.889241e-5	unnamed	SLC9B1
+GO Biological Process	GO:0044699	single-organism process	10	7.935590e-1	1.000000e+0	1.000000e+0	1.260146e+0	7.935590e-1	1	7.935590e-1	1.000000e+0	10	6.164847e-1	1.000000e+0	1.000000e+0	1.622100e+0	6.164847e-1	1	11122	1.000000e+0	8.991189e-5	unnamed	SLC9B1
+GO Biological Process	GO:0009987	cellular process	11	8.656787e-1	1.000000e+0	1.000000e+0	1.155163e+0	8.656787e-1	1	8.656787e-1	1.000000e+0	11	7.487944e-1	1.000000e+0	1.000000e+0	1.335480e+0	7.487944e-1	1	13509	1.000000e+0	7.402472e-5	unnamed	SLC9B1
+GO Cellular Component	GO:0005886	plasma membrane	1	4.126577e-1	1.000000e+0	1.000000e+0	2.423316e+0	4.126577e-1	1	4.126577e-1	1.000000e+0	1	2.426695e-1	1.000000e+0	1.000000e+0	4.120831e+0	2.426695e-1	1	4378	1.000000e+0	2.284148e-4	unnamed	SLC9B1
+GO Cellular Component	GO:0071944	cell periphery	2	4.194602e-1	1.000000e+0	1.000000e+0	2.384017e+0	4.194602e-1	1	4.194602e-1	1.000000e+0	2	2.481570e-1	1.000000e+0	1.000000e+0	4.029707e+0	2.481570e-1	1	4477	1.000000e+0	2.233639e-4	unnamed	SLC9B1
+GO Cellular Component	GO:0016021	integral to membrane	3	4.578656e-1	1.000000e+0	1.000000e+0	2.184047e+0	4.578656e-1	1	4.578656e-1	1.000000e+0	3	2.916135e-1	1.000000e+0	1.000000e+0	3.429196e+0	2.916135e-1	1	5261	1.000000e+0	1.900779e-4	unnamed	SLC9B1
+GO Cellular Component	GO:0031224	intrinsic to membrane	4	4.694206e-1	1.000000e+0	1.000000e+0	2.130286e+0	4.694206e-1	1	4.694206e-1	1.000000e+0	4	2.978771e-1	1.000000e+0	1.000000e+0	3.357090e+0	2.978771e-1	1	5374	1.000000e+0	1.860811e-4	unnamed	SLC9B1
+GO Cellular Component	GO:0044425	membrane part	5	5.293034e-1	1.000000e+0	1.000000e+0	1.889276e+0	5.293034e-1	1	5.293034e-1	1.000000e+0	5	3.432737e-1	1.000000e+0	1.000000e+0	2.913128e+0	3.432737e-1	1	6193	1.000000e+0	1.614726e-4	unnamed	SLC9B1
+GO Cellular Component	GO:0016020	membrane	6	6.308744e-1	1.000000e+0	1.000000e+0	1.585102e+0	6.308744e-1	1	6.308744e-1	1.000000e+0	6	4.353417e-1	1.000000e+0	1.000000e+0	2.297046e+0	4.353417e-1	1	7854	1.000000e+0	1.273237e-4	unnamed	SLC9B1
+GO Cellular Component	GO:0044464	cell part	7	8.908971e-1	1.000000e+0	1.000000e+0	1.122464e+0	8.908971e-1	1	8.908971e-1	1.000000e+0	7	8.202982e-1	1.000000e+0	1.000000e+0	1.219069e+0	8.202982e-1	1	14799	1.000000e+0	6.757213e-5	unnamed	SLC9B1
+GO Cellular Component	GO:0005623	cell	8	8.910977e-1	1.000000e+0	1.000000e+0	1.122211e+0	8.910977e-1	1	8.910977e-1	1.000000e+0	8	8.203536e-1	1.000000e+0	1.000000e+0	1.218986e+0	8.203536e-1	1	14800	1.000000e+0	6.756757e-5	unnamed	SLC9B1
+MSigDB Perturbation	IWANAGA_CARCINOGENESIS_BY_KRAS_UP	Cluster 3: genes up-regulated in lung tissue samples from mice with tumor-bearing genotypes (activated KRAS [GeneID=3845] alone or together with inactivated PTEN [GeneID=5728]).	1	2.110968e-2	1.000000e+0	1.000000e+0	4.737163e+1	2.110968e-2	1	2.110968e-2	1.000000e+0	1	9.256693e-3	1.000000e+0	1.000000e+0	1.080299e+2	9.256693e-3	1	167	1.000000e+0	5.988024e-3	unnamed	SLC9B1
+MSigDB Perturbation	MIKKELSEN_ES_ICP_WITH_H3K4ME3	Genes with intermediate-CpG-density (ICP) promoters bearing histone H3 K4 trimethylation mark (H3K4me3) in embryonic stem cells (ES).	2	5.226929e-2	1.000000e+0	1.000000e+0	1.913169e+1	5.226929e-2	1	5.226929e-2	1.000000e+0	3	3.730392e-2	1.000000e+0	1.000000e+0	2.680684e+1	3.730392e-2	1	673	1.000000e+0	1.485884e-3	unnamed	SLC9B1
+MSigDB Perturbation	GRAESSMANN_APOPTOSIS_BY_SERUM_DEPRIVATION_UP	Genes up-regulated in ME-A cells (breast cancer) undergoing apoptosis upon serum starvation (5% to 0% FCS) for 22 hr.	3	5.536438e-2	1.000000e+0	1.000000e+0	1.806215e+1	5.536438e-2	1	5.536438e-2	1.000000e+0	2	2.987639e-2	1.000000e+0	1.000000e+0	3.347124e+1	2.987639e-2	1	539	1.000000e+0	1.855288e-3	unnamed	SLC9B1
+MSigDB Perturbation	GRAESSMANN_RESPONSE_TO_MC_AND_DOXORUBICIN_DN	Genes down-regulated in ME-A cells (breast cancer, sensitive to apoptotic stimuli) exposed to doxorubicin [PubChem=31703] in the presence of medium concentrate (MC) from ME-C cells (breast cancer, resistant to apoptotic stimuli).	4	6.489857e-2	1.000000e+0	1.000000e+0	1.540866e+1	6.489857e-2	1	6.489857e-2	1.000000e+0	4	4.135026e-2	1.000000e+0	1.000000e+0	2.418365e+1	4.135026e-2	1	746	1.000000e+0	1.340483e-3	unnamed	SLC9B1
+MSigDB Perturbation	GRAESSMANN_APOPTOSIS_BY_DOXORUBICIN_DN	Genes down-regulated in ME-A cells (breast cancer) undergoing apoptosis in response to doxorubicin [PubChem=31703].	5	1.826173e-1	1.000000e+0	1.000000e+0	5.475932e+0	1.826173e-1	1	1.826173e-1	1.000000e+0	5	9.600355e-2	1.000000e+0	1.000000e+0	1.041628e+1	9.600355e-2	1	1732	1.000000e+0	5.773672e-4	unnamed	SLC9B1
+MSigDB Predicted Promoter Motifs	WTGAAAT_UNKNOWN	Motif WTGAAAT (no known TF)	1	9.506027e-2	1.000000e+0	1.000000e+0	1.051964e+1	9.506027e-2	1	9.506027e-2	1.000000e+0	1	3.231528e-2	1.000000e+0	1.000000e+0	3.094511e+1	3.231528e-2	1	583	1.000000e+0	1.715266e-3	unnamed	SLC9B1
+InterPro	IPR006153	Cation/H+ exchanger	1	1.484090e-3	1.000000e+0	1.000000e+0	6.738137e+2	1.484090e-3	1	1.484090e-3	1.000000e+0	1	8.314395e-4	1.000000e+0	1.000000e+0	1.202733e+3	8.314395e-4	1	15	1.000000e+0	6.666667e-2	unnamed	SLC9B1
+TreeFam	TF319087	SLC9B1, SLC9B1P1, SLC9B2	1	5.400078e-4	1.000000e+0	1.000000e+0	1.851825e+3	5.400078e-4	1	5.400078e-4	1.000000e+0	1	1.662879e-4	1.000000e+0	1.000000e+0	6.013667e+3	1.662879e-4	1	3	1.000000e+0	3.333333e-1	unnamed	SLC9B1
+HGNC Gene Families	SLC	SLC	1	3.126915e-2	1.000000e+0	1.000000e+0	3.198041e+1	3.126915e-2	1	3.126915e-2	1.000000e+0	1	2.056427e-2	1.000000e+0	1.000000e+0	4.862803e+1	2.056427e-2	1	371	1.000000e+0	2.695418e-3	unnamed	SLC9B1
+Ensembl Genes	14749	SLC9B1	1	7.055308e-5	1.000000e+0	1.000000e+0	1.417373e+4	7.055308e-5	1	7.055308e-5	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	SLC9B1
+MSigDB Immunologic Signatures	GSE29614_CTRL_VS_TIV_FLU_VACCINE_PBMC_2007_DN	Genes down-regulated in comparison of peripheral blood mononuclear cells (PBMC) from TIV influenza vaccinee pre-vaccination versus those at day 3 post-vaccination.	1	1.703620e-2	1.000000e+0	1.000000e+0	5.869853e+1	1.703620e-2	1	1.703620e-2	1.000000e+0	1	9.367552e-3	1.000000e+0	1.000000e+0	1.067515e+2	9.367552e-3	1	169	1.000000e+0	5.917160e-3	unnamed	SLC9B1
+MSigDB Immunologic Signatures	GSE18791_CTRL_VS_NEWCASTLE_VIRUS_DC_1H_DN	Genes down-regulated in comparison of control conventional dendritic cells (cDC) at 0 h versus cDCs infected with Newcastle disease virus (NDV) at 1 h.	2	1.713227e-2	1.000000e+0	1.000000e+0	5.836938e+1	1.713227e-2	1	1.713227e-2	1.000000e+0	3	9.977274e-3	1.000000e+0	1.000000e+0	1.002278e+2	9.977274e-3	1	180	1.000000e+0	5.555556e-3	unnamed	SLC9B1
+MSigDB Immunologic Signatures	GSE18791_CTRL_VS_NEWCASTLE_VIRUS_DC_16H_DN	Genes down-regulated in comparison of control conventional dendritic cells (cDC) at 0 h versus cDCs infected with Newcastle disease virus (NDV) at 16 h.	3	1.756268e-2	1.000000e+0	1.000000e+0	5.693893e+1	1.756268e-2	1	1.756268e-2	1.000000e+0	2	9.589269e-3	1.000000e+0	1.000000e+0	1.042832e+2	9.589269e-3	1	173	1.000000e+0	5.780347e-3	unnamed	SLC9B1
+MSigDB Immunologic Signatures	GSE14308_TH2_VS_TH1_DN	Genes down-regulated in comparison of Th2 cells versus Th1 cells.	4	1.887725e-2	1.000000e+0	1.000000e+0	5.297382e+1	1.887725e-2	1	1.887725e-2	1.000000e+0	5	1.047614e-2	1.000000e+0	1.000000e+0	9.545503e+1	1.047614e-2	1	189	1.000000e+0	5.291005e-3	unnamed	SLC9B1
+MSigDB Immunologic Signatures	GSE7460_TREG_VS_TCONV_ACT_DN	Genes down-regulated in comparsion of ActTreg versus ActCD4 (see Fig. 1 in the paper for details).	5	1.912329e-2	1.000000e+0	1.000000e+0	5.229226e+1	1.912329e-2	1	1.912329e-2	1.000000e+0	4	1.030985e-2	1.000000e+0	1.000000e+0	9.699462e+1	1.030985e-2	1	186	1.000000e+0	5.376344e-3	unnamed	SLC9B1
+MSigDB Immunologic Signatures	GSE7460_CD8_TCELL_VS_TREG_ACT_UP	Genes up-regulated in comparsion of ActCD8 versus ActTreg (see Fig. 1 in the paper for details).	6	1.982398e-2	1.000000e+0	1.000000e+0	5.044396e+1	1.982398e-2	1	1.982398e-2	1.000000e+0	5	1.047614e-2	1.000000e+0	1.000000e+0	9.545503e+1	1.047614e-2	1	189	1.000000e+0	5.291005e-3	unnamed	SLC9B1
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

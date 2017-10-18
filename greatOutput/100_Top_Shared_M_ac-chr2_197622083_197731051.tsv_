@@ -1,0 +1,36 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Cellular Component	GO:0005576	extracellular region	1	1.896595e-1	1.000000e+0	1.000000e+0	5.272606e+0	1.896595e-1	1	1.896595e-1	1.000000e+0	1	1.214456e-1	1.000000e+0	1.000000e+0	8.234140e+0	1.214456e-1	1	2191	1.000000e+0	4.564126e-4	unnamed	C2orf66
+MSigDB Predicted Promoter Motifs	V$RFX1_02	Motif NNGTNRCNATRGYAACNN matches RFX1: regulatory factor X, 1 (influences HLA class II expression)	1	2.639994e-2	1.000000e+0	1.000000e+0	3.787888e+1	2.639994e-2	1	2.639994e-2	1.000000e+0	4	1.424533e-2	1.000000e+0	1.000000e+0	7.019844e+1	1.424533e-2	1	257	1.000000e+0	3.891051e-3	unnamed	C2orf66
+MSigDB Predicted Promoter Motifs	V$SMAD3_Q6	Motif TGTCTGTCT matches SMAD3: SMAD, mothers against DPP homolog 3 (Drosophila)	2	3.100436e-2	1.000000e+0	1.000000e+0	3.225352e+1	3.100436e-2	1	3.100436e-2	1.000000e+0	1	1.280417e-2	1.000000e+0	1.000000e+0	7.809957e+1	1.280417e-2	1	231	1.000000e+0	4.329004e-3	unnamed	C2orf66
+MSigDB Predicted Promoter Motifs	V$FREAC3_01	Motif NNNNNGTAAATAAACA matches FOXC1: forkhead box C1	3	3.851746e-2	1.000000e+0	1.000000e+0	2.596225e+1	3.851746e-2	1	3.851746e-2	1.000000e+0	2	1.324760e-2	1.000000e+0	1.000000e+0	7.548536e+1	1.324760e-2	1	239	1.000000e+0	4.184100e-3	unnamed	C2orf66
+MSigDB Predicted Promoter Motifs	V$IPF1_Q4	Motif GHNNTAATGACM matches IPF1: insulin promoter factor 1, homeodomain transcription factor	4	4.597094e-2	1.000000e+0	1.000000e+0	2.175287e+1	4.597094e-2	1	4.597094e-2	1.000000e+0	3	1.363561e-2	1.000000e+0	1.000000e+0	7.333740e+1	1.363561e-2	1	246	1.000000e+0	4.065041e-3	unnamed	C2orf66
+MSigDB Predicted Promoter Motifs	TTGTTT_V$FOXO4_01	Motif TTGTTT matches MLLT7: myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 7	5	2.767434e-1	1.000000e+0	1.000000e+0	3.613455e+0	2.767434e-1	1	2.767434e-1	1.000000e+0	5	1.084197e-1	1.000000e+0	1.000000e+0	9.223415e+0	1.084197e-1	1	1956	1.000000e+0	5.112474e-4	unnamed	C2orf66
+Ensembl Genes	11607	C2orf66	1	4.229823e-5	7.631024e-1	7.631024e-1	2.364165e+4	4.229823e-5	1	4.229823e-5	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	C2orf66
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

@@ -1,0 +1,67 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Cellular Component	GO:0008274	gamma-tubulin ring complex	1	9.259136e-4	1.000000e+0	1.000000e+0	1.080014e+3	9.259136e-4	1	9.259136e-4	1.000000e+0	1	3.880051e-4	4.908265e-1	4.908265e-1	2.577286e+3	3.880051e-4	1	7	1.000000e+0	1.428571e-1	unnamed	MZT2A
+GO Cellular Component	GO:0000930	gamma-tubulin complex	2	1.582175e-3	1.000000e+0	1.000000e+0	6.320412e+2	1.582175e-3	1	1.582175e-3	1.000000e+0	2	8.868688e-4	1.000000e+0	5.609445e-1	1.127562e+3	8.868688e-4	1	16	1.000000e+0	6.250000e-2	unnamed	MZT2A
+GO Cellular Component	GO:0044450	microtubule organizing center part	3	1.004242e-2	1.000000e+0	1.000000e+0	9.957757e+1	1.004242e-2	1	1.004242e-2	1.000000e+0	3	5.820076e-3	1.000000e+0	1.000000e+0	1.718190e+2	5.820076e-3	1	105	1.000000e+0	9.523810e-3	unnamed	MZT2A
+GO Cellular Component	GO:0005819	spindle	4	2.347518e-2	1.000000e+0	1.000000e+0	4.259817e+1	2.347518e-2	1	2.347518e-2	1.000000e+0	4	1.402361e-2	1.000000e+0	1.000000e+0	7.130830e+1	1.402361e-2	1	253	1.000000e+0	3.952569e-3	unnamed	MZT2A
+GO Cellular Component	GO:0005813	centrosome	5	3.290129e-2	1.000000e+0	1.000000e+0	3.039395e+1	3.290129e-2	1	3.290129e-2	1.000000e+0	5	2.211629e-2	1.000000e+0	1.000000e+0	4.521554e+1	2.211629e-2	1	399	1.000000e+0	2.506266e-3	unnamed	MZT2A
+GO Cellular Component	GO:0005815	microtubule organizing center	6	4.538437e-2	1.000000e+0	1.000000e+0	2.203402e+1	4.538437e-2	1	4.538437e-2	1.000000e+0	6	2.887867e-2	1.000000e+0	1.000000e+0	3.462764e+1	2.887867e-2	1	521	1.000000e+0	1.919386e-3	unnamed	MZT2A
+GO Cellular Component	GO:0015630	microtubule cytoskeleton	7	8.547273e-2	1.000000e+0	1.000000e+0	1.169964e+1	8.547273e-2	1	8.547273e-2	1.000000e+0	7	5.166011e-2	1.000000e+0	1.000000e+0	1.935730e+1	5.166011e-2	1	932	1.000000e+0	1.072961e-3	unnamed	MZT2A
+GO Cellular Component	GO:0044430	cytoskeletal part	8	1.208518e-1	1.000000e+0	1.000000e+0	8.274597e+0	1.208518e-1	1	1.208518e-1	1.000000e+0	8	7.577185e-2	1.000000e+0	1.000000e+0	1.319751e+1	7.577185e-2	1	1367	1.000000e+0	7.315289e-4	unnamed	MZT2A
+GO Cellular Component	GO:0005856	cytoskeleton	9	1.730861e-1	1.000000e+0	1.000000e+0	5.777472e+0	1.730861e-1	1	1.730861e-1	1.000000e+0	9	1.042625e-1	1.000000e+0	1.000000e+0	9.591175e+0	1.042625e-1	1	1881	1.000000e+0	5.316321e-4	unnamed	MZT2A
+GO Cellular Component	GO:0043232	intracellular non-membrane-bounded organelle	10	2.709879e-1	1.000000e+0	1.000000e+0	3.690202e+0	2.709879e-1	1	2.709879e-1	1.000000e+0	10	1.844133e-1	1.000000e+0	1.000000e+0	5.422603e+0	1.844133e-1	1	3327	1.000000e+0	3.005711e-4	unnamed	MZT2A
+GO Cellular Component	GO:0043234	protein complex	11	3.027166e-1	1.000000e+0	1.000000e+0	3.303419e+0	3.027166e-1	1	3.027166e-1	1.000000e+0	11	2.018735e-1	1.000000e+0	1.000000e+0	4.953597e+0	2.018735e-1	1	3642	1.000000e+0	2.745744e-4	unnamed	MZT2A
+GO Cellular Component	GO:0032991	macromolecular complex	12	3.347910e-1	1.000000e+0	1.000000e+0	2.986938e+0	3.347910e-1	1	3.347910e-1	1.000000e+0	12	2.340225e-1	1.000000e+0	1.000000e+0	4.273093e+0	2.340225e-1	1	4222	1.000000e+0	2.368546e-4	unnamed	MZT2A
+GO Cellular Component	GO:0044446	intracellular organelle part	13	4.732075e-1	1.000000e+0	1.000000e+0	2.113238e+0	4.732075e-1	1	4.732075e-1	1.000000e+0	13	3.595144e-1	1.000000e+0	1.000000e+0	2.781529e+0	3.595144e-1	1	6486	1.000000e+0	1.541782e-4	unnamed	MZT2A
+GO Cellular Component	GO:0044422	organelle part	14	4.814989e-1	1.000000e+0	1.000000e+0	2.076848e+0	4.814989e-1	1	4.814989e-1	1.000000e+0	14	3.657225e-1	1.000000e+0	1.000000e+0	2.734313e+0	3.657225e-1	1	6598	1.000000e+0	1.515611e-4	unnamed	MZT2A
+GO Cellular Component	GO:0044444	cytoplasmic part	15	5.199381e-1	1.000000e+0	1.000000e+0	1.923306e+0	5.199381e-1	1	5.199381e-1	1.000000e+0	15	3.898343e-1	1.000000e+0	1.000000e+0	2.565193e+0	3.898343e-1	1	7033	1.000000e+0	1.421868e-4	unnamed	MZT2A
+GO Cellular Component	GO:0005737	cytoplasm	16	6.734732e-1	1.000000e+0	1.000000e+0	1.484840e+0	6.734732e-1	1	6.734732e-1	1.000000e+0	16	5.240840e-1	1.000000e+0	1.000000e+0	1.908091e+0	5.240840e-1	1	9455	1.000000e+0	1.057641e-4	unnamed	MZT2A
+GO Cellular Component	GO:0043229	intracellular organelle	17	7.399473e-1	1.000000e+0	1.000000e+0	1.351448e+0	7.399473e-1	1	7.399473e-1	1.000000e+0	17	6.092789e-1	1.000000e+0	1.000000e+0	1.641285e+0	6.092789e-1	1	10992	1.000000e+0	9.097525e-5	unnamed	MZT2A
+GO Cellular Component	GO:0043226	organelle	18	7.415866e-1	1.000000e+0	1.000000e+0	1.348460e+0	7.415866e-1	1	7.415866e-1	1.000000e+0	18	6.110526e-1	1.000000e+0	1.000000e+0	1.636520e+0	6.110526e-1	1	11024	1.000000e+0	9.071118e-5	unnamed	MZT2A
+GO Cellular Component	GO:0044424	intracellular part	19	8.017695e-1	1.000000e+0	1.000000e+0	1.247241e+0	8.017695e-1	1	8.017695e-1	1.000000e+0	19	6.971897e-1	1.000000e+0	1.000000e+0	1.434330e+0	6.971897e-1	1	12578	1.000000e+0	7.950390e-5	unnamed	MZT2A
+GO Cellular Component	GO:0005622	intracellular	20	8.064789e-1	1.000000e+0	1.000000e+0	1.239958e+0	8.064789e-1	1	8.064789e-1	1.000000e+0	20	7.066127e-1	1.000000e+0	1.000000e+0	1.415202e+0	7.066127e-1	1	12748	1.000000e+0	7.844368e-5	unnamed	MZT2A
+GO Cellular Component	GO:0044464	cell part	21	8.908971e-1	1.000000e+0	1.000000e+0	1.122464e+0	8.908971e-1	1	8.908971e-1	1.000000e+0	21	8.202982e-1	1.000000e+0	1.000000e+0	1.219069e+0	8.202982e-1	1	14799	1.000000e+0	6.757213e-5	unnamed	MZT2A
+GO Cellular Component	GO:0005623	cell	22	8.910977e-1	1.000000e+0	1.000000e+0	1.122211e+0	8.910977e-1	1	8.910977e-1	1.000000e+0	22	8.203536e-1	1.000000e+0	1.000000e+0	1.218986e+0	8.203536e-1	1	14800	1.000000e+0	6.756757e-5	unnamed	MZT2A
+MSigDB Perturbation	CHEMNITZ_RESPONSE_TO_PROSTAGLANDIN_E2_UP	Genes up-regulated in CD4+ [GeneID=920] T lymphocytes after stimulation with prostaglandin E2 [PubChem=5280360].	1	1.145625e-2	1.000000e+0	1.000000e+0	8.728856e+1	1.145625e-2	1	1.145625e-2	1.000000e+0	1	7.538385e-3	1.000000e+0	1.000000e+0	1.326544e+2	7.538385e-3	1	136	1.000000e+0	7.352941e-3	unnamed	MZT2A
+MSigDB Perturbation	KUMAR_PATHOGEN_LOAD_BY_MACROPHAGES	Genes indentified by RNAi screen as regulating infection of THP-1 cells (macrophage) with Mycobacterium tuberculosis.	2	2.567805e-2	1.000000e+0	1.000000e+0	3.894377e+1	2.567805e-2	1	2.567805e-2	1.000000e+0	2	1.418990e-2	1.000000e+0	1.000000e+0	7.047266e+1	1.418990e-2	1	256	1.000000e+0	3.906250e-3	unnamed	MZT2A
+MSigDB Perturbation	FARMER_BREAST_CANCER_APOCRINE_VS_LUMINAL	Genes which best discriminate between two groups of breast cancer according to the status of ESR1 and AR [GeneID=2099;367]: apocrine (ESR1- AR+) and luminal (ESR1+ AR+).	3	3.797925e-2	1.000000e+0	1.000000e+0	2.633016e+1	3.797925e-2	1	3.797925e-2	1.000000e+0	3	1.790366e-2	1.000000e+0	1.000000e+0	5.585449e+1	1.790366e-2	1	323	1.000000e+0	3.095975e-3	unnamed	MZT2A
+MSigDB Perturbation	BENPORATH_NANOG_TARGETS	Set 'Nanog targets': genes upregulated and identified by ChIP on chip as Nanog [GeneID=79923] transcription factor targets in human embryonic stem cells.	4	1.005508e-1	1.000000e+0	1.000000e+0	9.945225e+0	1.005508e-1	1	1.005508e-1	1.000000e+0	4	5.398814e-2	1.000000e+0	1.000000e+0	1.852259e+1	5.398814e-2	1	974	1.000000e+0	1.026694e-3	unnamed	MZT2A
+InterPro	IPR024332	MOZART2 family	1	3.466194e-4	1.000000e+0	1.000000e+0	2.885009e+3	3.466194e-4	1	3.466194e-4	1.000000e+0	1	1.108586e-4	1.000000e+0	1.000000e+0	9.020500e+3	1.108586e-4	1	2	1.000000e+0	5.000000e-1	unnamed	MZT2A
+TreeFam	TF333013	MZT2A, MZT2B	1	3.466194e-4	1.000000e+0	1.000000e+0	2.885009e+3	3.466194e-4	1	3.466194e-4	1.000000e+0	1	1.108586e-4	9.008370e-1	9.008370e-1	9.020500e+3	1.108586e-4	1	2	1.000000e+0	5.000000e-1	unnamed	MZT2A
+Ensembl Genes	11370	MZT2A	1	3.265875e-4	1.000000e+0	1.000000e+0	3.061966e+3	3.265875e-4	1	3.265875e-4	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	MZT2A
+MSigDB Oncogenic Signatures	BCAT_GDS748_DN	Genes down-regulated in HEK293 cells (kidney fibroblasts) expressing constitutively active form of CTNNB1 [Gene ID=1499] gene.	1	5.352214e-3	1.000000e+0	1.000000e+0	1.868386e+2	5.352214e-3	1	5.352214e-3	1.000000e+0	1	2.438889e-3	4.560722e-1	4.560722e-1	4.100227e+2	2.438889e-3	1	44	1.000000e+0	2.272727e-2	unnamed	MZT2A
+MSigDB Immunologic Signatures	GSE14000_TRANSLATED_RNA_VS_MRNA_4H_LPS_DC_DN	Genes down-regulated in comparison of polysome bound (translated) mRNA versus total mRNA 4 h after LPS (TLR4 agonist) stimulation.	1	1.185740e-2	1.000000e+0	1.000000e+0	8.433553e+1	1.185740e-2	1	1.185740e-2	1.000000e+0	2	9.866415e-3	1.000000e+0	1.000000e+0	1.013539e+2	9.866415e-3	1	178	1.000000e+0	5.617978e-3	unnamed	MZT2A
+MSigDB Immunologic Signatures	GSE37416_12H_VS_48H_F_TULARENSIS_LVS_NEUTROPHIL_DN	Genes down-regulated in comparison of control polymorphonuclear leukocytes (PMN) at 12 h versus PMN treated with F. tularensis vaccine at 48 h.	2	1.392749e-2	1.000000e+0	1.000000e+0	7.180043e+1	1.392749e-2	1	1.392749e-2	1.000000e+0	1	8.924117e-3	1.000000e+0	1.000000e+0	1.120559e+2	8.924117e-3	1	161	1.000000e+0	6.211180e-3	unnamed	MZT2A
+MSigDB Immunologic Signatures	GSE22886_NAIVE_VS_IGG_IGA_MEMORY_BCELL_DN	Genes down-regulated in comparison of naive B cells versus memory IgG IgA B cells.	3	1.721399e-2	1.000000e+0	1.000000e+0	5.809229e+1	1.721399e-2	1	1.721399e-2	1.000000e+0	4	1.058700e-2	1.000000e+0	1.000000e+0	9.445550e+1	1.058700e-2	1	191	1.000000e+0	5.235602e-3	unnamed	MZT2A
+MSigDB Immunologic Signatures	GSE29618_MONOCYTE_VS_MDC_DAY7_FLU_VACCINE_DN	Genes down-regulated in comparison of monocytes from influenza vaccinee at day 7 post-vaccination versus myeloid dendritic cells at day 7 post-vaccination.	4	1.842060e-2	1.000000e+0	1.000000e+0	5.428706e+1	1.842060e-2	1	1.842060e-2	1.000000e+0	8	1.224988e-2	1.000000e+0	1.000000e+0	8.163348e+1	1.224988e-2	1	221	1.000000e+0	4.524887e-3	unnamed	MZT2A
+MSigDB Immunologic Signatures	GSE29618_MONOCYTE_VS_MDC_DN	Genes down-regulated in comparison of monocytes versus myeloid dendritic cells (mDC).	5	1.858226e-2	1.000000e+0	1.000000e+0	5.381476e+1	1.858226e-2	1	1.858226e-2	1.000000e+0	7	1.219445e-2	1.000000e+0	1.000000e+0	8.200455e+1	1.219445e-2	1	220	1.000000e+0	4.545455e-3	unnamed	MZT2A
+MSigDB Immunologic Signatures	GSE22886_NAIVE_TCELL_VS_DC_UP	Genes up-regulated in comparison of naive CD4 [GeneID=920] CD8 T cells versus unstimulated dendritic cells (DC).	6	1.906824e-2	1.000000e+0	1.000000e+0	5.244322e+1	1.906824e-2	1	1.906824e-2	1.000000e+0	5	1.069785e-2	1.000000e+0	1.000000e+0	9.347668e+1	1.069785e-2	1	193	1.000000e+0	5.181347e-3	unnamed	MZT2A
+MSigDB Immunologic Signatures	GSE22886_NAIVE_CD8_TCELL_VS_DC_UP	Genes up-regulated in comparison of naive CD8 T cells versus unstimulated dendritic cells (DC).	7	2.000984e-2	1.000000e+0	1.000000e+0	4.997542e+1	2.000984e-2	1	2.000984e-2	1.000000e+0	3	1.019899e-2	1.000000e+0	1.000000e+0	9.804891e+1	1.019899e-2	1	184	1.000000e+0	5.434783e-3	unnamed	MZT2A
+MSigDB Immunologic Signatures	GSE3982_CTRL_VS_PMA_STIM_EOSINOPHIL_UP	Genes up-regulated in comparison of untreated eosinophils versus eosinophils treated with PMA [PubChem=4792] at 2 h.	8	2.049593e-2	1.000000e+0	1.000000e+0	4.879017e+1	2.049593e-2	1	2.049593e-2	1.000000e+0	6	1.158472e-2	1.000000e+0	1.000000e+0	8.632057e+1	1.158472e-2	1	209	1.000000e+0	4.784689e-3	unnamed	MZT2A
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

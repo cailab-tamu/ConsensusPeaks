@@ -1,0 +1,65 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Cellular Component	GO:0016021	integral to membrane	1	4.578656e-1	1.000000e+0	1.000000e+0	2.184047e+0	4.578656e-1	1	4.578656e-1	1.000000e+0	1	2.916135e-1	1.000000e+0	1.000000e+0	3.429196e+0	2.916135e-1	1	5261	1.000000e+0	1.900779e-4	unnamed	TVP23B
+GO Cellular Component	GO:0031224	intrinsic to membrane	2	4.694206e-1	1.000000e+0	1.000000e+0	2.130286e+0	4.694206e-1	1	4.694206e-1	1.000000e+0	2	2.978771e-1	1.000000e+0	1.000000e+0	3.357090e+0	2.978771e-1	1	5374	1.000000e+0	1.860811e-4	unnamed	TVP23B
+GO Cellular Component	GO:0044425	membrane part	3	5.293034e-1	1.000000e+0	1.000000e+0	1.889276e+0	5.293034e-1	1	5.293034e-1	1.000000e+0	3	3.432737e-1	1.000000e+0	1.000000e+0	2.913128e+0	3.432737e-1	1	6193	1.000000e+0	1.614726e-4	unnamed	TVP23B
+GO Cellular Component	GO:0016020	membrane	4	6.308744e-1	1.000000e+0	1.000000e+0	1.585102e+0	6.308744e-1	1	6.308744e-1	1.000000e+0	4	4.353417e-1	1.000000e+0	1.000000e+0	2.297046e+0	4.353417e-1	1	7854	1.000000e+0	1.273237e-4	unnamed	TVP23B
+MGI Expression: Detected	7865	TS23_lung	1	1.197260e-1	1.000000e+0	1.000000e+0	8.352401e+0	1.197260e-1	1	1.197260e-1	1.000000e+0	1	5.504129e-2	1.000000e+0	1.000000e+0	1.816818e+1	5.504129e-2	1	993	1.000000e+0	1.007049e-3	unnamed	TVP23B
+MGI Expression: Detected	7620	TS23_respiratory system	2	1.491012e-1	1.000000e+0	1.000000e+0	6.706855e+0	1.491012e-1	1	1.491012e-1	1.000000e+0	2	6.740203e-2	1.000000e+0	1.000000e+0	1.483635e+1	6.740203e-2	1	1216	1.000000e+0	8.223684e-4	unnamed	TVP23B
+MGI Expression: Detected	7489	TS23_visceral organ	3	5.150818e-1	1.000000e+0	1.000000e+0	1.941439e+0	5.150818e-1	1	5.150818e-1	1.000000e+0	3	3.083532e-1	1.000000e+0	1.000000e+0	3.243034e+0	3.083532e-1	1	5563	1.000000e+0	1.797591e-4	unnamed	TVP23B
+MGI Expression: Detected	7445	TS23_organ system	4	6.921258e-1	1.000000e+0	1.000000e+0	1.444824e+0	6.921258e-1	1	6.921258e-1	1.000000e+0	4	4.466493e-1	1.000000e+0	1.000000e+0	2.238893e+0	4.466493e-1	1	8058	1.000000e+0	1.241003e-4	unnamed	TVP23B
+MGI Expression: Detected	6925	TS23_embryo	5	7.220129e-1	1.000000e+0	1.000000e+0	1.385017e+0	7.220129e-1	1	7.220129e-1	1.000000e+0	5	4.840086e-1	1.000000e+0	1.000000e+0	2.066079e+0	4.840086e-1	1	8732	1.000000e+0	1.145213e-4	unnamed	TVP23B
+MGI Expression: Detected	6924	Theiler_stage_23	6	7.220179e-1	1.000000e+0	1.000000e+0	1.385007e+0	7.220179e-1	1	7.220179e-1	1.000000e+0	6	4.841749e-1	1.000000e+0	1.000000e+0	2.065369e+0	4.841749e-1	1	8735	1.000000e+0	1.144820e-4	unnamed	TVP23B
+MSigDB Perturbation	MULLIGHAN_NPM1_MUTATED_SIGNATURE_2_UP	The 'NPM1-mutated signature 2': genes up-regulated in pediatric AML (acute myeloid leukemia) samples with mutated NPM1 [GeneID=4869] compared to the AML cases with the intact gene and without recurring cytogenetic anomalities or M7 phenotype.	1	1.577318e-2	1.000000e+0	1.000000e+0	6.339877e+1	1.577318e-2	1	1.577318e-2	1.000000e+0	1	7.427526e-3	1.000000e+0	1.000000e+0	1.346343e+2	7.427526e-3	1	134	1.000000e+0	7.462687e-3	unnamed	TVP23B
+MSigDB Perturbation	LINSLEY_MIR16_TARGETS	Transcripts down-regulated by overexpression of MIR16 family of microRNA molecules in DLD-1 and HCT116 (colon cancer) cells hypomorphic for DICER1 [GeneID=23405].	2	1.715535e-2	1.000000e+0	1.000000e+0	5.829085e+1	1.715535e-2	1	1.715535e-2	1.000000e+0	2	1.108586e-2	1.000000e+0	1.000000e+0	9.020500e+1	1.108586e-2	1	200	1.000000e+0	5.000000e-3	unnamed	TVP23B
+MSigDB Perturbation	MULLIGHAN_NPM1_MUTATED_SIGNATURE_1_UP	The 'NPM1-mutated signature 1': genes up-regulated in pediatric AML (acute myeloid leukemia) samples with mutated NPM1 [GeneID=4869] compared to all AML cases with the intact gene.	3	2.845336e-2	1.000000e+0	1.000000e+0	3.514524e+1	2.845336e-2	1	2.845336e-2	1.000000e+0	3	1.607450e-2	1.000000e+0	1.000000e+0	6.221034e+1	1.607450e-2	1	290	1.000000e+0	3.448276e-3	unnamed	TVP23B
+MSigDB Perturbation	MOOTHA_PGC	Genes up-regulated in differentiating C2C12 cells (myoblasts) upon expression of PPARGC1A [GeneID=10891] off an adenoviral vector.	4	2.877022e-2	1.000000e+0	1.000000e+0	3.475816e+1	2.877022e-2	1	2.877022e-2	1.000000e+0	7	2.333574e-2	1.000000e+0	1.000000e+0	4.285273e+1	2.333574e-2	1	421	1.000000e+0	2.375297e-3	unnamed	TVP23B
+MSigDB Perturbation	MULLIGHAN_NPM1_SIGNATURE_3_UP	The 'NPM1 signature 3': genes up-regulated in pediatric AML (acute myeloid leukemia) with mutated NPM1 [GeneID=4869] compared to the AML cases with intact NPM1 and MLL [GeneID=4297].	5	3.521189e-2	1.000000e+0	1.000000e+0	2.839949e+1	3.521189e-2	1	3.521189e-2	1.000000e+0	5	1.956654e-2	1.000000e+0	1.000000e+0	5.110765e+1	1.956654e-2	1	353	1.000000e+0	2.832861e-3	unnamed	TVP23B
+MSigDB Perturbation	DELACROIX_RAR_BOUND_ES	Genes with DNA sequences bound by RARA and RARG [GeneID=5914, 5916] in ES cells.	6	3.825938e-2	1.000000e+0	1.000000e+0	2.613738e+1	3.825938e-2	1	3.825938e-2	1.000000e+0	8	2.416717e-2	1.000000e+0	1.000000e+0	4.137844e+1	2.416717e-2	1	436	1.000000e+0	2.293578e-3	unnamed	TVP23B
+MSigDB Perturbation	REN_ALVEOLAR_RHABDOMYOSARCOMA_DN	Genes commonly down-regulated in human alveolar rhabdomyosarcoma (ARMS) and its mouse model overexpressing PAX3-FOXO1 [GeneID=5077;2308] fusion.	7	4.599214e-2	1.000000e+0	1.000000e+0	2.174284e+1	4.599214e-2	1	4.599214e-2	1.000000e+0	6	2.255973e-2	1.000000e+0	1.000000e+0	4.432678e+1	2.255973e-2	1	407	1.000000e+0	2.457002e-3	unnamed	TVP23B
+MSigDB Perturbation	IVANOVA_HEMATOPOIESIS_LATE_PROGENITOR	Genes in the expression cluster 'Late Progenitors Shared': up-regulated in hematopoietic late progenitor cells from adult bone marrow and fetal liver.	8	4.669281e-2	1.000000e+0	1.000000e+0	2.141657e+1	4.669281e-2	1	4.669281e-2	1.000000e+0	9	2.865695e-2	1.000000e+0	1.000000e+0	3.489555e+1	2.865695e-2	1	517	1.000000e+0	1.934236e-3	unnamed	TVP23B
+MSigDB Perturbation	CHEMNITZ_RESPONSE_TO_PROSTAGLANDIN_E2_DN	Genes down-regulated in CD4+ [GeneID=920] T lymphocytes after stimulation with prostaglandin E2 [PubChem=5280360].	9	4.693259e-2	1.000000e+0	1.000000e+0	2.130716e+1	4.693259e-2	1	4.693259e-2	1.000000e+0	4	1.856882e-2	1.000000e+0	1.000000e+0	5.385373e+1	1.856882e-2	1	335	1.000000e+0	2.985075e-3	unnamed	TVP23B
+MSigDB Perturbation	FORTSCHEGGER_PHF8_TARGETS_DN	Genes down-regulated in HeLa cells (cervical carcinoma) upon knockdown of PHF8 [GeneID=23133] by RNAi.	10	7.444945e-2	1.000000e+0	1.000000e+0	1.343193e+1	7.444945e-2	1	7.444945e-2	1.000000e+0	11	4.140569e-2	1.000000e+0	1.000000e+0	2.415127e+1	4.140569e-2	1	747	1.000000e+0	1.338688e-3	unnamed	TVP23B
+MSigDB Perturbation	BUYTAERT_PHOTODYNAMIC_THERAPY_STRESS_UP	Genes up-regulated in T24 (bladder cancer) cells in response to the photodynamic therapy (PDT) stress.	11	7.787022e-2	1.000000e+0	1.000000e+0	1.284188e+1	7.787022e-2	1	7.787022e-2	1.000000e+0	12	4.373372e-2	1.000000e+0	1.000000e+0	2.286565e+1	4.373372e-2	1	789	1.000000e+0	1.267427e-3	unnamed	TVP23B
+MSigDB Perturbation	CREIGHTON_ENDOCRINE_THERAPY_RESISTANCE_3	The 'group 3 set' of genes associated with acquired endocrine therapy resistance in breast tumors expressing ESR1 and ERBB2 [GeneID=2099;2064].	12	7.827498e-2	1.000000e+0	1.000000e+0	1.277547e+1	7.827498e-2	1	7.827498e-2	1.000000e+0	10	3.730392e-2	1.000000e+0	1.000000e+0	2.680684e+1	3.730392e-2	1	673	1.000000e+0	1.485884e-3	unnamed	TVP23B
+MSigDB Perturbation	PILON_KLF1_TARGETS_DN	Genes down-regulated in erythroid progenitor cells from fetal livers of E13.5 embryos with KLF1 [GeneID=10661] knockout compared to those from the wild type embryos.	13	1.766774e-1	1.000000e+0	1.000000e+0	5.660033e+0	1.766774e-1	1	1.766774e-1	1.000000e+0	13	1.057591e-1	1.000000e+0	1.000000e+0	9.455451e+0	1.057591e-1	1	1908	1.000000e+0	5.241090e-4	unnamed	TVP23B
+InterPro	IPR008564	Protein of unknown function DUF846, eukaryotic	1	1.933766e-4	1.000000e+0	1.000000e+0	5.171256e+3	1.933766e-4	1	1.933766e-4	1.000000e+0	1	2.217172e-4	1.000000e+0	1.000000e+0	4.510250e+3	2.217172e-4	1	4	1.000000e+0	2.500000e-1	unnamed	TVP23B
+TreeFam	TF312906	TVP23A, TVP23B, TVP23C, TVP23C-CDRT4	1	1.933766e-4	1.000000e+0	1.000000e+0	5.171256e+3	1.933766e-4	1	1.933766e-4	1.000000e+0	1	2.217172e-4	1.000000e+0	1.000000e+0	4.510250e+3	2.217172e-4	1	4	1.000000e+0	2.500000e-1	unnamed	TVP23B
+Ensembl Genes	8011	TVP23B	1	5.385466e-5	9.715919e-1	9.715919e-1	1.856849e+4	5.385466e-5	1	5.385466e-5	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	TVP23B
+MSigDB Oncogenic Signatures	ERB2_UP.V1_DN	Genes down-regulated in MCF-7 cells (breast cancer) positive for ESR1 [Gene ID=2099] and engineered to express ligand-activatable ERBB2 [Gene ID=2064].	1	2.349699e-2	1.000000e+0	1.000000e+0	4.255865e+1	2.349699e-2	1	2.349699e-2	1.000000e+0	1	1.064243e-2	1.000000e+0	1.000000e+0	9.396354e+1	1.064243e-2	1	192	1.000000e+0	5.208333e-3	unnamed	TVP23B
+MSigDB Immunologic Signatures	GSE27786_LIN_NEG_VS_NKTCELL_UP	Genes up-regulated in comparison of lineage negative versus NKT cells.	1	1.525366e-2	1.000000e+0	1.000000e+0	6.555804e+1	1.525366e-2	1	1.525366e-2	1.000000e+0	4	1.053157e-2	1.000000e+0	1.000000e+0	9.495263e+1	1.053157e-2	1	190	1.000000e+0	5.263158e-3	unnamed	TVP23B
+MSigDB Immunologic Signatures	GSE27786_NKTCELL_VS_MONO_MAC_UP	Genes up-regulated in comparison of NKT cells versus monocyte macrophages.	2	1.849344e-2	1.000000e+0	1.000000e+0	5.407323e+1	1.849344e-2	1	1.849344e-2	1.000000e+0	8	1.080871e-2	1.000000e+0	1.000000e+0	9.251795e+1	1.080871e-2	1	195	1.000000e+0	5.128205e-3	unnamed	TVP23B
+MSigDB Immunologic Signatures	GSE3982_MAC_VS_EFF_MEMORY_CD4_TCELL_UP	Genes up-regulated in comparison of macrophages versus effector memory CD4 [GeneID=920] T cells.	3	1.849790e-2	1.000000e+0	1.000000e+0	5.406018e+1	1.849790e-2	1	1.849790e-2	1.000000e+0	7	1.064243e-2	1.000000e+0	1.000000e+0	9.396354e+1	1.064243e-2	1	192	1.000000e+0	5.208333e-3	unnamed	TVP23B
+MSigDB Immunologic Signatures	GSE2706_2H_VS_8H_R848_AND_LPS_STIM_DC_DN	Genes down-regulated in comparison of dendritic cells (DC) stimulated with R848 at 2 h versus DCs stimulated with LPS (TLR4 agonist) at 8 h.	4	1.928850e-2	1.000000e+0	1.000000e+0	5.184436e+1	1.928850e-2	1	1.928850e-2	1.000000e+0	2	1.030985e-2	1.000000e+0	1.000000e+0	9.699462e+1	1.030985e-2	1	186	1.000000e+0	5.376344e-3	unnamed	TVP23B
+MSigDB Immunologic Signatures	GSE3982_MAC_VS_TH1_UP	Genes up-regulated in comparison of macrophages versus Th1 cells.	5	1.950335e-2	1.000000e+0	1.000000e+0	5.127325e+1	1.950335e-2	1	1.950335e-2	1.000000e+0	5	1.058700e-2	1.000000e+0	1.000000e+0	9.445550e+1	1.058700e-2	1	191	1.000000e+0	5.235602e-3	unnamed	TVP23B
+MSigDB Immunologic Signatures	GSE2706_R848_VS_R848_AND_LPS_8H_STIM_DC_DN	Genes down-regulated in comparison of dendritic cells (DC) stimulated with R848 at 8 h versus DCs stimulated with LPS (TLR4 agonist) and R848 for 8 h.	6	2.034755e-2	1.000000e+0	1.000000e+0	4.914597e+1	2.034755e-2	1	2.034755e-2	1.000000e+0	1	9.755557e-3	1.000000e+0	1.000000e+0	1.025057e+2	9.755557e-3	1	176	1.000000e+0	5.681818e-3	unnamed	TVP23B
+MSigDB Immunologic Signatures	GSE30083_SP2_VS_SP4_THYMOCYTE_DN	Genes down-regulated in comparison of SP2 thymocytes versus SP4 thymocytes.	7	2.062851e-2	1.000000e+0	1.000000e+0	4.847659e+1	2.062851e-2	1	2.062851e-2	1.000000e+0	2	1.030985e-2	1.000000e+0	1.000000e+0	9.699462e+1	1.030985e-2	1	186	1.000000e+0	5.376344e-3	unnamed	TVP23B
+MSigDB Immunologic Signatures	GSE11924_TH1_VS_TH2_CD4_TCELL_DN	Genes down-regulated in comparison of Th1 cells versus Th17 cells.	8	2.186491e-2	1.000000e+0	1.000000e+0	4.573538e+1	2.186491e-2	1	2.186491e-2	1.000000e+0	5	1.058700e-2	1.000000e+0	1.000000e+0	9.445550e+1	1.058700e-2	1	191	1.000000e+0	5.235602e-3	unnamed	TVP23B
+MSigDB Immunologic Signatures	GSE1460_INTRATHYMIC_T_PROGENITOR_VS_THYMIC_STROMAL_CELL_DN	Genes down-regulated in comparison of intrathymic T progenitor cells (ITTP) versus thymic stromal cells.	9	2.716302e-2	1.000000e+0	1.000000e+0	3.681475e+1	2.716302e-2	1	2.716302e-2	1.000000e+0	9	1.086414e-2	1.000000e+0	1.000000e+0	9.204592e+1	1.086414e-2	1	196	1.000000e+0	5.102041e-3	unnamed	TVP23B
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

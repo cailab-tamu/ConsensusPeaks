@@ -1,0 +1,70 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Molecular Function	GO:0008168	methyltransferase activity	1	1.710242e-2	1.000000e+0	1.000000e+0	5.847126e+1	1.710242e-2	1	1.710242e-2	1.000000e+0	1	1.130758e-2	1.000000e+0	1.000000e+0	8.843627e+1	1.130758e-2	1	204	1.000000e+0	4.901961e-3	unnamed	THUMPD2
+GO Molecular Function	GO:0016741	transferase activity, transferring one-carbon groups	2	1.739575e-2	1.000000e+0	1.000000e+0	5.748529e+1	1.739575e-2	1	1.739575e-2	1.000000e+0	2	1.164015e-2	1.000000e+0	1.000000e+0	8.590952e+1	1.164015e-2	1	210	1.000000e+0	4.761905e-3	unnamed	THUMPD2
+GO Molecular Function	GO:0003723	RNA binding	3	7.115189e-2	1.000000e+0	1.000000e+0	1.405444e+1	7.115189e-2	1	7.115189e-2	1.000000e+0	3	5.027438e-2	1.000000e+0	1.000000e+0	1.989085e+1	5.027438e-2	1	907	1.000000e+0	1.102536e-3	unnamed	THUMPD2
+GO Molecular Function	GO:0016740	transferase activity	4	1.774445e-1	1.000000e+0	1.000000e+0	5.635566e+0	1.774445e-1	1	1.774445e-1	1.000000e+0	4	1.024333e-1	1.000000e+0	1.000000e+0	9.762446e+0	1.024333e-1	1	1848	1.000000e+0	5.411255e-4	unnamed	THUMPD2
+GO Molecular Function	GO:0003676	nucleic acid binding	5	2.841930e-1	1.000000e+0	1.000000e+0	3.518736e+0	2.841930e-1	1	2.841930e-1	1.000000e+0	5	1.882933e-1	1.000000e+0	1.000000e+0	5.310863e+0	1.882933e-1	1	3397	1.000000e+0	2.943774e-4	unnamed	THUMPD2
+GO Molecular Function	GO:1901363	heterocyclic compound binding	6	4.273925e-1	1.000000e+0	1.000000e+0	2.339769e+0	4.273925e-1	1	4.273925e-1	1.000000e+0	6	2.937753e-1	1.000000e+0	1.000000e+0	3.403962e+0	2.937753e-1	1	5300	1.000000e+0	1.886792e-4	unnamed	THUMPD2
+GO Molecular Function	GO:0097159	organic cyclic compound binding	7	4.323803e-1	1.000000e+0	1.000000e+0	2.312779e+0	4.323803e-1	1	4.323803e-1	1.000000e+0	7	2.978216e-1	1.000000e+0	1.000000e+0	3.357714e+0	2.978216e-1	1	5373	1.000000e+0	1.861158e-4	unnamed	THUMPD2
+GO Molecular Function	GO:0003824	catalytic activity	8	4.361959e-1	1.000000e+0	1.000000e+0	2.292548e+0	4.361959e-1	1	4.361959e-1	1.000000e+0	8	3.045286e-1	1.000000e+0	1.000000e+0	3.283764e+0	3.045286e-1	1	5494	1.000000e+0	1.820167e-4	unnamed	THUMPD2
+GO Molecular Function	GO:0005488	binding	9	8.171102e-1	1.000000e+0	1.000000e+0	1.223825e+0	8.171102e-1	1	8.171102e-1	1.000000e+0	9	6.747963e-1	1.000000e+0	1.000000e+0	1.481929e+0	6.747963e-1	1	12174	1.000000e+0	8.214227e-5	unnamed	THUMPD2
+GO Biological Process	GO:0032259	methylation	1	2.161420e-2	1.000000e+0	1.000000e+0	4.626587e+1	2.161420e-2	1	2.161420e-2	1.000000e+0	1	1.402361e-2	1.000000e+0	1.000000e+0	7.130830e+1	1.402361e-2	1	253	1.000000e+0	3.952569e-3	unnamed	THUMPD2
+GO Biological Process	GO:0008152	metabolic process	2	6.507895e-1	1.000000e+0	1.000000e+0	1.536595e+0	6.507895e-1	1	6.507895e-1	1.000000e+0	2	5.097278e-1	1.000000e+0	1.000000e+0	1.961831e+0	5.097278e-1	1	9196	1.000000e+0	1.087429e-4	unnamed	THUMPD2
+MSigDB Perturbation	LIU_NASOPHARYNGEAL_CARCINOMA	Low abundance transcripts specific to nasopharyngeal carcinoma (NPC).	1	5.621250e-3	1.000000e+0	1.000000e+0	1.778964e+2	5.621250e-3	1	5.621250e-3	1.000000e+0	1	3.658334e-3	1.000000e+0	1.000000e+0	2.733485e+2	3.658334e-3	1	66	1.000000e+0	1.515152e-2	unnamed	THUMPD2
+MSigDB Perturbation	HOLLMANN_APOPTOSIS_VIA_CD40_DN	Genes down-regulated in DLBCL (diffuse large B-cell lymphoma) cell lines sensitive to stimulation of CD40 [GeneID=958] relative to the resistant ones.	2	2.285226e-2	1.000000e+0	1.000000e+0	4.375935e+1	2.285226e-2	1	2.285226e-2	1.000000e+0	3	1.407904e-2	1.000000e+0	1.000000e+0	7.102756e+1	1.407904e-2	1	254	1.000000e+0	3.937008e-3	unnamed	THUMPD2
+MSigDB Perturbation	CHEN_HOXA5_TARGETS_9HR_UP	Genes up-regulated 9 h after induction of HoxA5 [GeneID=3205] expression in a breast cancer cell line.	3	2.368734e-2	1.000000e+0	1.000000e+0	4.221664e+1	2.368734e-2	1	2.368734e-2	1.000000e+0	2	1.186187e-2	1.000000e+0	1.000000e+0	8.430374e+1	1.186187e-2	1	214	1.000000e+0	4.672897e-3	unnamed	THUMPD2
+MSigDB Perturbation	HELLER_HDAC_TARGETS_SILENCED_BY_METHYLATION_DN	Genes down-regulated in multiple myeloma (MM) cell lines treated with both decitabine [PubChem=451668] TSA [PubChem=5562].	4	3.340567e-2	1.000000e+0	1.000000e+0	2.993504e+1	3.340567e-2	1	3.340567e-2	1.000000e+0	4	1.507677e-2	1.000000e+0	1.000000e+0	6.632721e+1	1.507677e-2	1	272	1.000000e+0	3.676471e-3	unnamed	THUMPD2
+MSigDB Perturbation	BRUINS_UVC_RESPONSE_EARLY_LATE	Early-late response genes: differentially expressed in the first 3 h and after 12 h following UV-C irradiation of MEF cells (embryonic fibroblast).	5	3.354868e-2	1.000000e+0	1.000000e+0	2.980743e+1	3.354868e-2	1	3.354868e-2	1.000000e+0	5	1.707222e-2	1.000000e+0	1.000000e+0	5.857468e+1	1.707222e-2	1	308	1.000000e+0	3.246753e-3	unnamed	THUMPD2
+MSigDB Perturbation	WEI_MYCN_TARGETS_WITH_E_BOX	Genes whose promoters contain E-box motifs and whose expression changed in MYCN-3 cells (neuroblastoma) upon induction of MYCN [GeneID=4613].	6	6.806111e-2	1.000000e+0	1.000000e+0	1.469268e+1	6.806111e-2	1	6.806111e-2	1.000000e+0	7	4.262513e-2	1.000000e+0	1.000000e+0	2.346034e+1	4.262513e-2	1	769	1.000000e+0	1.300390e-3	unnamed	THUMPD2
+MSigDB Perturbation	BUYTAERT_PHOTODYNAMIC_THERAPY_STRESS_UP	Genes up-regulated in T24 (bladder cancer) cells in response to the photodynamic therapy (PDT) stress.	7	7.787022e-2	1.000000e+0	1.000000e+0	1.284188e+1	7.787022e-2	1	7.787022e-2	1.000000e+0	8	4.373372e-2	1.000000e+0	1.000000e+0	2.286565e+1	4.373372e-2	1	789	1.000000e+0	1.267427e-3	unnamed	THUMPD2
+MSigDB Perturbation	ONKEN_UVEAL_MELANOMA_UP	Genes up-regulated in uveal melanoma: class 2 vs class 1 tumors.	8	8.290379e-2	1.000000e+0	1.000000e+0	1.206218e+1	8.290379e-2	1	8.290379e-2	1.000000e+0	6	4.245884e-2	1.000000e+0	1.000000e+0	2.355222e+1	4.245884e-2	1	766	1.000000e+0	1.305483e-3	unnamed	THUMPD2
+MSigDB Perturbation	NUYTTEN_EZH2_TARGETS_UP	Genes up-regulated in PC3 cells (prostate cancer) after knockdown of EZH2 [GeneID=2146] by RNAi.	9	1.213858e-1	1.000000e+0	1.000000e+0	8.238198e+0	1.213858e-1	1	1.213858e-1	1.000000e+0	9	5.548473e-2	1.000000e+0	1.000000e+0	1.802298e+1	5.548473e-2	1	1001	1.000000e+0	9.990010e-4	unnamed	THUMPD2
+MSigDB Perturbation	DODD_NASOPHARYNGEAL_CARCINOMA_DN	Genes down-regulated in nasopharyngeal carcinoma (NPC) compared to the normal tissue.	10	1.258050e-1	1.000000e+0	1.000000e+0	7.948812e+0	1.258050e-1	1	1.258050e-1	1.000000e+0	10	7.167008e-2	1.000000e+0	1.000000e+0	1.395282e+1	7.167008e-2	1	1293	1.000000e+0	7.733952e-4	unnamed	THUMPD2
+MSigDB Predicted Promoter Motifs	V$ARNT_02	Motif NNNNNRTCACGTGAYNNNNN matches ARNT: aryl hydrocarbon receptor nuclear translocator	1	1.952962e-2	1.000000e+0	1.000000e+0	5.120428e+1	1.952962e-2	1	1.952962e-2	1.000000e+0	2	1.324760e-2	1.000000e+0	1.000000e+0	7.548536e+1	1.324760e-2	1	239	1.000000e+0	4.184100e-3	unnamed	THUMPD2
+MSigDB Predicted Promoter Motifs	V$USF_01	Motif NNRYCACGTGRYNN (no known TF)	2	1.973798e-2	1.000000e+0	1.000000e+0	5.066374e+1	1.973798e-2	1	1.973798e-2	1.000000e+0	3	1.346932e-2	1.000000e+0	1.000000e+0	7.424280e+1	1.346932e-2	1	243	1.000000e+0	4.115226e-3	unnamed	THUMPD2
+MSigDB Predicted Promoter Motifs	V$MAX_01	Motif NNANCACGTGNTNN matches MAX: MYC associated factor X	3	2.291883e-2	1.000000e+0	1.000000e+0	4.363225e+1	2.291883e-2	1	2.291883e-2	1.000000e+0	3	1.346932e-2	1.000000e+0	1.000000e+0	7.424280e+1	1.346932e-2	1	243	1.000000e+0	4.115226e-3	unnamed	THUMPD2
+MSigDB Predicted Promoter Motifs	V$USF_02	Motif NNRNCACGTGNYNN (no known TF)	4	2.472704e-2	1.000000e+0	1.000000e+0	4.044156e+1	2.472704e-2	1	2.472704e-2	1.000000e+0	5	1.430076e-2	1.000000e+0	1.000000e+0	6.992636e+1	1.430076e-2	1	258	1.000000e+0	3.875969e-3	unnamed	THUMPD2
+MSigDB Predicted Promoter Motifs	V$MSX1_01	Motif CNGTAWNTG matches MSX1: msh homeobox homolog 1 (Drosophila)	5	2.896594e-2	1.000000e+0	1.000000e+0	3.452330e+1	2.896594e-2	1	2.896594e-2	1.000000e+0	1	9.644698e-3	1.000000e+0	1.000000e+0	1.036839e+2	9.644698e-3	1	174	1.000000e+0	5.747126e-3	unnamed	THUMPD2
+MSigDB Predicted Promoter Motifs	SMTTTTGT_UNKNOWN	Motif SMTTTTGT (no known TF)	6	6.389706e-2	1.000000e+0	1.000000e+0	1.565017e+1	6.389706e-2	1	6.389706e-2	1.000000e+0	6	2.167286e-2	1.000000e+0	1.000000e+0	4.614066e+1	2.167286e-2	1	391	1.000000e+0	2.557545e-3	unnamed	THUMPD2
+MSigDB Predicted Promoter Motifs	CACGTG_V$MYC_Q2	Motif CACGTG matches MYC: v-myc myelocytomatosis viral oncogene homolog (avian)	7	9.316007e-2	1.000000e+0	1.000000e+0	1.073421e+1	9.316007e-2	1	9.316007e-2	1.000000e+0	7	5.465329e-2	1.000000e+0	1.000000e+0	1.829716e+1	5.465329e-2	1	986	1.000000e+0	1.014199e-3	unnamed	THUMPD2
+InterPro	IPR004114	THUMP	1	4.212387e-4	1.000000e+0	1.000000e+0	2.373951e+3	4.212387e-4	1	4.212387e-4	1.000000e+0	1	1.662879e-4	1.000000e+0	1.000000e+0	6.013667e+3	1.662879e-4	1	3	1.000000e+0	3.333333e-1	unnamed	THUMPD2
+InterPro	IPR000241	Putative RNA methylase domain	2	5.313085e-4	1.000000e+0	1.000000e+0	1.882146e+3	5.313085e-4	1	5.313085e-4	1.000000e+0	1	1.662879e-4	1.000000e+0	1.000000e+0	6.013667e+3	1.662879e-4	1	3	1.000000e+0	3.333333e-1	unnamed	THUMPD2
+TreeFam	TF313093	THUMPD2, THUMPD3	1	3.994151e-4	1.000000e+0	1.000000e+0	2.503661e+3	3.994151e-4	1	3.994151e-4	1.000000e+0	1	1.108586e-4	9.008370e-1	9.008370e-1	9.020500e+3	1.108586e-4	1	2	1.000000e+0	5.000000e-1	unnamed	THUMPD2
+Ensembl Genes	10893	THUMPD2	1	2.951206e-4	1.000000e+0	1.000000e+0	3.388446e+3	2.951206e-4	1	2.951206e-4	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	THUMPD2
+MSigDB Immunologic Signatures	GSE11924_TFH_VS_TH2_CD4_TCELL_UP	Genes up-regulated in comparison of T follicular helper (Tfh) cells versus Th2 cells.	1	1.305513e-2	1.000000e+0	1.000000e+0	7.659827e+1	1.305513e-2	1	1.305513e-2	1.000000e+0	4	1.047614e-2	1.000000e+0	1.000000e+0	9.545503e+1	1.047614e-2	1	189	1.000000e+0	5.291005e-3	unnamed	THUMPD2
+MSigDB Immunologic Signatures	GSE7764_IL15_TREATED_VS_CTRL_NK_CELL_24H_UP	Genes up-regulated in comparison of NK cells treated with IL15 [GeneID=3567] versus untreated NK cells.	2	1.470532e-2	1.000000e+0	1.000000e+0	6.800258e+1	1.470532e-2	1	1.470532e-2	1.000000e+0	6	1.064243e-2	1.000000e+0	1.000000e+0	9.396354e+1	1.064243e-2	1	192	1.000000e+0	5.208333e-3	unnamed	THUMPD2
+MSigDB Immunologic Signatures	GSE34205_HEALTHY_VS_RSV_INF_INFANT_PBMC_DN	Genes down-regulated in comparison of peripheral blood mononuclear cells (PBMC) from healthy donors versus PBMCs from infanct with acute RSV infection.	3	1.515483e-2	1.000000e+0	1.000000e+0	6.598556e+1	1.515483e-2	1	1.515483e-2	1.000000e+0	7	1.080871e-2	1.000000e+0	1.000000e+0	9.251795e+1	1.080871e-2	1	195	1.000000e+0	5.128205e-3	unnamed	THUMPD2
+MSigDB Immunologic Signatures	GSE15324_NAIVE_VS_ACTIVATED_CD8_TCELL_UP	Genes up-regulated in comparison of naive CD8 T cells versus activated CD8 T cells.	4	1.541120e-2	1.000000e+0	1.000000e+0	6.488787e+1	1.541120e-2	1	1.541120e-2	1.000000e+0	1	1.008813e-2	1.000000e+0	1.000000e+0	9.912637e+1	1.008813e-2	1	182	1.000000e+0	5.494505e-3	unnamed	THUMPD2
+MSigDB Immunologic Signatures	GSE14769_40MIN_VS_360MIN_LPS_BMDM_UP	Genes up-regulated in comparison of macrophage cells stimulated with LPS (TLR4 agonist) for 40 min versus macrophage cells stimulated with LPS (TLR4 agonist) for 360 min.	5	1.583242e-2	1.000000e+0	1.000000e+0	6.316153e+1	1.583242e-2	1	1.583242e-2	1.000000e+0	8	1.091957e-2	1.000000e+0	1.000000e+0	9.157868e+1	1.091957e-2	1	197	1.000000e+0	5.076142e-3	unnamed	THUMPD2
+MSigDB Immunologic Signatures	GSE8678_IL7R_LOW_VS_HIGH_EFF_CD8_TCELL_DN	Genes down-regulated in IL7R [GeneID=3575] low effector CD8 T cells versus IL7R [GeneID=3575] high effector CD8 T cells.	6	1.823706e-2	1.000000e+0	1.000000e+0	5.483339e+1	1.823706e-2	1	1.823706e-2	1.000000e+0	3	1.042071e-2	1.000000e+0	1.000000e+0	9.596277e+1	1.042071e-2	1	188	1.000000e+0	5.319149e-3	unnamed	THUMPD2
+MSigDB Immunologic Signatures	GSE1460_INTRATHYMIC_T_PROGENITOR_VS_NAIVE_CD4_TCELL_CORD_BLOOD_UP	Genes up-regulated in comparison of intrathymic T progenitor cells (ITTP) versus naive CD4 [GeneID=920] T cells from cord blood.	7	1.927061e-2	1.000000e+0	1.000000e+0	5.189250e+1	1.927061e-2	1	1.927061e-2	1.000000e+0	9	1.158472e-2	1.000000e+0	1.000000e+0	8.632057e+1	1.158472e-2	1	209	1.000000e+0	4.784689e-3	unnamed	THUMPD2
+MSigDB Immunologic Signatures	GSE15750_WT_VS_TRAF6KO_DAY10_EFF_CD8_TCELL_UP	Genes up-regulated in comparison of wild type CD8 effector T cells at day 10 versus those  from mice defficient for TRAF6 [GeneID=7189] at day 10.	8	1.989104e-2	1.000000e+0	1.000000e+0	5.027389e+1	1.989104e-2	1	1.989104e-2	1.000000e+0	5	1.053157e-2	1.000000e+0	1.000000e+0	9.495263e+1	1.053157e-2	1	190	1.000000e+0	5.263158e-3	unnamed	THUMPD2
+MSigDB Immunologic Signatures	GSE13229_MATURE_VS_INTMATURE_NKCELL_UP	Genes up-regulated in comparison of mature NK cells versus intermediate mature KN cells.	9	2.238393e-2	1.000000e+0	1.000000e+0	4.467490e+1	2.238393e-2	1	2.238393e-2	1.000000e+0	2	1.025442e-2	1.000000e+0	1.000000e+0	9.751892e+1	1.025442e-2	1	185	1.000000e+0	5.405405e-3	unnamed	THUMPD2
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

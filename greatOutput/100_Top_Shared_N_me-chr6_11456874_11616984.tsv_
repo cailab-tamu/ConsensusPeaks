@@ -1,0 +1,59 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Cellular Component	GO:0016021	integral to membrane	1	4.578656e-1	1.000000e+0	1.000000e+0	2.184047e+0	4.578656e-1	1	4.578656e-1	1.000000e+0	1	2.916135e-1	1.000000e+0	1.000000e+0	3.429196e+0	2.916135e-1	1	5261	1.000000e+0	1.900779e-4	unnamed	TMEM170B
+GO Cellular Component	GO:0031224	intrinsic to membrane	2	4.694206e-1	1.000000e+0	1.000000e+0	2.130286e+0	4.694206e-1	1	4.694206e-1	1.000000e+0	2	2.978771e-1	1.000000e+0	1.000000e+0	3.357090e+0	2.978771e-1	1	5374	1.000000e+0	1.860811e-4	unnamed	TMEM170B
+GO Cellular Component	GO:0044425	membrane part	3	5.293034e-1	1.000000e+0	1.000000e+0	1.889276e+0	5.293034e-1	1	5.293034e-1	1.000000e+0	3	3.432737e-1	1.000000e+0	1.000000e+0	2.913128e+0	3.432737e-1	1	6193	1.000000e+0	1.614726e-4	unnamed	TMEM170B
+GO Cellular Component	GO:0016020	membrane	4	6.308744e-1	1.000000e+0	1.000000e+0	1.585102e+0	6.308744e-1	1	6.308744e-1	1.000000e+0	4	4.353417e-1	1.000000e+0	1.000000e+0	2.297046e+0	4.353417e-1	1	7854	1.000000e+0	1.273237e-4	unnamed	TMEM170B
+MSigDB Perturbation	ZHAN_MULTIPLE_MYELOMA_MF_DN	Top 50 down-regulated genes in cluster MF of multiple myeloma samples with characteristic expression spike of MAF family transcription factors.	1	7.259583e-3	1.000000e+0	1.000000e+0	1.377490e+2	7.259583e-3	1	7.259583e-3	1.000000e+0	1	2.106313e-3	1.000000e+0	1.000000e+0	4.747632e+2	2.106313e-3	1	38	1.000000e+0	2.631579e-2	unnamed	TMEM170B
+MSigDB Perturbation	KRIGE_RESPONSE_TO_TOSEDOSTAT_24HR_UP	Genes up-regulated in HL-60 cells (acute promyelocytic leukemia, APL) after treatment with the aminopeptidase inhibitor tosedostat (CHR-2797) [PubChem=15547703] for 24 h.	2	7.473849e-2	1.000000e+0	1.000000e+0	1.337999e+1	7.473849e-2	1	7.473849e-2	1.000000e+0	2	3.891137e-2	1.000000e+0	1.000000e+0	2.569943e+1	3.891137e-2	1	702	1.000000e+0	1.424501e-3	unnamed	TMEM170B
+MSigDB Perturbation	KRIGE_RESPONSE_TO_TOSEDOSTAT_6HR_UP	Genes up-regulated in HL-60 cells (acute promyelocytic leukemia, APL) after treatment with the aminopeptidase inhibitor tosedostat (CHR-2797) [PubChem=15547703] for 6 h.	3	9.102346e-2	1.000000e+0	1.000000e+0	1.098618e+1	9.102346e-2	1	9.102346e-2	1.000000e+0	4	4.783549e-2	1.000000e+0	1.000000e+0	2.090498e+1	4.783549e-2	1	863	1.000000e+0	1.158749e-3	unnamed	TMEM170B
+MSigDB Perturbation	GEORGES_TARGETS_OF_MIR192_AND_MIR215	Genes down-regulated in HCT116 cells (colon cancer) by expression of MIR192 or MIR215 [GeneID=406967;406997] at 24 h.	4	9.671084e-2	1.000000e+0	1.000000e+0	1.034010e+1	9.671084e-2	1	9.671084e-2	1.000000e+0	3	4.678233e-2	1.000000e+0	1.000000e+0	2.137559e+1	4.678233e-2	1	844	1.000000e+0	1.184834e-3	unnamed	TMEM170B
+MSigDB Perturbation	PILON_KLF1_TARGETS_DN	Genes down-regulated in erythroid progenitor cells from fetal livers of E13.5 embryos with KLF1 [GeneID=10661] knockout compared to those from the wild type embryos.	5	1.766774e-1	1.000000e+0	1.000000e+0	5.660033e+0	1.766774e-1	1	1.766774e-1	1.000000e+0	5	1.057591e-1	1.000000e+0	1.000000e+0	9.455451e+0	1.057591e-1	1	1908	1.000000e+0	5.241090e-4	unnamed	TMEM170B
+InterPro	IPR019334	Transmembrane protein 170	1	2.081759e-4	1.000000e+0	1.000000e+0	4.803630e+3	2.081759e-4	1	2.081759e-4	1.000000e+0	1	1.108586e-4	1.000000e+0	1.000000e+0	9.020500e+3	1.108586e-4	1	2	1.000000e+0	5.000000e-1	unnamed	TMEM170B
+TreeFam	TF314615	TMEM170A, TMEM170B	1	2.081759e-4	1.000000e+0	1.000000e+0	4.803630e+3	2.081759e-4	1	2.081759e-4	1.000000e+0	1	1.108586e-4	9.008370e-1	9.008370e-1	9.020500e+3	1.108586e-4	1	2	1.000000e+0	5.000000e-1	unnamed	TMEM170B
+Ensembl Genes	15992	TMEM170B	1	1.887644e-4	1.000000e+0	1.000000e+0	5.297608e+3	1.887644e-4	1	1.887644e-4	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	TMEM170B
+MSigDB Immunologic Signatures	GSE9988_LPS_VS_VEHICLE_TREATED_MONOCYTE_DN	Genes down-regulated in comparison of monocytes treated with 1 ng/ml LPS (TLR4 agonist) versus monocytes treated with vehicle.	1	1.040206e-2	1.000000e+0	1.000000e+0	9.613483e+1	1.040206e-2	1	1.040206e-2	1.000000e+0	11	1.064243e-2	1.000000e+0	1.000000e+0	9.396354e+1	1.064243e-2	1	192	1.000000e+0	5.208333e-3	unnamed	TMEM170B
+MSigDB Immunologic Signatures	GSE9988_LOW_LPS_VS_VEHICLE_TREATED_MONOCYTE_DN	Genes down-regulated in comparison of monocytes treated with 1 ng/ml LPS (TLR4 agonist) versus monocytes treated with control IgG.	2	1.195086e-2	1.000000e+0	1.000000e+0	8.367598e+1	1.195086e-2	1	1.195086e-2	1.000000e+0	10	1.058700e-2	1.000000e+0	1.000000e+0	9.445550e+1	1.058700e-2	1	191	1.000000e+0	5.235602e-3	unnamed	TMEM170B
+MSigDB Immunologic Signatures	GSE11864_UNTREATED_VS_CSF1_IFNG_IN_MAC_UP	Genes up-regulated in comparison of untreated macrophages versus those cultured with M-CSF [GeneID=1435] and IFNG [GeneID=3458].	3	1.475450e-2	1.000000e+0	1.000000e+0	6.777594e+1	1.475450e-2	1	1.475450e-2	1.000000e+0	4	9.866415e-3	1.000000e+0	1.000000e+0	1.013539e+2	9.866415e-3	1	178	1.000000e+0	5.617978e-3	unnamed	TMEM170B
+MSigDB Immunologic Signatures	GSE18791_CTRL_VS_NEWCASTLE_VIRUS_DC_18H_UP	Genes up-regulated in comparison of control conventional dendritic cells (cDC) at 0 h versus cDCs infected with Newcastle disease virus (NDV) at 18 h.	4	1.509093e-2	1.000000e+0	1.000000e+0	6.626495e+1	1.509093e-2	1	1.509093e-2	1.000000e+0	17	1.086414e-2	1.000000e+0	1.000000e+0	9.204592e+1	1.086414e-2	1	196	1.000000e+0	5.102041e-3	unnamed	TMEM170B
+MSigDB Immunologic Signatures	GSE20366_EX_VIVO_VS_HOMEOSTATIC_CONVERSION_NAIVE_CD4_TCELL_UP	Genes up-regulated in comparison of TconvLP versus Homeo Foxp3- (see Table 1S in the paper for details).	5	1.579169e-2	1.000000e+0	1.000000e+0	6.332445e+1	1.579169e-2	1	1.579169e-2	1.000000e+0	13	1.075328e-2	1.000000e+0	1.000000e+0	9.299485e+1	1.075328e-2	1	194	1.000000e+0	5.154639e-3	unnamed	TMEM170B
+MSigDB Immunologic Signatures	GSE31082_DN_VS_CD8_SP_THYMOCYTE_UP	Genes up-regulated in comparison of CD4- [GeneID=920] CD8- thymocytes versus CD4- [GeneID=920] CD8+ thymocytes.	6	1.635340e-2	1.000000e+0	1.000000e+0	6.114936e+1	1.635340e-2	1	1.635340e-2	1.000000e+0	13	1.075328e-2	1.000000e+0	1.000000e+0	9.299485e+1	1.075328e-2	1	194	1.000000e+0	5.154639e-3	unnamed	TMEM170B
+MSigDB Immunologic Signatures	GSE22045_TREG_VS_TCONV_DN	Genes down-regulated in comparison of regulatory T cell (Treg) versus conventional T cells.	7	1.721867e-2	1.000000e+0	1.000000e+0	5.807649e+1	1.721867e-2	1	1.721867e-2	1.000000e+0	2	9.256693e-3	1.000000e+0	1.000000e+0	1.080299e+2	9.256693e-3	1	167	1.000000e+0	5.988024e-3	unnamed	TMEM170B
+MSigDB Immunologic Signatures	GSE27786_CD8_TCELL_VS_NKTCELL_DN	Genes down-regulated in comparison of CD8 T cells versus NKT cells.	8	1.951075e-2	1.000000e+0	1.000000e+0	5.125381e+1	1.951075e-2	1	1.951075e-2	1.000000e+0	11	1.064243e-2	1.000000e+0	1.000000e+0	9.396354e+1	1.064243e-2	1	192	1.000000e+0	5.208333e-3	unnamed	TMEM170B
+MSigDB Immunologic Signatures	GSE7460_TCONV_VS_TREG_THYMUS_UP	Genes up-regulated in comparison of TconvThy versus TregThy (see Fig. 1 in the paper for details).	9	1.975194e-2	1.000000e+0	1.000000e+0	5.062794e+1	1.975194e-2	1	1.975194e-2	1.000000e+0	6	1.042071e-2	1.000000e+0	1.000000e+0	9.596277e+1	1.042071e-2	1	188	1.000000e+0	5.319149e-3	unnamed	TMEM170B
+MSigDB Immunologic Signatures	GSE17974_IL4_AND_ANTI_IL12_VS_UNTREATED_2H_ACT_CD4_TCELL_DN	Genes down-regulated in comparison of CD4 [GeneID=920] T cells treated with IL4 [GeneID=3565] and anti-IL12 at 2 h versus the untreated cells at 2 h.	10	1.975764e-2	1.000000e+0	1.000000e+0	5.061334e+1	1.975764e-2	1	1.975764e-2	1.000000e+0	1	8.868688e-3	1.000000e+0	1.000000e+0	1.127562e+2	8.868688e-3	1	160	1.000000e+0	6.250000e-3	unnamed	TMEM170B
+MSigDB Immunologic Signatures	GSE7852_TREG_VS_TCONV_THYMUS_DN	Genes down-regulated in comparison of thymus regulatory T cells versus thymus conventional T cells.	11	2.005091e-2	1.000000e+0	1.000000e+0	4.987304e+1	2.005091e-2	1	2.005091e-2	1.000000e+0	6	1.042071e-2	1.000000e+0	1.000000e+0	9.596277e+1	1.042071e-2	1	188	1.000000e+0	5.319149e-3	unnamed	TMEM170B
+MSigDB Immunologic Signatures	GSE14350_IL2RB_KO_VS_WT_TEFF_DN	Genes down-regulated in comparison of effector T cells from IL2RB [GeneID=3560] defficient mice versus effector T cells from wild type animals.	12	2.033635e-2	1.000000e+0	1.000000e+0	4.917303e+1	2.033635e-2	1	2.033635e-2	1.000000e+0	16	1.080871e-2	1.000000e+0	1.000000e+0	9.251795e+1	1.080871e-2	1	195	1.000000e+0	5.128205e-3	unnamed	TMEM170B
+MSigDB Immunologic Signatures	GSE11057_CD4_CENT_MEM_VS_PBMC_DN	Genes down-regulated in comparison of central memory T cells versus peripheral blood mononuclear cells (PBMC).	13	2.041412e-2	1.000000e+0	1.000000e+0	4.898571e+1	2.041412e-2	1	2.041412e-2	1.000000e+0	5	1.030985e-2	1.000000e+0	1.000000e+0	9.699462e+1	1.030985e-2	1	186	1.000000e+0	5.376344e-3	unnamed	TMEM170B
+MSigDB Immunologic Signatures	GSE11057_CD4_EFF_MEM_VS_PBMC_DN	Genes down-regulated in comarison of effector memory T cells versus peripheral blood mononuclear cells (PBMC).	14	2.067909e-2	1.000000e+0	1.000000e+0	4.835802e+1	2.067909e-2	1	2.067909e-2	1.000000e+0	6	1.042071e-2	1.000000e+0	1.000000e+0	9.596277e+1	1.042071e-2	1	188	1.000000e+0	5.319149e-3	unnamed	TMEM170B
+MSigDB Immunologic Signatures	GSE7852_TREG_VS_TCONV_FAT_UP	Genes up-regulated in comparison of fat tissue regulatory T cells versus fat tissue conventional T cells.	15	2.177745e-2	1.000000e+0	1.000000e+0	4.591906e+1	2.177745e-2	1	2.177745e-2	1.000000e+0	18	1.108586e-2	1.000000e+0	1.000000e+0	9.020500e+1	1.108586e-2	1	200	1.000000e+0	5.000000e-3	unnamed	TMEM170B
+MSigDB Immunologic Signatures	GSE11057_PBMC_VS_MEM_CD4_TCELL_UP	Genes up-regulated in comparison of peripheral mononuclear blood cells (PBMC) versus memory T cells.	16	2.230354e-2	1.000000e+0	1.000000e+0	4.483593e+1	2.230354e-2	1	2.230354e-2	1.000000e+0	6	1.042071e-2	1.000000e+0	1.000000e+0	9.596277e+1	1.042071e-2	1	188	1.000000e+0	5.319149e-3	unnamed	TMEM170B
+MSigDB Immunologic Signatures	GSE11057_NAIVE_VS_MEMORY_CD4_TCELL_UP	Genes up-regulated in comparison of naive T cells versus memory T cells.	17	2.231709e-2	1.000000e+0	1.000000e+0	4.480870e+1	2.231709e-2	1	2.231709e-2	1.000000e+0	3	9.533840e-3	1.000000e+0	1.000000e+0	1.048895e+2	9.533840e-3	1	172	1.000000e+0	5.813953e-3	unnamed	TMEM170B
+MSigDB Immunologic Signatures	GSE9037_CTRL_VS_LPS_4H_STIM_IRAK4_KO_BMDM_DN	Genes down-regulated in comparison of untreated macrophages from IRAK4 [GeneID=51135] deficient mice  at 4 h versus those treated with LPS (TLR4 agonist) at 4 h.	18	2.249219e-2	1.000000e+0	1.000000e+0	4.445987e+1	2.249219e-2	1	2.249219e-2	1.000000e+0	13	1.075328e-2	1.000000e+0	1.000000e+0	9.299485e+1	1.075328e-2	1	194	1.000000e+0	5.154639e-3	unnamed	TMEM170B
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

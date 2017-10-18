@@ -1,0 +1,78 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Molecular Function	GO:0004869	cysteine-type endopeptidase inhibitor activity	1	3.996802e-3	1.000000e+0	1.000000e+0	2.502001e+2	3.996802e-3	1	3.996802e-3	1.000000e+0	1	2.716036e-3	1.000000e+0	1.000000e+0	3.681837e+2	2.716036e-3	1	49	1.000000e+0	2.040816e-2	unnamed	CARD16
+GO Molecular Function	GO:0004866	endopeptidase inhibitor activity	2	1.160979e-2	1.000000e+0	1.000000e+0	8.613419e+1	1.160979e-2	1	1.160979e-2	1.000000e+0	2	8.924117e-3	1.000000e+0	1.000000e+0	1.120559e+2	8.924117e-3	1	161	1.000000e+0	6.211180e-3	unnamed	CARD16
+GO Molecular Function	GO:0061135	endopeptidase regulator activity	3	1.196702e-2	1.000000e+0	1.000000e+0	8.356297e+1	1.196702e-2	1	1.196702e-2	1.000000e+0	3	9.201264e-3	1.000000e+0	1.000000e+0	1.086807e+2	9.201264e-3	1	166	1.000000e+0	6.024096e-3	unnamed	CARD16
+GO Molecular Function	GO:0030414	peptidase inhibitor activity	4	1.229453e-2	1.000000e+0	1.000000e+0	8.133700e+1	1.229453e-2	1	1.229453e-2	1.000000e+0	4	9.256693e-3	1.000000e+0	1.000000e+0	1.080299e+2	9.256693e-3	1	167	1.000000e+0	5.988024e-3	unnamed	CARD16
+GO Molecular Function	GO:0061134	peptidase regulator activity	5	1.496911e-2	1.000000e+0	1.000000e+0	6.680423e+1	1.496911e-2	1	1.496911e-2	1.000000e+0	5	1.114129e-2	1.000000e+0	1.000000e+0	8.975622e+1	1.114129e-2	1	201	1.000000e+0	4.975124e-3	unnamed	CARD16
+GO Molecular Function	GO:0004857	enzyme inhibitor activity	6	2.703958e-2	1.000000e+0	1.000000e+0	3.698282e+1	2.703958e-2	1	2.703958e-2	1.000000e+0	6	1.790366e-2	1.000000e+0	1.000000e+0	5.585449e+1	1.790366e-2	1	323	1.000000e+0	3.095975e-3	unnamed	CARD16
+GO Molecular Function	GO:0030234	enzyme regulator activity	7	9.724145e-2	1.000000e+0	1.000000e+0	1.028368e+1	9.724145e-2	1	9.724145e-2	1.000000e+0	7	5.481958e-2	1.000000e+0	1.000000e+0	1.824166e+1	5.481958e-2	1	989	1.000000e+0	1.011122e-3	unnamed	CARD16
+GO Biological Process	GO:0010466	negative regulation of peptidase activity	1	1.661319e-2	1.000000e+0	1.000000e+0	6.019315e+1	1.661319e-2	1	1.661319e-2	1.000000e+0	1	1.147387e-2	1.000000e+0	1.000000e+0	8.715459e+1	1.147387e-2	1	207	1.000000e+0	4.830918e-3	unnamed	CARD16
+GO Biological Process	GO:0051346	negative regulation of hydrolase activity	2	2.865817e-2	1.000000e+0	1.000000e+0	3.489407e+1	2.865817e-2	1	2.865817e-2	1.000000e+0	2	1.773738e-2	1.000000e+0	1.000000e+0	5.637812e+1	1.773738e-2	1	320	1.000000e+0	3.125000e-3	unnamed	CARD16
+GO Biological Process	GO:0052547	regulation of peptidase activity	3	2.932475e-2	1.000000e+0	1.000000e+0	3.410088e+1	2.932475e-2	1	2.932475e-2	1.000000e+0	3	1.906768e-2	1.000000e+0	1.000000e+0	5.244477e+1	1.906768e-2	1	344	1.000000e+0	2.906977e-3	unnamed	CARD16
+GO Biological Process	GO:0043086	negative regulation of catalytic activity	4	5.840041e-2	1.000000e+0	1.000000e+0	1.712317e+1	5.840041e-2	1	5.840041e-2	1.000000e+0	4	3.530846e-2	1.000000e+0	1.000000e+0	2.832182e+1	3.530846e-2	1	637	1.000000e+0	1.569859e-3	unnamed	CARD16
+GO Biological Process	GO:0044092	negative regulation of molecular function	5	7.795078e-2	1.000000e+0	1.000000e+0	1.282861e+1	7.795078e-2	1	7.795078e-2	1.000000e+0	5	4.417715e-2	1.000000e+0	1.000000e+0	2.263614e+1	4.417715e-2	1	797	1.000000e+0	1.254705e-3	unnamed	CARD16
+GO Biological Process	GO:0051336	regulation of hydrolase activity	6	1.030572e-1	1.000000e+0	1.000000e+0	9.703349e+0	1.030572e-1	1	1.030572e-1	1.000000e+0	6	5.520758e-2	1.000000e+0	1.000000e+0	1.811345e+1	5.520758e-2	1	996	1.000000e+0	1.004016e-3	unnamed	CARD16
+GO Biological Process	GO:0042981	regulation of apoptotic process	7	1.200175e-1	1.000000e+0	1.000000e+0	8.332116e+0	1.200175e-1	1	1.200175e-1	1.000000e+0	7	6.424256e-2	1.000000e+0	1.000000e+0	1.556601e+1	6.424256e-2	1	1159	1.000000e+0	8.628128e-4	unnamed	CARD16
+GO Biological Process	GO:0043067	regulation of programmed cell death	8	1.213630e-1	1.000000e+0	1.000000e+0	8.239741e+0	1.213630e-1	1	1.213630e-1	1.000000e+0	8	6.490771e-2	1.000000e+0	1.000000e+0	1.540649e+1	6.490771e-2	1	1171	1.000000e+0	8.539710e-4	unnamed	CARD16
+GO Biological Process	GO:0010941	regulation of cell death	9	1.261875e-1	1.000000e+0	1.000000e+0	7.924714e+0	1.261875e-1	1	1.261875e-1	1.000000e+0	9	6.706945e-2	1.000000e+0	1.000000e+0	1.490992e+1	6.706945e-2	1	1210	1.000000e+0	8.264463e-4	unnamed	CARD16
+GO Biological Process	GO:0050790	regulation of catalytic activity	10	1.756788e-1	1.000000e+0	1.000000e+0	5.692208e+0	1.756788e-1	1	1.756788e-1	1.000000e+0	10	9.616984e-2	1.000000e+0	1.000000e+0	1.039827e+1	9.616984e-2	1	1735	1.000000e+0	5.763689e-4	unnamed	CARD16
+GO Biological Process	GO:0065009	regulation of molecular function	11	2.156945e-1	1.000000e+0	1.000000e+0	4.636187e+0	2.156945e-1	1	2.156945e-1	1.000000e+0	11	1.166787e-1	1.000000e+0	1.000000e+0	8.570546e+0	1.166787e-1	1	2105	1.000000e+0	4.750594e-4	unnamed	CARD16
+GO Biological Process	GO:0019222	regulation of metabolic process	12	4.728179e-1	1.000000e+0	1.000000e+0	2.114979e+0	4.728179e-1	1	4.728179e-1	1.000000e+0	12	3.055263e-1	1.000000e+0	1.000000e+0	3.273041e+0	3.055263e-1	1	5512	1.000000e+0	1.814224e-4	unnamed	CARD16
+GO Biological Process	GO:0050794	regulation of cellular process	13	6.759845e-1	1.000000e+0	1.000000e+0	1.479324e+0	6.759845e-1	1	6.759845e-1	1.000000e+0	13	4.907710e-1	1.000000e+0	1.000000e+0	2.037610e+0	4.907710e-1	1	8854	1.000000e+0	1.129433e-4	unnamed	CARD16
+GO Biological Process	GO:0050789	regulation of biological process	14	6.921477e-1	1.000000e+0	1.000000e+0	1.444778e+0	6.921477e-1	1	6.921477e-1	1.000000e+0	14	5.170999e-1	1.000000e+0	1.000000e+0	1.933862e+0	5.170999e-1	1	9329	1.000000e+0	1.071926e-4	unnamed	CARD16
+GO Biological Process	GO:0065007	biological regulation	15	7.151977e-1	1.000000e+0	1.000000e+0	1.398215e+0	7.151977e-1	1	7.151977e-1	1.000000e+0	15	5.461449e-1	1.000000e+0	1.000000e+0	1.831016e+0	5.461449e-1	1	9853	1.000000e+0	1.014919e-4	unnamed	CARD16
+GO Cellular Component	GO:0005622	intracellular	1	8.064789e-1	1.000000e+0	1.000000e+0	1.239958e+0	8.064789e-1	1	8.064789e-1	1.000000e+0	1	7.066127e-1	1.000000e+0	1.000000e+0	1.415202e+0	7.066127e-1	1	12748	1.000000e+0	7.844368e-5	unnamed	CARD16
+GO Cellular Component	GO:0044464	cell part	2	8.908971e-1	1.000000e+0	1.000000e+0	1.122464e+0	8.908971e-1	1	8.908971e-1	1.000000e+0	2	8.202982e-1	1.000000e+0	1.000000e+0	1.219069e+0	8.202982e-1	1	14799	1.000000e+0	6.757213e-5	unnamed	CARD16
+GO Cellular Component	GO:0005623	cell	3	8.910977e-1	1.000000e+0	1.000000e+0	1.122211e+0	8.910977e-1	1	8.910977e-1	1.000000e+0	3	8.203536e-1	1.000000e+0	1.000000e+0	1.218986e+0	8.203536e-1	1	14800	1.000000e+0	6.756757e-5	unnamed	CARD16
+Disease Ontology	DOID:12858	Huntington's disease	1	4.693899e-3	1.000000e+0	1.000000e+0	2.130425e+2	4.693899e-3	1	4.693899e-3	1.000000e+0	1	2.494318e-3	1.000000e+0	1.000000e+0	4.009111e+2	2.494318e-3	1	45	1.000000e+0	2.222222e-2	unnamed	CARD16
+Disease Ontology	DOID:1289	neurodegenerative disease	2	9.274080e-2	1.000000e+0	1.000000e+0	1.078274e+1	9.274080e-2	1	9.274080e-2	1.000000e+0	2	5.121667e-2	1.000000e+0	1.000000e+0	1.952489e+1	5.121667e-2	1	924	1.000000e+0	1.082251e-3	unnamed	CARD16
+Disease Ontology	DOID:331	central nervous system disease	3	2.247960e-1	1.000000e+0	1.000000e+0	4.448477e+0	2.247960e-1	1	2.247960e-1	1.000000e+0	3	1.169004e-1	1.000000e+0	1.000000e+0	8.554291e+0	1.169004e-1	1	2109	1.000000e+0	4.741584e-4	unnamed	CARD16
+Disease Ontology	DOID:863	nervous system disease	4	2.662634e-1	1.000000e+0	1.000000e+0	3.755680e+0	2.662634e-1	1	2.662634e-1	1.000000e+0	4	1.428413e-1	1.000000e+0	1.000000e+0	7.000776e+0	1.428413e-1	1	2577	1.000000e+0	3.880481e-4	unnamed	CARD16
+Disease Ontology	DOID:7	disease of anatomical entity	5	5.144599e-1	1.000000e+0	1.000000e+0	1.943786e+0	5.144599e-1	1	5.144599e-1	1.000000e+0	5	3.268666e-1	1.000000e+0	1.000000e+0	3.059352e+0	3.268666e-1	1	5897	1.000000e+0	1.695778e-4	unnamed	CARD16
+Disease Ontology	DOID:4	disease	6	6.581397e-1	1.000000e+0	1.000000e+0	1.519434e+0	6.581397e-1	1	6.581397e-1	1.000000e+0	6	4.371155e-1	1.000000e+0	1.000000e+0	2.287725e+0	4.371155e-1	1	7886	1.000000e+0	1.268070e-4	unnamed	CARD16
+MSigDB Perturbation	ROZANOV_MMP14_TARGETS_DN	Genes down-regulated in HT1080 cells (fibrosarcoma) over-expressing MMP14 [GeneID=4323] compared to those with knockdown of the gene by RNAi.	1	6.333613e-3	1.000000e+0	1.000000e+0	1.578878e+2	6.333613e-3	1	6.333613e-3	1.000000e+0	1	1.940025e-3	1.000000e+0	1.000000e+0	5.154571e+2	1.940025e-3	1	35	1.000000e+0	2.857143e-2	unnamed	CARD16
+MSigDB Perturbation	SILIGAN_BOUND_BY_EWS_FLT1_FUSION	Genes bound by EWSR1-FLT1 [GeneID=2130;2321] fusion but whose expression did not change in STA-ET-7.2 cells (Ewing's sarcoma) after knockdown of EWSR1-FLT1 by RNAi.	2	1.097399e-2	1.000000e+0	1.000000e+0	9.112458e+1	1.097399e-2	1	1.097399e-2	1.000000e+0	2	2.549748e-3	1.000000e+0	1.000000e+0	3.921957e+2	2.549748e-3	1	46	1.000000e+0	2.173913e-2	unnamed	CARD16
+MSigDB Perturbation	KRIEG_KDM3A_TARGETS_NOT_HYPOXIA	Genes not induced under hypoxia, but dependent on KDM3A [GeneID=55818] for hypoxic expression in RCC4 cells (renal carcinoma) expressing VHL [GeneID=7428].	3	1.630707e-2	1.000000e+0	1.000000e+0	6.132311e+1	1.630707e-2	1	1.630707e-2	1.000000e+0	3	1.036528e-2	1.000000e+0	1.000000e+0	9.647594e+1	1.036528e-2	1	187	1.000000e+0	5.347594e-3	unnamed	CARD16
+MSigDB Perturbation	GRADE_COLON_CANCER_UP	Up-regulated genes in colon carcinoma tumors compared to the matched normal mucosa samples.	4	5.482550e-2	1.000000e+0	1.000000e+0	1.823969e+1	5.482550e-2	1	5.482550e-2	1.000000e+0	5	4.766920e-2	1.000000e+0	1.000000e+0	2.097791e+1	4.766920e-2	1	860	1.000000e+0	1.162791e-3	unnamed	CARD16
+MSigDB Perturbation	RIGGI_EWING_SARCOMA_PROGENITOR_UP	Genes up-regulated in mesenchymal stem cells (MSC) engineered to express EWS-FLI1 [GeneID=2130;2321] fusion protein.	5	7.155100e-2	1.000000e+0	1.000000e+0	1.397605e+1	7.155100e-2	1	7.155100e-2	1.000000e+0	4	2.355745e-2	1.000000e+0	1.000000e+0	4.244941e+1	2.355745e-2	1	425	1.000000e+0	2.352941e-3	unnamed	CARD16
+MSigDB Perturbation	ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY	Genes transiently induced only by the first pulse of EGF [GeneID =1950] in 184A1 cells (mammary epithelium).	6	1.656740e-1	1.000000e+0	1.000000e+0	6.035952e+0	1.656740e-1	1	1.656740e-1	1.000000e+0	6	8.940746e-2	1.000000e+0	1.000000e+0	1.118475e+1	8.940746e-2	1	1613	1.000000e+0	6.199628e-4	unnamed	CARD16
+MSigDB Predicted Promoter Motifs	V$ETF_Q6	Motif GVGGMGG (no known TF)	1	1.113405e-2	1.000000e+0	1.000000e+0	8.981458e+1	1.113405e-2	1	1.113405e-2	1.000000e+0	1	6.152652e-3	1.000000e+0	1.000000e+0	1.625315e+2	6.152652e-3	1	111	1.000000e+0	9.009009e-3	unnamed	CARD16
+MSigDB Predicted Promoter Motifs	V$E2F_Q2	Motif GGCGSG matches E2F&lt;br&gt; TFDP1: transcription factor Dp-1	2	1.628340e-2	1.000000e+0	1.000000e+0	6.141224e+1	1.628340e-2	1	1.628340e-2	1.000000e+0	2	9.256693e-3	1.000000e+0	1.000000e+0	1.080299e+2	9.256693e-3	1	167	1.000000e+0	5.988024e-3	unnamed	CARD16
+MSigDB Predicted Promoter Motifs	V$PEA3_Q6	Motif ACWTCCK matches ETV4: ets variant gene 4 (E1A enhancer binding protein, E1AF)	3	1.858084e-2	1.000000e+0	1.000000e+0	5.381887e+1	1.858084e-2	1	1.858084e-2	1.000000e+0	4	1.374647e-2	1.000000e+0	1.000000e+0	7.274597e+1	1.374647e-2	1	248	1.000000e+0	4.032258e-3	unnamed	CARD16
+MSigDB Predicted Promoter Motifs	V$MYB_Q6	Motif NNNAACTGNC matches MYB: v-myb myeloblastosis viral oncogene homolog (avian)	4	2.961067e-2	1.000000e+0	1.000000e+0	3.377161e+1	2.961067e-2	1	2.961067e-2	1.000000e+0	3	1.324760e-2	1.000000e+0	1.000000e+0	7.548536e+1	1.324760e-2	1	239	1.000000e+0	4.184100e-3	unnamed	CARD16
+MSigDB Predicted Promoter Motifs	V$MAF_Q6	Motif TRGRRGGAAGTKKSST matches MAF: v-maf musculoaponeurotic fibrosarcoma oncogene homolog (avian)	5	3.604380e-2	1.000000e+0	1.000000e+0	2.774403e+1	3.604380e-2	1	3.604380e-2	1.000000e+0	5	1.391275e-2	1.000000e+0	1.000000e+0	7.187649e+1	1.391275e-2	1	251	1.000000e+0	3.984064e-3	unnamed	CARD16
+InterPro	IPR001315	CARD domain	1	2.494696e-3	1.000000e+0	1.000000e+0	4.008505e+2	2.494696e-3	1	2.494696e-3	1.000000e+0	1	1.662879e-3	1.000000e+0	1.000000e+0	6.013667e+2	1.662879e-3	1	30	1.000000e+0	3.333333e-2	unnamed	CARD16
+InterPro	IPR011029	Death-like domain	2	8.170718e-3	1.000000e+0	1.000000e+0	1.223883e+2	8.170718e-3	1	8.170718e-3	1.000000e+0	2	5.265783e-3	1.000000e+0	1.000000e+0	1.899053e+2	5.265783e-3	1	95	1.000000e+0	1.052632e-2	unnamed	CARD16
+TreeFam	TF330675	CARD16, CARD17	1	3.445123e-5	2.799507e-1	2.799507e-1	2.902654e+4	3.445123e-5	1	3.445123e-5	1.000000e+0	1	1.108586e-4	9.008370e-1	9.008370e-1	9.020500e+3	1.108586e-4	1	2	1.000000e+0	5.000000e-1	unnamed	CARD16
+Ensembl Genes	3891	CARD16	1	2.106768e-5	3.800820e-1	3.800820e-1	4.746606e+4	2.106768e-5	1	2.106768e-5	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	CARD16
+MSigDB Oncogenic Signatures	MYC_UP.V1_DN	Genes down-regulated in primary epithelial breast cancer cell culture over-expressing MYC [Gene ID=4609] gene.	1	1.310346e-2	1.000000e+0	1.000000e+0	7.631574e+1	1.310346e-2	1	1.310346e-2	1.000000e+0	1	8.480683e-3	1.000000e+0	1.000000e+0	1.179150e+2	8.480683e-3	1	153	1.000000e+0	6.535948e-3	unnamed	CARD16
+MSigDB Oncogenic Signatures	SRC_UP.V1_DN	Genes down-regulated in primary epithelial breast cancer cell culture over-expressing SRC [Gene ID=6714] gene.	2	1.748302e-2	1.000000e+0	1.000000e+0	5.719836e+1	1.748302e-2	1	1.748302e-2	1.000000e+0	2	8.536112e-3	1.000000e+0	7.981265e-1	1.171494e+2	8.536112e-3	1	154	1.000000e+0	6.493506e-3	unnamed	CARD16
+MSigDB Immunologic Signatures	GSE18791_UNSTIM_VS_NEWCATSLE_VIRUS_DC_10H_DN	Genes down-regulated in comparison of control conventional dendritic cells (cDC) at 10 h versus cDCs infected with Newcastle disease virus (NDV) at 10 h.	1	1.370657e-2	1.000000e+0	1.000000e+0	7.295771e+1	1.370657e-2	1	1.370657e-2	1.000000e+0	1	9.977274e-3	1.000000e+0	1.000000e+0	1.002278e+2	9.977274e-3	1	180	1.000000e+0	5.555556e-3	unnamed	CARD16
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

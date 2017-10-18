@@ -1,0 +1,71 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Molecular Function	GO:0005509	calcium ion binding	1	8.363577e-2	1.000000e+0	1.000000e+0	1.195661e+1	8.363577e-2	1	8.363577e-2	1.000000e+0	1	3.769192e-2	1.000000e+0	1.000000e+0	2.653088e+1	3.769192e-2	1	680	1.000000e+0	1.470588e-3	unnamed	CDH26
+GO Molecular Function	GO:0046872	metal ion binding	2	3.527991e-1	1.000000e+0	1.000000e+0	2.834474e+0	3.527991e-1	1	3.527991e-1	1.000000e+0	2	2.197217e-1	1.000000e+0	1.000000e+0	4.551211e+0	2.197217e-1	1	3964	1.000000e+0	2.522704e-4	unnamed	CDH26
+GO Molecular Function	GO:0043169	cation binding	3	3.606111e-1	1.000000e+0	1.000000e+0	2.773071e+0	3.606111e-1	1	3.606111e-1	1.000000e+0	3	2.233801e-1	1.000000e+0	1.000000e+0	4.476675e+0	2.233801e-1	1	4030	1.000000e+0	2.481390e-4	unnamed	CDH26
+GO Molecular Function	GO:0043167	ion binding	4	5.095070e-1	1.000000e+0	1.000000e+0	1.962682e+0	5.095070e-1	1	5.095070e-1	1.000000e+0	4	3.344604e-1	1.000000e+0	1.000000e+0	2.989891e+0	3.344604e-1	1	6034	1.000000e+0	1.657275e-4	unnamed	CDH26
+GO Molecular Function	GO:0005488	binding	5	8.171102e-1	1.000000e+0	1.000000e+0	1.223825e+0	8.171102e-1	1	8.171102e-1	1.000000e+0	5	6.747963e-1	1.000000e+0	1.000000e+0	1.481929e+0	6.747963e-1	1	12174	1.000000e+0	8.214227e-5	unnamed	CDH26
+GO Biological Process	GO:0007156	homophilic cell adhesion	1	2.467914e-2	1.000000e+0	1.000000e+0	4.052006e+1	2.467914e-2	1	2.467914e-2	1.000000e+0	1	7.760102e-3	1.000000e+0	1.000000e+0	1.288643e+2	7.760102e-3	1	140	1.000000e+0	7.142857e-3	unnamed	CDH26
+GO Biological Process	GO:0016337	cell-cell adhesion	2	5.481486e-2	1.000000e+0	1.000000e+0	1.824323e+1	5.481486e-2	1	5.481486e-2	1.000000e+0	2	2.012084e-2	1.000000e+0	1.000000e+0	4.969972e+1	2.012084e-2	1	363	1.000000e+0	2.754821e-3	unnamed	CDH26
+GO Biological Process	GO:0007155	cell adhesion	3	1.119169e-1	1.000000e+0	1.000000e+0	8.935198e+0	1.119169e-1	1	1.119169e-1	1.000000e+0	3	4.489773e-2	1.000000e+0	1.000000e+0	2.227284e+1	4.489773e-2	1	810	1.000000e+0	1.234568e-3	unnamed	CDH26
+GO Biological Process	GO:0022610	biological adhesion	4	1.120241e-1	1.000000e+0	1.000000e+0	8.926651e+0	1.120241e-1	1	1.120241e-1	1.000000e+0	4	4.506402e-2	1.000000e+0	1.000000e+0	2.219065e+1	4.506402e-2	1	813	1.000000e+0	1.230012e-3	unnamed	CDH26
+GO Biological Process	GO:0044763	single-organism cellular process	5	7.497126e-1	1.000000e+0	1.000000e+0	1.333844e+0	7.497126e-1	1	7.497126e-1	1.000000e+0	5	5.605011e-1	1.000000e+0	1.000000e+0	1.784118e+0	5.605011e-1	1	10112	1.000000e+0	9.889241e-5	unnamed	CDH26
+GO Biological Process	GO:0044699	single-organism process	6	7.935590e-1	1.000000e+0	1.000000e+0	1.260146e+0	7.935590e-1	1	7.935590e-1	1.000000e+0	6	6.164847e-1	1.000000e+0	1.000000e+0	1.622100e+0	6.164847e-1	1	11122	1.000000e+0	8.991189e-5	unnamed	CDH26
+GO Biological Process	GO:0009987	cellular process	7	8.656787e-1	1.000000e+0	1.000000e+0	1.155163e+0	8.656787e-1	1	8.656787e-1	1.000000e+0	7	7.487944e-1	1.000000e+0	1.000000e+0	1.335480e+0	7.487944e-1	1	13509	1.000000e+0	7.402472e-5	unnamed	CDH26
+GO Cellular Component	GO:0005886	plasma membrane	1	4.126577e-1	1.000000e+0	1.000000e+0	2.423316e+0	4.126577e-1	1	4.126577e-1	1.000000e+0	1	2.426695e-1	1.000000e+0	1.000000e+0	4.120831e+0	2.426695e-1	1	4378	1.000000e+0	2.284148e-4	unnamed	CDH26
+GO Cellular Component	GO:0071944	cell periphery	2	4.194602e-1	1.000000e+0	1.000000e+0	2.384017e+0	4.194602e-1	1	4.194602e-1	1.000000e+0	2	2.481570e-1	1.000000e+0	1.000000e+0	4.029707e+0	2.481570e-1	1	4477	1.000000e+0	2.233639e-4	unnamed	CDH26
+GO Cellular Component	GO:0016021	integral to membrane	3	4.578656e-1	1.000000e+0	1.000000e+0	2.184047e+0	4.578656e-1	1	4.578656e-1	1.000000e+0	3	2.916135e-1	1.000000e+0	1.000000e+0	3.429196e+0	2.916135e-1	1	5261	1.000000e+0	1.900779e-4	unnamed	CDH26
+GO Cellular Component	GO:0031224	intrinsic to membrane	4	4.694206e-1	1.000000e+0	1.000000e+0	2.130286e+0	4.694206e-1	1	4.694206e-1	1.000000e+0	4	2.978771e-1	1.000000e+0	1.000000e+0	3.357090e+0	2.978771e-1	1	5374	1.000000e+0	1.860811e-4	unnamed	CDH26
+GO Cellular Component	GO:0044425	membrane part	5	5.293034e-1	1.000000e+0	1.000000e+0	1.889276e+0	5.293034e-1	1	5.293034e-1	1.000000e+0	5	3.432737e-1	1.000000e+0	1.000000e+0	2.913128e+0	3.432737e-1	1	6193	1.000000e+0	1.614726e-4	unnamed	CDH26
+GO Cellular Component	GO:0016020	membrane	6	6.308744e-1	1.000000e+0	1.000000e+0	1.585102e+0	6.308744e-1	1	6.308744e-1	1.000000e+0	6	4.353417e-1	1.000000e+0	1.000000e+0	2.297046e+0	4.353417e-1	1	7854	1.000000e+0	1.273237e-4	unnamed	CDH26
+GO Cellular Component	GO:0044464	cell part	7	8.908971e-1	1.000000e+0	1.000000e+0	1.122464e+0	8.908971e-1	1	8.908971e-1	1.000000e+0	7	8.202982e-1	1.000000e+0	1.000000e+0	1.219069e+0	8.202982e-1	1	14799	1.000000e+0	6.757213e-5	unnamed	CDH26
+GO Cellular Component	GO:0005623	cell	8	8.910977e-1	1.000000e+0	1.000000e+0	1.122211e+0	8.910977e-1	1	8.910977e-1	1.000000e+0	8	8.203536e-1	1.000000e+0	1.000000e+0	1.218986e+0	8.203536e-1	1	14800	1.000000e+0	6.756757e-5	unnamed	CDH26
+MSigDB Perturbation	CERIBELLI_GENES_INACTIVE_AND_BOUND_BY_NFY	Transcriptionally inactive genes which where bound by NF-Y transcription factor.	1	2.879869e-3	1.000000e+0	1.000000e+0	3.472380e+2	2.879869e-3	1	2.879869e-3	1.000000e+0	2	1.662879e-3	1.000000e+0	1.000000e+0	6.013667e+2	1.662879e-3	1	30	1.000000e+0	3.333333e-2	unnamed	CDH26
+MSigDB Perturbation	NIKOLSKY_BREAST_CANCER_20Q12_Q13_AMPLICON	Genes within amplicon 20q12-q13 identified in a copy number alterations study of 191 breast tumor samples.	2	6.023523e-3	1.000000e+0	1.000000e+0	1.660158e+2	6.023523e-3	1	6.023523e-3	1.000000e+0	5	7.538385e-3	1.000000e+0	1.000000e+0	1.326544e+2	7.538385e-3	1	136	1.000000e+0	7.352941e-3	unnamed	CDH26
+MSigDB Perturbation	WOTTON_RUNX_TARGETS_DN	Common target genes down-regulated by all three Runx family members (RUNX1, RUNX2, and RUNX3 [GeneID=861;860;864]) in MEF cells (embryonic fibroblasts).	3	6.692171e-3	1.000000e+0	1.000000e+0	1.494283e+2	6.692171e-3	1	6.692171e-3	1.000000e+0	1	1.607450e-3	1.000000e+0	1.000000e+0	6.221034e+2	1.607450e-3	1	29	1.000000e+0	3.448276e-2	unnamed	CDH26
+MSigDB Perturbation	RICKMAN_HEAD_AND_NECK_CANCER_E	Cluster e: genes identifying an intrinsic group in head and neck squamous cell carcinoma (HNSCC).	4	8.332071e-3	1.000000e+0	1.000000e+0	1.200182e+2	8.332071e-3	1	8.332071e-3	1.000000e+0	4	4.545203e-3	1.000000e+0	1.000000e+0	2.200122e+2	4.545203e-3	1	82	1.000000e+0	1.219512e-2	unnamed	CDH26
+MSigDB Perturbation	NOUZOVA_METHYLATED_IN_APL	Genes whose CpG islands are hyper-methylated in the NB4 cell line (APL, acute promyelocytic leukemia) compared to PBMC (normal peripheral peripheral blood mononuclear cells).	5	1.133914e-2	1.000000e+0	1.000000e+0	8.819015e+1	1.133914e-2	1	1.133914e-2	1.000000e+0	3	3.270329e-3	1.000000e+0	1.000000e+0	3.057797e+2	3.270329e-3	1	59	1.000000e+0	1.694915e-2	unnamed	CDH26
+MSigDB Perturbation	SENGUPTA_NASOPHARYNGEAL_CARCINOMA_DN	Genes down-regulated in nsopharyngeal carcinoma relative to the normal tissue.	6	2.358660e-2	1.000000e+0	1.000000e+0	4.239696e+1	2.358660e-2	1	2.358660e-2	1.000000e+0	6	1.507677e-2	1.000000e+0	1.000000e+0	6.632721e+1	1.507677e-2	1	272	1.000000e+0	3.676471e-3	unnamed	CDH26
+MSigDB Perturbation	CREIGHTON_ENDOCRINE_THERAPY_RESISTANCE_3	The 'group 3 set' of genes associated with acquired endocrine therapy resistance in breast tumors expressing ESR1 and ERBB2 [GeneID=2099;2064].	7	7.827498e-2	1.000000e+0	1.000000e+0	1.277547e+1	7.827498e-2	1	7.827498e-2	1.000000e+0	7	3.730392e-2	1.000000e+0	1.000000e+0	2.680684e+1	3.730392e-2	1	673	1.000000e+0	1.485884e-3	unnamed	CDH26
+MSigDB Perturbation	DODD_NASOPHARYNGEAL_CARCINOMA_UP	Genes up-regulated in nasopharyngeal carcinoma (NPC) compared to the normal tissue.	8	1.332338e-1	1.000000e+0	1.000000e+0	7.505605e+0	1.332338e-1	1	1.332338e-1	1.000000e+0	8	8.214622e-2	1.000000e+0	1.000000e+0	1.217341e+1	8.214622e-2	1	1482	1.000000e+0	6.747638e-4	unnamed	CDH26
+InterPro	IPR020894	Cadherin conserved site	1	1.806751e-2	1.000000e+0	1.000000e+0	5.534798e+1	1.806751e-2	1	1.806751e-2	1.000000e+0	1	5.986364e-3	1.000000e+0	1.000000e+0	1.670463e+2	5.986364e-3	1	108	1.000000e+0	9.259259e-3	unnamed	CDH26
+InterPro	IPR002126	Cadherin	2	1.905305e-2	1.000000e+0	1.000000e+0	5.248504e+1	1.905305e-2	1	1.905305e-2	1.000000e+0	2	6.318940e-3	1.000000e+0	1.000000e+0	1.582544e+2	6.318940e-3	1	114	1.000000e+0	8.771930e-3	unnamed	CDH26
+InterPro	IPR015919	Cadherin-like	3	1.916160e-2	1.000000e+0	1.000000e+0	5.218771e+1	1.916160e-2	1	1.916160e-2	1.000000e+0	3	6.485228e-3	1.000000e+0	1.000000e+0	1.541966e+2	6.485228e-3	1	117	1.000000e+0	8.547009e-3	unnamed	CDH26
+HGNC Gene Families	MCDH	MCDH	1	8.162457e-3	1.000000e+0	1.000000e+0	1.225121e+2	8.162457e-3	1	8.162457e-3	1.000000e+0	1	1.441162e-3	6.888754e-1	6.888754e-1	6.938846e+2	1.441162e-3	1	26	1.000000e+0	3.846154e-2	unnamed	CDH26
+Ensembl Genes	12433	CDH26	1	3.540739e-4	1.000000e+0	1.000000e+0	2.824269e+3	3.540739e-4	1	3.540739e-4	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	CDH26
+MSigDB Immunologic Signatures	GSE10239_KLRG1INT_VS_KLRG1HIGH_EFF_CD8_TCELL_UP	Genes up-regulated in comparison of effector CD8 T cells KRLG1 Int [GeneID=10219] vs those with KRLG1 Hi.	1	1.253498e-2	1.000000e+0	1.000000e+0	7.977674e+1	1.253498e-2	1	1.253498e-2	1.000000e+0	8	1.053157e-2	1.000000e+0	1.000000e+0	9.495263e+1	1.053157e-2	1	190	1.000000e+0	5.263158e-3	unnamed	CDH26
+MSigDB Immunologic Signatures	GSE13485_DAY1_VS_DAY7_YF17D_VACCINE_PBMC_UP	Genes up-regulated in comparison of unstimulated peripheral blood mononuclear cells (PBMC) 1 day after stimulation with YF17D vaccine versus PBMC 7 days after the stimulation.	2	1.522550e-2	1.000000e+0	1.000000e+0	6.567930e+1	1.522550e-2	1	1.522550e-2	1.000000e+0	3	8.092678e-3	1.000000e+0	1.000000e+0	1.235685e+2	8.092678e-3	1	146	1.000000e+0	6.849315e-3	unnamed	CDH26
+MSigDB Immunologic Signatures	GSE2706_R848_VS_LPS_8H_STIM_DC_UP	Genes up-regulated in comparison of dendritic cells (DC) stimulated with R848 at 8 h versus DCs stimulated with LPS (TLR4 agonist) for 8 h.	3	1.528020e-2	1.000000e+0	1.000000e+0	6.544416e+1	1.528020e-2	1	1.528020e-2	1.000000e+0	2	8.037248e-3	1.000000e+0	1.000000e+0	1.244207e+2	8.037248e-3	1	145	1.000000e+0	6.896552e-3	unnamed	CDH26
+MSigDB Immunologic Signatures	GSE13485_DAY1_VS_DAY3_YF17D_VACCINE_PBMC_UP	Genes up-regulated in comparison of unstimulated peripheral blood mononuclear cells (PBMC) 1 day after stimulation with YF17D vaccine versus PBMC 3 days after the stimulation.	4	1.636814e-2	1.000000e+0	1.000000e+0	6.109429e+1	1.636814e-2	1	1.636814e-2	1.000000e+0	1	7.870961e-3	1.000000e+0	1.000000e+0	1.270493e+2	7.870961e-3	1	142	1.000000e+0	7.042254e-3	unnamed	CDH26
+MSigDB Immunologic Signatures	GSE13485_CTRL_VS_DAY3_YF17D_VACCINE_PBMC_UP	Genes up-regulated in comparison of unstimulated peripheral blood mononuclear cells (PBMC) versus PBMC 3 days after stimulation with YF17D vaccine.	5	1.788357e-2	1.000000e+0	1.000000e+0	5.591723e+1	1.788357e-2	1	1.788357e-2	1.000000e+0	4	8.979547e-3	1.000000e+0	1.000000e+0	1.113642e+2	8.979547e-3	1	162	1.000000e+0	6.172840e-3	unnamed	CDH26
+MSigDB Immunologic Signatures	GSE2706_R848_VS_R848_AND_LPS_8H_STIM_DC_UP	Genes up-regulated in comparison of dendritic cells (DC) stimulated with R848 at 8 h versus DCs stimulated with LPS (TLR4 agonist) and R848 for 8 h.	6	2.047346e-2	1.000000e+0	1.000000e+0	4.884371e+1	2.047346e-2	1	2.047346e-2	1.000000e+0	5	9.478410e-3	1.000000e+0	1.000000e+0	1.055029e+2	9.478410e-3	1	171	1.000000e+0	5.847953e-3	unnamed	CDH26
+MSigDB Immunologic Signatures	GSE9037_WT_VS_IRAK4_KO_LPS_1H_STIM_BMDM_DN	Genes down-regulated in comparison of untreated wild type macrophages at 1 h versus those from IRAK4 [GeneID=51135] deficient mice treated with LPS (TLR4 agonist) at 1 h.	7	2.053574e-2	1.000000e+0	1.000000e+0	4.869559e+1	2.053574e-2	1	2.053574e-2	1.000000e+0	6	1.036528e-2	1.000000e+0	1.000000e+0	9.647594e+1	1.036528e-2	1	187	1.000000e+0	5.347594e-3	unnamed	CDH26
+MSigDB Immunologic Signatures	GSE27786_CD8_TCELL_VS_ERYTHROBLAST_DN	Genes down-regulated in comparison of CD8 T cells versus erythroblasts.	8	2.136865e-2	1.000000e+0	1.000000e+0	4.679753e+1	2.136865e-2	1	2.136865e-2	1.000000e+0	9	1.058700e-2	1.000000e+0	1.000000e+0	9.445550e+1	1.058700e-2	1	191	1.000000e+0	5.235602e-3	unnamed	CDH26
+MSigDB Immunologic Signatures	GSE7460_TREG_VS_TCONV_ACT_WITH_TGFB_UP	Genes up-regulated in comparsion of ActTregTGF versus ActCD4TGF (see Fig. 1 in the paper for details).	9	2.871805e-2	1.000000e+0	1.000000e+0	3.482130e+1	2.871805e-2	1	2.871805e-2	1.000000e+0	7	1.047614e-2	1.000000e+0	1.000000e+0	9.545503e+1	1.047614e-2	1	189	1.000000e+0	5.291005e-3	unnamed	CDH26
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

@@ -1,0 +1,52 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Molecular Function	GO:0005515	protein binding	1	6.181781e-1	1.000000e+0	1.000000e+0	1.617657e+0	6.181781e-1	1	6.181781e-1	1.000000e+0	1	4.432681e-1	1.000000e+0	1.000000e+0	2.255971e+0	4.432681e-1	1	7997	1.000000e+0	1.250469e-4	unnamed	COMMD2
+GO Molecular Function	GO:0005488	binding	2	8.171102e-1	1.000000e+0	1.000000e+0	1.223825e+0	8.171102e-1	1	8.171102e-1	1.000000e+0	2	6.747963e-1	1.000000e+0	1.000000e+0	1.481929e+0	6.747963e-1	1	12174	1.000000e+0	8.214227e-5	unnamed	COMMD2
+MSigDB Cancer Neighborhood	GCM_DDX11	Neighborhood of DDX11	1	1.483627e-3	6.335087e-1	6.335087e-1	6.740237e+2	1.483627e-3	1	1.483627e-3	1.000000e+0	1	2.328031e-3	9.940692e-1	9.940692e-1	4.295476e+2	2.328031e-3	1	42	1.000000e+0	2.380952e-2	unnamed	COMMD2
+MSigDB Perturbation	LIU_SOX4_TARGETS_UP	Genes up-regulated in LNCaP cells (prostate cancer) by overexpression of SOX4 [GeneID=6659] and down-regulated by its RNAi knockdown.	1	1.698269e-2	1.000000e+0	1.000000e+0	5.888350e+1	1.698269e-2	1	1.698269e-2	1.000000e+0	1	7.427526e-3	1.000000e+0	1.000000e+0	1.346343e+2	7.427526e-3	1	134	1.000000e+0	7.462687e-3	unnamed	COMMD2
+MSigDB Perturbation	MARTORIATI_MDM4_TARGETS_FETAL_LIVER_UP	Genes up-regulated in non-apoptotic tissues (fetal liver) after MDM4 [GeneID=4194] knockout.	2	2.320298e-2	1.000000e+0	1.000000e+0	4.309791e+1	2.320298e-2	1	2.320298e-2	1.000000e+0	2	1.202816e-2	1.000000e+0	1.000000e+0	8.313825e+1	1.202816e-2	1	217	1.000000e+0	4.608295e-3	unnamed	COMMD2
+MSigDB Perturbation	GRAESSMANN_RESPONSE_TO_MC_AND_DOXORUBICIN_DN	Genes down-regulated in ME-A cells (breast cancer, sensitive to apoptotic stimuli) exposed to doxorubicin [PubChem=31703] in the presence of medium concentrate (MC) from ME-C cells (breast cancer, resistant to apoptotic stimuli).	3	6.489857e-2	1.000000e+0	1.000000e+0	1.540866e+1	6.489857e-2	1	6.489857e-2	1.000000e+0	4	4.135026e-2	1.000000e+0	1.000000e+0	2.418365e+1	4.135026e-2	1	746	1.000000e+0	1.340483e-3	unnamed	COMMD2
+MSigDB Perturbation	RODRIGUES_THYROID_CARCINOMA_ANAPLASTIC_UP	Genes up-regulated in anaplastic thyroid carcinoma (ATC) compared to normal thyroid tissue.	4	7.606396e-2	1.000000e+0	1.000000e+0	1.314683e+1	7.606396e-2	1	7.606396e-2	1.000000e+0	3	3.924394e-2	1.000000e+0	1.000000e+0	2.548164e+1	3.924394e-2	1	708	1.000000e+0	1.412429e-3	unnamed	COMMD2
+MSigDB Perturbation	ACEVEDO_LIVER_CANCER_UP	Genes up-regulated in hepatocellular carcinoma (HCC) compared to normal liver samples.	5	7.903216e-2	1.000000e+0	1.000000e+0	1.265308e+1	7.903216e-2	1	7.903216e-2	1.000000e+0	5	5.221440e-2	1.000000e+0	1.000000e+0	1.915180e+1	5.221440e-2	1	942	1.000000e+0	1.061571e-3	unnamed	COMMD2
+MSigDB Perturbation	GRAESSMANN_APOPTOSIS_BY_DOXORUBICIN_DN	Genes down-regulated in ME-A cells (breast cancer) undergoing apoptosis in response to doxorubicin [PubChem=31703].	6	1.826173e-1	1.000000e+0	1.000000e+0	5.475932e+0	1.826173e-1	1	1.826173e-1	1.000000e+0	6	9.600355e-2	1.000000e+0	1.000000e+0	1.041628e+1	9.600355e-2	1	1732	1.000000e+0	5.773672e-4	unnamed	COMMD2
+MSigDB Predicted Promoter Motifs	CTTTGT_V$LEF1_Q2	Motif CTTTGT matches LEF1: lymphoid enhancer-binding factor 1	1	2.442153e-1	1.000000e+0	1.000000e+0	4.094747e+0	2.442153e-1	1	2.442153e-1	1.000000e+0	1	1.044288e-1	1.000000e+0	1.000000e+0	9.575902e+0	1.044288e-1	1	1884	1.000000e+0	5.307856e-4	unnamed	COMMD2
+MSigDB miRNA Motifs	TGGTGCT,MIR-29A,MIR-29B,MIR-29C	Targets of MicroRNA TGGTGCT,MIR-29A,MIR-29B,MIR-29C	1	6.013170e-2	1.000000e+0	1.000000e+0	1.663016e+1	6.013170e-2	1	6.013170e-2	1.000000e+0	1	2.782551e-2	1.000000e+0	1.000000e+0	3.593825e+1	2.782551e-2	1	502	1.000000e+0	1.992032e-3	unnamed	COMMD2
+InterPro	IPR017920	COMM domain	1	8.212070e-4	1.000000e+0	1.000000e+0	1.217720e+3	8.212070e-4	1	8.212070e-4	1.000000e+0	1	4.988637e-4	1.000000e+0	1.000000e+0	2.004556e+3	4.988637e-4	1	9	1.000000e+0	1.111111e-1	unnamed	COMMD2
+InterPro	IPR009886	HCaRG	2	8.213590e-4	1.000000e+0	1.000000e+0	1.217494e+3	8.213590e-4	1	8.213590e-4	1.000000e+0	2	5.542930e-4	1.000000e+0	1.000000e+0	1.804100e+3	5.542930e-4	1	10	1.000000e+0	1.000000e-1	unnamed	COMMD2
+TreeFam	TF323519	COMMD2	1	3.477241e-5	2.825606e-1	2.825606e-1	2.875843e+4	3.477241e-5	1	3.477241e-5	1.000000e+0	1	5.542930e-5	4.504185e-1	4.504185e-1	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	COMMD2
+Ensembl Genes	14014	COMMD2	1	3.477241e-5	6.273290e-1	6.273290e-1	2.875843e+4	3.477241e-5	1	3.477241e-5	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	COMMD2
+MSigDB Immunologic Signatures	GSE14000_UNSTIM_VS_4H_LPS_DC_TRANSLATED_RNA_UP	Genes up-regulated in comparison of polysome bound (translated) mRNA before and 4 h after LPS (TLR4 agonist) stimulation.	1	1.361816e-2	1.000000e+0	1.000000e+0	7.343134e+1	1.361816e-2	1	1.361816e-2	1.000000e+0	1	1.047614e-2	1.000000e+0	1.000000e+0	9.545503e+1	1.047614e-2	1	189	1.000000e+0	5.291005e-3	unnamed	COMMD2
+MSigDB Immunologic Signatures	GSE14000_4H_VS_16H_LPS_DC_DN	Genes down-regulated in comparison of dendritic cells (DC) at 4 h after LPS (TLR4 agonist) stimulation versus those at 16 h after the stimulation.	2	1.499530e-2	1.000000e+0	1.000000e+0	6.668756e+1	1.499530e-2	1	1.499530e-2	1.000000e+0	5	1.103043e-2	1.000000e+0	1.000000e+0	9.065829e+1	1.103043e-2	1	199	1.000000e+0	5.025126e-3	unnamed	COMMD2
+MSigDB Immunologic Signatures	GSE9650_EFFECTOR_VS_MEMORY_CD8_TCELL_UP	Genes up-regulated in comparison of effector CD8 T cells versus memory CD8 T cells.	3	1.500060e-2	1.000000e+0	1.000000e+0	6.666400e+1	1.500060e-2	1	1.500060e-2	1.000000e+0	8	1.114129e-2	1.000000e+0	1.000000e+0	8.975622e+1	1.114129e-2	1	201	1.000000e+0	4.975124e-3	unnamed	COMMD2
+MSigDB Immunologic Signatures	GSE17721_CTRL_VS_GARDIQUIMOD_1H_BMDM_UP	Genes up-regulated in comparison of control dendritic cells (DC) at 1 h versus those stimulated with Gardiquimod (TLR7 agonist) at 1 h.	4	1.505341e-2	1.000000e+0	1.000000e+0	6.643014e+1	1.505341e-2	1	1.505341e-2	1.000000e+0	3	1.091957e-2	1.000000e+0	1.000000e+0	9.157868e+1	1.091957e-2	1	197	1.000000e+0	5.076142e-3	unnamed	COMMD2
+MSigDB Immunologic Signatures	KAECH_DAY8_EFF_VS_MEMORY_CD8_TCELL_UP	Genes up-regulated in comparison of naive versus memory CD8 T cells (day 40+ following LCMV-Armstrong infection).	5	1.646202e-2	1.000000e+0	1.000000e+0	6.074588e+1	1.646202e-2	1	1.646202e-2	1.000000e+0	5	1.103043e-2	1.000000e+0	1.000000e+0	9.065829e+1	1.103043e-2	1	199	1.000000e+0	5.025126e-3	unnamed	COMMD2
+MSigDB Immunologic Signatures	GSE2826_XID_VS_BTK_KO_BCELL_UP	Genes up-regulated in comparison of primary splenic B cells from Xid mice versus those from BTK [GeneID=695] knockout mice.	6	1.720113e-2	1.000000e+0	1.000000e+0	5.813571e+1	1.720113e-2	1	1.720113e-2	1.000000e+0	4	1.097500e-2	1.000000e+0	1.000000e+0	9.111616e+1	1.097500e-2	1	198	1.000000e+0	5.050505e-3	unnamed	COMMD2
+MSigDB Immunologic Signatures	GSE14000_4H_VS_16H_LPS_DC_TRANSLATED_RNA_DN	Genes down-regulated in comparison of polysome bound (translated) mRNA in dendritic cells (DC) at 4 h after LPS (TLR4 agonist) stimulation versus those at 16 h after the stimulation.	7	1.752043e-2	1.000000e+0	1.000000e+0	5.707622e+1	1.752043e-2	1	1.752043e-2	1.000000e+0	5	1.103043e-2	1.000000e+0	1.000000e+0	9.065829e+1	1.103043e-2	1	199	1.000000e+0	5.025126e-3	unnamed	COMMD2
+MSigDB Immunologic Signatures	GSE2826_WT_VS_BTK_KO_BCELL_UP	Genes up-regulated in comparison of primary splenic B cells from wild type mice versus those from BTK [GeneID=695] knockout mice.	8	1.832401e-2	1.000000e+0	1.000000e+0	5.457322e+1	1.832401e-2	1	1.832401e-2	1.000000e+0	2	1.086414e-2	1.000000e+0	1.000000e+0	9.204592e+1	1.086414e-2	1	196	1.000000e+0	5.102041e-3	unnamed	COMMD2
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

@@ -1,0 +1,66 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Biological Process	GO:0031424	keratinization	1	1.421026e-3	1.000000e+0	1.000000e+0	7.037170e+2	1.421026e-3	1	1.421026e-3	1.000000e+0	3	4.982553e-3	1.000000e+0	1.000000e+0	2.004556e+2	4.988637e-3	1	45	5.000000e-1	2.222222e-2	unnamed	LCE4A
+GO Biological Process	GO:0030216	keratinocyte differentiation	2	6.732336e-3	1.000000e+0	1.000000e+0	1.485368e+2	6.732336e-3	1	6.732336e-3	1.000000e+0	5	9.952663e-3	1.000000e+0	1.000000e+0	1.002278e+2	9.977274e-3	1	90	5.000000e-1	1.111111e-2	unnamed	LCE4A
+GO Biological Process	GO:0009913	epidermal cell differentiation	3	1.342847e-2	1.000000e+0	1.000000e+0	7.446863e+1	1.342847e-2	1	1.342847e-2	1.000000e+0	6	1.391979e-2	1.000000e+0	1.000000e+0	7.159127e+1	1.396818e-2	1	126	5.000000e-1	7.936508e-3	unnamed	LCE4A
+GO Biological Process	GO:0008544	epidermis development	4	2.845698e-2	1.000000e+0	1.000000e+0	3.514076e+1	2.845698e-2	1	2.845698e-2	1.000000e+0	1	1.851843e-4	1.000000e+0	1.000000e+0	7.333740e+1	2.727122e-2	2	246	1.000000e+0	8.130081e-3	unnamed	C1orf68,LCE4A
+GO Biological Process	GO:0043588	skin development	5	3.249392e-2	1.000000e+0	1.000000e+0	3.077499e+1	3.249392e-2	1	3.249392e-2	1.000000e+0	2	2.383153e-4	1.000000e+0	1.000000e+0	6.466308e+1	3.092955e-2	2	279	1.000000e+0	7.168459e-3	unnamed	C1orf68,LCE4A
+GO Biological Process	GO:0030855	epithelial cell differentiation	6	6.501472e-2	1.000000e+0	1.000000e+0	1.538113e+1	6.501472e-2	1	6.501472e-2	1.000000e+0	11	5.315304e-2	1.000000e+0	1.000000e+0	1.856070e+1	5.387728e-2	1	486	5.000000e-1	2.057613e-3	unnamed	LCE4A
+GO Biological Process	GO:0060429	epithelium development	7	1.052022e-1	1.000000e+0	1.000000e+0	9.505502e+0	1.052022e-1	1	1.052022e-1	1.000000e+0	13	8.269252e-2	1.000000e+0	1.000000e+0	1.183793e+1	8.447425e-2	1	762	5.000000e-1	1.312336e-3	unnamed	LCE4A
+GO Biological Process	GO:0009888	tissue development	8	1.692045e-1	1.000000e+0	1.000000e+0	5.910010e+0	1.692045e-1	1	1.692045e-1	1.000000e+0	4	5.447348e-3	1.000000e+0	1.000000e+0	1.354429e+1	1.476637e-1	2	1332	1.000000e+0	1.501502e-3	unnamed	C1orf68,LCE4A
+GO Biological Process	GO:0048513	organ development	9	2.824258e-1	1.000000e+0	1.000000e+0	3.540753e+0	2.824258e-1	1	2.824258e-1	1.000000e+0	7	1.712028e-2	1.000000e+0	1.000000e+0	7.641254e+0	2.617372e-1	2	2361	1.000000e+0	8.470987e-4	unnamed	C1orf68,LCE4A
+GO Biological Process	GO:0030154	cell differentiation	10	3.160741e-1	1.000000e+0	1.000000e+0	3.163815e+0	3.160741e-1	1	3.160741e-1	1.000000e+0	16	2.690819e-1	1.000000e+0	1.000000e+0	3.446886e+0	2.901170e-1	1	2617	5.000000e-1	3.821169e-4	unnamed	LCE4A
+GO Biological Process	GO:0048869	cellular developmental process	11	3.225257e-1	1.000000e+0	1.000000e+0	3.100528e+0	3.225257e-1	1	3.225257e-1	1.000000e+0	17	2.802231e-1	1.000000e+0	1.000000e+0	3.298172e+0	3.031983e-1	1	2735	5.000000e-1	3.656307e-4	unnamed	LCE4A
+GO Biological Process	GO:0048731	system development	12	3.900631e-1	1.000000e+0	1.000000e+0	2.563688e+0	3.900631e-1	1	3.900631e-1	1.000000e+0	8	3.529995e-2	1.000000e+0	1.000000e+0	5.321829e+0	3.758107e-1	2	3390	1.000000e+0	5.899705e-4	unnamed	C1orf68,LCE4A
+GO Biological Process	GO:0048856	anatomical structure development	13	4.234725e-1	1.000000e+0	1.000000e+0	2.361429e+0	4.234725e-1	1	4.234725e-1	1.000000e+0	9	4.643481e-2	1.000000e+0	1.000000e+0	4.640175e+0	4.310182e-1	2	3888	1.000000e+0	5.144033e-4	unnamed	C1orf68,LCE4A
+GO Biological Process	GO:0007275	multicellular organismal development	14	4.357034e-1	1.000000e+0	1.000000e+0	2.295139e+0	4.357034e-1	1	4.357034e-1	1.000000e+0	10	4.848760e-2	1.000000e+0	1.000000e+0	4.540901e+0	4.404412e-1	2	3973	1.000000e+0	5.033979e-4	unnamed	C1orf68,LCE4A
+GO Biological Process	GO:0032502	developmental process	15	4.657420e-1	1.000000e+0	1.000000e+0	2.147111e+0	4.657420e-1	1	4.657420e-1	1.000000e+0	12	6.023099e-2	1.000000e+0	1.000000e+0	4.074300e+0	4.908819e-1	2	4428	1.000000e+0	4.516712e-4	unnamed	C1orf68,LCE4A
+GO Biological Process	GO:0044707	single-multicellular organism process	16	5.372858e-1	1.000000e+0	1.000000e+0	1.861207e+0	5.372858e-1	1	5.372858e-1	1.000000e+0	14	9.848405e-2	1.000000e+0	1.000000e+0	3.186330e+0	6.276814e-1	2	5662	1.000000e+0	3.532321e-4	unnamed	C1orf68,LCE4A
+GO Biological Process	GO:0032501	multicellular organismal process	17	5.539872e-1	1.000000e+0	1.000000e+0	1.805096e+0	5.539872e-1	1	5.539872e-1	1.000000e+0	15	1.064675e-1	1.000000e+0	1.000000e+0	3.064549e+0	6.526246e-1	2	5887	1.000000e+0	3.397316e-4	unnamed	C1orf68,LCE4A
+GO Biological Process	GO:0044763	single-organism cellular process	18	7.497126e-1	1.000000e+0	1.000000e+0	1.333844e+0	7.497126e-1	1	7.497126e-1	1.000000e+0	19	8.068544e-1	1.000000e+0	1.000000e+0	8.920589e-1	1.121002e+0	1	10112	5.000000e-1	9.889241e-5	unnamed	LCE4A
+GO Biological Process	GO:0044699	single-organism process	19	7.935590e-1	1.000000e+0	1.000000e+0	1.260146e+0	7.935590e-1	1	7.935590e-1	1.000000e+0	18	3.800402e-1	1.000000e+0	1.000000e+0	1.622100e+0	1.232969e+0	2	11122	1.000000e+0	1.798238e-4	unnamed	C1orf68,LCE4A
+GO Biological Process	GO:0009987	cellular process	20	8.656787e-1	1.000000e+0	1.000000e+0	1.155163e+0	8.656787e-1	1	8.656787e-1	1.000000e+0	20	9.369062e-1	1.000000e+0	1.000000e+0	6.677400e-1	1.497589e+0	1	13509	5.000000e-1	7.402472e-5	unnamed	LCE4A
+MSigDB Perturbation	MAHAJAN_RESPONSE_TO_IL1A_DN	Genes down-regulated in corneal fibroblasts after treatment with IL1A [GeneID=3552].	1	8.221272e-3	1.000000e+0	1.000000e+0	1.216357e+2	8.221272e-3	1	8.221272e-3	1.000000e+0	1	8.407740e-3	1.000000e+0	1.000000e+0	1.186908e+2	8.425254e-3	1	76	5.000000e-1	1.315789e-2	unnamed	C1orf68
+MSigDB Perturbation	MULLIGHAN_MLL_SIGNATURE_2_DN	The 'MLL signature 2': genes down-regulated in pediatric AML (acute myeloid leukemia) with rearranged MLL [GeneID=4297] compared to the AML cases with intact MLL and NPM1 [GeneID=4869].	2	3.439238e-2	1.000000e+0	1.000000e+0	2.907621e+1	3.439238e-2	1	3.439238e-2	1.000000e+0	2	3.036376e-2	1.000000e+0	1.000000e+0	3.268297e+1	3.059697e-2	1	276	5.000000e-1	3.623188e-3	unnamed	C1orf68
+MSigDB Perturbation	ZWANG_TRANSIENTLY_UP_BY_2ND_EGF_PULSE_ONLY	Genes transiently induced only by the second pulse of EGF [GeneID =1950] in 184A1 cells (mammary epithelium).	3	1.379154e-1	1.000000e+0	1.000000e+0	7.250823e+0	1.379154e-1	1	1.379154e-1	1.000000e+0	3	1.522491e-1	1.000000e+0	1.000000e+0	6.308042e+0	1.585278e-1	1	1430	5.000000e-1	6.993007e-4	unnamed	C1orf68
+InterPro	IPR026078	Skin-specific protein 32	1	1.533193e-5	1.444574e-1	1.444574e-1	6.522337e+4	1.533193e-5	1	1.533193e-5	1.000000e+0	2	1.108586e-4	1.000000e+0	5.222549e-1	9.020500e+3	1.108586e-4	1	1	5.000000e-1	1.000000e+0	unnamed	C1orf68
+InterPro	IPR028205	Late cornified envelope protein	2	1.307411e-4	1.000000e+0	6.159213e-1	7.648703e+3	1.307411e-4	1	1.307411e-4	1.000000e+0	3	1.883760e-3	1.000000e+0	1.000000e+0	5.306176e+2	1.884596e-3	1	17	5.000000e-1	5.882353e-2	unnamed	LCE4A
+InterPro	IPR026075	Small proline-rich protein/late cornified envelope protein	3	2.648258e-4	1.000000e+0	8.317296e-1	3.776068e+3	2.648258e-4	1	2.648258e-4	1.000000e+0	1	2.322869e-6	2.188607e-2	2.188607e-2	6.443214e+2	3.104041e-3	2	28	1.000000e+0	7.142857e-2	unnamed	C1orf68,LCE4A
+HGNC Gene Families	LCE	LCE	1	1.431300e-4	6.841614e-2	6.841614e-2	6.986654e+3	1.431300e-4	1	1.431300e-4	1.000000e+0	1	1.994515e-3	9.533782e-1	9.533782e-1	5.011389e+2	1.995455e-3	1	18	5.000000e-1	5.555556e-2	unnamed	LCE4A
+Ensembl Genes	1236	LCE4A	1	5.297501e-6	9.557222e-2	9.557222e-2	1.887683e+5	5.297501e-6	1	5.297501e-6	1.000000e+0	1	1.108586e-4	1.000000e+0	1.000000e+0	9.020500e+3	1.108586e-4	1	1	5.000000e-1	1.000000e+0	unnamed	LCE4A
+Ensembl Genes	1237	C1orf68	2	1.533193e-5	2.766033e-1	1.383017e-1	6.522337e+4	1.533193e-5	1	1.533193e-5	1.000000e+0	1	1.108586e-4	1.000000e+0	1.000000e+0	9.020500e+3	1.108586e-4	1	1	5.000000e-1	1.000000e+0	unnamed	C1orf68
+MSigDB Oncogenic Signatures	KRAS.PROSTATE_UP.V1_DN	Genes down-regulated in epithelial prostate cancer cell lines over-expressing an oncogenic form of KRAS [Gene ID=3845] gene.	1	1.439878e-2	1.000000e+0	1.000000e+0	6.945032e+1	1.439878e-2	1	1.439878e-2	1.000000e+0	1	1.502036e-2	1.000000e+0	1.000000e+0	6.632721e+1	1.507677e-2	1	136	5.000000e-1	7.352941e-3	unnamed	C1orf68
+MSigDB Oncogenic Signatures	KRAS.600.LUNG.BREAST_UP.V1_UP	Genes up-regulated in epithelial lung and breast cancer cell lines over-expressing an oncogenic form of KRAS [Gene ID=3845] gene.	2	3.169326e-2	1.000000e+0	1.000000e+0	3.155245e+1	3.169326e-2	1	3.169326e-2	1.000000e+0	2	2.949024e-2	1.000000e+0	1.000000e+0	3.365858e+1	2.971010e-2	1	268	5.000000e-1	3.731343e-3	unnamed	C1orf68
+MSigDB Immunologic Signatures	GSE20715_WT_VS_TLR4_KO_6H_OZONE_LUNG_DN	Genes down-regulated in comparson of lung tissue from wild type mice subjected to ozone for 6 h vs that from TLR4 [GeneID=7099] deficient animal subjected to ozone for 6 h.	1	1.527195e-2	1.000000e+0	1.000000e+0	6.547953e+1	1.527195e-2	1	1.527195e-2	1.000000e+0	3	2.095280e-2	1.000000e+0	1.000000e+0	4.747632e+1	2.106313e-2	1	190	5.000000e-1	5.263158e-3	unnamed	C1orf68
+MSigDB Immunologic Signatures	GSE27786_NKTCELL_VS_MONO_MAC_DN	Genes down-regulated in comparison of NKT cells versus monocyte macrophages.	2	1.677996e-2	1.000000e+0	1.000000e+0	5.959490e+1	1.677996e-2	1	1.677996e-2	1.000000e+0	6	2.172051e-2	1.000000e+0	1.000000e+0	4.578934e+1	2.183914e-2	1	197	5.000000e-1	5.076142e-3	unnamed	C1orf68
+MSigDB Immunologic Signatures	GSE29618_PRE_VS_DAY7_FLU_VACCINE_PDC_UP	Genes up-regulated in comparison of plasmacytoid dendritic cells (pDC) from influenza vaccinee pre-vaccination versus those at day 7 post-vaccination.	3	1.880230e-2	1.000000e+0	1.000000e+0	5.318498e+1	1.880230e-2	1	1.880230e-2	1.000000e+0	4	2.128185e-2	1.000000e+0	1.000000e+0	4.673834e+1	2.139571e-2	1	193	5.000000e-1	5.181347e-3	unnamed	C1orf68
+MSigDB Immunologic Signatures	GSE32423_CTRL_VS_IL7_MEMORY_CD8_TCELL_DN	Genes down-regulated in comparison of memory CD8 T cells versus those  treated with IL7 [GeneID=3574].	4	2.159361e-2	1.000000e+0	1.000000e+0	4.631000e+1	2.159361e-2	1	2.159361e-2	1.000000e+0	1	2.007505e-2	1.000000e+0	1.000000e+0	4.956319e+1	2.017627e-2	1	182	5.000000e-1	5.494505e-3	unnamed	C1orf68
+MSigDB Immunologic Signatures	GSE13306_TREG_VS_TCONV_LAMINA_PROPRIA_UP	Genes up-regulated in comparison of regulatory T cell (Treg) versus conventional T cells activated with lamina propria dendritic cells.	5	2.171087e-2	1.000000e+0	1.000000e+0	4.605987e+1	2.171087e-2	1	2.171087e-2	1.000000e+0	4	2.128185e-2	1.000000e+0	1.000000e+0	4.673834e+1	2.139571e-2	1	193	5.000000e-1	5.181347e-3	unnamed	C1orf68
+MSigDB Immunologic Signatures	GSE13306_RA_VS_UNTREATED_TCONV_DN	Genes down-regulated in comparison of conventional T cells treated with retinoic acid (tretinoin) [PubChem=444795] versus untreated conventional T cells.	6	2.211565e-2	1.000000e+0	1.000000e+0	4.521685e+1	2.211565e-2	1	2.211565e-2	1.000000e+0	2	2.062369e-2	1.000000e+0	1.000000e+0	4.823797e+1	2.073056e-2	1	187	5.000000e-1	5.347594e-3	unnamed	C1orf68
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

@@ -1,0 +1,67 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Cellular Component	GO:0005634	nucleus	1	4.766312e-1	1.000000e+0	1.000000e+0	2.098058e+0	4.766312e-1	1	4.766312e-1	1.000000e+0	1	3.366776e-1	1.000000e+0	1.000000e+0	2.970201e+0	3.366776e-1	1	6074	1.000000e+0	1.646362e-4	unnamed	C2CD4A
+GO Cellular Component	GO:0043231	intracellular membrane-bounded organelle	2	6.973299e-1	1.000000e+0	1.000000e+0	1.434041e+0	6.973299e-1	1	6.973299e-1	1.000000e+0	2	5.549582e-1	1.000000e+0	1.000000e+0	1.801938e+0	5.549582e-1	1	10012	1.000000e+0	9.988014e-5	unnamed	C2CD4A
+GO Cellular Component	GO:0043227	membrane-bounded organelle	3	6.992039e-1	1.000000e+0	1.000000e+0	1.430198e+0	6.992039e-1	1	6.992039e-1	1.000000e+0	3	5.568427e-1	1.000000e+0	1.000000e+0	1.795839e+0	5.568427e-1	1	10046	1.000000e+0	9.954211e-5	unnamed	C2CD4A
+GO Cellular Component	GO:0043229	intracellular organelle	4	7.399473e-1	1.000000e+0	1.000000e+0	1.351448e+0	7.399473e-1	1	7.399473e-1	1.000000e+0	4	6.092789e-1	1.000000e+0	1.000000e+0	1.641285e+0	6.092789e-1	1	10992	1.000000e+0	9.097525e-5	unnamed	C2CD4A
+GO Cellular Component	GO:0043226	organelle	5	7.415866e-1	1.000000e+0	1.000000e+0	1.348460e+0	7.415866e-1	1	7.415866e-1	1.000000e+0	5	6.110526e-1	1.000000e+0	1.000000e+0	1.636520e+0	6.110526e-1	1	11024	1.000000e+0	9.071118e-5	unnamed	C2CD4A
+GO Cellular Component	GO:0044424	intracellular part	6	8.017695e-1	1.000000e+0	1.000000e+0	1.247241e+0	8.017695e-1	1	8.017695e-1	1.000000e+0	6	6.971897e-1	1.000000e+0	1.000000e+0	1.434330e+0	6.971897e-1	1	12578	1.000000e+0	7.950390e-5	unnamed	C2CD4A
+GO Cellular Component	GO:0005622	intracellular	7	8.064789e-1	1.000000e+0	1.000000e+0	1.239958e+0	8.064789e-1	1	8.064789e-1	1.000000e+0	7	7.066127e-1	1.000000e+0	1.000000e+0	1.415202e+0	7.066127e-1	1	12748	1.000000e+0	7.844368e-5	unnamed	C2CD4A
+GO Cellular Component	GO:0044464	cell part	8	8.908971e-1	1.000000e+0	1.000000e+0	1.122464e+0	8.908971e-1	1	8.908971e-1	1.000000e+0	8	8.202982e-1	1.000000e+0	1.000000e+0	1.219069e+0	8.202982e-1	1	14799	1.000000e+0	6.757213e-5	unnamed	C2CD4A
+GO Cellular Component	GO:0005623	cell	9	8.910977e-1	1.000000e+0	1.000000e+0	1.122211e+0	8.910977e-1	1	8.910977e-1	1.000000e+0	9	8.203536e-1	1.000000e+0	1.000000e+0	1.218986e+0	8.203536e-1	1	14800	1.000000e+0	6.756757e-5	unnamed	C2CD4A
+Disease Ontology	DOID:9351	diabetes mellitus	1	9.310870e-2	1.000000e+0	1.000000e+0	1.074013e+1	9.310870e-2	1	9.310870e-2	1.000000e+0	1	4.850064e-2	1.000000e+0	1.000000e+0	2.061829e+1	4.850064e-2	1	875	1.000000e+0	1.142857e-3	unnamed	C2CD4A
+Disease Ontology	DOID:1428	endocrine pancreas disease	2	9.553022e-2	1.000000e+0	1.000000e+0	1.046789e+1	9.553022e-2	1	9.553022e-2	1.000000e+0	2	4.949836e-2	1.000000e+0	1.000000e+0	2.020269e+1	4.949836e-2	1	893	1.000000e+0	1.119821e-3	unnamed	C2CD4A
+Disease Ontology	DOID:4194	glucose metabolism disease	3	9.709597e-2	1.000000e+0	1.000000e+0	1.029909e+1	9.709597e-2	1	9.709597e-2	1.000000e+0	3	5.049609e-2	1.000000e+0	1.000000e+0	1.980351e+1	5.049609e-2	1	911	1.000000e+0	1.097695e-3	unnamed	C2CD4A
+Disease Ontology	DOID:26	pancreas disease	4	9.807021e-2	1.000000e+0	1.000000e+0	1.019678e+1	9.807021e-2	1	9.807021e-2	1.000000e+0	4	5.138296e-2	1.000000e+0	1.000000e+0	1.946170e+1	5.138296e-2	1	927	1.000000e+0	1.078749e-3	unnamed	C2CD4A
+Disease Ontology	DOID:0050013	carbohydrate metabolism disease	5	1.011074e-1	1.000000e+0	1.000000e+0	9.890476e+0	1.011074e-1	1	1.011074e-1	1.000000e+0	5	5.271326e-2	1.000000e+0	1.000000e+0	1.897056e+1	5.271326e-2	1	951	1.000000e+0	1.051525e-3	unnamed	C2CD4A
+Disease Ontology	DOID:28	endocrine system disease	6	1.359578e-1	1.000000e+0	1.000000e+0	7.355222e+0	1.359578e-1	1	1.359578e-1	1.000000e+0	6	7.222438e-2	1.000000e+0	1.000000e+0	1.384574e+1	7.222438e-2	1	1303	1.000000e+0	7.674597e-4	unnamed	C2CD4A
+Disease Ontology	DOID:0014667	disease of metabolism	7	1.387898e-1	1.000000e+0	1.000000e+0	7.205143e+0	1.387898e-1	1	1.387898e-1	1.000000e+0	7	7.737930e-2	1.000000e+0	1.000000e+0	1.292335e+1	7.737930e-2	1	1396	1.000000e+0	7.163324e-4	unnamed	C2CD4A
+Disease Ontology	DOID:77	gastrointestinal system disease	8	1.566959e-1	1.000000e+0	1.000000e+0	6.381787e+0	1.566959e-1	1	1.566959e-1	1.000000e+0	8	9.168006e-2	1.000000e+0	1.000000e+0	1.090750e+1	9.168006e-2	1	1654	1.000000e+0	6.045949e-4	unnamed	C2CD4A
+Disease Ontology	DOID:7	disease of anatomical entity	9	5.144599e-1	1.000000e+0	1.000000e+0	1.943786e+0	5.144599e-1	1	5.144599e-1	1.000000e+0	9	3.268666e-1	1.000000e+0	1.000000e+0	3.059352e+0	3.268666e-1	1	5897	1.000000e+0	1.695778e-4	unnamed	C2CD4A
+Disease Ontology	DOID:4	disease	10	6.581397e-1	1.000000e+0	1.000000e+0	1.519434e+0	6.581397e-1	1	6.581397e-1	1.000000e+0	10	4.371155e-1	1.000000e+0	1.000000e+0	2.287725e+0	4.371155e-1	1	7886	1.000000e+0	1.268070e-4	unnamed	C2CD4A
+MSigDB Perturbation	CORRE_MULTIPLE_MYELOMA_UP	Genes up-regulated in multiple myeloma (MM) bone marrow mesenchymal stem cells.	1	1.024362e-2	1.000000e+0	1.000000e+0	9.762176e+1	1.024362e-2	1	1.024362e-2	1.000000e+0	1	3.658334e-3	1.000000e+0	1.000000e+0	2.733485e+2	3.658334e-3	1	66	1.000000e+0	1.515152e-2	unnamed	C2CD4A
+MSigDB Perturbation	CERVERA_SDHB_TARGETS_1_UP	Genes turned on in Hep3B cells (hepatocellular carcinoma, HCC) upon knockdown of SDHB [GeneID=6390] by RNAi.	2	1.170449e-2	1.000000e+0	1.000000e+0	8.543733e+1	1.170449e-2	1	1.170449e-2	1.000000e+0	2	6.041794e-3	1.000000e+0	1.000000e+0	1.655138e+2	6.041794e-3	1	109	1.000000e+0	9.174312e-3	unnamed	C2CD4A
+MSigDB Perturbation	SABATES_COLORECTAL_ADENOMA_UP	Genes up-regulated in colorectal adenoma compared to normal mucosa samples.	3	1.315224e-2	1.000000e+0	1.000000e+0	7.603270e+1	1.315224e-2	1	1.315224e-2	1.000000e+0	4	7.150380e-3	1.000000e+0	1.000000e+0	1.398527e+2	7.150380e-3	1	129	1.000000e+0	7.751938e-3	unnamed	C2CD4A
+MSigDB Perturbation	HOOI_ST7_TARGETS_DN	Genes down-regulated in PC-3 cells (prostate cancer) stably expressing ST7 [GeneID=7982] off a plasmid vector.	4	1.532271e-2	1.000000e+0	1.000000e+0	6.526261e+1	1.532271e-2	1	1.532271e-2	1.000000e+0	3	6.097223e-3	1.000000e+0	1.000000e+0	1.640091e+2	6.097223e-3	1	110	1.000000e+0	9.090909e-3	unnamed	C2CD4A
+MSigDB Perturbation	SENGUPTA_NASOPHARYNGEAL_CARCINOMA_WITH_LMP1_UP	Genes up-regulated in nasopharyngeal carcinoma (NPC) positive for LMP1 [GeneID=9260], a latent gene of Epstein-Barr virus (EBV).	5	5.992122e-2	1.000000e+0	1.000000e+0	1.668858e+1	5.992122e-2	1	5.992122e-2	1.000000e+0	5	2.117399e-2	1.000000e+0	1.000000e+0	4.722775e+1	2.117399e-2	1	382	1.000000e+0	2.617801e-3	unnamed	C2CD4A
+MSigDB Perturbation	BENPORATH_PRC2_TARGETS	Set 'PRC2 targets': Polycomb Repression Complex 2 (PRC) targets; identified by ChIP on chip on human embryonic stem cells as genes that: posess the trimethylated H3K27 mark in their promoters and are bound by SUZ12 [GeneID=23512] and EED [GeneID=8726] Polycomb proteins.	6	1.039276e-1	1.000000e+0	1.000000e+0	9.622088e+0	1.039276e-1	1	1.039276e-1	1.000000e+0	6	3.397816e-2	1.000000e+0	1.000000e+0	2.943067e+1	3.397816e-2	1	613	1.000000e+0	1.631321e-3	unnamed	C2CD4A
+MSigDB Perturbation	GOZGIT_ESR1_TARGETS_DN	Genes down-regulated in TMX2-28 cells (breast cancer) which do not express ESR1 [GeneID=2099]) compared to the parental MCF7 cells which do.	7	1.109780e-1	1.000000e+0	1.000000e+0	9.010794e+0	1.109780e-1	1	1.109780e-1	1.000000e+0	7	4.029710e-2	1.000000e+0	1.000000e+0	2.481568e+1	4.029710e-2	1	727	1.000000e+0	1.375516e-3	unnamed	C2CD4A
+MSigDB Perturbation	BENPORATH_EED_TARGETS	Set 'Eed targets': genes identified by ChIP on chip as targets of the Polycomb protein EED [GeneID=8726] in human embryonic stem cells.	8	1.549577e-1	1.000000e+0	1.000000e+0	6.453376e+0	1.549577e-1	1	1.549577e-1	1.000000e+0	9	5.570645e-2	1.000000e+0	1.000000e+0	1.795124e+1	5.570645e-2	1	1005	1.000000e+0	9.950249e-4	unnamed	C2CD4A
+MSigDB Perturbation	BENPORATH_SUZ12_TARGETS	Set 'Suz12 targets': genes identified by ChIP on chip as targets of the Polycomb protein SUZ12 [GeneID=23512] in human embryonic stem cells.	9	1.616879e-1	1.000000e+0	1.000000e+0	6.184754e+0	1.616879e-1	1	1.616879e-1	1.000000e+0	8	5.454243e-2	1.000000e+0	1.000000e+0	1.833435e+1	5.454243e-2	1	984	1.000000e+0	1.016260e-3	unnamed	C2CD4A
+MSigDB Perturbation	BENPORATH_ES_WITH_H3K27ME3	Set 'H3K27 bound': genes posessing the trimethylated H3K27 (H3K27me3) mark in their promoters in human embryonic stem cells, as identified by ChIP on chip.	10	1.619781e-1	1.000000e+0	1.000000e+0	6.173675e+0	1.619781e-1	1	1.619781e-1	1.000000e+0	10	5.869963e-2	1.000000e+0	1.000000e+0	1.703588e+1	5.869963e-2	1	1059	1.000000e+0	9.442871e-4	unnamed	C2CD4A
+MSigDB Predicted Promoter Motifs	V$MYCMAX_01	Motif NNACCACGTGGTNN matches MYC: v-myc myelocytomatosis viral oncogene homolog (avian)&lt;br&gt; MAX: MYC associated factor X	1	2.246193e-2	1.000000e+0	1.000000e+0	4.451978e+1	2.246193e-2	1	2.246193e-2	1.000000e+0	2	1.346932e-2	1.000000e+0	1.000000e+0	7.424280e+1	1.346932e-2	1	243	1.000000e+0	4.115226e-3	unnamed	C2CD4A
+MSigDB Predicted Promoter Motifs	V$TATA_01	Motif STATAAAWRNNNNNN matches TAF&lt;br&gt; TATA	2	2.630618e-2	1.000000e+0	1.000000e+0	3.801389e+1	2.630618e-2	1	2.630618e-2	1.000000e+0	4	1.407904e-2	1.000000e+0	1.000000e+0	7.102756e+1	1.407904e-2	1	254	1.000000e+0	3.937008e-3	unnamed	C2CD4A
+MSigDB Predicted Promoter Motifs	V$AR_Q6	Motif WGAGCANRN matches AR: androgen receptor (dihydrotestosterone receptor; testicular feminization; spinal and bulbar muscular atrophy; Kennedy disease)	3	3.163805e-2	1.000000e+0	1.000000e+0	3.160751e+1	3.163805e-2	1	3.163805e-2	1.000000e+0	1	1.324760e-2	1.000000e+0	1.000000e+0	7.548536e+1	1.324760e-2	1	239	1.000000e+0	4.184100e-3	unnamed	C2CD4A
+MSigDB Predicted Promoter Motifs	V$TCF1P_Q6	Motif GKCRGKTT matches TCF1: transcription factor 1, hepatic; LF-B1, hepatic nuclear factor (HNF1), albumin proximal factor	4	3.956632e-2	1.000000e+0	1.000000e+0	2.527402e+1	3.956632e-2	1	3.956632e-2	1.000000e+0	3	1.380190e-2	1.000000e+0	1.000000e+0	7.245382e+1	1.380190e-2	1	249	1.000000e+0	4.016064e-3	unnamed	C2CD4A
+MSigDB Predicted Promoter Motifs	CACGTG_V$MYC_Q2	Motif CACGTG matches MYC: v-myc myelocytomatosis viral oncogene homolog (avian)	5	9.316007e-2	1.000000e+0	1.000000e+0	1.073421e+1	9.316007e-2	1	9.316007e-2	1.000000e+0	5	5.465329e-2	1.000000e+0	1.000000e+0	1.829716e+1	5.465329e-2	1	986	1.000000e+0	1.014199e-3	unnamed	C2CD4A
+MSigDB Predicted Promoter Motifs	TATAAA_V$TATA_01	Motif TATAAA matches TAF&lt;br&gt; TATA	6	1.585244e-1	1.000000e+0	1.000000e+0	6.308178e+0	1.585244e-1	1	1.585244e-1	1.000000e+0	6	7.072779e-2	1.000000e+0	1.000000e+0	1.413871e+1	7.072779e-2	1	1276	1.000000e+0	7.836991e-4	unnamed	C2CD4A
+InterPro	IPR000008	C2 domain	1	2.190168e-2	1.000000e+0	1.000000e+0	4.565859e+1	2.190168e-2	1	2.190168e-2	1.000000e+0	1	8.092678e-3	1.000000e+0	1.000000e+0	1.235685e+2	8.092678e-3	1	146	1.000000e+0	6.849315e-3	unnamed	C2CD4A
+TreeFam	TF330989	C2CD4A, C2CD4B	1	5.205195e-4	1.000000e+0	1.000000e+0	1.921158e+3	5.205195e-4	1	5.205195e-4	1.000000e+0	1	1.108586e-4	9.008370e-1	9.008370e-1	9.020500e+3	1.108586e-4	1	2	1.000000e+0	5.000000e-1	unnamed	C2CD4A
+Ensembl Genes	6488	C2CD4A	1	3.834929e-4	1.000000e+0	1.000000e+0	2.607610e+3	3.834929e-4	1	3.834929e-4	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	C2CD4A
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

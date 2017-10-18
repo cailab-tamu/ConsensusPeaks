@@ -1,0 +1,63 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Molecular Function	GO:0030246	carbohydrate binding	1	1.871230e-2	1.000000e+0	1.000000e+0	5.344078e+1	1.871230e-2	1	1.871230e-2	1.000000e+0	1	1.534814e-4	5.660394e-1	5.660394e-1	8.054018e+1	2.483233e-2	2	224	1.000000e+0	8.928571e-3	unnamed	CLEC2L,KLRG2
+GO Molecular Function	GO:0005488	binding	2	8.171102e-1	1.000000e+0	1.000000e+0	1.223825e+0	8.171102e-1	1	8.171102e-1	1.000000e+0	2	4.553379e-1	1.000000e+0	1.000000e+0	1.481929e+0	1.349593e+0	2	12174	1.000000e+0	1.642845e-4	unnamed	CLEC2L,KLRG2
+GO Cellular Component	GO:0016021	integral to membrane	1	4.578656e-1	1.000000e+0	1.000000e+0	2.184047e+0	4.578656e-1	1	4.578656e-1	1.000000e+0	1	8.502701e-2	1.000000e+0	1.000000e+0	3.429196e+0	5.832271e-1	2	5261	1.000000e+0	3.801559e-4	unnamed	CLEC2L,KLRG2
+GO Cellular Component	GO:0031224	intrinsic to membrane	2	4.694206e-1	1.000000e+0	1.000000e+0	2.130286e+0	4.694206e-1	1	4.694206e-1	1.000000e+0	2	8.871915e-2	1.000000e+0	1.000000e+0	3.357090e+0	5.957541e-1	2	5374	1.000000e+0	3.721623e-4	unnamed	CLEC2L,KLRG2
+GO Cellular Component	GO:0044425	membrane part	3	5.293034e-1	1.000000e+0	1.000000e+0	1.889276e+0	5.293034e-1	1	5.293034e-1	1.000000e+0	3	1.178243e-1	1.000000e+0	1.000000e+0	2.913128e+0	6.865473e-1	2	6193	1.000000e+0	3.229453e-4	unnamed	CLEC2L,KLRG2
+GO Cellular Component	GO:0016020	membrane	4	6.308744e-1	1.000000e+0	1.000000e+0	1.585102e+0	6.308744e-1	1	6.308744e-1	1.000000e+0	4	1.895088e-1	1.000000e+0	1.000000e+0	2.297046e+0	8.706834e-1	2	7854	1.000000e+0	2.546473e-4	unnamed	CLEC2L,KLRG2
+MSigDB Perturbation	KORKOLA_CORRELATED_WITH_POU5F1	Genes whose expression pattern in adult male germ cell tumors (GCT) correlates with POU5F1 [GeneID=5460].	1	2.473876e-3	1.000000e+0	1.000000e+0	4.042240e+2	2.473876e-3	1	2.473876e-3	1.000000e+0	1	3.212404e-3	1.000000e+0	1.000000e+0	3.110517e+2	3.214899e-3	1	29	5.000000e-1	3.448276e-2	unnamed	KLRG2
+MSigDB Perturbation	NADERI_BREAST_CANCER_PROGNOSIS_UP	Up-regulated genes in the breast cancer prognostic signature of 70 genes that significantly correlated with survival.	2	4.152966e-3	1.000000e+0	1.000000e+0	2.407917e+2	4.152966e-3	1	4.152966e-3	1.000000e+0	2	5.314281e-3	1.000000e+0	1.000000e+0	1.879271e+2	5.321213e-3	1	48	5.000000e-1	2.083333e-2	unnamed	KLRG2
+MSigDB Perturbation	BAKKER_FOXO3_TARGETS_DN	Genes down-regulated in I/11 erythroblast cells upon expression of an activated form of FOXO3 [GeneID=2309].	3	1.682645e-2	1.000000e+0	1.000000e+0	5.943023e+1	1.682645e-2	1	1.682645e-2	1.000000e+0	3	1.985555e-2	1.000000e+0	1.000000e+0	5.011389e+1	1.995455e-2	1	180	5.000000e-1	5.555556e-3	unnamed	CLEC2L
+MSigDB Perturbation	CHARAFE_BREAST_CANCER_LUMINAL_VS_MESENCHYMAL_UP	Genes up-regulated in luminal-like breast cancer cell lines compared to the mesenchymal-like ones.	4	3.402913e-2	1.000000e+0	1.000000e+0	2.938658e+1	3.402913e-2	1	3.402913e-2	1.000000e+0	7	4.591162e-2	1.000000e+0	1.000000e+0	2.152864e+1	4.644975e-2	1	419	5.000000e-1	2.386635e-3	unnamed	KLRG2
+MSigDB Perturbation	CHARAFE_BREAST_CANCER_LUMINAL_VS_BASAL_UP	Genes up-regulated in luminal-like breast cancer cell lines compared to the basal-like ones.	5	3.484577e-2	1.000000e+0	1.000000e+0	2.869789e+1	3.484577e-2	1	3.484577e-2	1.000000e+0	6	3.766407e-2	1.000000e+0	1.000000e+0	2.629883e+1	3.802450e-2	1	343	5.000000e-1	2.915452e-3	unnamed	KLRG2
+MSigDB Perturbation	IVANOVA_HEMATOPOIESIS_STEM_CELL_LONG_TERM	Genes in the expression cluster 'LT-HSC Shared': up-regulated in long term hematopoietic stem cells (LT-HSC) from adult bone marrow and fetal liver.	6	3.799555e-2	1.000000e+0	1.000000e+0	2.631887e+1	3.799555e-2	1	3.799555e-2	1.000000e+0	4	3.112777e-2	1.000000e+0	1.000000e+0	3.187456e+1	3.137298e-2	1	283	5.000000e-1	3.533569e-3	unnamed	CLEC2L
+MSigDB Perturbation	IWANAGA_CARCINOGENESIS_BY_KRAS_PTEN_DN	Cluster 2: genes down-regulated in lung tissue samples from mice with oncogenic form of KRAS [GeneID=3845] and inactivated PTEN [GeneID=5728].	7	4.514819e-2	1.000000e+0	1.000000e+0	2.214928e+1	4.514819e-2	1	4.514819e-2	1.000000e+0	5	3.624975e-2	1.000000e+0	1.000000e+0	2.733485e+1	3.658334e-2	1	330	5.000000e-1	3.030303e-3	unnamed	CLEC2L
+MSigDB Perturbation	PEREZ_TP53_TARGETS	Genes up-regulated in the HMEC cells (primary mammary epithelium) upon expression of TP53 [GeneID=7157] off adenoviral vector.	8	1.077316e-1	1.000000e+0	1.000000e+0	9.282326e+0	1.077316e-1	1	1.077316e-1	1.000000e+0	9	1.145827e-1	1.000000e+0	1.000000e+0	8.469953e+0	1.180644e-1	1	1065	5.000000e-1	9.389671e-4	unnamed	KLRG2
+MSigDB Perturbation	DODD_NASOPHARYNGEAL_CARCINOMA_DN	Genes down-regulated in nasopharyngeal carcinoma (NPC) compared to the normal tissue.	9	1.258050e-1	1.000000e+0	1.000000e+0	7.948812e+0	1.258050e-1	1	1.258050e-1	1.000000e+0	10	1.382073e-1	1.000000e+0	1.000000e+0	6.976411e+0	1.433402e-1	1	1293	5.000000e-1	7.733952e-4	unnamed	KLRG2
+MSigDB Perturbation	MEISSNER_BRAIN_HCP_WITH_H3K4ME3_AND_H3K27ME3	Genes with high-CpG-density promoters (HCP) bearing histone H3 dimethylation at K4 (H3K4me2) and trimethylation at K27 (H3K27me3) in brain.	10	1.581088e-1	1.000000e+0	1.000000e+0	6.324759e+0	1.581088e-1	1	1.581088e-1	1.000000e+0	8	1.118684e-1	1.000000e+0	1.000000e+0	8.681906e+0	1.151821e-1	1	1039	5.000000e-1	9.624639e-4	unnamed	KLRG2
+InterPro	IPR001304	C-type lectin	1	5.441929e-3	1.000000e+0	1.000000e+0	1.837584e+2	5.441929e-3	1	5.441929e-3	1.000000e+0	1	2.246054e-5	2.116232e-1	2.116232e-1	2.097791e+2	9.533840e-3	2	86	1.000000e+0	2.325581e-2	unnamed	CLEC2L,KLRG2
+InterPro	IPR016186	C-type lectin-like	2	6.532987e-3	1.000000e+0	1.000000e+0	1.530693e+2	6.532987e-3	1	6.532987e-3	1.000000e+0	2	3.041852e-5	2.866033e-1	1.433016e-1	1.804100e+2	1.108586e-2	2	100	1.000000e+0	2.000000e-2	unnamed	CLEC2L,KLRG2
+InterPro	IPR016187	C-type lectin fold	3	7.270626e-3	1.000000e+0	1.000000e+0	1.375397e+2	7.270626e-3	1	7.270626e-3	1.000000e+0	3	3.550671e-5	3.345442e-1	1.115147e-1	1.670463e+2	1.197273e-2	2	108	1.000000e+0	1.851852e-2	unnamed	CLEC2L,KLRG2
+TreeFam	TF351467	CD69, CLEC2A, CLEC2B, CLEC2D, CLEC2L, ...	1	2.520825e-4	1.000000e+0	1.000000e+0	3.966956e+3	2.520825e-4	1	2.520825e-4	1.000000e+0	1	9.217733e-8	7.490330e-4	7.490330e-4	3.006833e+3	6.651516e-4	2	6	1.000000e+0	3.333333e-1	unnamed	CLEC2L,KLRG2
+HGNC Gene Families	CLEC	CLEC	1	1.469092e-3	7.022260e-1	7.022260e-1	6.806924e+2	1.469092e-3	1	1.469092e-3	1.000000e+0	1	3.323085e-3	1.000000e+0	1.000000e+0	3.006833e+2	3.325758e-3	1	30	5.000000e-1	3.333333e-2	unnamed	CLEC2L
+Ensembl Genes	17735	KLRG2	1	5.520053e-5	9.958728e-1	9.958728e-1	1.811577e+4	5.520053e-5	1	5.520053e-5	1.000000e+0	1	1.108586e-4	1.000000e+0	1.000000e+0	9.020500e+3	1.108586e-4	1	1	5.000000e-1	1.000000e+0	unnamed	KLRG2
+Ensembl Genes	17736	CLEC2L	2	9.717758e-5	1.000000e+0	8.765904e-1	1.029044e+4	9.717758e-5	1	9.717758e-5	1.000000e+0	1	1.108586e-4	1.000000e+0	1.000000e+0	9.020500e+3	1.108586e-4	1	1	5.000000e-1	1.000000e+0	unnamed	CLEC2L
+MSigDB Oncogenic Signatures	MYC_UP.V1_UP	Genes up-regulated in primary epithelial breast cancer cell culture over-expressing MYC [Gene ID=4609] gene.	1	1.182324e-2	1.000000e+0	1.000000e+0	8.457919e+1	1.182324e-2	1	1.182324e-2	1.000000e+0	1	1.831837e-2	1.000000e+0	1.000000e+0	5.434036e+1	1.840253e-2	1	166	5.000000e-1	6.024096e-3	unnamed	KLRG2
+MSigDB Oncogenic Signatures	STK33_DN	Genes down-regulated in NOMO-1 and SKM-1 cells (AML) after knockdown of STK33 [Gene ID=65975] by RNAi.	2	2.905807e-2	1.000000e+0	1.000000e+0	3.441385e+1	2.905807e-2	1	2.905807e-2	1.000000e+0	2	2.796063e-2	1.000000e+0	1.000000e+0	3.551378e+1	2.815808e-2	1	254	5.000000e-1	3.937008e-3	unnamed	KLRG2
+MSigDB Oncogenic Signatures	STK33_SKM_DN	Genes down-regulated in SKM-1 cells (AML) after knockdown of STK33 [Gene ID=65975] by RNAi.	3	3.216178e-2	1.000000e+0	1.000000e+0	3.109281e+1	3.216178e-2	1	3.216178e-2	1.000000e+0	2	2.796063e-2	1.000000e+0	1.000000e+0	3.551378e+1	2.815808e-2	1	254	5.000000e-1	3.937008e-3	unnamed	KLRG2
+MSigDB Immunologic Signatures	GSE18791_UNSTIM_VS_NEWCATSLE_VIRUS_DC_2H_DN	Genes down-regulated in comparison of control conventional dendritic cells (cDC) at 2 h versus cDCs infected with Newcastle disease virus (NDV) at 2 h.	1	1.326732e-2	1.000000e+0	1.000000e+0	7.537318e+1	1.326732e-2	1	1.326732e-2	1.000000e+0	2	1.645017e-2	1.000000e+0	1.000000e+0	6.054027e+1	1.651793e-2	1	149	5.000000e-1	6.711409e-3	unnamed	KLRG2
+MSigDB Immunologic Signatures	GSE18791_CTRL_VS_NEWCASTLE_VIRUS_DC_1H_UP	Genes up-regulated in comparison of control conventional dendritic cells (cDC) at 0 h versus cDCs infected with Newcastle disease virus (NDV) at 1 h.	2	1.646188e-2	1.000000e+0	1.000000e+0	6.074640e+1	1.646188e-2	1	1.646188e-2	1.000000e+0	1	1.601034e-2	1.000000e+0	1.000000e+0	6.221034e+1	1.607450e-2	1	145	5.000000e-1	6.896552e-3	unnamed	CLEC2L
+MSigDB Immunologic Signatures	GSE16522_ANTI_CD3CD28_STIM_VS_UNSTIM_MEMORY_CD8_TCELL_UP	Genes up-regulated in comparison of stimulated memory CD8 T cells from pmel-1 mice versus unstimulated memory CD8 T cells from pmel-1 mice.	3	1.860398e-2	1.000000e+0	1.000000e+0	5.375195e+1	1.860398e-2	1	1.860398e-2	1.000000e+0	7	2.117217e-2	1.000000e+0	1.000000e+0	4.698177e+1	2.128485e-2	1	192	5.000000e-1	5.208333e-3	unnamed	KLRG2
+MSigDB Immunologic Signatures	GSE27786_NKCELL_VS_NKTCELL_DN	Genes down-regulated in comparison of NK cells versus NKT cells.	4	1.870951e-2	1.000000e+0	1.000000e+0	5.344875e+1	1.870951e-2	1	1.870951e-2	1.000000e+0	3	2.029452e-2	1.000000e+0	1.000000e+0	4.902446e+1	2.039798e-2	1	184	5.000000e-1	5.434783e-3	unnamed	CLEC2L
+MSigDB Immunologic Signatures	GSE30083_SP2_VS_SP4_THYMOCYTE_UP	Genes up-regulated in comparison of SP2 thymocytes versus SP4 thymocytes.	5	1.910337e-2	1.000000e+0	1.000000e+0	5.234678e+1	1.910337e-2	1	1.910337e-2	1.000000e+0	7	2.117217e-2	1.000000e+0	1.000000e+0	4.698177e+1	2.128485e-2	1	192	5.000000e-1	5.208333e-3	unnamed	CLEC2L
+MSigDB Immunologic Signatures	GSE15750_WT_VS_TRAF6KO_DAY10_EFF_CD8_TCELL_DN	Genes down-regulated in comparison of wild type CD8 effector T cells at day 10 versus those  from mice defficient for TRAF6 [GeneID=7189] at day 10.	6	2.069291e-2	1.000000e+0	1.000000e+0	4.832573e+1	2.069291e-2	1	2.069291e-2	1.000000e+0	6	2.084310e-2	1.000000e+0	1.000000e+0	4.772751e+1	2.095228e-2	1	189	5.000000e-1	5.291005e-3	unnamed	CLEC2L
+MSigDB Immunologic Signatures	GSE13306_RA_VS_UNTREATED_TCONV_DN	Genes down-regulated in comparison of conventional T cells treated with retinoic acid (tretinoin) [PubChem=444795] versus untreated conventional T cells.	7	2.211565e-2	1.000000e+0	1.000000e+0	4.521685e+1	2.211565e-2	1	2.211565e-2	1.000000e+0	4	2.062369e-2	1.000000e+0	1.000000e+0	4.823797e+1	2.073056e-2	1	187	5.000000e-1	5.347594e-3	unnamed	KLRG2
+MSigDB Immunologic Signatures	GSE27786_NKCELL_VS_NEUTROPHIL_DN	Genes down-regulated in comparison of NK cells versus neutrophils.	8	2.214477e-2	1.000000e+0	1.000000e+0	4.515740e+1	2.214477e-2	1	2.214477e-2	1.000000e+0	5	2.073340e-2	1.000000e+0	1.000000e+0	4.798138e+1	2.084142e-2	1	188	5.000000e-1	5.319149e-3	unnamed	CLEC2L
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

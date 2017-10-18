@@ -1,0 +1,61 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Cellular Component	GO:0016021	integral to membrane	1	4.578656e-1	1.000000e+0	1.000000e+0	2.184047e+0	4.578656e-1	1	4.578656e-1	1.000000e+0	1	2.916135e-1	1.000000e+0	1.000000e+0	3.429196e+0	2.916135e-1	1	5261	1.000000e+0	1.900779e-4	unnamed	FAM73A
+GO Cellular Component	GO:0031224	intrinsic to membrane	2	4.694206e-1	1.000000e+0	1.000000e+0	2.130286e+0	4.694206e-1	1	4.694206e-1	1.000000e+0	2	2.978771e-1	1.000000e+0	1.000000e+0	3.357090e+0	2.978771e-1	1	5374	1.000000e+0	1.860811e-4	unnamed	FAM73A
+GO Cellular Component	GO:0044425	membrane part	3	5.293034e-1	1.000000e+0	1.000000e+0	1.889276e+0	5.293034e-1	1	5.293034e-1	1.000000e+0	3	3.432737e-1	1.000000e+0	1.000000e+0	2.913128e+0	3.432737e-1	1	6193	1.000000e+0	1.614726e-4	unnamed	FAM73A
+GO Cellular Component	GO:0016020	membrane	4	6.308744e-1	1.000000e+0	1.000000e+0	1.585102e+0	6.308744e-1	1	6.308744e-1	1.000000e+0	4	4.353417e-1	1.000000e+0	1.000000e+0	2.297046e+0	4.353417e-1	1	7854	1.000000e+0	1.273237e-4	unnamed	FAM73A
+MSigDB Perturbation	GAUSSMANN_MLL_AF4_FUSION_TARGETS_F_DN	Down-regualted genes from the set F (Fig. 5a): specific signature shared by cells expressing AF4-MLL [GeneID=4299;4297] alone and those expressing both AF4-MLL and MLL-AF4 fusion proteins.	1	5.454498e-3	1.000000e+0	1.000000e+0	1.833349e+2	5.454498e-3	1	5.454498e-3	1.000000e+0	1	1.829167e-3	1.000000e+0	1.000000e+0	5.466970e+2	1.829167e-3	1	33	1.000000e+0	3.030303e-2	unnamed	FAM73A
+MSigDB Perturbation	BASAKI_YBX1_TARGETS_DN	Genes down-regulated in SKOC-3 cells (ovarian cancer) after YB-1 (YBX1) [GeneID=4904] knockdown by RNAi.	2	4.411758e-2	1.000000e+0	1.000000e+0	2.266670e+1	4.411758e-2	1	4.411758e-2	1.000000e+0	2	1.951111e-2	1.000000e+0	1.000000e+0	5.125284e+1	1.951111e-2	1	352	1.000000e+0	2.840909e-3	unnamed	FAM73A
+MSigDB Perturbation	LU_EZH2_TARGETS_DN	Genes down-regulated in SKOV3ip1 cells (ovarian cancer) upon knockdown of EZH2 [GeneID=2146] by RNAi.	3	4.532625e-2	1.000000e+0	1.000000e+0	2.206227e+1	4.532625e-2	1	4.532625e-2	1.000000e+0	3	2.084142e-2	1.000000e+0	1.000000e+0	4.798138e+1	2.084142e-2	1	376	1.000000e+0	2.659574e-3	unnamed	FAM73A
+MSigDB Perturbation	LASTOWSKA_NEUROBLASTOMA_COPY_NUMBER_DN	Genes with copy number losses in primary neuroblastoma tumors.	4	5.143070e-2	1.000000e+0	1.000000e+0	1.944364e+1	5.143070e-2	1	5.143070e-2	1.000000e+0	8	4.101768e-2	1.000000e+0	1.000000e+0	2.437973e+1	4.101768e-2	1	740	1.000000e+0	1.351351e-3	unnamed	FAM73A
+MSigDB Perturbation	CREIGHTON_ENDOCRINE_THERAPY_RESISTANCE_5	The 'group 5 set' of genes associated with acquired endocrine therapy resistance in breast tumors expressing ESR1 but not ERBB2 [GeneID=2099;2064].	5	5.515666e-2	1.000000e+0	1.000000e+0	1.813018e+1	5.515666e-2	1	5.515666e-2	1.000000e+0	4	2.438889e-2	1.000000e+0	1.000000e+0	4.100227e+1	2.438889e-2	1	440	1.000000e+0	2.272727e-3	unnamed	FAM73A
+MSigDB Perturbation	MASSARWEH_TAMOXIFEN_RESISTANCE_UP	Genes up-regulated in breast cancer tumors (formed by MCF-7 xenografts) resistant to tamoxifen [PubChem=5376].	6	6.485064e-2	1.000000e+0	1.000000e+0	1.542005e+1	6.485064e-2	1	6.485064e-2	1.000000e+0	5	3.031983e-2	1.000000e+0	1.000000e+0	3.298172e+1	3.031983e-2	1	547	1.000000e+0	1.828154e-3	unnamed	FAM73A
+MSigDB Perturbation	IVANOVA_HEMATOPOIESIS_STEM_CELL_AND_PROGENITOR	Genes in the expression cluster 'HSC and Progenitors Shared': up-regulated in hematopoietic stem cells (HSC) and progenitors from adult bone marrow and fetal liver.	7	7.135492e-2	1.000000e+0	1.000000e+0	1.401445e+1	7.135492e-2	1	7.135492e-2	1.000000e+0	6	3.591819e-2	1.000000e+0	1.000000e+0	2.784105e+1	3.591819e-2	1	648	1.000000e+0	1.543210e-3	unnamed	FAM73A
+MSigDB Perturbation	CREIGHTON_ENDOCRINE_THERAPY_RESISTANCE_3	The 'group 3 set' of genes associated with acquired endocrine therapy resistance in breast tumors expressing ESR1 and ERBB2 [GeneID=2099;2064].	8	7.827498e-2	1.000000e+0	1.000000e+0	1.277547e+1	7.827498e-2	1	7.827498e-2	1.000000e+0	7	3.730392e-2	1.000000e+0	1.000000e+0	2.680684e+1	3.730392e-2	1	673	1.000000e+0	1.485884e-3	unnamed	FAM73A
+MSigDB Perturbation	NUYTTEN_EZH2_TARGETS_DN	Genes down-regulated in PC3 cells (prostate cancer) after knockdown of EZH2 [GeneID=2146] by RNAi.	9	8.521044e-2	1.000000e+0	1.000000e+0	1.173565e+1	8.521044e-2	1	8.521044e-2	1.000000e+0	10	5.432071e-2	1.000000e+0	1.000000e+0	1.840918e+1	5.432071e-2	1	980	1.000000e+0	1.020408e-3	unnamed	FAM73A
+MSigDB Perturbation	JOHNSTONE_PARVB_TARGETS_3_DN	Genes down-regulated upon overexpression of PARVB [GeneID=29780] in MDA-MB-231 cells (breast cancer) cultured in 3D Matrigel only.	10	8.753961e-2	1.000000e+0	1.000000e+0	1.142340e+1	8.753961e-2	1	8.753961e-2	1.000000e+0	9	4.772463e-2	1.000000e+0	1.000000e+0	2.095354e+1	4.772463e-2	1	861	1.000000e+0	1.161440e-3	unnamed	FAM73A
+MSigDB miRNA Motifs	TTGCACT,MIR-130A,MIR-301,MIR-130B	Targets of MicroRNA TTGCACT,MIR-130A,MIR-301,MIR-130B	1	6.025889e-2	1.000000e+0	1.000000e+0	1.659506e+1	6.025889e-2	1	6.025889e-2	1.000000e+0	1	2.128485e-2	1.000000e+0	1.000000e+0	4.698177e+1	2.128485e-2	1	384	1.000000e+0	2.604167e-3	unnamed	FAM73A
+InterPro	IPR019392	Protein of unknown function DUF2217	1	5.694551e-5	5.365406e-1	5.365406e-1	1.756065e+4	5.694551e-5	1	5.694551e-5	1.000000e+0	1	1.108586e-4	1.000000e+0	1.000000e+0	9.020500e+3	1.108586e-4	1	2	1.000000e+0	5.000000e-1	unnamed	FAM73A
+TreeFam	TF313896	FAM73A, FAM73B	1	5.694551e-5	4.627392e-1	4.627392e-1	1.756065e+4	5.694551e-5	1	5.694551e-5	1.000000e+0	1	1.108586e-4	9.008370e-1	9.008370e-1	9.020500e+3	1.108586e-4	1	2	1.000000e+0	5.000000e-1	unnamed	FAM73A
+Ensembl Genes	832	FAM73A	1	4.151014e-5	7.488844e-1	7.488844e-1	2.409050e+4	4.151014e-5	1	4.151014e-5	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	FAM73A
+MSigDB Immunologic Signatures	GSE2197_CPG_DNA_VS_UNTREATED_IN_DC_DN	Genes down-regulated in comparison of dendritic cells (DC) treated with CpG DNA (TLR9 agonist) DNA versus the untreated cells.	1	1.344514e-2	1.000000e+0	1.000000e+0	7.437633e+1	1.344514e-2	1	1.344514e-2	1.000000e+0	8	1.058700e-2	1.000000e+0	1.000000e+0	9.445550e+1	1.058700e-2	1	191	1.000000e+0	5.235602e-3	unnamed	FAM73A
+MSigDB Immunologic Signatures	GSE27786_BCELL_VS_MONO_MAC_UP	Genes up-regulated in comparison of B cells versus monocyte macrophages.	2	1.431782e-2	1.000000e+0	1.000000e+0	6.984302e+1	1.431782e-2	1	1.431782e-2	1.000000e+0	4	1.053157e-2	1.000000e+0	1.000000e+0	9.495263e+1	1.053157e-2	1	190	1.000000e+0	5.263158e-3	unnamed	FAM73A
+MSigDB Immunologic Signatures	GSE14308_TH1_VS_INDUCED_TREG_DN	Genes down-regulated in comparison of Th1 cells versus induced regulatory T cell (Treg).	3	1.462953e-2	1.000000e+0	1.000000e+0	6.835492e+1	1.462953e-2	1	1.462953e-2	1.000000e+0	13	1.069785e-2	1.000000e+0	1.000000e+0	9.347668e+1	1.069785e-2	1	193	1.000000e+0	5.181347e-3	unnamed	FAM73A
+MSigDB Immunologic Signatures	GSE14308_NAIVE_CD4_TCELL_VS_NATURAL_TREG_DN	Genes down-regulated in comparison of naive CD4 [GeneID=920] T cells versus natural regulatory T cell (Treg).	4	1.571758e-2	1.000000e+0	1.000000e+0	6.362302e+1	1.571758e-2	1	1.571758e-2	1.000000e+0	8	1.058700e-2	1.000000e+0	1.000000e+0	9.445550e+1	1.058700e-2	1	191	1.000000e+0	5.235602e-3	unnamed	FAM73A
+MSigDB Immunologic Signatures	GSE27786_LIN_NEG_VS_NEUTROPHIL_UP	Genes up-regulated in comparison of lineage negative versus neutrophils.	5	1.598313e-2	1.000000e+0	1.000000e+0	6.256598e+1	1.598313e-2	1	1.598313e-2	1.000000e+0	4	1.053157e-2	1.000000e+0	1.000000e+0	9.495263e+1	1.053157e-2	1	190	1.000000e+0	5.263158e-3	unnamed	FAM73A
+MSigDB Immunologic Signatures	GSE27786_LSK_VS_BCELL_UP	Genes up-regulated in comparison of LSK versus B cells.	6	1.609087e-2	1.000000e+0	1.000000e+0	6.214704e+1	1.609087e-2	1	1.609087e-2	1.000000e+0	4	1.053157e-2	1.000000e+0	1.000000e+0	9.495263e+1	1.053157e-2	1	190	1.000000e+0	5.263158e-3	unnamed	FAM73A
+MSigDB Immunologic Signatures	GSE14308_NAIVE_CD4_TCELL_VS_INDUCED_TREG_DN	Genes down-regulated in comparison of naive CD4 [GeneID=920] T cells versus induced regulatory T cell (Treg).	7	1.609470e-2	1.000000e+0	1.000000e+0	6.213224e+1	1.609470e-2	1	1.609470e-2	1.000000e+0	14	1.075328e-2	1.000000e+0	1.000000e+0	9.299485e+1	1.075328e-2	1	194	1.000000e+0	5.154639e-3	unnamed	FAM73A
+MSigDB Immunologic Signatures	GSE14308_TH1_VS_NATURAL_TREG_DN	Genes down-regulated in comparison of Th1 cells versus natural regulatory T cell (Treg).	8	1.678434e-2	1.000000e+0	1.000000e+0	5.957934e+1	1.678434e-2	1	1.678434e-2	1.000000e+0	4	1.053157e-2	1.000000e+0	1.000000e+0	9.495263e+1	1.053157e-2	1	190	1.000000e+0	5.263158e-3	unnamed	FAM73A
+MSigDB Immunologic Signatures	GSE29614_CTRL_VS_DAY7_TIV_FLU_VACCINE_PBMC_UP	Genes up-regulated in comparison of peripheral blood mononuclear cells (PBMC) from TIV influenza vaccinee pre-vaccination versus those from day 7 post-vaccination.	9	1.693334e-2	1.000000e+0	1.000000e+0	5.905509e+1	1.693334e-2	1	1.693334e-2	1.000000e+0	2	8.591541e-3	1.000000e+0	1.000000e+0	1.163935e+2	8.591541e-3	1	155	1.000000e+0	6.451613e-3	unnamed	FAM73A
+MSigDB Immunologic Signatures	GSE27786_LSK_VS_NEUTROPHIL_UP	Genes up-regulated in comparison of LSK versus neutrophils.	10	1.759507e-2	1.000000e+0	1.000000e+0	5.683410e+1	1.759507e-2	1	1.759507e-2	1.000000e+0	8	1.058700e-2	1.000000e+0	1.000000e+0	9.445550e+1	1.058700e-2	1	191	1.000000e+0	5.235602e-3	unnamed	FAM73A
+MSigDB Immunologic Signatures	GSE13306_RA_VS_UNTREATED_TREG_UP	Genes up-regulated in comparison of regulatory T cell (Treg) treated with retinoic acid (tretinoin) [PubChem=444795] versus untreated regulatory T cell (Treg).	11	1.786180e-2	1.000000e+0	1.000000e+0	5.598541e+1	1.786180e-2	1	1.786180e-2	1.000000e+0	3	1.036528e-2	1.000000e+0	1.000000e+0	9.647594e+1	1.036528e-2	1	187	1.000000e+0	5.347594e-3	unnamed	FAM73A
+MSigDB Immunologic Signatures	GSE7460_CD8_TCELL_VS_CD4_TCELL_ACT_UP	Genes up-regulated in comparsion of ActCD8 versus ActCD4 (see Fig. 1 in the paper for details).	12	2.014422e-2	1.000000e+0	1.000000e+0	4.964204e+1	2.014422e-2	1	2.014422e-2	1.000000e+0	8	1.058700e-2	1.000000e+0	1.000000e+0	9.445550e+1	1.058700e-2	1	191	1.000000e+0	5.235602e-3	unnamed	FAM73A
+MSigDB Immunologic Signatures	GSE26669_CD4_VS_CD8_TCELL_IN_MLR_DN	Genes down-regulated in comparison of untreated CD4 [GeneID=920] T cells versus the untreated CD8 T cells.	13	2.030403e-2	1.000000e+0	1.000000e+0	4.925129e+1	2.030403e-2	1	2.030403e-2	1.000000e+0	12	1.064243e-2	1.000000e+0	1.000000e+0	9.396354e+1	1.064243e-2	1	192	1.000000e+0	5.208333e-3	unnamed	FAM73A
+MSigDB Immunologic Signatures	GSE29614_CTRL_VS_TIV_FLU_VACCINE_PBMC_2007_UP	Genes up-regulated in comparison of peripheral blood mononuclear cells (PBMC) from TIV influenza vaccinee pre-vaccination versus that at day 3 post-vaccination.	14	2.059182e-2	1.000000e+0	1.000000e+0	4.856297e+1	2.059182e-2	1	2.059182e-2	1.000000e+0	1	8.314395e-3	1.000000e+0	1.000000e+0	1.202733e+2	8.314395e-3	1	150	1.000000e+0	6.666667e-3	unnamed	FAM73A
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

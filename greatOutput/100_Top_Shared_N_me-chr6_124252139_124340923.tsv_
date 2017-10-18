@@ -1,0 +1,61 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Cellular Component	GO:0005886	plasma membrane	1	4.126577e-1	1.000000e+0	1.000000e+0	2.423316e+0	4.126577e-1	1	4.126577e-1	1.000000e+0	1	2.426695e-1	1.000000e+0	1.000000e+0	4.120831e+0	2.426695e-1	1	4378	1.000000e+0	2.284148e-4	unnamed	NKAIN2
+GO Cellular Component	GO:0071944	cell periphery	2	4.194602e-1	1.000000e+0	1.000000e+0	2.384017e+0	4.194602e-1	1	4.194602e-1	1.000000e+0	2	2.481570e-1	1.000000e+0	1.000000e+0	4.029707e+0	2.481570e-1	1	4477	1.000000e+0	2.233639e-4	unnamed	NKAIN2
+GO Cellular Component	GO:0016021	integral to membrane	3	4.578656e-1	1.000000e+0	1.000000e+0	2.184047e+0	4.578656e-1	1	4.578656e-1	1.000000e+0	3	2.916135e-1	1.000000e+0	1.000000e+0	3.429196e+0	2.916135e-1	1	5261	1.000000e+0	1.900779e-4	unnamed	NKAIN2
+GO Cellular Component	GO:0031224	intrinsic to membrane	4	4.694206e-1	1.000000e+0	1.000000e+0	2.130286e+0	4.694206e-1	1	4.694206e-1	1.000000e+0	4	2.978771e-1	1.000000e+0	1.000000e+0	3.357090e+0	2.978771e-1	1	5374	1.000000e+0	1.860811e-4	unnamed	NKAIN2
+GO Cellular Component	GO:0044425	membrane part	5	5.293034e-1	1.000000e+0	1.000000e+0	1.889276e+0	5.293034e-1	1	5.293034e-1	1.000000e+0	5	3.432737e-1	1.000000e+0	1.000000e+0	2.913128e+0	3.432737e-1	1	6193	1.000000e+0	1.614726e-4	unnamed	NKAIN2
+GO Cellular Component	GO:0016020	membrane	6	6.308744e-1	1.000000e+0	1.000000e+0	1.585102e+0	6.308744e-1	1	6.308744e-1	1.000000e+0	6	4.353417e-1	1.000000e+0	1.000000e+0	2.297046e+0	4.353417e-1	1	7854	1.000000e+0	1.273237e-4	unnamed	NKAIN2
+GO Cellular Component	GO:0044464	cell part	7	8.908971e-1	1.000000e+0	1.000000e+0	1.122464e+0	8.908971e-1	1	8.908971e-1	1.000000e+0	7	8.202982e-1	1.000000e+0	1.000000e+0	1.219069e+0	8.202982e-1	1	14799	1.000000e+0	6.757213e-5	unnamed	NKAIN2
+GO Cellular Component	GO:0005623	cell	8	8.910977e-1	1.000000e+0	1.000000e+0	1.122211e+0	8.910977e-1	1	8.910977e-1	1.000000e+0	8	8.203536e-1	1.000000e+0	1.000000e+0	1.218986e+0	8.203536e-1	1	14800	1.000000e+0	6.756757e-5	unnamed	NKAIN2
+Disease Ontology	DOID:353	lymphoma	1	7.370780e-2	1.000000e+0	1.000000e+0	1.356708e+1	7.370780e-2	1	7.370780e-2	1.000000e+0	1	3.924394e-2	1.000000e+0	1.000000e+0	2.548164e+1	3.924394e-2	1	708	1.000000e+0	1.412429e-3	unnamed	NKAIN2
+Disease Ontology	DOID:1033	lymphoid cancer	2	9.576498e-2	1.000000e+0	1.000000e+0	1.044223e+1	9.576498e-2	1	9.576498e-2	1.000000e+0	2	4.922122e-2	1.000000e+0	1.000000e+0	2.031644e+1	4.922122e-2	1	888	1.000000e+0	1.126126e-3	unnamed	NKAIN2
+Disease Ontology	DOID:619	lymphoproliferative disease	3	9.974272e-2	1.000000e+0	1.000000e+0	1.002579e+1	9.974272e-2	1	9.974272e-2	1.000000e+0	3	5.188182e-2	1.000000e+0	1.000000e+0	1.927457e+1	5.188182e-2	1	936	1.000000e+0	1.068376e-3	unnamed	NKAIN2
+Disease Ontology	DOID:2916	immunoproliferative disease	4	9.975771e-2	1.000000e+0	1.000000e+0	1.002429e+1	9.975771e-2	1	9.975771e-2	1.000000e+0	4	5.193725e-2	1.000000e+0	1.000000e+0	1.925400e+1	5.193725e-2	1	937	1.000000e+0	1.067236e-3	unnamed	NKAIN2
+Disease Ontology	DOID:75	lymphatic system disease	5	1.035697e-1	1.000000e+0	1.000000e+0	9.655335e+0	1.035697e-1	1	1.035697e-1	1.000000e+0	5	5.409900e-2	1.000000e+0	1.000000e+0	1.848463e+1	5.409900e-2	1	976	1.000000e+0	1.024590e-3	unnamed	NKAIN2
+Disease Ontology	DOID:2531	hematologic cancer	6	1.484252e-1	1.000000e+0	1.000000e+0	6.737401e+0	1.484252e-1	1	1.484252e-1	1.000000e+0	6	7.882046e-2	1.000000e+0	1.000000e+0	1.268706e+1	7.882046e-2	1	1422	1.000000e+0	7.032349e-4	unnamed	NKAIN2
+Disease Ontology	DOID:74	hematopoietic system disease	7	1.634383e-1	1.000000e+0	1.000000e+0	6.118517e+0	1.634383e-1	1	1.634383e-1	1.000000e+0	7	9.040519e-2	1.000000e+0	1.000000e+0	1.106131e+1	9.040519e-2	1	1631	1.000000e+0	6.131208e-4	unnamed	NKAIN2
+Disease Ontology	DOID:1287	cardiovascular system disease	8	2.464292e-1	1.000000e+0	1.000000e+0	4.057961e+0	2.464292e-1	1	2.464292e-1	1.000000e+0	8	1.389613e-1	1.000000e+0	1.000000e+0	7.196250e+0	1.389613e-1	1	2507	1.000000e+0	3.988831e-4	unnamed	NKAIN2
+Disease Ontology	DOID:2914	immune system disease	9	3.205063e-1	1.000000e+0	1.000000e+0	3.120063e+0	3.205063e-1	1	3.205063e-1	1.000000e+0	9	1.897345e-1	1.000000e+0	1.000000e+0	5.270523e+0	1.897345e-1	1	3423	1.000000e+0	2.921414e-4	unnamed	NKAIN2
+Disease Ontology	DOID:462	cancer by anatomical entity	10	3.485076e-1	1.000000e+0	1.000000e+0	2.869378e+0	3.485076e-1	1	3.485076e-1	1.000000e+0	10	1.917299e-1	1.000000e+0	1.000000e+0	5.215669e+0	1.917299e-1	1	3459	1.000000e+0	2.891009e-4	unnamed	NKAIN2
+Disease Ontology	DOID:162	cancer	11	4.681931e-1	1.000000e+0	1.000000e+0	2.135871e+0	4.681931e-1	1	4.681931e-1	1.000000e+0	11	2.826894e-1	1.000000e+0	1.000000e+0	3.537451e+0	2.826894e-1	1	5100	1.000000e+0	1.960784e-4	unnamed	NKAIN2
+Disease Ontology	DOID:7	disease of anatomical entity	12	5.144599e-1	1.000000e+0	1.000000e+0	1.943786e+0	5.144599e-1	1	5.144599e-1	1.000000e+0	12	3.268666e-1	1.000000e+0	1.000000e+0	3.059352e+0	3.268666e-1	1	5897	1.000000e+0	1.695778e-4	unnamed	NKAIN2
+Disease Ontology	DOID:4	disease	13	6.581397e-1	1.000000e+0	1.000000e+0	1.519434e+0	6.581397e-1	1	6.581397e-1	1.000000e+0	13	4.371155e-1	1.000000e+0	1.000000e+0	2.287725e+0	4.371155e-1	1	7886	1.000000e+0	1.268070e-4	unnamed	NKAIN2
+MSigDB Perturbation	TAKEDA_TARGETS_OF_NUP98_HOXA9_FUSION_3D_UP	Genes up-regulated in CD34+ [GeneID=947] hematopoetic cells by expression of NUP98-HOXA9 fusion [GeneID=4928;3205] off a retroviral vector at 3 days after transduction.	1	2.318581e-2	1.000000e+0	1.000000e+0	4.312983e+1	2.318581e-2	1	2.318581e-2	1.000000e+0	1	9.478410e-3	1.000000e+0	1.000000e+0	1.055029e+2	9.478410e-3	1	171	1.000000e+0	5.847953e-3	unnamed	NKAIN2
+MSigDB Perturbation	JAATINEN_HEMATOPOIETIC_STEM_CELL_UP	Genes up-regulated in CD133+ [GeneID=8842] cells (hematopoietic stem cells, HSC) compared to the CD133- cells.	2	4.458995e-2	1.000000e+0	1.000000e+0	2.242658e+1	4.458995e-2	1	4.458995e-2	1.000000e+0	2	1.618536e-2	1.000000e+0	1.000000e+0	6.178425e+1	1.618536e-2	1	292	1.000000e+0	3.424658e-3	unnamed	NKAIN2
+MSigDB Perturbation	BENPORATH_EED_TARGETS	Set 'Eed targets': genes identified by ChIP on chip as targets of the Polycomb protein EED [GeneID=8726] in human embryonic stem cells.	3	1.549577e-1	1.000000e+0	1.000000e+0	6.453376e+0	1.549577e-1	1	1.549577e-1	1.000000e+0	3	5.570645e-2	1.000000e+0	1.000000e+0	1.795124e+1	5.570645e-2	1	1005	1.000000e+0	9.950249e-4	unnamed	NKAIN2
+MSigDB Perturbation	BENPORATH_ES_WITH_H3K27ME3	Set 'H3K27 bound': genes posessing the trimethylated H3K27 (H3K27me3) mark in their promoters in human embryonic stem cells, as identified by ChIP on chip.	4	1.619781e-1	1.000000e+0	1.000000e+0	6.173675e+0	1.619781e-1	1	1.619781e-1	1.000000e+0	4	5.869963e-2	1.000000e+0	1.000000e+0	1.703588e+1	5.869963e-2	1	1059	1.000000e+0	9.442871e-4	unnamed	NKAIN2
+InterPro	IPR008516	Na,K-Atpase Interacting protein	1	9.552308e-4	1.000000e+0	1.000000e+0	1.046867e+3	9.552308e-4	1	9.552308e-4	1.000000e+0	1	2.217172e-4	1.000000e+0	1.000000e+0	4.510250e+3	2.217172e-4	1	4	1.000000e+0	2.500000e-1	unnamed	NKAIN2
+TreeFam	TF321348	NKAIN1, NKAIN2, NKAIN3, NKAIN4	1	9.552308e-4	1.000000e+0	1.000000e+0	1.046867e+3	9.552308e-4	1	9.552308e-4	1.000000e+0	1	2.217172e-4	1.000000e+0	1.000000e+0	4.510250e+3	2.217172e-4	1	4	1.000000e+0	2.500000e-1	unnamed	NKAIN2
+HGNC Gene Families	NKAIN	NKAIN	1	9.552308e-4	4.566003e-1	4.566003e-1	1.046867e+3	9.552308e-4	1	9.552308e-4	1.000000e+0	1	2.217172e-4	1.059808e-1	1.059808e-1	4.510250e+3	2.217172e-4	1	4	1.000000e+0	2.500000e-1	unnamed	NKAIN2
+Ensembl Genes	16757	NKAIN2	1	4.062220e-4	1.000000e+0	1.000000e+0	2.461708e+3	4.062220e-4	1	4.062220e-4	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	NKAIN2
+MSigDB Immunologic Signatures	GSE29614_CTRL_VS_DAY3_TIV_FLU_VACCINE_PBMC_DN	Genes down-regulated in comparison of peripheral blood mononuclear cells (PBMC) from TIV influenza vaccinee pre-vaccination versus those from day 3 post-vaccination.	1	1.713130e-2	1.000000e+0	1.000000e+0	5.837269e+1	1.713130e-2	1	1.713130e-2	1.000000e+0	1	8.425254e-3	1.000000e+0	1.000000e+0	1.186908e+2	8.425254e-3	1	152	1.000000e+0	6.578947e-3	unnamed	NKAIN2
+MSigDB Immunologic Signatures	GSE14308_TH1_VS_NAIVE_CD4_TCELL_UP	Genes up-regulated in comparison of Th1 cells versus naive CD4 [GeneID=920] T cells.	2	1.713505e-2	1.000000e+0	1.000000e+0	5.835993e+1	1.713505e-2	1	1.713505e-2	1.000000e+0	3	1.069785e-2	1.000000e+0	1.000000e+0	9.347668e+1	1.069785e-2	1	193	1.000000e+0	5.181347e-3	unnamed	NKAIN2
+MSigDB Immunologic Signatures	GSE36392_EOSINOPHIL_VS_MAC_IL25_TREATED_LUNG_UP	Genes up-regulated in comparison of eosinophils treated with IL25 [GeneID=64806] versus macrophages treated with IL25 [GeneID=64806].	3	2.552236e-2	1.000000e+0	1.000000e+0	3.918134e+1	2.552236e-2	1	2.552236e-2	1.000000e+0	2	1.036528e-2	1.000000e+0	1.000000e+0	9.647594e+1	1.036528e-2	1	187	1.000000e+0	5.347594e-3	unnamed	NKAIN2
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

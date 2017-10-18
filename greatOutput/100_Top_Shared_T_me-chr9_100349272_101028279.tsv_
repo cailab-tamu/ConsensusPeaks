@@ -1,0 +1,66 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Molecular Function	GO:0016787	hydrolase activity	1	1.965374e-1	1.000000e+0	1.000000e+0	5.088091e+0	1.965374e-1	1	1.965374e-1	1.000000e+0	1	1.331966e-1	1.000000e+0	1.000000e+0	7.507699e+0	1.331966e-1	1	2403	1.000000e+0	4.161465e-4	unnamed	C9orf156
+GO Molecular Function	GO:0003824	catalytic activity	2	4.361959e-1	1.000000e+0	1.000000e+0	2.292548e+0	4.361959e-1	1	4.361959e-1	1.000000e+0	2	3.045286e-1	1.000000e+0	1.000000e+0	3.283764e+0	3.045286e-1	1	5494	1.000000e+0	1.820167e-4	unnamed	C9orf156
+GO Biological Process	GO:0019048	modulation by virus of host morphology or physiology	1	2.879213e-2	1.000000e+0	1.000000e+0	3.473172e+1	2.879213e-2	1	2.879213e-2	1.000000e+0	1	1.940025e-2	1.000000e+0	1.000000e+0	5.154571e+1	1.940025e-2	1	350	1.000000e+0	2.857143e-3	unnamed	C9orf156
+GO Biological Process	GO:0044003	modification by symbiont of host morphology or physiology	2	2.927040e-2	1.000000e+0	1.000000e+0	3.416421e+1	2.927040e-2	1	2.927040e-2	1.000000e+0	2	1.978826e-2	1.000000e+0	1.000000e+0	5.053501e+1	1.978826e-2	1	357	1.000000e+0	2.801120e-3	unnamed	C9orf156
+GO Biological Process	GO:0051817	modification of morphology or physiology of other organism involved in symbiotic interaction	3	3.109622e-2	1.000000e+0	1.000000e+0	3.215825e+1	3.109622e-2	1	3.109622e-2	1.000000e+0	3	2.095228e-2	1.000000e+0	1.000000e+0	4.772751e+1	2.095228e-2	1	378	1.000000e+0	2.645503e-3	unnamed	C9orf156
+GO Biological Process	GO:0051701	interaction with host	4	3.134507e-2	1.000000e+0	1.000000e+0	3.190294e+1	3.134507e-2	1	3.134507e-2	1.000000e+0	5	2.183914e-2	1.000000e+0	1.000000e+0	4.578934e+1	2.183914e-2	1	394	1.000000e+0	2.538071e-3	unnamed	C9orf156
+GO Biological Process	GO:0035821	modification of morphology or physiology of other organism	5	3.149080e-2	1.000000e+0	1.000000e+0	3.175530e+1	3.149080e-2	1	3.149080e-2	1.000000e+0	4	2.167286e-2	1.000000e+0	1.000000e+0	4.614066e+1	2.167286e-2	1	391	1.000000e+0	2.557545e-3	unnamed	C9orf156
+GO Biological Process	GO:0016032	viral process	6	4.348253e-2	1.000000e+0	1.000000e+0	2.299774e+1	4.348253e-2	1	4.348253e-2	1.000000e+0	6	3.375644e-2	1.000000e+0	1.000000e+0	2.962397e+1	3.375644e-2	1	609	1.000000e+0	1.642036e-3	unnamed	C9orf156
+GO Biological Process	GO:0044764	multi-organism cellular process	7	4.359945e-2	1.000000e+0	1.000000e+0	2.293607e+1	4.359945e-2	1	4.359945e-2	1.000000e+0	7	3.386730e-2	1.000000e+0	1.000000e+0	2.952700e+1	3.386730e-2	1	611	1.000000e+0	1.636661e-3	unnamed	C9orf156
+GO Biological Process	GO:0044403	symbiosis, encompassing mutualism through parasitism	8	4.743487e-2	1.000000e+0	1.000000e+0	2.108154e+1	4.743487e-2	1	4.743487e-2	1.000000e+0	8	3.730392e-2	1.000000e+0	1.000000e+0	2.680684e+1	3.730392e-2	1	673	1.000000e+0	1.485884e-3	unnamed	C9orf156
+GO Biological Process	GO:0051704	multi-organism process	9	1.079454e-1	1.000000e+0	1.000000e+0	9.263941e+0	1.079454e-1	1	1.079454e-1	1.000000e+0	9	7.621529e-2	1.000000e+0	1.000000e+0	1.312073e+1	7.621529e-2	1	1375	1.000000e+0	7.272727e-4	unnamed	C9orf156
+GO Biological Process	GO:0065008	regulation of biological quality	10	2.713082e-1	1.000000e+0	1.000000e+0	3.685845e+0	2.713082e-1	1	2.713082e-1	1.000000e+0	10	1.566432e-1	1.000000e+0	1.000000e+0	6.383935e+0	1.566432e-1	1	2826	1.000000e+0	3.538570e-4	unnamed	C9orf156
+GO Biological Process	GO:0065007	biological regulation	11	7.151977e-1	1.000000e+0	1.000000e+0	1.398215e+0	7.151977e-1	1	7.151977e-1	1.000000e+0	11	5.461449e-1	1.000000e+0	1.000000e+0	1.831016e+0	5.461449e-1	1	9853	1.000000e+0	1.014919e-4	unnamed	C9orf156
+GO Biological Process	GO:0009987	cellular process	12	8.656787e-1	1.000000e+0	1.000000e+0	1.155163e+0	8.656787e-1	1	8.656787e-1	1.000000e+0	12	7.487944e-1	1.000000e+0	1.000000e+0	1.335480e+0	7.487944e-1	1	13509	1.000000e+0	7.402472e-5	unnamed	C9orf156
+MSigDB Perturbation	MITSIADES_RESPONSE_TO_APLIDIN_UP	Genes up-regulated in the MM1S cells (multiple myeloma) after treatment with aplidin [PubChem=44152164], a marine-derived compound with potential anti-cancer properties.	1	4.213585e-2	1.000000e+0	1.000000e+0	2.373276e+1	4.213585e-2	1	4.213585e-2	1.000000e+0	1	2.477690e-2	1.000000e+0	1.000000e+0	4.036018e+1	2.477690e-2	1	447	1.000000e+0	2.237136e-3	unnamed	C9orf156
+MSigDB Perturbation	BUYTAERT_PHOTODYNAMIC_THERAPY_STRESS_UP	Genes up-regulated in T24 (bladder cancer) cells in response to the photodynamic therapy (PDT) stress.	2	7.787022e-2	1.000000e+0	1.000000e+0	1.284188e+1	7.787022e-2	1	7.787022e-2	1.000000e+0	2	4.373372e-2	1.000000e+0	1.000000e+0	2.286565e+1	4.373372e-2	1	789	1.000000e+0	1.267427e-3	unnamed	C9orf156
+MSigDB Perturbation	BRUINS_UVC_RESPONSE_VIA_TP53_GROUP_A	Category A genes: p53-dependent genes whose expression in the absence of S389 phosphorylation is similar to loss of TP53 [GeneID=7157] in MEF (embryonic fibroblast) cells in response to UV-C irradiation.	3	9.103755e-2	1.000000e+0	1.000000e+0	1.098448e+1	9.103755e-2	1	9.103755e-2	1.000000e+0	3	4.717033e-2	1.000000e+0	1.000000e+0	2.119976e+1	4.717033e-2	1	851	1.000000e+0	1.175088e-3	unnamed	C9orf156
+MSigDB Perturbation	BRUINS_UVC_RESPONSE_LATE	Late response genes: differentially expressed only 12 h after UV-C irradiation of MEF cells (embryonic fibroblast).	4	1.021113e-1	1.000000e+0	1.000000e+0	9.793235e+0	1.021113e-1	1	1.021113e-1	1.000000e+0	5	6.075051e-2	1.000000e+0	1.000000e+0	1.646077e+1	6.075051e-2	1	1096	1.000000e+0	9.124088e-4	unnamed	C9orf156
+MSigDB Perturbation	BENPORATH_EED_TARGETS	Set 'Eed targets': genes identified by ChIP on chip as targets of the Polycomb protein EED [GeneID=8726] in human embryonic stem cells.	5	1.549577e-1	1.000000e+0	1.000000e+0	6.453376e+0	1.549577e-1	1	1.549577e-1	1.000000e+0	4	5.570645e-2	1.000000e+0	1.000000e+0	1.795124e+1	5.570645e-2	1	1005	1.000000e+0	9.950249e-4	unnamed	C9orf156
+InterPro	IPR001378	Uncharacterised domain UPF0066	1	3.131495e-5	2.950495e-1	2.950495e-1	3.193363e+4	3.131495e-5	1	3.131495e-5	1.000000e+0	1	5.542930e-5	5.222549e-1	5.222549e-1	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	C9orf156
+InterPro	IPR023368	Uncharacterised protein family UPF0066, conserved site	1	3.131495e-5	2.950495e-1	2.950495e-1	3.193363e+4	3.131495e-5	1	3.131495e-5	1.000000e+0	1	5.542930e-5	5.222549e-1	5.222549e-1	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	C9orf156
+InterPro	IPR023370	TsaA-like domain	1	3.131495e-5	2.950495e-1	2.950495e-1	3.193363e+4	3.131495e-5	1	3.131495e-5	1.000000e+0	1	5.542930e-5	5.222549e-1	5.222549e-1	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	C9orf156
+TreeFam	TF331670	C9orf156	1	3.131495e-5	2.544653e-1	2.544653e-1	3.193363e+4	3.131495e-5	1	3.131495e-5	1.000000e+0	1	5.542930e-5	4.504185e-1	4.504185e-1	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	C9orf156
+Ensembl Genes	18981	C9orf156	1	3.131495e-5	5.649530e-1	5.649530e-1	3.193363e+4	3.131495e-5	1	3.131495e-5	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	C9orf156
+MSigDB Immunologic Signatures	GSE10239_NAIVE_VS_KLRG1INT_EFF_CD8_TCELL_UP	Genes up-regulated in comparison of naive CD8 T cells versus effector CD8 T cells KLRG1 Int [GeneID=10219].	1	1.475455e-2	1.000000e+0	1.000000e+0	6.777572e+1	1.475455e-2	1	1.475455e-2	1.000000e+0	2	1.042071e-2	1.000000e+0	1.000000e+0	9.596277e+1	1.042071e-2	1	188	1.000000e+0	5.319149e-3	unnamed	C9orf156
+MSigDB Immunologic Signatures	GSE3982_DC_VS_MAC_LPS_STIM_UP	Genes up-regulated in comparison of dendritic cells (DC) stimulatd with LPS (TLR4 agonist) at 48 h versus macrophages stimulated with LPS (TLR4 agonist) at 4 h.	2	1.536209e-2	1.000000e+0	1.000000e+0	6.509530e+1	1.536209e-2	1	1.536209e-2	1.000000e+0	9	1.080871e-2	1.000000e+0	1.000000e+0	9.251795e+1	1.080871e-2	1	195	1.000000e+0	5.128205e-3	unnamed	C9orf156
+MSigDB Immunologic Signatures	GSE12845_NAIVE_VS_PRE_GC_TONSIL_BCELL_UP	Genes up-regulated in comparison of naive B cell versus pre-germinal tonsil B cells.	3	1.713612e-2	1.000000e+0	1.000000e+0	5.835627e+1	1.713612e-2	1	1.713612e-2	1.000000e+0	5	1.047614e-2	1.000000e+0	1.000000e+0	9.545503e+1	1.047614e-2	1	189	1.000000e+0	5.291005e-3	unnamed	C9orf156
+MSigDB Immunologic Signatures	GSE12845_IGD_NEG_BLOOD_VS_NAIVE_TONSIL_BCELL_DN	Genes down-regulated in comparison of IgD- peripheral blood B cells versus dark zone germinal center B cells.	4	1.748960e-2	1.000000e+0	1.000000e+0	5.717685e+1	1.748960e-2	1	1.748960e-2	1.000000e+0	1	1.036528e-2	1.000000e+0	1.000000e+0	9.647594e+1	1.036528e-2	1	187	1.000000e+0	5.347594e-3	unnamed	C9orf156
+MSigDB Immunologic Signatures	GSE14000_TRANSLATED_RNA_VS_MRNA_DC_UP	Genes up-regulated in comparison of polysome bound (translated) mRNA versus total mRNA in dendritic cells.	5	1.954301e-2	1.000000e+0	1.000000e+0	5.116918e+1	1.954301e-2	1	1.954301e-2	1.000000e+0	11	1.086414e-2	1.000000e+0	1.000000e+0	9.204592e+1	1.086414e-2	1	196	1.000000e+0	5.102041e-3	unnamed	C9orf156
+MSigDB Immunologic Signatures	GSE7460_FOXP3_MUT_VS_WT_ACT_TCONV_UP	Genes up-regulated in comparsion of sfActCD4 versus ActCD4 (see Fig. 1 in the paper for details).	6	2.078623e-2	1.000000e+0	1.000000e+0	4.810877e+1	2.078623e-2	1	2.078623e-2	1.000000e+0	11	1.086414e-2	1.000000e+0	1.000000e+0	9.204592e+1	1.086414e-2	1	196	1.000000e+0	5.102041e-3	unnamed	C9orf156
+MSigDB Immunologic Signatures	GSE12845_IGD_POS_BLOOD_VS_NAIVE_TONSIL_BCELL_DN	Genes down-regulated in comparison of IgD+ peripheral blood B cells versus IgD- naive tonsil B cells.	7	2.099420e-2	1.000000e+0	1.000000e+0	4.763220e+1	2.099420e-2	1	2.099420e-2	1.000000e+0	9	1.080871e-2	1.000000e+0	1.000000e+0	9.251795e+1	1.080871e-2	1	195	1.000000e+0	5.128205e-3	unnamed	C9orf156
+MSigDB Immunologic Signatures	GSE3982_MEMORY_CD4_TCELL_VS_TH1_UP	Genes up-regulated in comparison of memory CD4 [GeneID=920] T cells versus Th1 cells.	8	2.272423e-2	1.000000e+0	1.000000e+0	4.400589e+1	2.272423e-2	1	2.272423e-2	1.000000e+0	7	1.064243e-2	1.000000e+0	1.000000e+0	9.396354e+1	1.064243e-2	1	192	1.000000e+0	5.208333e-3	unnamed	C9orf156
+MSigDB Immunologic Signatures	GSE3982_MEMORY_CD4_TCELL_VS_BCELL_UP	Genes up-regulated in comparison of memory CD4 [GeneID=920] T cells versus B cells.	9	2.324051e-2	1.000000e+0	1.000000e+0	4.302832e+1	2.324051e-2	1	2.324051e-2	1.000000e+0	13	1.114129e-2	1.000000e+0	1.000000e+0	8.975622e+1	1.114129e-2	1	201	1.000000e+0	4.975124e-3	unnamed	C9orf156
+MSigDB Immunologic Signatures	GSE3982_MEMORY_CD4_TCELL_VS_TH2_UP	Genes up-regulated in comparison of memory CD4 [GeneID=920] T cells versus Th2 cells.	10	2.340738e-2	1.000000e+0	1.000000e+0	4.272157e+1	2.340738e-2	1	2.340738e-2	1.000000e+0	2	1.042071e-2	1.000000e+0	1.000000e+0	9.596277e+1	1.042071e-2	1	188	1.000000e+0	5.319149e-3	unnamed	C9orf156
+MSigDB Immunologic Signatures	GSE36476_CTRL_VS_TSST_ACT_16H_MEMORY_CD4_TCELL_YOUNG_UP	Genes up-regulated in comparison of untreated CD4 [GeneID=920] memory T cells from young donors versus those treated with TSST at 16 h.	11	2.410252e-2	1.000000e+0	1.000000e+0	4.148944e+1	2.410252e-2	1	2.410252e-2	1.000000e+0	2	1.042071e-2	1.000000e+0	1.000000e+0	9.596277e+1	1.042071e-2	1	188	1.000000e+0	5.319149e-3	unnamed	C9orf156
+MSigDB Immunologic Signatures	GSE10325_LUPUS_CD4_TCELL_VS_LUPUS_BCELL_UP	Genes up-regulated in comparison of systemic lupus erythematosus CD4 [GeneID=920] T cells versus systemic lupus erythematosus B cells.	12	2.411485e-2	1.000000e+0	1.000000e+0	4.146822e+1	2.411485e-2	1	2.411485e-2	1.000000e+0	6	1.058700e-2	1.000000e+0	1.000000e+0	9.445550e+1	1.058700e-2	1	191	1.000000e+0	5.235602e-3	unnamed	C9orf156
+MSigDB Immunologic Signatures	GSE7460_TREG_VS_TCONV_ACT_UP	Genes up-regulated in comparsion of ActTreg versus ActCD4 (see Fig. 1 in the paper for details).	13	2.544316e-2	1.000000e+0	1.000000e+0	3.930329e+1	2.544316e-2	1	2.544316e-2	1.000000e+0	8	1.069785e-2	1.000000e+0	1.000000e+0	9.347668e+1	1.069785e-2	1	193	1.000000e+0	5.181347e-3	unnamed	C9orf156
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

@@ -1,0 +1,43 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Molecular Function	GO:0000062	fatty-acyl-CoA binding	1	1.546660e-3	1.000000e+0	1.000000e+0	6.465546e+2	1.546660e-3	1	1.546660e-3	1.000000e+0	1	1.108586e-3	1.000000e+0	1.000000e+0	9.020500e+2	1.108586e-3	1	20	1.000000e+0	5.000000e-2	unnamed	ACBD7
+GO Molecular Function	GO:0050662	coenzyme binding	2	1.487541e-2	1.000000e+0	1.000000e+0	6.722505e+1	1.487541e-2	1	1.487541e-2	1.000000e+0	2	1.008813e-2	1.000000e+0	1.000000e+0	9.912637e+1	1.008813e-2	1	182	1.000000e+0	5.494505e-3	unnamed	ACBD7
+GO Molecular Function	GO:0048037	cofactor binding	3	2.190396e-2	1.000000e+0	1.000000e+0	4.565384e+1	2.190396e-2	1	2.190396e-2	1.000000e+0	3	1.430076e-2	1.000000e+0	1.000000e+0	6.992636e+1	1.430076e-2	1	258	1.000000e+0	3.875969e-3	unnamed	ACBD7
+GO Molecular Function	GO:0008289	lipid binding	4	8.303762e-2	1.000000e+0	1.000000e+0	1.204273e+1	8.303762e-2	1	8.303762e-2	1.000000e+0	4	4.184912e-2	1.000000e+0	1.000000e+0	2.389536e+1	4.184912e-2	1	755	1.000000e+0	1.324503e-3	unnamed	ACBD7
+GO Molecular Function	GO:0043168	anion binding	5	2.579088e-1	1.000000e+0	1.000000e+0	3.877340e+0	2.579088e-1	1	2.579088e-1	1.000000e+0	5	1.510448e-1	1.000000e+0	1.000000e+0	6.620550e+0	1.510448e-1	1	2725	1.000000e+0	3.669725e-4	unnamed	ACBD7
+GO Molecular Function	GO:0043167	ion binding	6	5.095070e-1	1.000000e+0	1.000000e+0	1.962682e+0	5.095070e-1	1	5.095070e-1	1.000000e+0	6	3.344604e-1	1.000000e+0	1.000000e+0	2.989891e+0	3.344604e-1	1	6034	1.000000e+0	1.657275e-4	unnamed	ACBD7
+GO Molecular Function	GO:0005488	binding	7	8.171102e-1	1.000000e+0	1.000000e+0	1.223825e+0	8.171102e-1	1	8.171102e-1	1.000000e+0	7	6.747963e-1	1.000000e+0	1.000000e+0	1.481929e+0	6.747963e-1	1	12174	1.000000e+0	8.214227e-5	unnamed	ACBD7
+InterPro	IPR000582	Acyl-CoA-binding protein, ACBP	1	6.353810e-4	1.000000e+0	1.000000e+0	1.573859e+3	6.353810e-4	1	6.353810e-4	1.000000e+0	1	3.880051e-4	1.000000e+0	1.000000e+0	2.577286e+3	3.880051e-4	1	7	1.000000e+0	1.428571e-1	unnamed	ACBD7
+InterPro	IPR014352	FERM/acyl-CoA-binding protein, 3-helical bundle	2	6.283041e-3	1.000000e+0	1.000000e+0	1.591586e+2	6.283041e-3	1	6.283041e-3	1.000000e+0	2	2.660606e-3	1.000000e+0	1.000000e+0	3.758542e+2	2.660606e-3	1	48	1.000000e+0	2.083333e-2	unnamed	ACBD7
+TreeFam	TF335802	ACBD7, DBI	1	8.766913e-5	7.123994e-1	7.123994e-1	1.140652e+4	8.766913e-5	1	8.766913e-5	1.000000e+0	1	1.108586e-4	9.008370e-1	9.008370e-1	9.020500e+3	1.108586e-4	1	2	1.000000e+0	5.000000e-1	unnamed	ACBD7
+Ensembl Genes	2148	ACBD7	1	1.705978e-5	3.077755e-1	3.077755e-1	5.861739e+4	1.705978e-5	1	1.705978e-5	1.000000e+0	1	5.542930e-5	1.000000e+0	1.000000e+0	1.804100e+4	5.542930e-5	1	1	1.000000e+0	1.000000e+0	unnamed	ACBD7
+MSigDB Immunologic Signatures	GSE14350_IL2RB_KO_VS_WT_TEFF_DN	Genes down-regulated in comparison of effector T cells from IL2RB [GeneID=3560] defficient mice versus effector T cells from wild type animals.	1	2.033635e-2	1.000000e+0	1.000000e+0	4.917303e+1	2.033635e-2	1	2.033635e-2	1.000000e+0	3	1.080871e-2	1.000000e+0	1.000000e+0	9.251795e+1	1.080871e-2	1	195	1.000000e+0	5.128205e-3	unnamed	ACBD7
+MSigDB Immunologic Signatures	GSE11924_TH2_VS_TH17_CD4_TCELL_UP	Genes up-regulated in comparison of Th2 cells versus Th17 cells.	2	2.121738e-2	1.000000e+0	1.000000e+0	4.713117e+1	2.121738e-2	1	2.121738e-2	1.000000e+0	1	1.058700e-2	1.000000e+0	1.000000e+0	9.445550e+1	1.058700e-2	1	191	1.000000e+0	5.235602e-3	unnamed	ACBD7
+MSigDB Immunologic Signatures	GSE11924_TH1_VS_TH2_CD4_TCELL_DN	Genes down-regulated in comparison of Th1 cells versus Th17 cells.	3	2.186491e-2	1.000000e+0	1.000000e+0	4.573538e+1	2.186491e-2	1	2.186491e-2	1.000000e+0	1	1.058700e-2	1.000000e+0	1.000000e+0	9.445550e+1	1.058700e-2	1	191	1.000000e+0	5.235602e-3	unnamed	ACBD7
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf

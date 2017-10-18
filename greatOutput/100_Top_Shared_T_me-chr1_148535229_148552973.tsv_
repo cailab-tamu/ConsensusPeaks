@@ -1,0 +1,40 @@
+ 
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology summary statistics are provided in the footer.
+#
+# Ontology	ID	Desc	BinomRank	BinomP	BinomBonfP	BinomFdrQ	RegionFoldEnrich	ExpRegions	ObsRegions	GenomeFrac	SetCov	HyperRank	HyperP	HyperBonfP	HyperFdrQ	GeneFoldEnrich	ExpGenes	ObsGenes	TotalGenes	GeneSetCov	TermCov	Regions	Genes
+GO Cellular Component	GO:0005737	cytoplasm	1	6.734732e-1	1.000000e+0	1.000000e+0	1.484840e+0	6.734732e-1	1	6.734732e-1	1.000000e+0	1	2.746502e-1	1.000000e+0	1.000000e+0	1.908091e+0	1.048168e+0	2	9455	1.000000e+0	2.115283e-4	unnamed	NBPF15,NBPF20
+GO Cellular Component	GO:0044424	intracellular part	2	8.017695e-1	1.000000e+0	1.000000e+0	1.247241e+0	8.017695e-1	1	8.017695e-1	1.000000e+0	2	4.860618e-1	1.000000e+0	1.000000e+0	1.434330e+0	1.394379e+0	2	12578	1.000000e+0	1.590078e-4	unnamed	NBPF15,NBPF20
+GO Cellular Component	GO:0005622	intracellular	3	8.064789e-1	1.000000e+0	1.000000e+0	1.239958e+0	8.064789e-1	1	8.064789e-1	1.000000e+0	3	4.992900e-1	1.000000e+0	1.000000e+0	1.415202e+0	1.413225e+0	2	12748	1.000000e+0	1.568874e-4	unnamed	NBPF15,NBPF20
+GO Cellular Component	GO:0044464	cell part	4	8.908971e-1	1.000000e+0	1.000000e+0	1.122464e+0	8.908971e-1	1	8.908971e-1	1.000000e+0	4	6.728810e-1	1.000000e+0	1.000000e+0	1.219069e+0	1.640596e+0	2	14799	1.000000e+0	1.351443e-4	unnamed	NBPF15,NBPF20
+GO Cellular Component	GO:0005623	cell	5	8.910977e-1	1.000000e+0	1.000000e+0	1.122211e+0	8.910977e-1	1	8.910977e-1	1.000000e+0	5	6.729719e-1	1.000000e+0	1.000000e+0	1.218986e+0	1.640707e+0	2	14800	1.000000e+0	1.351351e-4	unnamed	NBPF15,NBPF20
+MSigDB Perturbation	ACEVEDO_LIVER_CANCER_WITH_H3K27ME3_DN	Genes whose promoters display lower levels of histone H3 trimethylation mark at K27 (H3K27me3) in hepatocellular carcinoma (HCC) compared to normal liver.	1	2.239875e-2	1.000000e+0	1.000000e+0	4.464534e+1	2.239875e-2	1	2.239875e-2	1.000000e+0	1	2.161085e-2	1.000000e+0	1.000000e+0	4.602296e+1	2.172829e-2	1	196	5.000000e-1	5.102041e-3	unnamed	NBPF15
+InterPro	IPR010630	Neuroblastoma breakpoint family (NBPF) domain	1	1.558171e-3	1.000000e+0	1.000000e+0	6.417783e+2	1.558171e-3	1	1.558171e-3	1.000000e+0	1	5.592091e-7	5.268868e-3	5.268868e-3	1.288643e+3	1.552020e-3	2	14	1.000000e+0	1.428571e-1	unnamed	NBPF15,NBPF20
+TreeFam	TF341151	NBPF11, NBPF12, NBPF14, NBPF15, NBPF16, ...	1	1.336371e-3	1.000000e+0	1.000000e+0	7.482954e+2	1.336371e-3	1	1.336371e-3	1.000000e+0	1	4.055802e-7	3.295745e-3	3.295745e-3	1.503417e+3	1.330303e-3	2	12	1.000000e+0	1.666667e-1	unnamed	NBPF15,NBPF20
+HGNC Gene Families	NBPF	NBPF	1	1.484736e-3	7.097038e-1	7.097038e-1	6.735204e+2	1.484736e-3	1	1.484736e-3	1.000000e+0	1	4.793221e-7	2.291160e-4	2.291160e-4	1.387769e+3	1.441162e-3	2	13	1.000000e+0	1.538462e-1	unnamed	NBPF15,NBPF20
+Ensembl Genes	1133	NBPF15	1	6.374301e-5	1.000000e+0	1.000000e+0	1.568800e+4	6.374301e-5	1	6.374301e-5	1.000000e+0	1	1.108586e-4	1.000000e+0	1.000000e+0	9.020500e+3	1.108586e-4	1	1	5.000000e-1	1.000000e+0	unnamed	NBPF15
+Ensembl Genes	1132	NBPF20	2	6.930507e-5	1.000000e+0	6.251664e-1	1.442896e+4	6.930507e-5	1	6.930507e-5	1.000000e+0	1	1.108586e-4	1.000000e+0	1.000000e+0	9.020500e+3	1.108586e-4	1	1	5.000000e-1	1.000000e+0	unnamed	NBPF20
+#
+# Ontology	TermsTested	MinAnnotCount	MaxAnnotCount
+#
+# GO Molecular Function	3688	1	Inf
+# GO Biological Process	10440	1	Inf
+# GO Cellular Component	1265	1	Inf
+# Mouse Phenotype	7918	1	Inf
+# Human Phenotype	6146	1	Inf
+# Disease Ontology	2235	1	Inf
+# MSigDB Cancer Neighborhood	427	1	Inf
+# Placenta Disorders	3	1	Inf
+# PANTHER Pathway	152	1	Inf
+# BioCyc Pathway	332	1	Inf
+# MSigDB Pathway	1320	1	Inf
+# MGI Expression: Detected	9337	1	Inf
+# MSigDB Perturbation	3364	1	Inf
+# MSigDB Predicted Promoter Motifs	615	1	Inf
+# MSigDB miRNA Motifs	221	1	Inf
+# InterPro	9422	1	Inf
+# TreeFam	8126	1	Inf
+# HGNC Gene Families	478	1	Inf
+# Ensembl Genes	18041	1	Inf
+# MSigDB Oncogenic Signatures	187	1	Inf
+# MSigDB Immunologic Signatures	1910	1	Inf
