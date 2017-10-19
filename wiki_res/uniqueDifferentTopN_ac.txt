@@ -1,0 +1,12 @@
+GO:0000421 autophagosome membrane 1 1/767
+GO:0002079 inner acrosomal membrane 1 1/767
+GO:0005790 smooth endoplasmic reticulum 1 1/767
+GO:0030868 smooth endoplasmic reticulum membrane 1 1/767
+GO:0005732 small nucleolar ribonucleoprotein complex 1 1/767
+GO:0097225 sperm midpiece 1 1/767
+GO:0072588 box H/ACA RNP complex 1 1/767
+GO:0097038 perinuclear endoplasmic reticulum 1 1/767
+GO:0097425 smooth endoplasmic reticulum part 1 1/767
+GO:0072589 box H/ACA scaRNP complex 1 1/767
+GO:0031429 box H/ACA snoRNP complex 1 1/767
+GO:0090661 box H/ACA telomerase RNP complex 1 1/767

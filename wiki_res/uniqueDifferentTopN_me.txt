@@ -1,0 +1,25 @@
+GO:0000151 ubiquitin ligase complex 1 1/35
+GO:0044446 intracellular organelle part 3 3/35
+GO:0070013 intracellular organelle lumen 1 1/35
+GO:0044432 endoplasmic reticulum part 1 1/35
+GO:0005769 early endosome 1 1/35
+GO:0005789 endoplasmic reticulum membrane 1 1/35
+GO:0044441 ciliary part 1 1/35
+GO:0072372 primary cilium 1 1/35
+GO:0043232 intracellular non-membrane-bounded organelle 1 1/35
+GO:0005773 vacuole 1 1/35
+GO:0044428 nuclear part 1 1/35
+GO:0044430 cytoskeletal part 1 1/35
+GO:0031981 nuclear lumen 1 1/35
+GO:0035869 ciliary transition zone 1 1/35
+GO:0097546 ciliary base 1 1/35
+GO:0005654 nucleoplasm 1 1/35
+GO:0032391 photoreceptor connecting cilium 1 1/35
+GO:0005768 endosome 1 1/35
+GO:0015630 microtubule cytoskeleton 1 1/35
+GO:0044451 nucleoplasm part 1 1/35
+GO:0005815 microtubule organizing center 1 1/35
+GO:0005849 mRNA cleavage factor complex 1 1/35
+GO:0005813 centrosome 1 1/35
+GO:0031513 nonmotile primary cilium 1 1/35
+GO:0005856 cytoskeleton 1 1/35

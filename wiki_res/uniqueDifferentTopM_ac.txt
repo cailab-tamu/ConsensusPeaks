@@ -1,0 +1,4 @@
+GO:1990454 L-type voltage-gated calcium channel complex 1 1/164
+GO:0009925 basal plasma membrane 1 1/164
+GO:0033093 Weibel-Palade body 1 1/164
+GO:0031093 platelet alpha granule lumen 1 1/164
