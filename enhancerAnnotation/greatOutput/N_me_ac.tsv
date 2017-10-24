@@ -1,0 +1,5 @@
+# GREAT version 3.0.0	Species assembly: hg19	Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream, 1000000 bp max extension, curated regulatory domains included
+# Ontology	 Term Name 	 Binom Rank 	 Binom Raw P-Value 	  Binom FDR Q-Val  	 Binom Fold Enrichment 	 Binom Observed Region Hits 	 Binom Region Set Coverage 	 Hyper Rank 	  Hyper FDR Q-Val  	 Hyper Fold Enrichment 	 Hyper Observed Gene Hits 	 Hyper Total Genes 	 Hyper Gene Set Coverage
+MSigDB Immunologic Signatures	Genes down-regulated in comparison of central memory T cells versus peripheral blood mononuclear cells (PBMC).	1	0.00003355041	0.0640812831	2.864661	20	0.05847953	3	0.004632780126666667	3.108802	20	186	0.03205128	
+MSigDB Immunologic Signatures	Genes up-regulated in comparison of peripheral mononuclear blood cells (PBMC) versus memory T cells.	2	0.0000377247	0.0360270885	2.753083	21	0.06140351	1	0.00448749343	3.229516	21	188	0.03365385	
+MSigDB Immunologic Signatures	Genes down-regulated in comarison of effector memory T cells versus peripheral blood mononuclear cells (PBMC).	4	0.0001202231	0.05740653025	2.686557	19	0.05555556	5	0.03667732508	2.768157	18	188	0.02884615	
